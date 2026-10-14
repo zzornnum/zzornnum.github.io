@@ -284,7 +284,12 @@ async function renderNews() {
 
 function newsItem(x) {
   const q = quote(x.code);
-  const hl = (x.headlines || []).map((h) => `<li><a href="${esc(h.url)}" target="_blank" rel="noopener">${esc(h.title)}</a> · ${esc(h.source || '')}${h.date ? ` · ${esc(h.date)}` : ''}</li>`).join('');
+  // URL이 없는 헤드라인은 해당 종목의 네이버 금융 뉴스 목록으로 연결
+  const hl = (x.headlines || []).map((h) => {
+    const url = h.url || `https://finance.naver.com/item/news.naver?code=${x.code}`;
+    const meta = [h.source, h.date].filter(Boolean).map(esc).join(' · ');
+    return `<li><a href="${esc(url)}" target="_blank" rel="noopener">${esc(h.title)}</a>${meta ? ` · ${meta}` : ''}</li>`;
+  }).join('');
   return `<article class="card news-item">
     <h3>${esc(x.name)}<span class="badge">${esc(x.code)}</span>${q ? `<span class="meta" style="font-weight:400;font-size:13px;margin-left:auto">${fmtNum(q.p)}원 ${fmtPct(q.r)}</span>` : ''}</h3>
     <p class="implication">${esc(x.implication)}</p>

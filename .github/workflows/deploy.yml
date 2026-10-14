@@ -26,7 +26,10 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
+      # 이벤트가 늦게 도착해도 항상 최신 main을 배포 (오래된 커밋이 덮어쓰지 않도록)
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"

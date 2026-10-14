@@ -1,6 +1,8 @@
 'use strict';
 
 const REPO = 'zzornnum/zzornnum.github.io';
+// 생각 탭은 비공개 저장소에 저장: 토큰이 있는 브라우저에서만 읽고 쓴다
+const PRIVATE_REPO = 'zzornnum/invest-private';
 const TOKEN_KEY = 'gh_token';
 const LISTS = { holdings: '보유종목', watchlist: '관심종목' };
 
@@ -10,6 +12,7 @@ const state = {
   portfolio: { holdings: [], watchlist: [] },
   thoughts: { folders: [], posts: [] },
   sha: {},
+  access: {},
   newsIndex: [],
   newsCache: {},
   newsDate: null,
@@ -67,8 +70,8 @@ function b64encode(str) {
   for (let i = 0; i < bytes.length; i += 0x8000) bin += String.fromCharCode.apply(null, bytes.subarray(i, i + 0x8000));
   return btoa(bin);
 }
-async function gh(path, opts = {}) {
-  const res = await fetch(`https://api.github.com/repos/${REPO}/contents/${path}`, {
+async function gh(path, opts = {}, repo = REPO) {
+  const res = await fetch(`https://api.github.com/repos/${repo}/contents/${path}`, {
     ...opts,
     cache: 'no-store',
     headers: { Accept: 'application/vnd.github+json', Authorization: `Bearer ${getToken()}` },
@@ -111,22 +114,30 @@ function normalizeThoughts(t) {
 // Each store is one JSON file in the repo, edited through the GitHub contents API.
 const STORES = {
   portfolio: { path: 'data/portfolio.json', normalize },
-  thoughts: { path: 'data/thoughts.json', normalize: normalizeThoughts },
+  thoughts: { path: 'data/thoughts.json', repo: PRIVATE_REPO, private: true, normalize: normalizeThoughts },
 };
 
 async function loadStore(key) {
-  const { path, normalize: norm } = STORES[key];
+  const { path, repo = REPO, private: isPrivate, normalize: norm } = STORES[key];
+  state.access[key] = 'ok';
   if (canEdit()) {
     try {
-      const f = await gh(path);
+      const f = await gh(path, {}, repo);
       state.sha[key] = f.sha;
       state[key] = norm(JSON.parse(b64decode(f.content)));
       return;
     } catch (e) {
-      if (e.status === 404 && key !== 'portfolio') { state.sha[key] = null; state[key] = norm({}); return; }
-      if (key === 'portfolio') toast(e.status === 401 ? '토큰이 유효하지 않습니다. 편집 설정을 확인하세요.' : 'GitHub에서 불러오지 못해 공개본을 표시합니다.');
+      if (isPrivate) {
+        // 비공개 저장소는 공개본이 없다. 404/403은 토큰에 그 저장소 권한이 없다는 뜻
+        state.sha[key] = null;
+        state[key] = norm({});
+        state.access[key] = e.status === 401 ? 'badtoken' : 'noaccess';
+        return;
+      }
+      toast(e.status === 401 ? '토큰이 유효하지 않습니다. 편집 설정을 확인하세요.' : 'GitHub에서 불러오지 못해 공개본을 표시합니다.');
     }
   }
+  if (isPrivate) { state[key] = norm({}); state.access[key] = 'locked'; return; }
   try { state[key] = norm(await getJSON(path)); } catch { /* keep empty */ }
 }
 const loadStores = () => Promise.all(Object.keys(STORES).map(loadStore));
@@ -134,14 +145,14 @@ const loadStores = () => Promise.all(Object.keys(STORES).map(loadStore));
 async function saveStore(key, message) {
   const body = { message, content: b64encode(JSON.stringify(state[key], null, 2) + '\n') };
   if (state.sha[key]) body.sha = state.sha[key];
-  const r = await gh(STORES[key].path, { method: 'PUT', body: JSON.stringify(body) });
+  const r = await gh(STORES[key].path, { method: 'PUT', body: JSON.stringify(body) }, STORES[key].repo || REPO);
   state.sha[key] = r.content.sha;
 }
 
-function saveErrorMessage(e) {
+function saveErrorMessage(e, repo = REPO) {
   if (e.status === 401) return '토큰이 만료됐거나 올바르지 않습니다. 편집 설정에서 새 토큰을 넣어주세요.';
   if (e.status === 403 || e.status === 404) {
-    return `토큰에 쓰기 권한이 없습니다 (GitHub ${e.status}: ${e.message}). 토큰 설정에서 Repository access에 ${REPO}를 선택하고, Contents 권한을 "Read and write"로 바꿔주세요.`;
+    return `토큰에 쓰기 권한이 없습니다 (GitHub ${e.status}: ${e.message}). 토큰 설정에서 Repository access에 ${repo}를 선택하고, Contents 권한을 "Read and write"로 바꿔주세요.`;
   }
   return `저장에 실패했습니다 (${e.status || '네트워크'}: ${e.message})`;
 }
@@ -161,7 +172,7 @@ async function mutate(message, fn, key = 'portfolio') {
       toast('다른 곳에서 먼저 수정되었습니다. 최신본을 불러옵니다.');
       await loadStore(key);
     } else {
-      state.lastError = saveErrorMessage(e);
+      state.lastError = saveErrorMessage(e, STORES[key].repo);
       toast(state.lastError, 9000);
     }
     render();
@@ -178,6 +189,7 @@ const uid = () => Date.now().toString(36) + Math.random().toString(36).slice(2, 
 function render() {
   const [tab, sub] = (location.hash || '#news').slice(1).split('/');
   document.querySelectorAll('.tabs a').forEach((a) => a.classList.toggle('active', a.dataset.tab === tab));
+  $('.tabs a[data-tab=thoughts]').hidden = !canEdit();
   const btn = $('#settingsBtn');
   btn.classList.toggle('on', canEdit());
   $('#modeLabel').textContent = canEdit() ? '편집 모드' : '보기 전용';
@@ -445,6 +457,17 @@ function countDeep(id) {
 }
 
 function renderThoughts(sub) {
+  const access = state.access.thoughts;
+  if (!canEdit() || access === 'locked') {
+    return `<div class="section-head"><div><h1>생각</h1></div></div><div class="empty">🔒 비공개 탭입니다. 편집 모드에서만 볼 수 있습니다.</div>`;
+  }
+  if (access === 'noaccess' || access === 'badtoken') {
+    return `<div class="section-head"><div><h1>생각</h1><p>비공개 저장소 ${PRIVATE_REPO}에 저장됩니다</p></div></div>
+      <div class="card news-summary">🔒 지금 토큰으로는 비공개 저장소를 열 수 없습니다.
+<a href="https://github.com/settings/personal-access-tokens" target="_blank" rel="noopener">GitHub 토큰 설정 ↗</a>에서 이 토큰을 열고
+Repository access 목록에 <b>${PRIVATE_REPO}</b>를 추가한 뒤 저장하세요. (Contents: Read and write)
+토큰 값은 바뀌지 않으니 다시 넣을 필요 없이 이 페이지를 새로고침하면 됩니다.</div>`.replace(/\n/g, ' ');
+  }
   const current = sub && folderById(sub) ? sub : null;
   const path = folderPath(current);
   const crumbs = [`<a href="#thoughts">생각</a>`, ...path.map((f, i) => (i === path.length - 1 ? `<b>${esc(f.name)}</b>` : `<a href="#thoughts/${f.id}">${esc(f.name)}</a>`))].join('<span class="sep">›</span>');
@@ -458,7 +481,7 @@ function renderThoughts(sub) {
       <button class="btn small ghost danger" data-act="folder-delete" data-id="${current}">폴더 삭제</button>
     </span>` : '';
   const head = `<div class="section-head">
-      <div><h1>${current ? esc(path[path.length - 1].name) : '생각'}</h1><p>종목과 관계없는 생각과 메모 · 작성 시각이 자동으로 기록됩니다</p></div>
+      <div><h1>${current ? esc(path[path.length - 1].name) : '생각'}</h1><p>🔒 비공개 · 종목과 관계없는 생각과 메모 · 작성 시각이 자동으로 기록됩니다</p></div>
       ${actions}
     </div>
     <nav class="crumbs">${crumbs}${folderTools}</nav>`;
@@ -680,7 +703,7 @@ function settingsDialog() {
     <div class="help">
       <ol>
         <li><a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">Fine-grained 토큰 만들기 ↗</a></li>
-        <li>Repository access: <b>Only select repositories</b> → <b>${REPO}</b></li>
+        <li>Repository access: <b>Only select repositories</b> → <b>${REPO}</b>, <b>${PRIVATE_REPO}</b>(생각 탭, 비공개)</li>
         <li>Permissions → Repository → <b>Contents: Read and write</b></li>
         <li>생성된 토큰을 아래에 붙여넣기</li>
       </ol>

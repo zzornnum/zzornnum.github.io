@@ -14,6 +14,7 @@ const state = {
   newsCache: {},
   newsDate: null,
   topMarket: 'KOSPI',
+  newsTab: 'holdings',
   open: new Set(),
 };
 
@@ -258,8 +259,21 @@ function renderTop() {
     <tbody>${rows}</tbody></table></div>`;
 }
 
+const NEWS_TABS = { holdings: '보유종목', watchlist: '관심종목', market: '시장 분석' };
+
+async function loadNewsDay(date) {
+  if (!state.newsCache[date]) {
+    const [day, daily] = await Promise.all([
+      getJSON(`data/news/${date}.json`),
+      getJSON(`data/daily/${date}.json`).catch(() => null),
+    ]);
+    state.newsCache[date] = { ...day, daily };
+  }
+  return state.newsCache[date];
+}
+
 async function renderNews() {
-  const head = (nav) => `<div class="section-head"><div><h1>뉴스</h1><p>보유·관심종목 관련 뉴스와 그 함의 · 매일 한 번 업데이트</p></div>${nav}</div>`;
+  const head = (nav) => `<div class="section-head"><div><h1>뉴스</h1><p>보유·관심종목 뉴스와 그 함의, 전날 시장 분석 · 매일 아침 7시 30분</p></div>${nav}</div>`;
   if (!state.newsIndex.length) {
     view.innerHTML = head('') + '<div class="empty">아직 작성된 뉴스 브리핑이 없습니다.</div>';
     return;
@@ -274,22 +288,62 @@ async function renderNews() {
   let day = state.newsCache[date];
   if (!day) {
     view.innerHTML = head(nav) + '<div class="empty">불러오는 중…</div>';
-    try { day = state.newsCache[date] = await getJSON(`data/news/${date}.json`); } catch {
+    try { day = await loadNewsDay(date); } catch {
       view.innerHTML = head(nav) + '<div class="empty">이 날짜의 브리핑을 불러오지 못했습니다.</div>';
       return;
     }
     if ((location.hash || '#news') !== '#news') return;
   }
   const items = day.items || [];
-  const group = (g) => {
-    const its = items.filter((x) => x.group === g);
-    if (!its.length) return '';
-    return `<div class="group-label">${LISTS[g]}</div><div class="list">${its.map(newsItem).join('')}</div>`;
-  };
+  const tab = state.newsTab;
+  const count = (g) => (g === 'market' ? '' : ` <span class="count">${items.filter((x) => x.group === g).length}</span>`);
+  const seg = `<div class="seg news-tabs">${Object.entries(NEWS_TABS).map(([k, v]) => `<button data-act="news-tab" data-t="${k}" class="${k === tab ? 'on' : ''}">${v}${count(k)}</button>`).join('')}</div>`;
+  let body;
+  if (tab === 'market') body = renderMarket(day);
+  else {
+    const its = items.filter((x) => x.group === tab);
+    body = its.length ? `<div class="list">${its.map(newsItem).join('')}</div>` : `<div class="empty">이 날은 ${NEWS_TABS[tab]} 관련 새 뉴스가 없었습니다.</div>`;
+  }
   view.innerHTML = head(nav)
     + (day.summary ? `<div class="card news-summary">${esc(day.summary)}</div>` : '')
-    + group('holdings') + group('watchlist')
-    + (items.length ? '' : '<div class="empty">이 날은 관련 뉴스가 없었습니다.</div>');
+    + seg + body;
+}
+
+function fmtIndicator(i) {
+  const v = i.value == null ? '-' : i.value.toLocaleString('ko-KR', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+  const r = i.rate ?? 0;
+  const cls = r > 0 ? 'up' : r < 0 ? 'down' : 'flat';
+  const arrow = r > 0 ? '▲' : r < 0 ? '▼' : '–';
+  const diff = i.diff == null ? '' : Math.abs(i.diff).toLocaleString('ko-KR', { maximumFractionDigits: 2 });
+  return `<div class="tile">
+    <div class="tile-name">${esc(i.name)}</div>
+    <div class="tile-value">${v}${i.unit ? `<small>${esc(i.unit)}</small>` : ''}</div>
+    <div class="tile-chg ${cls}">${arrow} ${diff} (${r > 0 ? '+' : ''}${r.toFixed(2)}%)</div>
+  </div>`;
+}
+
+function renderMarket(day) {
+  const m = day.market || {};
+  const indicators = day.daily?.indicators || m.indicators || [];
+  const sectors = day.daily?.sectors || m.sectors;
+  let html = '';
+  if (indicators.length) {
+    const groups = [...new Set(indicators.map((i) => i.group))];
+    html += `<div class="tiles">${groups.map((g) => `<div class="tile-group"><div class="group-label">${esc(g)}</div><div class="tile-row">${indicators.filter((i) => i.group === g).map(fmtIndicator).join('')}</div></div>`).join('')}</div>`;
+  }
+  if (sectors?.top?.length) {
+    const li = (s) => `<li><span>${esc(s.name)}</span>${fmtPct(s.rate)}</li>`;
+    html += `<div class="sector-cols">
+      <div class="card sector"><div class="group-label">강세 업종</div><ul>${sectors.top.map(li).join('')}</ul></div>
+      <div class="card sector"><div class="group-label">약세 업종</div><ul>${sectors.bottom.map(li).join('')}</ul></div>
+    </div>`;
+  }
+  const sections = m.sections || [];
+  if (sections.length) {
+    html += `<div class="list">${sections.map((x) => `<article class="card news-item"><h3>${esc(x.title)}</h3><p class="implication">${esc(x.body)}</p></article>`).join('')}</div>`;
+  }
+  if (day.daily?.fetchedAt) html += `<p class="help" style="margin-top:12px">지표 출처 네이버 금융 · ${fmtDate(day.daily.fetchedAt, true)} 수집 (각 시장의 직전 종가 기준)</p>`;
+  return html || '<div class="empty">이 날짜에는 시장 분석이 없습니다. 시장 분석은 2026-10-15 브리핑부터 작성됩니다.</div>';
 }
 
 function newsItem(x) {
@@ -482,6 +536,9 @@ view.addEventListener('click', async (e) => {
     await mutate(`관심종목 추가: ${q.n}`, (p) => p.watchlist.push({ code, name: q.n, market: q.m, addedAt: new Date().toISOString(), notes: [] }));
   } else if (act === 'top-market') {
     state.topMarket = el.dataset.m;
+    render();
+  } else if (act === 'news-tab') {
+    state.newsTab = el.dataset.t;
     render();
   } else if (act === 'news-go' && el.dataset.d) {
     state.newsDate = el.dataset.d;

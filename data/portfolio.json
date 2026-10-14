@@ -120,5 +120,13 @@
       "notes": []
     }
   ],
-  "watchlist": []
+  "watchlist": [
+    {
+      "code": "005935",
+      "name": "삼성전자우",
+      "market": "KOSPI",
+      "addedAt": "2026-10-14T14:06:06.397Z",
+      "notes": []
+    }
+  ]
 }

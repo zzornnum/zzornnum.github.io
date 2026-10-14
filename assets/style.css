@@ -226,8 +226,18 @@ textarea.field { min-height: 160px; resize: vertical; line-height: 1.6; }
 .folder svg { color: var(--muted); flex: none; }
 .folder-name { font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .folder .meta { margin-left: auto; color: var(--muted); font-size: 12px; white-space: nowrap; }
-.post { padding: 16px 18px; }
-.post h3 { margin: 0 0 2px; font-size: 16px; }
+.post { padding: 0; }
+.post-head {
+  display: flex; align-items: center; gap: 10px; width: 100%; padding: 14px 18px;
+  background: none; border: 0; text-align: left; cursor: pointer; border-radius: var(--radius);
+}
+.post-title { font-weight: 600; font-size: 15px; flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.post-title .untitled { font-weight: 500; color: var(--muted); }
+.post-date { color: var(--muted); font-size: 12px; white-space: nowrap; font-variant-numeric: tabular-nums; }
+.post.open .chev { transform: rotate(90deg); }
+.post-body { display: none; padding: 0 18px 14px 42px; }
+.post.open .post-body { display: block; }
+.post.open .post-title { white-space: normal; }
 @media (max-width: 560px) {
   .folders { grid-template-columns: 1fr; }
   .crumb-tools { margin-left: 0; width: 100%; }

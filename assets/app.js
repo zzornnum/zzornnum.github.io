@@ -501,16 +501,25 @@ Repository access 목록에 <b>${PRIVATE_REPO}</b>를 추가한 뒤 저장하세
   return head + folderHtml + postHtml + empty;
 }
 
+// 접힌 상태에서는 제목만, 제목을 누르면 본문이 펼쳐진다 (제목이 없으면 첫 줄을 제목처럼 보여준다)
 function postCard(x) {
-  return `<article class="card post">
-    ${x.title ? `<h3>${esc(x.title)}</h3>` : ''}
-    <div class="note-meta"><b>${fmtDate(x.at, true)}</b>${x.editedAt ? `<span>· ${fmtDate(x.editedAt, true)} 수정</span>` : ''}</div>
-    <div class="note-text">${esc(x.text)}</div>
-    ${canEdit() ? `<div class="note-actions">
-      <button class="btn small ghost" data-act="post-edit" data-id="${x.id}">수정</button>
-      <button class="btn small ghost" data-act="post-move" data-id="${x.id}">이동</button>
-      <button class="btn small ghost danger" data-act="post-delete" data-id="${x.id}">삭제</button>
-    </div>` : ''}
+  const open = state.open.has(x.id);
+  const heading = x.title ? esc(x.title) : `<span class="untitled">${esc(x.text.split('\n')[0].slice(0, 60))}</span>`;
+  return `<article class="card post${open ? ' open' : ''}">
+    <button class="post-head" data-act="post-toggle" data-id="${x.id}" aria-expanded="${open}">
+      <svg class="chev" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 6l6 6-6 6"/></svg>
+      <span class="post-title">${heading}</span>
+      <span class="post-date">${fmtDate(x.at, true)}</span>
+    </button>
+    <div class="post-body">
+      ${x.editedAt ? `<div class="note-meta"><span>${fmtDate(x.editedAt, true)} 수정</span></div>` : ''}
+      <div class="note-text">${esc(x.text)}</div>
+      ${canEdit() ? `<div class="note-actions">
+        <button class="btn small ghost" data-act="post-edit" data-id="${x.id}">수정</button>
+        <button class="btn small ghost" data-act="post-move" data-id="${x.id}">이동</button>
+        <button class="btn small ghost danger" data-act="post-delete" data-id="${x.id}">삭제</button>
+      </div>` : ''}
+    </div>
   </article>`;
 }
 
@@ -751,6 +760,11 @@ view.addEventListener('click', async (e) => {
   if (act === 'toggle') {
     state.open.has(code) ? state.open.delete(code) : state.open.add(code);
     el.closest('.card').classList.toggle('open');
+  } else if (act === 'post-toggle') {
+    state.open.has(id) ? state.open.delete(id) : state.open.add(id);
+    const card = el.closest('.post');
+    card.classList.toggle('open');
+    el.setAttribute('aria-expanded', card.classList.contains('open'));
   } else if (act === 'reorder-start') {
     state.reorder = list;
     render();

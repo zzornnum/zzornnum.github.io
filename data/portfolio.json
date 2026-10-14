@@ -1,15 +1,15 @@
 {
   "holdings": [
     {
-      "code": "001060",
-      "name": "JW중외제약",
+      "code": "138040",
+      "name": "메리츠금융지주",
       "market": "KOSPI",
       "addedAt": "2026-10-14T13:34:58Z",
       "notes": []
     },
     {
-      "code": "138040",
-      "name": "메리츠금융지주",
+      "code": "001060",
+      "name": "JW중외제약",
       "market": "KOSPI",
       "addedAt": "2026-10-14T13:34:58Z",
       "notes": []

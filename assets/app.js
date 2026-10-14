@@ -1,7 +1,6 @@
 'use strict';
 
 const REPO = 'zzornnum/zzornnum.github.io';
-const PORTFOLIO_PATH = 'data/portfolio.json';
 const TOKEN_KEY = 'gh_token';
 const LISTS = { holdings: '보유종목', watchlist: '관심종목' };
 
@@ -9,7 +8,8 @@ const state = {
   market: null,
   byCode: new Map(),
   portfolio: { holdings: [], watchlist: [] },
-  sha: null,
+  thoughts: { folders: [], posts: [] },
+  sha: {},
   newsIndex: [],
   newsCache: {},
   newsDate: null,
@@ -104,28 +104,38 @@ async function loadMarket() {
   }
 }
 
-async function loadPortfolio() {
-  if (canEdit()) {
-    try {
-      const f = await gh(PORTFOLIO_PATH);
-      state.sha = f.sha;
-      state.portfolio = normalize(JSON.parse(b64decode(f.content)));
-      return;
-    } catch (e) {
-      toast(e.status === 401 ? '토큰이 유효하지 않습니다. 편집 설정을 확인하세요.' : 'GitHub에서 불러오지 못해 공개본을 표시합니다.');
-    }
-  }
-  try { state.portfolio = normalize(await getJSON(PORTFOLIO_PATH)); } catch { /* keep empty */ }
+function normalizeThoughts(t) {
+  return { folders: Array.isArray(t?.folders) ? t.folders : [], posts: Array.isArray(t?.posts) ? t.posts : [] };
 }
 
-async function savePortfolio(message) {
-  const body = {
-    message,
-    content: b64encode(JSON.stringify(state.portfolio, null, 2) + '\n'),
-    sha: state.sha,
-  };
-  const r = await gh(PORTFOLIO_PATH, { method: 'PUT', body: JSON.stringify(body) });
-  state.sha = r.content.sha;
+// Each store is one JSON file in the repo, edited through the GitHub contents API.
+const STORES = {
+  portfolio: { path: 'data/portfolio.json', normalize },
+  thoughts: { path: 'data/thoughts.json', normalize: normalizeThoughts },
+};
+
+async function loadStore(key) {
+  const { path, normalize: norm } = STORES[key];
+  if (canEdit()) {
+    try {
+      const f = await gh(path);
+      state.sha[key] = f.sha;
+      state[key] = norm(JSON.parse(b64decode(f.content)));
+      return;
+    } catch (e) {
+      if (e.status === 404 && key !== 'portfolio') { state.sha[key] = null; state[key] = norm({}); return; }
+      if (key === 'portfolio') toast(e.status === 401 ? '토큰이 유효하지 않습니다. 편집 설정을 확인하세요.' : 'GitHub에서 불러오지 못해 공개본을 표시합니다.');
+    }
+  }
+  try { state[key] = norm(await getJSON(path)); } catch { /* keep empty */ }
+}
+const loadStores = () => Promise.all(Object.keys(STORES).map(loadStore));
+
+async function saveStore(key, message) {
+  const body = { message, content: b64encode(JSON.stringify(state[key], null, 2) + '\n') };
+  if (state.sha[key]) body.sha = state.sha[key];
+  const r = await gh(STORES[key].path, { method: 'PUT', body: JSON.stringify(body) });
+  state.sha[key] = r.content.sha;
 }
 
 function saveErrorMessage(e) {
@@ -137,19 +147,19 @@ function saveErrorMessage(e) {
 }
 
 // Apply a change locally, push it to GitHub, roll back on failure.
-async function mutate(message, fn) {
-  const before = JSON.stringify(state.portfolio);
-  fn(state.portfolio);
+async function mutate(message, fn, key = 'portfolio') {
+  const before = JSON.stringify(state[key]);
+  fn(state[key]);
   render();
   try {
-    await savePortfolio(message);
+    await saveStore(key, message);
     toast('저장했습니다');
     return true;
   } catch (e) {
-    state.portfolio = JSON.parse(before);
+    state[key] = JSON.parse(before);
     if (e.status === 409 || e.status === 422) {
       toast('다른 곳에서 먼저 수정되었습니다. 최신본을 불러옵니다.');
-      await loadPortfolio();
+      await loadStore(key);
     } else {
       state.lastError = saveErrorMessage(e);
       toast(state.lastError, 9000);
@@ -166,7 +176,7 @@ const uid = () => Date.now().toString(36) + Math.random().toString(36).slice(2, 
 
 /* ---------- views ---------- */
 function render() {
-  const tab = (location.hash || '#news').slice(1);
+  const [tab, sub] = (location.hash || '#news').slice(1).split('/');
   document.querySelectorAll('.tabs a').forEach((a) => a.classList.toggle('active', a.dataset.tab === tab));
   const btn = $('#settingsBtn');
   btn.classList.toggle('on', canEdit());
@@ -176,6 +186,7 @@ function render() {
     if (state.reorder === tab) setupReorder();
   }
   else if (tab === 'top') view.innerHTML = renderTop();
+  else if (tab === 'thoughts') view.innerHTML = renderThoughts(sub);
   else renderNews();
 }
 
@@ -412,6 +423,74 @@ function newsItem(x) {
   </article>`;
 }
 
+/* ---------- thoughts ---------- */
+const folderById = (id) => state.thoughts.folders.find((f) => f.id === id);
+const childFolders = (parent) => state.thoughts.folders.filter((f) => (f.parent || null) === (parent || null)).sort((a, b) => a.name.localeCompare(b.name, 'ko'));
+const folderPosts = (folder) => state.thoughts.posts.filter((x) => (x.folder || null) === (folder || null)).sort((a, b) => b.at.localeCompare(a.at));
+function folderPath(id) {
+  const path = [];
+  for (let f = folderById(id); f; f = folderById(f.parent)) path.unshift(f);
+  return path;
+}
+// all descendant folder ids, used to block moving a folder into itself
+function descendantIds(id) {
+  const out = [];
+  for (const c of childFolders(id)) out.push(c.id, ...descendantIds(c.id));
+  return out;
+}
+function countDeep(id) {
+  let posts = folderPosts(id).length, folders = 0;
+  for (const c of childFolders(id)) { const n = countDeep(c.id); posts += n.posts; folders += 1 + n.folders; }
+  return { posts, folders };
+}
+
+function renderThoughts(sub) {
+  const current = sub && folderById(sub) ? sub : null;
+  const path = folderPath(current);
+  const crumbs = [`<a href="#thoughts">생각</a>`, ...path.map((f, i) => (i === path.length - 1 ? `<b>${esc(f.name)}</b>` : `<a href="#thoughts/${f.id}">${esc(f.name)}</a>`))].join('<span class="sep">›</span>');
+  const actions = canEdit() ? `<div class="head-actions">
+      <button class="btn" data-act="folder-new" data-id="${current || ''}">새 폴더</button>
+      <button class="btn primary" data-act="post-new" data-id="${current || ''}">글쓰기</button>
+    </div>` : '';
+  const folderTools = canEdit() && current ? `<span class="crumb-tools">
+      <button class="btn small ghost" data-act="folder-rename" data-id="${current}">이름 변경</button>
+      <button class="btn small ghost" data-act="folder-move" data-id="${current}">이동</button>
+      <button class="btn small ghost danger" data-act="folder-delete" data-id="${current}">폴더 삭제</button>
+    </span>` : '';
+  const head = `<div class="section-head">
+      <div><h1>${current ? esc(path[path.length - 1].name) : '생각'}</h1><p>종목과 관계없는 생각과 메모 · 작성 시각이 자동으로 기록됩니다</p></div>
+      ${actions}
+    </div>
+    <nav class="crumbs">${crumbs}${folderTools}</nav>`;
+  const folders = childFolders(current);
+  const posts = folderPosts(current);
+  const folderHtml = folders.length ? `<div class="folders">${folders.map((f) => {
+    const n = countDeep(f.id);
+    return `<a class="folder card" href="#thoughts/${f.id}">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><path d="M3 7a2 2 0 0 1 2-2h4l2 2h8a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/></svg>
+      <span class="folder-name">${esc(f.name)}</span>
+      <span class="meta">${n.folders ? `폴더 ${n.folders} · ` : ''}글 ${n.posts}</span>
+    </a>`;
+  }).join('')}</div>` : '';
+  const postHtml = posts.length ? `<div class="list">${posts.map(postCard).join('')}</div>` : '';
+  const empty = !folders.length && !posts.length
+    ? `<div class="empty">${current ? '이 폴더는 비어 있습니다.' : '아직 적은 생각이 없습니다.'}${canEdit() ? ' 글쓰기나 새 폴더로 시작하세요.' : ''}</div>` : '';
+  return head + folderHtml + postHtml + empty;
+}
+
+function postCard(x) {
+  return `<article class="card post">
+    ${x.title ? `<h3>${esc(x.title)}</h3>` : ''}
+    <div class="note-meta"><b>${fmtDate(x.at, true)}</b>${x.editedAt ? `<span>· ${fmtDate(x.editedAt, true)} 수정</span>` : ''}</div>
+    <div class="note-text">${esc(x.text)}</div>
+    ${canEdit() ? `<div class="note-actions">
+      <button class="btn small ghost" data-act="post-edit" data-id="${x.id}">수정</button>
+      <button class="btn small ghost" data-act="post-move" data-id="${x.id}">이동</button>
+      <button class="btn small ghost danger" data-act="post-delete" data-id="${x.id}">삭제</button>
+    </div>` : ''}
+  </article>`;
+}
+
 /* ---------- dialogs ---------- */
 function openDialog(html, onMount) {
   dialog.innerHTML = `<form method="dialog" class="dlg">${html}</form>`;
@@ -503,6 +582,96 @@ function noteDialog(list, code, id, draft) {
   });
 }
 
+function folderOptions(selected, exclude = []) {
+  const opts = [`<option value="" ${!selected ? 'selected' : ''}>생각 (최상위)</option>`];
+  const walk = (parent, depth) => {
+    for (const f of childFolders(parent)) {
+      if (exclude.includes(f.id)) continue;
+      opts.push(`<option value="${f.id}" ${f.id === selected ? 'selected' : ''}>${'　'.repeat(depth)}└ ${esc(f.name)}</option>`);
+      walk(f.id, depth + 1);
+    }
+  };
+  walk(null, 1);
+  return opts.join('');
+}
+
+function folderDialog(parent, existingId) {
+  const existing = existingId ? folderById(existingId) : null;
+  const where = folderPath(parent).map((f) => f.name).join(' › ') || '생각';
+  openDialog(`
+    <h2>${existing ? '폴더 이름 변경' : '새 폴더'}</h2>
+    <p class="sub">${existing ? '' : `위치: ${esc(where)}`}</p>
+    <input class="field" id="fname" placeholder="폴더 이름" value="${esc(existing?.name || '')}" autocomplete="off">
+    <div class="actions"><button class="btn" value="cancel">취소</button><button class="btn primary" id="ok">저장</button></div>`, (d) => {
+    const input = $('#fname', d);
+    input.focus();
+    const save = async (e) => {
+      e.preventDefault();
+      const name = input.value.trim();
+      if (!name) { input.focus(); return; }
+      dialog.close();
+      if (existing) {
+        await mutate(`폴더 이름 변경: ${name}`, (t) => { t.folders.find((f) => f.id === existingId).name = name; }, 'thoughts');
+      } else {
+        await mutate(`폴더 추가: ${name}`, (t) => { t.folders.push({ id: uid(), name, parent: parent || null, createdAt: new Date().toISOString() }); }, 'thoughts');
+      }
+    };
+    $('#ok', d).addEventListener('click', save);
+    input.addEventListener('keydown', (e) => { if (e.key === 'Enter') save(e); });
+  });
+}
+
+function postDialog(folder, id, draft) {
+  const existing = id ? state.thoughts.posts.find((x) => x.id === id) : null;
+  const where = folderPath(existing ? existing.folder : folder).map((f) => f.name).join(' › ') || '생각';
+  openDialog(`
+    <h2>${existing ? '글 수정' : '글쓰기'}</h2>
+    <p class="sub">${esc(where)} · ${existing ? `${fmtDate(existing.at, true)} 작성` : '저장하는 시각이 자동으로 기록됩니다'}</p>
+    ${draft && state.lastError ? `<p class="error">저장하지 못했습니다. ${esc(state.lastError)}</p>` : ''}
+    <input class="field" id="ptitle" placeholder="제목 (선택)" value="${esc(draft?.title ?? existing?.title ?? '')}" autocomplete="off" style="margin-bottom:8px">
+    <textarea class="field" id="ptext" placeholder="생각을 자유롭게 적으세요.">${esc(draft?.text ?? existing?.text ?? '')}</textarea>
+    <div class="actions"><button class="btn" value="cancel">취소</button><button class="btn primary" id="ok">저장</button></div>`, (d) => {
+    const title = $('#ptitle', d), text = $('#ptext', d);
+    text.focus();
+    $('#ok', d).addEventListener('click', async (e) => {
+      e.preventDefault();
+      const v = { title: title.value.trim(), text: text.value.trim() };
+      if (!v.text) { text.focus(); return; }
+      dialog.close();
+      const ok = existing
+        ? await mutate(`생각 수정: ${v.title || fmtDate(existing.at, true)}`, (t) => {
+          Object.assign(t.posts.find((x) => x.id === id), v, { editedAt: new Date().toISOString() });
+        }, 'thoughts')
+        : await mutate(`생각 추가: ${v.title || fmtDate(new Date().toISOString(), true)}`, (t) => {
+          t.posts.push({ id: uid(), folder: folder || null, ...v, at: new Date().toISOString() });
+        }, 'thoughts');
+      if (!ok) postDialog(folder, id, v);
+    });
+  });
+}
+
+function moveDialog(kind, id) {
+  const isFolder = kind === 'folder';
+  const item = isFolder ? folderById(id) : state.thoughts.posts.find((x) => x.id === id);
+  const current = isFolder ? item.parent : item.folder;
+  openDialog(`
+    <h2>${isFolder ? '폴더 이동' : '글 이동'}</h2>
+    <p class="sub">${esc(isFolder ? item.name : item.title || fmtDate(item.at, true))}을(를) 옮길 폴더를 고르세요.</p>
+    <select class="field" id="dest">${folderOptions(current || '', isFolder ? [id, ...descendantIds(id)] : [])}</select>
+    <div class="actions"><button class="btn" value="cancel">취소</button><button class="btn primary" id="ok">이동</button></div>`, (d) => {
+    $('#ok', d).addEventListener('click', async (e) => {
+      e.preventDefault();
+      const dest = $('#dest', d).value || null;
+      dialog.close();
+      if (dest === (current || null)) return;
+      await mutate(`${isFolder ? '폴더' : '생각'} 이동`, (t) => {
+        if (isFolder) t.folders.find((f) => f.id === id).parent = dest;
+        else t.posts.find((x) => x.id === id).folder = dest;
+      }, 'thoughts');
+    });
+  });
+}
+
 function settingsDialog() {
   const has = canEdit();
   openDialog(`
@@ -527,8 +696,8 @@ function settingsDialog() {
       e.preventDefault();
       setToken('');
       dialog.close();
-      state.sha = null;
-      await loadPortfolio();
+      state.sha = {};
+      await loadStores();
       render();
       toast('편집 모드를 해제했습니다');
     });
@@ -538,9 +707,8 @@ function settingsDialog() {
       if (!t || t.startsWith('•')) { dialog.close(); return; }
       setToken(t);
       try {
-        const f = await gh(PORTFOLIO_PATH);
-        state.sha = f.sha;
-        state.portfolio = normalize(JSON.parse(b64decode(f.content)));
+        await gh(STORES.portfolio.path);
+        await loadStores();
         dialog.close();
         render();
         toast('편집 모드가 켜졌습니다');
@@ -598,6 +766,28 @@ view.addEventListener('click', async (e) => {
   } else if (act === 'quick-watch') {
     const q = quote(code);
     await mutate(`관심종목 추가: ${q.n}`, (p) => p.watchlist.push({ code, name: q.n, market: q.m, addedAt: new Date().toISOString(), notes: [] }));
+  } else if (act === 'folder-new') folderDialog(id || null);
+  else if (act === 'folder-rename') folderDialog(null, id);
+  else if (act === 'folder-move') moveDialog('folder', id);
+  else if (act === 'folder-delete') {
+    const f = folderById(id);
+    const subs = childFolders(id).length, posts = folderPosts(id).length;
+    const msg = subs || posts
+      ? `'${f.name}' 폴더를 삭제할까요?\n안에 있는 하위 폴더 ${subs}개와 글 ${posts}개는 상위 폴더로 옮겨집니다.`
+      : `'${f.name}' 폴더를 삭제할까요?`;
+    if (!confirm(msg)) return;
+    location.hash = f.parent ? `#thoughts/${f.parent}` : '#thoughts';
+    await mutate(`폴더 삭제: ${f.name}`, (t) => {
+      t.folders.forEach((x) => { if (x.parent === id) x.parent = f.parent || null; });
+      t.posts.forEach((x) => { if (x.folder === id) x.folder = f.parent || null; });
+      t.folders = t.folders.filter((x) => x.id !== id);
+    }, 'thoughts');
+  } else if (act === 'post-new') postDialog(id || null);
+  else if (act === 'post-edit') postDialog(null, id);
+  else if (act === 'post-move') moveDialog('post', id);
+  else if (act === 'post-delete') {
+    if (!confirm('이 글을 삭제할까요?')) return;
+    await mutate('생각 삭제', (t) => { t.posts = t.posts.filter((x) => x.id !== id); }, 'thoughts');
   } else if (act === 'top-market') {
     state.topMarket = el.dataset.m;
     render();
@@ -618,6 +808,6 @@ window.addEventListener('hashchange', () => { state.reorder = null; render(); })
 (async function init() {
   render();
   const newsIdx = getJSON('data/news/index.json').then((d) => { state.newsIndex = [...(d.dates || [])].sort().reverse(); }).catch(() => {});
-  await Promise.all([loadMarket(), loadPortfolio(), newsIdx]);
+  await Promise.all([loadMarket(), loadStores(), newsIdx]);
   render();
 })();

@@ -49,12 +49,12 @@ function fmtDate(iso, withTime) {
   if (withTime) s += ` ${p(d.getHours())}:${p(d.getMinutes())}`;
   return s;
 }
-function toast(msg) {
+function toast(msg, ms = 2600) {
   const t = $('#toast');
   t.textContent = msg;
   t.classList.add('show');
   clearTimeout(toast.timer);
-  toast.timer = setTimeout(() => t.classList.remove('show'), 2600);
+  toast.timer = setTimeout(() => t.classList.remove('show'), ms);
 }
 
 /* ---------- GitHub contents API ---------- */
@@ -72,7 +72,8 @@ async function gh(path, opts = {}) {
     headers: { Accept: 'application/vnd.github+json', Authorization: `Bearer ${getToken()}` },
   });
   if (!res.ok) {
-    const err = new Error(`GitHub ${res.status}`);
+    const detail = await res.json().catch(() => ({}));
+    const err = new Error(detail.message || `GitHub ${res.status}`);
     err.status = res.status;
     throw err;
   }
@@ -125,6 +126,14 @@ async function savePortfolio(message) {
   state.sha = r.content.sha;
 }
 
+function saveErrorMessage(e) {
+  if (e.status === 401) return '토큰이 만료됐거나 올바르지 않습니다. 편집 설정에서 새 토큰을 넣어주세요.';
+  if (e.status === 403 || e.status === 404) {
+    return `토큰에 쓰기 권한이 없습니다 (GitHub ${e.status}: ${e.message}). 토큰 설정에서 Repository access에 ${REPO}를 선택하고, Contents 권한을 "Read and write"로 바꿔주세요.`;
+  }
+  return `저장에 실패했습니다 (${e.status || '네트워크'}: ${e.message})`;
+}
+
 // Apply a change locally, push it to GitHub, roll back on failure.
 async function mutate(message, fn) {
   const before = JSON.stringify(state.portfolio);
@@ -140,7 +149,8 @@ async function mutate(message, fn) {
       toast('다른 곳에서 먼저 수정되었습니다. 최신본을 불러옵니다.');
       await loadPortfolio();
     } else {
-      toast(e.status === 401 || e.status === 403 ? '저장 권한이 없습니다. 토큰을 확인하세요.' : '저장에 실패했습니다');
+      state.lastError = saveErrorMessage(e);
+      toast(state.lastError, 9000);
     }
     render();
     return false;
@@ -342,7 +352,7 @@ function addStockDialog(list) {
   });
 }
 
-function noteDialog(list, code, id) {
+function noteDialog(list, code, id, draft) {
   const it = findItem(list, code);
   const existing = id ? it.notes.find((n) => n.id === id) : null;
   const q = quote(code);
@@ -353,7 +363,8 @@ function noteDialog(list, code, id) {
     <h2>${esc(it.name)} ${existing ? '기록 수정' : '기록 추가'}</h2>
     <p class="sub">${it.code} · ${LISTS[list]}</p>
     <div class="snapshot">${snap}</div>
-    <textarea class="field" id="txt" placeholder="투자 아이디어, 공부한 내용, 매수·매도 이유 등을 자유롭게 기록하세요.">${esc(existing?.text || '')}</textarea>
+    ${draft != null && state.lastError ? `<p class="error">저장하지 못했습니다. ${esc(state.lastError)}</p>` : ''}
+    <textarea class="field" id="txt" placeholder="투자 아이디어, 공부한 내용, 매수·매도 이유 등을 자유롭게 기록하세요.">${esc(draft ?? existing?.text ?? '')}</textarea>
     <div class="actions"><button class="btn" value="cancel">취소</button><button class="btn primary" id="ok" value="ok">저장</button></div>`, (d) => {
     const txt = $('#txt', d);
     txt.focus();
@@ -362,14 +373,15 @@ function noteDialog(list, code, id) {
       const text = txt.value.trim();
       if (!text) { txt.focus(); return; }
       dialog.close();
+      let ok;
       if (existing) {
-        await mutate(`기록 수정: ${it.name}`, (p) => {
+        ok = await mutate(`기록 수정: ${it.name}`, (p) => {
           const n = p[list].find((s) => s.code === code).notes.find((x) => x.id === id);
           n.text = text;
           n.editedAt = new Date().toISOString();
         });
       } else {
-        await mutate(`기록 추가: ${it.name}`, (p) => {
+        ok = await mutate(`기록 추가: ${it.name}`, (p) => {
           p[list].find((s) => s.code === code).notes.push({
             id: uid(),
             at: new Date().toISOString(),
@@ -380,6 +392,8 @@ function noteDialog(list, code, id) {
           });
         });
       }
+      // 저장 실패 시 쓴 내용을 잃지 않도록 창을 다시 연다
+      if (!ok) noteDialog(list, code, id, text);
     });
   });
 }

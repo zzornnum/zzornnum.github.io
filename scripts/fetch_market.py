@@ -37,13 +37,22 @@ def fetch_market(market):
         for s in data["stocks"]:
             if s.get("stockEndType") != "stock":  # ETF/ETN 제외
                 continue
+            price, ratio = num(s["closePriceRaw"]), num(s["fluctuationsRatio"])
+            cap = num(s["marketValueRaw"])
+            # 장전·장후(NXT, 08:00–20:00) 시세가 정규장보다 최신이면 그 가격을 쓴다
+            over = s.get("overMarketPriceInfo") or {}
+            over_price = num(over.get("overPriceRaw"), 0)
+            if over_price and over.get("localTradedAt", "") > s.get("localTradedAt", ""):
+                if price:
+                    cap = cap * over_price / price
+                price, ratio = over_price, num(over.get("fluctuationsRatio"), ratio)
             rows.append({
                 "c": s["itemCode"],
                 "n": s["stockName"],
-                "p": int(num(s["closePriceRaw"])),
-                "r": num(s["fluctuationsRatio"]),
+                "p": int(price),
+                "r": ratio,
                 # 시가총액, 억원 단위
-                "cap": round(num(s["marketValueRaw"]) / 1e8),
+                "cap": round(cap / 1e8),
             })
         if page * 100 >= data["totalCount"] or not data["stocks"]:
             break

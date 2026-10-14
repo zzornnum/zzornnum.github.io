@@ -1,1 +1,124 @@
-{"holdings":[],"watchlist":[]}
+{
+  "holdings": [
+    {
+      "code": "001060",
+      "name": "JW중외제약",
+      "market": "KOSPI",
+      "addedAt": "2026-10-14T13:34:58Z",
+      "notes": []
+    },
+    {
+      "code": "138040",
+      "name": "메리츠금융지주",
+      "market": "KOSPI",
+      "addedAt": "2026-10-14T13:34:58Z",
+      "notes": []
+    },
+    {
+      "code": "00088K",
+      "name": "한화3우B",
+      "market": "KOSPI",
+      "addedAt": "2026-10-14T13:34:58Z",
+      "notes": []
+    },
+    {
+      "code": "194370",
+      "name": "제이에스코퍼레이션",
+      "market": "KOSPI",
+      "addedAt": "2026-10-14T13:34:58Z",
+      "notes": []
+    },
+    {
+      "code": "083930",
+      "name": "아바코",
+      "market": "KOSDAQ",
+      "addedAt": "2026-10-14T13:34:58Z",
+      "notes": []
+    },
+    {
+      "code": "0220WL",
+      "name": "한화머시너리앤서비스홀딩스3우B",
+      "market": "KOSPI",
+      "addedAt": "2026-10-14T13:34:58Z",
+      "notes": []
+    },
+    {
+      "code": "078935",
+      "name": "GS우",
+      "market": "KOSPI",
+      "addedAt": "2026-10-14T13:34:58Z",
+      "notes": []
+    },
+    {
+      "code": "083500",
+      "name": "에프엔에스테크",
+      "market": "KOSDAQ",
+      "addedAt": "2026-10-14T13:34:58Z",
+      "notes": []
+    },
+    {
+      "code": "307280",
+      "name": "원바이오젠",
+      "market": "KOSDAQ",
+      "addedAt": "2026-10-14T13:34:58Z",
+      "notes": []
+    },
+    {
+      "code": "017940",
+      "name": "E1",
+      "market": "KOSPI",
+      "addedAt": "2026-10-14T13:34:58Z",
+      "notes": []
+    },
+    {
+      "code": "007340",
+      "name": "DN오토모티브",
+      "market": "KOSPI",
+      "addedAt": "2026-10-14T13:34:58Z",
+      "notes": []
+    },
+    {
+      "code": "000660",
+      "name": "SK하이닉스",
+      "market": "KOSPI",
+      "addedAt": "2026-10-14T13:34:58Z",
+      "notes": []
+    },
+    {
+      "code": "011370",
+      "name": "서한",
+      "market": "KOSDAQ",
+      "addedAt": "2026-10-14T13:34:58Z",
+      "notes": []
+    },
+    {
+      "code": "200670",
+      "name": "휴메딕스",
+      "market": "KOSDAQ",
+      "addedAt": "2026-10-14T13:34:58Z",
+      "notes": []
+    },
+    {
+      "code": "004490",
+      "name": "세방전지",
+      "market": "KOSPI",
+      "addedAt": "2026-10-14T13:34:58Z",
+      "notes": []
+    },
+    {
+      "code": "114810",
+      "name": "한솔아이원스",
+      "market": "KOSDAQ",
+      "addedAt": "2026-10-14T13:34:58Z",
+      "notes": []
+    },
+    {
+      "code": "155650",
+      "name": "와이엠씨",
+      "market": "KOSDAQ",
+      "addedAt": "2026-10-14T13:34:58Z",
+      "notes": []
+    }
+  ],
+  "watchlist": []
+}

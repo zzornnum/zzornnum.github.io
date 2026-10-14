@@ -95,7 +95,7 @@ async function loadMarket() {
     for (const m of ['KOSPI', 'KOSDAQ']) {
       state.market[m].forEach((s, i) => state.byCode.set(s.c, { ...s, m, rank: i + 1 }));
     }
-    $('#marketStamp').textContent = `시세 기준 ${fmtDate(state.market.updatedAt, true)} · 출처 네이버 금융 · 장중 약 30분 간격 갱신`;
+    $('#marketStamp').textContent = `시세 기준 ${fmtDate(state.market.updatedAt, true)} · 출처 네이버 금융 · 평일 08:00–20:00 약 30분 간격 갱신`;
   } catch {
     $('#marketStamp').textContent = '시세 데이터를 불러오지 못했습니다.';
   }

@@ -15,6 +15,7 @@ const state = {
   newsDate: null,
   topMarket: 'KOSPI',
   newsTab: 'holdings',
+  reorder: null,
   open: new Set(),
 };
 
@@ -170,9 +171,42 @@ function render() {
   const btn = $('#settingsBtn');
   btn.classList.toggle('on', canEdit());
   $('#modeLabel').textContent = canEdit() ? '편집 모드' : '보기 전용';
-  if (tab === 'holdings' || tab === 'watchlist') view.innerHTML = renderList(tab);
+  if (tab === 'holdings' || tab === 'watchlist') {
+    view.innerHTML = renderList(tab);
+    if (state.reorder === tab) setupReorder();
+  }
   else if (tab === 'top') view.innerHTML = renderTop();
   else renderNews();
+}
+
+// Drag-to-reorder with pointer events (mouse: whole row, touch: grip only so the page can still scroll).
+function setupReorder() {
+  const ul = $('#reorderList');
+  if (!ul) return;
+  let drag = null;
+  ul.addEventListener('pointerdown', (e) => {
+    const li = e.target.closest('li');
+    if (!li || (e.pointerType !== 'mouse' && !e.target.closest('.grip'))) return;
+    e.preventDefault();
+    drag = li;
+    li.classList.add('dragging');
+    li.setPointerCapture(e.pointerId);
+  });
+  ul.addEventListener('pointermove', (e) => {
+    if (!drag) return;
+    if (e.clientY < 70) window.scrollBy(0, -12);
+    else if (e.clientY > window.innerHeight - 70) window.scrollBy(0, 12);
+    const next = [...ul.children].find((x) => {
+      if (x === drag) return false;
+      const r = x.getBoundingClientRect();
+      return e.clientY < r.top + r.height / 2;
+    });
+    if (next) { if (next !== drag.nextElementSibling) ul.insertBefore(drag, next); }
+    else if (ul.lastElementChild !== drag) ul.appendChild(drag);
+  });
+  const end = () => { drag?.classList.remove('dragging'); drag = null; };
+  ul.addEventListener('pointerup', end);
+  ul.addEventListener('pointercancel', end);
 }
 
 function renderList(list) {
@@ -180,8 +214,25 @@ function renderList(list) {
   const head = `
     <div class="section-head">
       <div><h1>${LISTS[list]}</h1><p>${items.length}개 종목 · 기록 시점의 주가와 시가총액이 함께 저장됩니다</p></div>
-      ${canEdit() ? `<button class="btn primary" data-act="add-stock" data-list="${list}">종목 추가</button>` : ''}
+      ${!canEdit() ? '' : state.reorder === list
+        ? `<div class="head-actions">
+            <button class="btn" data-act="reorder-cancel">취소</button>
+            <button class="btn primary" data-act="reorder-done" data-list="${list}">완료</button>
+          </div>`
+        : `<div class="head-actions">
+            ${items.length > 1 ? `<button class="btn" data-act="reorder-start" data-list="${list}">순서변경</button>` : ''}
+            <button class="btn primary" data-act="add-stock" data-list="${list}">종목 추가</button>
+          </div>`}
     </div>`;
+  if (state.reorder === list) {
+    return head + `<p class="help">⠿ 손잡이를 끌어 순서를 바꾼 뒤 <b>완료</b>를 누르세요.</p>
+      <ul class="reorder" id="reorderList">${items.map((it) => {
+        const q = quote(it.code);
+        return `<li data-code="${it.code}"><span class="grip" aria-hidden="true">⠿</span>
+          <span class="name">${esc(it.name)}</span><span class="meta">${it.code}</span>
+          <span class="meta" style="margin-left:auto">${q ? `시총 ${fmtCap(q.cap)}` : ''}</span></li>`;
+      }).join('')}</ul>`;
+  }
   if (!items.length) {
     return head + `<div class="empty">${canEdit() ? '아직 등록된 종목이 없습니다. 종목 추가로 시작하세요.' : '아직 등록된 종목이 없습니다.'}</div>`;
   }
@@ -509,6 +560,19 @@ view.addEventListener('click', async (e) => {
   if (act === 'toggle') {
     state.open.has(code) ? state.open.delete(code) : state.open.add(code);
     el.closest('.card').classList.toggle('open');
+  } else if (act === 'reorder-start') {
+    state.reorder = list;
+    render();
+  } else if (act === 'reorder-cancel') {
+    state.reorder = null;
+    render();
+  } else if (act === 'reorder-done') {
+    const order = [...document.querySelectorAll('#reorderList li')].map((li) => li.dataset.code);
+    state.reorder = null;
+    if (order.join() === state.portfolio[list].map((s) => s.code).join()) { render(); return; }
+    await mutate(`${LISTS[list]} 순서 변경`, (p) => {
+      p[list] = order.map((c) => p[list].find((s) => s.code === c)).filter(Boolean);
+    });
   } else if (act === 'add-stock') addStockDialog(list);
   else if (act === 'add-note') noteDialog(list, code);
   else if (act === 'edit-note') noteDialog(list, code, id);
@@ -549,7 +613,7 @@ view.addEventListener('change', (e) => {
   if (e.target.dataset.act === 'news-pick') { state.newsDate = e.target.value; render(); }
 });
 $('#settingsBtn').addEventListener('click', settingsDialog);
-window.addEventListener('hashchange', render);
+window.addEventListener('hashchange', () => { state.reorder = null; render(); });
 
 (async function init() {
   render();

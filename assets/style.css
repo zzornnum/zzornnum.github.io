@@ -199,3 +199,16 @@ textarea.field { min-height: 160px; resize: vertical; line-height: 1.6; }
   .tile-row { grid-template-columns: repeat(2, 1fr); }
   .sector-cols { grid-template-columns: 1fr; }
 }
+
+/* reorder mode */
+.head-actions { display: flex; gap: 8px; }
+.reorder { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 6px; }
+.reorder li {
+  display: flex; align-items: center; gap: 10px; padding: 12px 14px;
+  background: var(--surface); border: 1px solid var(--line); border-radius: 10px;
+  cursor: grab; user-select: none; -webkit-user-select: none;
+}
+.reorder li .name { font-weight: 600; }
+.reorder li .meta { color: var(--muted); font-size: 12px; }
+.reorder .grip { color: var(--faint); font-size: 18px; line-height: 1; padding: 4px 6px; margin: -4px 0 -4px -6px; touch-action: none; cursor: grab; }
+.reorder li.dragging { border-color: var(--accent); box-shadow: 0 6px 18px rgba(0,0,0,.12); cursor: grabbing; position: relative; z-index: 1; }

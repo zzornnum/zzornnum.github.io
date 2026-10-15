@@ -432,7 +432,8 @@ function newsItem(x) {
   const hl = (x.headlines || []).map((h) => {
     const url = h.url || naverUrl(x.code, 'news');
     const meta = [h.source, h.date].filter(Boolean).map(esc).join(' · ');
-    return `<li><a href="${esc(url)}" target="_blank" rel="noopener">${esc(h.title)}</a>${meta ? ` · ${meta}` : ''}</li>`;
+    const hint = h.url ? '' : ' <span class="hint">· 종목 뉴스 목록</span>';
+    return `<li><a href="${esc(url)}" target="_blank" rel="noopener">${esc(h.title)}</a>${meta ? ` · ${meta}` : ''}${hint}</li>`;
   }).join('');
   return `<article class="card news-item">
     <h3>${esc(x.name)}<span class="badge">${esc(x.code)}</span>${q ? `<span class="meta" style="font-weight:400;font-size:13px;margin-left:auto">${fmtNum(q.p)}원 ${fmtPct(q.r)}</span>` : ''}</h3>

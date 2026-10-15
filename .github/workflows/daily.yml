@@ -1,22 +1,33 @@
 name: Daily market data
 
 on:
+  # 07:30 뉴스 브리핑이 data/requests/daily.txt를 push하면 즉시 수집 (주 경로)
+  push:
+    branches: [main]
+    paths: ["data/requests/**"]
+  # 예비: KST 06:10 (GitHub 예약 실행은 몇 시간씩 늦을 수 있음)
   schedule:
-    # KST 06:40 매일 — 07:30 뉴스 브리핑 전에 전날 시장 지표를 저장
-    - cron: "40 21 * * *"
+    - cron: "10 21 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
+
+concurrency:
+  group: daily-data
+  cancel-in-progress: false
 
 jobs:
   fetch:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      # 이미 있으면 덮어쓰지 않음. 값은 브리핑 날짜 직전 거래일 종가라 실행 시각과 무관
       - run: python scripts/fetch_daily.py
       - name: Commit
         run: |

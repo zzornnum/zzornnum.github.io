@@ -183,6 +183,8 @@ async function mutate(message, fn, key = 'portfolio') {
 const quote = (code) => state.byCode.get(code);
 const findItem = (list, code) => state.portfolio[list].find((s) => s.code === code);
 const listOf = (code) => Object.keys(LISTS).find((l) => findItem(l, code));
+// stock.naver.com 주소는 PC·모바일 모두 해당 종목 페이지로 연결된다 (finance.naver.com 옛 주소는 모바일에서 홈으로 튕김)
+const naverUrl = (code, page = '') => `https://stock.naver.com/domestic/stock/${code}${page ? `/${page}` : ''}`;
 const uid = () => Date.now().toString(36) + Math.random().toString(36).slice(2, 6);
 
 /* ---------- views ---------- */
@@ -289,7 +291,7 @@ function stockCard(list, it) {
       </div>
       <div class="stock-body">
         <div class="toolbar">${tools}
-          <a class="btn small ghost" href="https://finance.naver.com/item/main.naver?code=${it.code}" target="_blank" rel="noopener">네이버 금융 ↗</a>
+          <a class="btn small ghost" href="${naverUrl(it.code)}" target="_blank" rel="noopener">네이버 금융 ↗</a>
         </div>
         ${noteHtml}
       </div>
@@ -325,7 +327,7 @@ function renderTop() {
     const mark = l ? `<span class="mark">${l === 'holdings' ? '보유' : '관심'}</span>` : '';
     const add = canEdit() && !l ? `<button class="btn small ghost add" data-act="quick-watch" data-code="${s.c}">+ 관심</button>` : '';
     return `<tr><td>${i + 1}</td>
-      <td><a href="https://finance.naver.com/item/main.naver?code=${s.c}" target="_blank" rel="noopener" style="text-decoration:none">${esc(s.n)}</a>${mark}</td>
+      <td><a href="${naverUrl(s.c)}" target="_blank" rel="noopener" style="text-decoration:none">${esc(s.n)}</a>${mark}</td>
       <td>${fmtCap(s.cap)}</td><td>${fmtNum(s.p)}</td><td>${fmtPct(s.r)}</td><td>${add}</td></tr>`;
   }).join('');
   return head + `<div class="table-wrap"><table>
@@ -384,15 +386,19 @@ async function renderNews() {
 }
 
 function fmtIndicator(i) {
-  const v = i.value == null ? '-' : i.value.toLocaleString('ko-KR', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
-  const r = i.rate ?? 0;
-  const cls = r > 0 ? 'up' : r < 0 ? 'down' : 'flat';
-  const arrow = r > 0 ? '▲' : r < 0 ? '▼' : '–';
-  const diff = i.diff == null ? '' : Math.abs(i.diff).toLocaleString('ko-KR', { maximumFractionDigits: 2 });
+  const isYield = i.kind === 'yield';
+  const digits = isYield ? 3 : 2;
+  const v = i.value == null ? '-' : i.value.toLocaleString('ko-KR', { minimumFractionDigits: digits, maximumFractionDigits: digits });
+  const sign = isYield ? (i.diff ?? 0) : (i.rate ?? 0);
+  const cls = sign > 0 ? 'up' : sign < 0 ? 'down' : 'flat';
+  const arrow = sign > 0 ? '▲' : sign < 0 ? '▼' : '–';
+  const diff = i.diff == null ? '' : Math.abs(i.diff).toLocaleString('ko-KR', { maximumFractionDigits: digits });
+  // 금리는 변동폭을 %p로, 나머지는 변동폭과 등락률(%)
+  const chg = isYield ? `${arrow} ${diff}%p` : `${arrow} ${diff} (${sign > 0 ? '+' : ''}${(i.rate ?? 0).toFixed(2)}%)`;
   return `<div class="tile">
     <div class="tile-name">${esc(i.name)}</div>
     <div class="tile-value">${v}${i.unit ? `<small>${esc(i.unit)}</small>` : ''}</div>
-    <div class="tile-chg ${cls}">${arrow} ${diff} (${r > 0 ? '+' : ''}${r.toFixed(2)}%)</div>
+    <div class="tile-chg ${cls}">${chg}</div>
   </div>`;
 }
 
@@ -424,7 +430,7 @@ function newsItem(x) {
   const q = quote(x.code);
   // URL이 없는 헤드라인은 해당 종목의 네이버 금융 뉴스 목록으로 연결
   const hl = (x.headlines || []).map((h) => {
-    const url = h.url || `https://finance.naver.com/item/news.naver?code=${x.code}`;
+    const url = h.url || naverUrl(x.code, 'news');
     const meta = [h.source, h.date].filter(Boolean).map(esc).join(' · ');
     return `<li><a href="${esc(url)}" target="_blank" rel="noopener">${esc(h.title)}</a>${meta ? ` · ${meta}` : ''}</li>`;
   }).join('');

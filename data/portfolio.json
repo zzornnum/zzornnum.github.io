@@ -208,6 +208,13 @@
       "market": "KOSPI",
       "addedAt": "2026-10-14T14:06:06.397Z",
       "notes": []
+    },
+    {
+      "code": "145020",
+      "name": "휴젤",
+      "market": "KOSDAQ",
+      "addedAt": "2026-10-16T04:37:06.141Z",
+      "notes": []
     }
   ]
 }

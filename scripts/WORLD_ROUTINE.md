@@ -16,8 +16,14 @@
    - `summary`: 한국어 요약 2~3문장. 수집 파일의 `title`과 `summary`에 있는 사실만 쓰고, 없는 숫자·사실을 덧붙이지 않는다. 마지막 문장에 한국 시장·업종에 주는 의미를 짧게 덧붙여도 되지만 추측은 "~할 수 있다" 정도로 쓴다.
    - `original`: 영문 원제목 그대로.
    - `region`, `source`, `url`, `published`: 수집 파일 값 그대로.
-5. 아래 형식으로 `data/world/<오늘>.json`을 쓰고 `python -m json.tool`로 검증한다.
-6. 이 파일만 커밋(`해외뉴스: <오늘>`)해 main에 push한다. 거절되면 `git pull --rebase` 후 다시 push한다.
+   - **정확성 규칙 (반드시 지킨다)**
+     - 숫자(%, 달러, 조·억, 연도)는 원문 숫자를 그대로 옮긴다. trillion=조, billion=10억(예: $40 trillion = 40조 달러, $2 billion = 20억 달러). 원문에 없는 숫자는 쓰지 않는다.
+     - 방향을 뒤집지 않는다: gain·rise·jump·surge=상승·급등, fall·drop·slump=하락·급락, hike=인상, cut=인하, hold=동결.
+     - 용어: yields=금리(국채 수익률), inflation=물가 상승률, PPI=생산자물가, CPI=소비자물가, debt=부채, deficit=적자, tariff=관세.
+     - 사람·기관 이름은 원문 표기(예: Warsh=워시, Fed=연준, ECB=유럽중앙은행).
+5. **검토:** 파일을 쓰기 전에 고른 기사마다 `original`·원문 `summary`와 한국어 `title`·`summary`를 나란히 놓고 위 정확성 규칙을 하나씩 확인해 틀린 곳을 고친다. 확신이 없는 내용은 빼고 원문에 있는 사실만 남긴다.
+6. 아래 형식으로 `data/world/<오늘>.json`을 쓰고 `python -m json.tool`로 검증한다.
+7. 이 파일만 커밋(`해외뉴스: <오늘>`)해 main에 push한다. 거절되면 `git pull --rebase` 후 다시 push한다.
 
 ## 파일 형식
 

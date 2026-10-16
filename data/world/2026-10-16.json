@@ -3,26 +3,6 @@
   "generatedAt": "2026-10-16T16:08+09:00",
   "items": [
     {
-      "id": "w6",
-      "region": "미국",
-      "title": "영국 8월 경제성장률 0.1%…예상 상회",
-      "summary": "영국 경제가 8월 0.1% 성장해 분석가들의 마이너스 성장 예상을 뒤집었다. 생활비 위기와 에너지 비용 급등 속에서도 일정한 회복력을 보여주고 있다.",
-      "original": "UK economy grew 0.1% in August, beating expectations",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/15/uk-gdp-august-2026-economy.html",
-      "published": "2026-10-15T17:44+09:00"
-    },
-    {
-      "id": "w7",
-      "region": "미국",
-      "title": "프랑스, 2027년 예산안 논의 시작…높은 부채 부담",
-      "summary": "프랑스가 고질적 적자와 늘어나는 부채, 학생 시위 속에서 2027년 예산 논의를 개시했다. 유럽 주요국 중 하나의 재정 위기 심화 상황을 보여주고 있다.",
-      "original": "In charts: How one of the world's biggest economies got trapped by debt",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/13/france-2027-budget-debt.html",
-      "published": "2026-10-15T18:54+09:00"
-    },
-    {
       "id": "w4",
       "region": "미국",
       "title": "2조 달러 적자와 5% 국채 수익률의 악순환",
@@ -46,7 +26,7 @@
       "id": "w3",
       "region": "미국",
       "title": "9월 생산자물가 6.3% 급등…2022년 이후 최대",
-      "summary": "9월 도매 물가가 연 6.3% 상승했으며, 이는 2022년 이후 가장 큰 낙폭이다. 시장 합의치인 연 5.5% 상승을 크게 웃돌면서 물가 압력이 지속되고 있음을 보여준다.",
+      "summary": "9월 도매 물가가 연 6.3% 상승했으며, 이는 2022년 이후 가장 큰 상승폭이다. 시장 합의치인 연 5.5% 상승을 크게 웃돌면서 물가 압력이 지속되고 있음을 보여준다.",
       "original": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
@@ -73,10 +53,30 @@
       "published": "2026-10-16T06:23+09:00"
     },
     {
+      "id": "w6",
+      "region": "유럽",
+      "title": "영국 8월 경제성장률 0.1%…예상 상회",
+      "summary": "영국 경제가 8월 0.1% 성장해 분석가들의 마이너스 성장 예상을 뒤집었다. 생활비 위기와 에너지 비용 급등 속에서도 일정한 회복력을 보여주고 있다.",
+      "original": "UK economy grew 0.1% in August, beating expectations",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/15/uk-gdp-august-2026-economy.html",
+      "published": "2026-10-15T17:44+09:00"
+    },
+    {
+      "id": "w7",
+      "region": "유럽",
+      "title": "프랑스, 2027년 예산안 논의 시작…높은 부채 부담",
+      "summary": "프랑스가 고질적 적자와 늘어나는 부채, 학생 시위 속에서 2027년 예산 논의를 개시했다. 유럽 주요국 중 하나의 재정 위기 심화 상황을 보여주고 있다.",
+      "original": "In charts: How one of the world's biggest economies got trapped by debt",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/13/france-2027-budget-debt.html",
+      "published": "2026-10-15T18:54+09:00"
+    },
+    {
       "id": "w21",
       "region": "유럽",
       "title": "영국, 은행세 인상 계획…헬리 재정정책 카드",
-      "summary": "존 헬리 영국 재무장관은 내년 예산안 발표 시 은행 수익에 대한 증세를 단행할 것으로 예상된다. 은행업 중역들도 이 같은 '메뉴'에 자신들이 포함될 것으로 인정했다.",
+      "summary": "존 헬리 영국 재무장관은 이달 말 예산안에서 은행 수익에 대한 증세를 단행할 것으로 예상된다. 은행업 중역들도 이 같은 '메뉴'에 자신들이 포함될 것으로 인정했다.",
       "original": "Banks say Healey planning to increase tax on their profits in Budget",
       "source": "BBC",
       "url": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
@@ -136,7 +136,7 @@
       "id": "w54",
       "region": "아시아",
       "title": "연준 워시, 글로벌 동시적 긴축에 동의…10월 인상 신호 자제",
-      "summary": "연준의 워시 전 금융감시역은 이번 달 추가 금리 인상을 신호하지 않으면서도 중앙은행들의 '동시적 긴축'이 인플레이션 억제에 효과적이라고 평가했다. 글로벌 통화정책의 영향을 강조한 발언이다.",
+      "summary": "연준의 워시는 이번 달 추가 금리 인상을 신호하지 않으면서도 중앙은행들의 '동시적 긴축'이 인플레이션 억제에 효과적이라고 평가했다. 글로벌 통화정책의 영향을 강조한 발언이다.",
       "original": "Fed's Warsh withholds rate signal, praises recent global tightening with 'no free riders'",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",

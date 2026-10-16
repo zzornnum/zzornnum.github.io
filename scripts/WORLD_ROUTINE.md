@@ -20,8 +20,10 @@
      - 방향을 뒤집지 않는다: gain·rise·jump·surge=상승·급등, fall·drop·slump=하락·급락, hike=인상, cut=인하, hold=동결.
      - 용어: yields=금리(국채 수익률), inflation=물가 상승률, PPI=생산자물가, CPI=소비자물가, debt=부채, deficit=적자, tariff=관세.
      - 사람·기관 이름은 원문 표기(예: Warsh=워시, Fed=연준, ECB=유럽중앙은행).
+   - `region`(선택): 수집 파일의 `region`은 언론사 기준이라 내용과 다를 수 있다(예: CNBC가 쓴 영국 경제 기사). 기사 내용이 다른 지역에 관한 것일 때만 `미국`·`유럽`·`중국`·`아시아`·`글로벌` 중 하나로 적는다.
+   - 자주 틀리는 것: "biggest gain since 2022"는 "2022년 이후 최대 **상승**"이다(낙폭 아님). "later this month"는 "이달 말"이다. 원문에 없는 직함·경력을 덧붙이지 않는다.
    - **검토:** 쓰고 나서 기사마다 그 `id`의 원문 `title`·`summary`를 다시 읽고, 한국어 제목·요약이 같은 기사를 말하는지와 위 규칙을 확인해 고친다.
-5. `{"items": [{"id": "w12", "title": "...", "summary": "..."}, ...]}`를 `data/world/<오늘>.json`에 쓰고 `python scripts/build_world.py <오늘>`을 실행한다. 이 스크립트가 링크·언론사·지역 등을 채워 파일을 완성한다. 오류(없는 id, 중복 등)가 나오면 고치고 다시 실행한다.
+5. `{"items": [{"id": "w12", "title": "...", "summary": "..."}, {"id": "w30", "title": "...", "summary": "...", "region": "유럽"}, ...]}`를 `data/world/<오늘>.json`에 쓰고 `python scripts/build_world.py <오늘>`을 실행한다. 이 스크립트가 링크·언론사·지역 등을 채워 파일을 완성한다. 오류(없는 id, 중복 등)가 나오면 고치고 다시 실행한다.
 6. 완성된 파일만 커밋(`해외뉴스: <오늘>`)해 main에 push한다. 거절되면 `git pull --rebase` 후 다시 push한다.
 
 ## 파일 형식

@@ -3,7 +3,8 @@
 Usage: python scripts/build_world.py YYYY-MM-DD
 
 The routine writes data/world/<date>.json as {"items": [{"id", "title",
-"summary"}, ...]} — only what needs judgement and translation. Everything
+"summary", "region"?}, ...]} — only what needs judgement and translation
+(region only when the article is about another region than its feed). Everything
 that must be copied exactly (link, source, region, time, English title) is
 filled in here from data/world/raw/<date>.json, so a small model can't attach
 one article's summary to another article's link. Exits non-zero on unknown or
@@ -33,10 +34,14 @@ def main(date):
         if not p.get("title") or not p.get("summary"):
             problems.append(f"{r['id']}: missing title or summary")
             continue
+        region = p.get("region") or r["region"]
+        if region not in REGIONS:
+            problems.append(f"{r['id']}: region must be one of {REGIONS}")
+            continue
         seen.add(r["id"])
         out.append({
             "id": r["id"],
-            "region": r["region"],
+            "region": region,
             "title": p["title"].strip(),
             "summary": p["summary"].strip(),
             "original": r["title"],

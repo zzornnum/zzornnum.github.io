@@ -9,6 +9,9 @@
   --up: #d93025;
   --down: #1a5fd0;
   --radius: 12px;
+  --tab-bg: #e3ebff;
+  --tab-bg-hover: #d2defd;
+  --tab-text: #1f3fa8;
 }
 @media (prefers-color-scheme: dark) {
   :root {
@@ -21,6 +24,9 @@
     --accent: #7aa2ff;
     --up: #ff6b5e;
     --down: #6aa0ff;
+    --tab-bg: #1f2a44;
+    --tab-bg-hover: #26355a;
+    --tab-text: #a9c1ff;
   }
 }
 
@@ -182,8 +188,17 @@ textarea.field { min-height: 160px; resize: vertical; line-height: 1.6; }
 }
 
 /* news sub-tabs & market */
-.news-tabs { margin-bottom: 16px; }
-.news-tabs .count { font-size: 12px; opacity: .7; margin-left: 2px; }
+/* 뉴스 하위 탭: 눈에 잘 띄게 굵은 글씨 + 색 배경 */
+.news-tabs { display: flex; flex-wrap: wrap; gap: 6px; border: 0; border-radius: 0; overflow: visible; margin-bottom: 16px; }
+.news-tabs button {
+  border-radius: 999px; padding: 8px 16px; font-size: 15px; font-weight: 700;
+  background: var(--tab-bg); color: var(--tab-text);
+}
+.news-tabs button:hover { background: var(--tab-bg-hover); }
+.news-tabs button.on { background: #1f4fd8; color: #fff; }
+.news-tabs .count { font-size: 12px; font-weight: 600; opacity: .8; margin-left: 3px; }
+.summary-label { font-size: 12px; font-weight: 700; color: var(--accent); margin-bottom: 6px; }
+.region-label { font-size: 20px; font-weight: 800; color: var(--text); margin: 28px 0 10px; letter-spacing: -0.02em; }
 .tiles { display: flex; flex-direction: column; gap: 4px; margin-bottom: 16px; }
 .tile-group .group-label { margin: 10px 0 6px; }
 .tile-row { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 8px; }

@@ -387,9 +387,10 @@ async function renderNews() {
     const its = items.filter((x) => x.group === tab);
     body = its.length ? `<div class="list">${its.map(newsItem).join('')}</div>` : `<div class="empty">이 날은 ${NEWS_TABS[tab]} 관련 새 뉴스가 없었습니다.</div>`;
   }
-  view.innerHTML = head(nav)
-    + (day.summary ? `<div class="card news-summary">${esc(day.summary)}</div>` : '')
-    + seg + body;
+  // 오늘의 총평은 보유종목 탭에서만, 탭 선택 바로 아래(종목 뉴스 위)에 보여준다
+  const summary = tab === 'holdings' && day.summary
+    ? `<div class="card news-summary"><div class="summary-label">오늘의 총평</div>${esc(day.summary)}</div>` : '';
+  view.innerHTML = head(nav) + seg + summary + body;
 }
 
 function fmtIndicator(i) {
@@ -416,7 +417,7 @@ function renderWorld(world) {
   return regions.map((r) => {
     const its = items.filter((x) => x.region === r);
     if (!its.length) return '';
-    return `<div class="group-label">${esc(r)}</div><div class="list">${its.map((x) => `
+    return `<h2 class="region-label">${esc(r)}</h2><div class="list">${its.map((x) => `
       <article class="card news-item">
         <h3><a href="${esc(x.url)}" target="_blank" rel="noopener" class="world-title">${esc(x.title)}</a></h3>
         <p class="implication">${esc(x.summary)}</p>

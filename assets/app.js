@@ -335,15 +335,17 @@ function renderTop() {
     <tbody>${rows}</tbody></table></div>`;
 }
 
-const NEWS_TABS = { holdings: '보유종목', watchlist: '관심종목', market: '시장 분석' };
+const NEWS_TABS = { holdings: '보유종목', watchlist: '관심종목', market: '시장 분석', world: '해외뉴스' };
+const WORLD_REGIONS = ['미국', '유럽', '중국', '아시아', '글로벌'];
 
 async function loadNewsDay(date) {
   if (!state.newsCache[date]) {
-    const [day, daily] = await Promise.all([
+    const [day, daily, world] = await Promise.all([
       getJSON(`data/news/${date}.json`),
       getJSON(`data/daily/${date}.json`).catch(() => null),
+      getJSON(`data/world/${date}.json`).catch(() => null),
     ]);
-    state.newsCache[date] = { ...day, daily };
+    state.newsCache[date] = { ...day, daily, world };
   }
   return state.newsCache[date];
 }
@@ -372,10 +374,15 @@ async function renderNews() {
   }
   const items = day.items || [];
   const tab = state.newsTab;
-  const count = (g) => (g === 'market' ? '' : ` <span class="count">${items.filter((x) => x.group === g).length}</span>`);
+  const count = (g) => {
+    if (g === 'market') return '';
+    const n = g === 'world' ? (day.world?.items || []).length : items.filter((x) => x.group === g).length;
+    return ` <span class="count">${n}</span>`;
+  };
   const seg = `<div class="seg news-tabs">${Object.entries(NEWS_TABS).map(([k, v]) => `<button data-act="news-tab" data-t="${k}" class="${k === tab ? 'on' : ''}">${v}${count(k)}</button>`).join('')}</div>`;
   let body;
   if (tab === 'market') body = renderMarket(day);
+  else if (tab === 'world') body = renderWorld(day.world);
   else {
     const its = items.filter((x) => x.group === tab);
     body = its.length ? `<div class="list">${its.map(newsItem).join('')}</div>` : `<div class="empty">이 날은 ${NEWS_TABS[tab]} 관련 새 뉴스가 없었습니다.</div>`;
@@ -400,6 +407,22 @@ function fmtIndicator(i) {
     <div class="tile-value">${v}${i.unit ? `<small>${esc(i.unit)}</small>` : ''}</div>
     <div class="tile-chg ${cls}">${chg}</div>
   </div>`;
+}
+
+function renderWorld(world) {
+  const items = world?.items || [];
+  if (!items.length) return '<div class="empty">이 날짜에는 해외뉴스 요약이 없습니다. 해외뉴스는 매일 아침 7시 50분에 정리됩니다.</div>';
+  const regions = [...WORLD_REGIONS, ...new Set(items.map((x) => x.region).filter((r) => !WORLD_REGIONS.includes(r)))];
+  return regions.map((r) => {
+    const its = items.filter((x) => x.region === r);
+    if (!its.length) return '';
+    return `<div class="group-label">${esc(r)}</div><div class="list">${its.map((x) => `
+      <article class="card news-item">
+        <h3><a href="${esc(x.url)}" target="_blank" rel="noopener" class="world-title">${esc(x.title)}</a></h3>
+        <p class="implication">${esc(x.summary)}</p>
+        <div class="headlines"><span>${esc(x.source || '')}${x.published ? ` · ${fmtDate(x.published, true)}` : ''}${x.original ? ` · <span class="hint">${esc(x.original)}</span>` : ''}</span></div>
+      </article>`).join('')}</div>`;
+  }).join('') + '<p class="help" style="margin-top:12px">해외 언론의 무료 RSS 헤드라인·요약을 바탕으로 한글로 정리했습니다. 원문 일부는 유료일 수 있습니다.</p>';
 }
 
 function renderMarket(day) {

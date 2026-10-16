@@ -1,0 +1,713 @@
+{
+ "date": "2026-10-16",
+ "fetchedAt": "2026-10-16T16:01+09:00",
+ "items": [
+  {
+   "region": "미국",
+   "source": "CNBC",
+   "title": "Economists: Hot PPI shows Fed's work is not done",
+   "summary": "'We see real risks the Fed will deliver another rate hike in two weeks' time,' one Fedwatcher warns",
+   "url": "https://www.cnbc.com/2026/10/15/pce-ppi-september-fed-reserve-rate-hike.html",
+   "published": "2026-10-16T00:37+09:00"
+  },
+  {
+   "region": "미국",
+   "source": "CNBC",
+   "title": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
+   "summary": "The exchange comes as U.S. debt exceeds $40 trillion and 10-year Treasury yields remain above 5%, intensifying scrutiny of the fiscal outlook.",
+   "url": "https://www.cnbc.com/2026/10/15/zervos-imf-us-debt-warning.html",
+   "published": "2026-10-15T22:42+09:00"
+  },
+  {
+   "region": "미국",
+   "source": "CNBC",
+   "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
+   "summary": "September producer prices were expected to increase 0.6% month over month and 5.5% annually, according to the consensus estimate by Dow Jones.",
+   "url": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
+   "published": "2026-10-16T01:15+09:00"
+  },
+  {
+   "region": "미국",
+   "source": "CNBC",
+   "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+   "summary": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits.",
+   "url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
+   "published": "2026-10-15T21:11+09:00"
+  },
+  {
+   "region": "미국",
+   "source": "CNBC",
+   "title": "China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration",
+   "summary": "European trade commissioner Maroš Sefčovič met with Chinese Commerce Minister Wang Wentao in Beijing last week.",
+   "url": "https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html",
+   "published": "2026-10-15T18:02+09:00"
+  },
+  {
+   "region": "미국",
+   "source": "CNBC",
+   "title": "UK economy grew 0.1% in August, beating expectations",
+   "summary": "The U.K. is grappling with a cost-of-living crisis sparked by sticky inflation and surging energy costs.",
+   "url": "https://www.cnbc.com/2026/10/15/uk-gdp-august-2026-economy.html",
+   "published": "2026-10-15T17:44+09:00"
+  },
+  {
+   "region": "미국",
+   "source": "CNBC",
+   "title": "In charts: How one of the world's biggest economies got trapped by debt",
+   "summary": "France opens debate on its 2027 budget as high deficits, rising debt and student protests intensify pressure on lawmakers.",
+   "url": "https://www.cnbc.com/2026/10/13/france-2027-budget-debt.html",
+   "published": "2026-10-15T18:54+09:00"
+  },
+  {
+   "region": "미국",
+   "source": "CNBC",
+   "title": "IMF sees milder global slowdown as AI boom offsets war hit — warns resilience is nearing limits",
+   "summary": "The IMF raised its 2026 global growth forecast to 3.1%, warning that resilience is tested by energy constraints and looming fiscal risks.",
+   "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html",
+   "published": "2026-10-15T15:35+09:00"
+  },
+  {
+   "region": "미국",
+   "source": "CNBC",
+   "title": "Brian Sullivan: Why the 'real' price of oil is likely $30-$40 higher than where it is now",
+   "summary": "Physical oil can cost about $38 a barrel more to deliver, as tanker rates surge.",
+   "url": "https://www.cnbc.com/2026/10/15/brian-sullivan-why-the-real-price-of-oil-is-likely-30-40-higher-than-where-it-is-now.html",
+   "published": "2026-10-16T04:53+09:00"
+  },
+  {
+   "region": "미국",
+   "source": "CNBC",
+   "title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
+   "summary": "Signs of distressed deepened in CoreWeave on Thursday.",
+   "url": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html",
+   "published": "2026-10-16T06:33+09:00"
+  },
+  {
+   "region": "미국",
+   "source": "MarketWatch",
+   "title": "Tesla finally delivers on its promise to create a flying car",
+   "summary": "Tesla’s demonstration of a levitating Roadster sports car was “an engineering flex with no commercial value beyond embarrassing traditional car makers.”",
+   "url": "https://www.marketwatch.com/story/tesla-may-finally-debut-a-flying-car-today-after-testing-fans-patience-for-nearly-a-decade-9a23c8e8?mod=mw_rss_topstories",
+   "published": "2026-10-16T11:42+09:00"
+  },
+  {
+   "region": "미국",
+   "source": "MarketWatch",
+   "title": "Pepsi loses more ground in the soda wars, as KFC switches to Coke",
+   "summary": "As more people switch to Coke, some analysts are getting more worried about the state of archrival Pepsi.",
+   "url": "https://www.marketwatch.com/story/pepsi-loses-more-ground-in-the-soda-wars-as-kfc-switches-to-coke-49b1ef53?mod=mw_rss_topstories",
+   "published": "2026-10-16T08:29+09:00"
+  },
+  {
+   "region": "미국",
+   "source": "MarketWatch",
+   "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+   "summary": "”I earn $110,000 a year.”",
+   "url": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+   "published": "2026-10-16T07:31+09:00"
+  },
+  {
+   "region": "미국",
+   "source": "MarketWatch",
+   "title": "I’m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
+   "summary": "“I have some reservations about the long-term stability of my younger son’s marriage.”",
+   "url": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
+   "published": "2026-10-16T07:15+09:00"
+  },
+  {
+   "region": "미국",
+   "source": "MarketWatch",
+   "title": "How a midterm sweep by Democrats could turn this tech selloff into a tech crash",
+   "summary": "Popular AI names are under pressure again this week — but the pain could worsen after the Nov. 3 election.",
+   "url": "https://www.marketwatch.com/story/how-a-midterm-sweep-by-democrats-could-turn-this-tech-selloff-into-a-tech-crash-a1d1a82f?mod=mw_rss_topstories",
+   "published": "2026-10-16T06:56+09:00"
+  },
+  {
+   "region": "미국",
+   "source": "MarketWatch",
+   "title": "Nvidia and other chip stocks face renewed pressure as AI fears swell",
+   "summary": "Reported details about Anthropic’s financial progress are adding to concerns about the health of the AI ecosystem.",
+   "url": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories",
+   "published": "2026-10-16T06:23+09:00"
+  },
+  {
+   "region": "미국",
+   "source": "MarketWatch",
+   "title": "Don’t ditch tech stocks just yet. Make these moves to take advantage of the latest AI reset.",
+   "summary": "Investors have a ‘love-hate relationship’ with tech stocks now — and experts recommend selectively hunting for bargains while also betting on the major cloud companies.",
+   "url": "https://www.marketwatch.com/story/dont-ditch-tech-stocks-just-yet-make-these-moves-to-take-advantage-of-the-latest-ai-reset-cb70c7b2?mod=mw_rss_topstories",
+   "published": "2026-10-16T06:21+09:00"
+  },
+  {
+   "region": "미국",
+   "source": "MarketWatch",
+   "title": "CoreWeave’s polarizing stock rebounds as Wall Street squares off about AI spending",
+   "summary": "Wall Street’s views on CoreWeave are starkly divisive as investors pay more attention to the financial details of big artificial-intelligence companies.",
+   "url": "https://www.marketwatch.com/story/coreweave-investors-are-feeling-spooked-as-the-companys-stock-and-bonds-see-fresh-pressure-ba39a931?mod=mw_rss_topstories",
+   "published": "2026-10-16T06:03+09:00"
+  },
+  {
+   "region": "미국",
+   "source": "MarketWatch",
+   "title": "Investors are dumping AI stocks as ‘tech wreck’ worsens. Here’s where they’re turning now.",
+   "summary": "A continued selloff in the AI trade is forcing investors to move from tech names to the relative safety of government bonds and defensive stock sectors.",
+   "url": "https://www.marketwatch.com/story/traders-pile-into-bonds-and-defensive-stocks-as-the-tech-wreck-picks-up-steam-48c04374?mod=mw_rss_topstories",
+   "published": "2026-10-16T05:40+09:00"
+  },
+  {
+   "region": "미국",
+   "source": "MarketWatch",
+   "title": "Big pharma stocks close near all-time highs as tech selloff pushes investors toward safer bets",
+   "summary": "Shares of AbbVie, Eli Lilly and Gilead Sciences closed near record highs",
+   "url": "https://www.marketwatch.com/story/big-pharma-stocks-near-all-time-highs-as-tech-selloff-pushes-investors-toward-safer-bets-0a5d5d07?mod=mw_rss_topstories",
+   "published": "2026-10-16T05:29+09:00"
+  },
+  {
+   "region": "유럽",
+   "source": "BBC",
+   "title": "Banks say Healey planning to increase tax on their profits in Budget",
+   "summary": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
+   "url": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-16T15:42+09:00"
+  },
+  {
+   "region": "유럽",
+   "source": "BBC",
+   "title": "I find it quite demoralising in store - why I do all my shopping online",
+   "summary": "After Primark announced plans for home delivery, we hear from women who never go into clothes stores.",
+   "url": "https://www.bbc.co.uk/news/articles/c36lk280kd1o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-16T08:16+09:00"
+  },
+  {
+   "region": "유럽",
+   "source": "BBC",
+   "title": "Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm",
+   "summary": "The culture secretary says the deal could affect free expression in the media and the variety of Britain's news landscape.",
+   "url": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-15T23:55+09:00"
+  },
+  {
+   "region": "유럽",
+   "source": "BBC",
+   "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
+   "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
+   "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-15T20:34+09:00"
+  },
+  {
+   "region": "유럽",
+   "source": "BBC",
+   "title": "'I paid thousands to a company for jobs that never came'",
+   "summary": "Apurv Patel is one of several people who say they were promised job opportunities that did not appear.",
+   "url": "https://www.bbc.co.uk/news/articles/c9j3dvezpdz0o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-16T02:19+09:00"
+  },
+  {
+   "region": "유럽",
+   "source": "BBC",
+   "title": "Living with a stink? Technology might help",
+   "summary": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
+   "url": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-16T08:18+09:00"
+  },
+  {
+   "region": "유럽",
+   "source": "BBC",
+   "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
+   "summary": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction.",
+   "url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-15T22:25+09:00"
+  },
+  {
+   "region": "유럽",
+   "source": "BBC",
+   "title": "Fuel costs squeezing margins for some businesses",
+   "summary": "Diesel recently topped £2 per litre and there is concern that a duty freeze will not go far enough.",
+   "url": "https://www.bbc.co.uk/news/articles/c9rky27ljrxno?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-16T14:30+09:00"
+  },
+  {
+   "region": "유럽",
+   "source": "BBC",
+   "title": "'TV and cheap booze' blamed for landlord quitting",
+   "summary": "Lincolnshire has lost 27% of its pubs and bars since 2009 and some are calling on the government to act against cheap supermarket booze.",
+   "url": "https://www.bbc.co.uk/news/articles/c6lyk77jq9d2o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-16T14:03+09:00"
+  },
+  {
+   "region": "유럽",
+   "source": "BBC",
+   "title": "'I'd spend $1,000 on a wedding present'",
+   "summary": "New Yorkers share how much they spend on a wedding gift - and how they decide.",
+   "url": "https://www.bbc.co.uk/news/videos/ckly0jy2ygdjo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-16T03:30+09:00"
+  },
+  {
+   "region": "유럽",
+   "source": "BBC",
+   "title": "Thousands of NI workers to get pay bump as Real Living Wage rises",
+   "summary": "About 6,000 workers in NI are paid the Real Living Wage - which is voluntarily paid to reflect the cost of living.",
+   "url": "https://www.bbc.co.uk/news/videos/cq398xnyx4gyo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-15T14:37+09:00"
+  },
+  {
+   "region": "유럽",
+   "source": "The Guardian",
+   "title": "John Healey set to raise bank taxes in the budget – business live",
+   "summary": "Rolling coverage of the latest economic and financial news John Healey poised to raise taxes on banks in budget Elsewhere in Bangkok today, Bank of England governor Andrew Bailey, was interviewed at the Institute of International Finance annual members’ meeting, being held…",
+   "url": "https://www.theguardian.com/business/live/2026/oct/16/john-healey-set-to-raise-bank-taxes-shares-profits-stock-markets-imf-latest-news-updates",
+   "published": "2026-10-16T15:53+09:00"
+  },
+  {
+   "region": "유럽",
+   "source": "The Guardian",
+   "title": "Repairing Brexit economic damage should be Burnham’s top priority, business chief says",
+   "summary": "Shevaun Haviland argues PM is right to revisit Labour’s EU red lines as current trading relationship is bad for business Repairing the economic damage of Brexit should be the top priority for Andy Burnham as he reconsiders Labour’s red lines on EU membership, the head of one of…",
+   "url": "https://www.theguardian.com/business/2026/oct/16/brexit-economic-damage-andy-burnham-uk-business-eu-trading-relationship",
+   "published": "2026-10-16T14:00+09:00"
+  },
+  {
+   "region": "유럽",
+   "source": "The Guardian",
+   "title": "Meta releases Muse Spark Open, a new ‘open-weight’ AI model",
+   "summary": "Meta says Muse excels at ‘multi-step reasoning’ and ‘complex software engineering’ as it races to catch up to Chinese rivals Meta on Thursday launched a new open-weight AI model which it claims rivals, and in some cases outperforms, similar products from leading Chinese…",
+   "url": "https://www.theguardian.com/technology/2026/oct/16/meta-releases-muse-spark-open-a-new-open-weight-ai-model",
+   "published": "2026-10-16T09:34+09:00"
+  },
+  {
+   "region": "유럽",
+   "source": "The Guardian",
+   "title": "Number of cloned number plates on UK roads at record high, data shows",
+   "summary": "More than 11,400 drivers last year were fined for offences they did not recognise as RAC says system needs reform The number of reported “cloned” vehicles involved in offences on UK roads has reached a record high, official data shows. More than 11,400 drivers contacted the DVLA…",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/16/cloned-number-plates-uk-roads-record-high",
+   "published": "2026-10-16T13:00+09:00"
+  },
+  {
+   "region": "유럽",
+   "source": "The Guardian",
+   "title": "Thames Water asks for £2.4bn more to avoid going bust this year or early 2027",
+   "summary": "Water company tells creditors it will not survive long enough to agree refinancing deal without more money Thames Water has asked its creditors for another £2.4bn as the embattled water company comes close to running out of cash. The UK’s largest water company said on Thursday…",
+   "url": "https://www.theguardian.com/business/2026/oct/15/thames-water-24bn-going-bust-this-year-early-2027",
+   "published": "2026-10-16T02:14+09:00"
+  },
+  {
+   "region": "유럽",
+   "source": "The Guardian",
+   "title": "Cost of balancing Great Britain’s power grid reaches nearly £50m a day",
+   "summary": "Grid operator paying large sums to switch off windfarms in areas of excess electricity generation while turning on gas plants elsewhere The cost of balancing Great Britain’s power grid has soared to near-record highs of almost £50m a day after windfarms were turned off because…",
+   "url": "https://www.theguardian.com/business/2026/oct/15/cost-of-balancing-great-britain-power-grid-50m-daily",
+   "published": "2026-10-16T00:55+09:00"
+  },
+  {
+   "region": "유럽",
+   "source": "The Guardian",
+   "title": "Lisa Nandy ‘minded to intervene’ in Sky’s £1.6bn purchase of ITV",
+   "summary": "Culture secretary’s move paves way for deeper scrutiny of deal that would create UK’s biggest commercial broadcaster The culture secretary, Lisa Nandy, has said she is “minded to intervene” in Sky’s £1.6bn purchase of ITV, in a move that paves the way for deeper scrutiny of a…",
+   "url": "https://www.theguardian.com/business/2026/oct/15/lisa-nandy-culture-secretary-intervene-sky-purchase-itv",
+   "published": "2026-10-16T00:44+09:00"
+  },
+  {
+   "region": "유럽",
+   "source": "The Guardian",
+   "title": "US lawmakers unveil bill to hold Wall Street’s ‘Epstein-connected’ bosses to account",
+   "summary": "Move comes as Senator Elizabeth Warren condemns Barclays response to questions over ex-boss’s ties to sex offender US lawmakers have unveiled a new bill to hold Wall Street’s “Epstein-connected” bosses to account for helping finance the late sex offender’s crimes. It came as top…",
+   "url": "https://www.theguardian.com/business/2026/oct/15/new-bill-wall-street-bosses-epstein-connections",
+   "published": "2026-10-15T22:30+09:00"
+  },
+  {
+   "region": "유럽",
+   "source": "The Guardian",
+   "title": "Cult venue Prince Charles cinema ‘saved’ after lease renewal signed",
+   "summary": "The much-loved central London institution, which has been threatened with closure since January 2025, secures 25-year lease without break clause with current landlords The celebrated Prince Charles repertory cinema in London’s Leicester Square has announced that the threat of…",
+   "url": "https://www.theguardian.com/film/2026/oct/15/cult-venue-prince-charles-cinema-saved-lease-renewal-signed",
+   "published": "2026-10-16T00:20+09:00"
+  },
+  {
+   "region": "유럽",
+   "source": "The Guardian",
+   "title": "The water torture goes on at Thames. Sector-wide reform isn’t moving much faster | Nils Pratley",
+   "summary": "If ‘public control’ bit is delaying overhaul, that needs to be nailed down sharpish or continued uncertainty could be costly It is strange now to recall that Thames Water had a prominent slot on what was known as “Sue’s shit list” – the internal Labour dossier, compiled by Keir…",
+   "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/oct/15/water-torture-thames-sector-wide-reform-delay-public-control",
+   "published": "2026-10-16T03:00+09:00"
+  },
+  {
+   "region": "유럽",
+   "source": "The Guardian",
+   "title": "Bad news for Trump ahead of the midterms: it’s still the economy, stupid",
+   "summary": "Voters’ opposition to the state of Trump’s economy is well established – despite his desperate attempts to deflect Tell us: what is your personal ‘recession indicator’? It’s indisputable that the political polarization of our time has reduced (and confused) the influence of…",
+   "url": "https://www.theguardian.com/business/2026/oct/15/trump-economy-midterm-elections",
+   "published": "2026-10-15T21:00+09:00"
+  },
+  {
+   "region": "유럽",
+   "source": "The Guardian",
+   "title": "The global economy is muddling through against the odds. But a storm is coming | Larry Elliott",
+   "summary": "Finance ministers gathering for the IMF annual meeting know the need for multilateral cooperation to deal with many crises. There is little chance of that Not much has gone right for the global economy this year, and plenty has gone wrong. Two big regional wars are destabilising…",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/15/global-economy-multilateral-cooperation-crisis-imf",
+   "published": "2026-10-15T14:00+09:00"
+  },
+  {
+   "region": "유럽",
+   "source": "DW",
+   "title": "Why Chinese tech brands are outpacing Western rivals from EVs to robot vacuums",
+   "summary": "From action cameras and smartphones to EVs and robot vacuums, Chinese brands are gaining ground worldwide, despite privacy and security concerns. What's driving their rise, and can European rivals keep up?",
+   "url": "https://www.dw.com/en/why-chinese-tech-brands-are-outpacing-western-rivals-from-evs-to-robot-vacuums/a-79646187?maca=en-rss-en-bus-2091-rdf",
+   "published": "2026-10-15T17:45+09:00"
+  },
+  {
+   "region": "중국",
+   "source": "SCMP",
+   "title": "China says only joint action, not exchange rates alone, can address global imbalances",
+   "summary": "China’s central bank chief has said exchange-rate adjustments alone cannot resolve global economic imbalances, calling on surplus and deficit economies to share responsibility for addressing them. Speaking at the third G20 finance ministers and central bank governors’ meeting in…",
+   "url": "https://www.scmp.com/economy/global-economy/article/3371116/china-says-only-joint-action-not-exchange-rates-alone-can-address-global-imbalances?utm_source=rss_feed",
+   "published": "2026-10-16T15:13+09:00"
+  },
+  {
+   "region": "중국",
+   "source": "SCMP",
+   "title": "Beijing enlists multiple regulators to probe EV safety issue that raised quality alarms",
+   "summary": "Beijing has enlisted the support of its top internet watchdog to deepen the investigation into a car safety issue that put Chinese-made intelligent vehicles under the spotlight. The Ministry of Industry and Information Technology (MIIT) said on Thursday that a joint…",
+   "url": "https://www.scmp.com/business/china-business/article/3371102/beijing-enlists-multiple-regulators-probe-ev-safety-issue-raised-quality-alarms?utm_source=rss_feed",
+   "published": "2026-10-16T15:00+09:00"
+  },
+  {
+   "region": "중국",
+   "source": "SCMP",
+   "title": "Indonesian durian farmers stand to benefit from minister’s visit to China",
+   "summary": "Indonesian officials, looking to alleviate poverty in their country and eyeing the rise of rural economies in China, are turning to Beijing for help that may include stoking the exports of a potentially lucrative durian crop. Indonesian Transmigration Minister Muhammad Iftitah…",
+   "url": "https://www.scmp.com/economy/china-economy/article/3371091/indonesian-durian-farmers-stand-benefit-ministers-visit-china?utm_source=rss_feed",
+   "published": "2026-10-16T13:00+09:00"
+  },
+  {
+   "region": "중국",
+   "source": "SCMP",
+   "title": "Pork insecurity: China protein supply ‘exposed’ amid reliance on feed imports, study says",
+   "summary": "Heavy reliance on imported soy feed in China’s massive pork industry puts affordable protein supply for its 1.4 billion people at risk amid rising regional conflicts and climate change, a new study has warned. The nation, which relies largely on pork for its protein intake, was…",
+   "url": "https://www.scmp.com/economy/china-economy/article/3371086/pork-insecurity-chinas-protein-supply-exposed-amid-reliance-feed-imports-study?utm_source=rss_feed",
+   "published": "2026-10-16T11:45+09:00"
+  },
+  {
+   "region": "중국",
+   "source": "SCMP",
+   "title": "The China decoupling paradox: why the world still needs its manufacturing machine",
+   "summary": "Talk of global decoupling from China has persisted for years, as has speculation that emerging economies such as India and Vietnam could soon replace it as the “world’s factory”. But for Indian hardware engineer Neeraj Arora, the growth of India’s electronics manufacturing…",
+   "url": "https://www.scmp.com/economy/global-economy/article/3371027/china-decoupling-paradox-why-world-still-needs-its-manufacturing-machine?utm_source=rss_feed",
+   "published": "2026-10-16T07:00+09:00"
+  },
+  {
+   "region": "중국",
+   "source": "SCMP",
+   "title": "Shenzhen offers discount fares, other perks to keep residents off roads during Apec summit",
+   "summary": "Shenzhen residents have been encouraged to work from home and reduce their driving during the coming Asia-Pacific Economic Cooperation (Apec) summit, as the local government unveiled logistics arrangements for one of the year’s biggest events. The measures included “flexible…",
+   "url": "https://www.scmp.com/economy/article/3371029/shenzhen-offers-discount-fares-other-perks-keep-residents-roads-during-apec-summit?utm_source=rss_feed",
+   "published": "2026-10-15T20:00+09:00"
+  },
+  {
+   "region": "중국",
+   "source": "SCMP",
+   "title": "Notable Chinese demographer calls for 18-fold increase to nation’s childcare subsidies",
+   "summary": "One of China’s most outspoken demographers has called for raising childcare subsidies to at least 200,000 yuan (US$29,883) per child – more than 18 times the total offered under the current national scheme – to reverse the decline in births and strengthen the country’s long-term…",
+   "url": "https://www.scmp.com/economy/china-economy/article/3370991/notable-chinese-demographer-calls-18-fold-increase-nations-childcare-subsidies?utm_source=rss_feed",
+   "published": "2026-10-15T17:02+09:00"
+  },
+  {
+   "region": "중국",
+   "source": "SCMP",
+   "title": "Morgan Stanley’s Robin Xing on China’s next industrial revolution, deflation woes",
+   "summary": "Robin Xing is chief China economist at Morgan Stanley. A famed economist and Peking University graduate, Xing has a PhD in economics from the Chinese Academy of Social Sciences and previously worked at Goldman Sachs and China International Capital Corp. In his second Open…",
+   "url": "https://www.scmp.com/plus/economy/china-economy/article/3370986/morgan-stanleys-robin-xing-chinas-next-industrial-revolution-deflation-woes?utm_source=rss_feed",
+   "published": "2026-10-15T16:43+09:00"
+  },
+  {
+   "region": "중국",
+   "source": "SCMP",
+   "title": "China’s CXMT gets pledge of support as provincial party chief vows chip-industry expansion",
+   "summary": "Three weeks into his tenure as the Communist Party secretary of Anhui province, Li Lecheng carried out an on-site inspection at China’s home-grown memory chip giant ChangXin Memory Technologies (CXMT) on Wednesday, pledging to grow integrated circuits (ICs) as an emerging pillar…",
+   "url": "https://www.scmp.com/economy/china-economy/article/3370970/chinas-cxmt-gets-pledge-support-provincial-party-chief-vows-chip-industry-expansion?utm_source=rss_feed",
+   "published": "2026-10-15T15:18+09:00"
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "Fed's Warsh withholds rate signal, praises recent global tightening with 'no free riders'",
+   "summary": "Warsh refrained from signaling another interest rate hike this month, pointed to a \"synchronous tightening\" by central banks in the fight against inflation.",
+   "url": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
+   "published": "2026-10-16T15:18+09:00"
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "One Singapore ship was sunk, but here's why others are still transiting the Strait of Hormuz",
+   "summary": "Singapore vessels are set to continue navigating the perilous Strait of Hormuz despite attacks on two container ships, said maritime experts.",
+   "url": "https://www.cnbc.com/2026/10/16/strait-hormuz-singapore-ships-attacked.html",
+   "published": "2026-10-16T14:56+09:00"
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "Marco Rubio to visit Indian billionaire Ambani's refinery in Gujarat as U.S. diesel prices surge",
+   "summary": "Not only is Ambani's Reliance investing in a U.S. refinery and buying Venezuelan oil, but its strong ability to supply diesel has put Jamnagar on the map during Rubio's visit.",
+   "url": "https://www.cnbc.com/2026/10/16/marco-rubio-reliance-jamnagar-refinery.html",
+   "published": "2026-10-16T15:45+09:00"
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "The IPO drought is driving private equity-owned companies to the debt market to pay investors",
+   "summary": "Private equity firms are increasingly using debt-funded dividend recaps to return cash to investors as exits remain subdued.",
+   "url": "https://www.cnbc.com/2026/10/16/private-equity-portfolios-ipo-debt.html",
+   "published": "2026-10-16T14:00+09:00"
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "Russia returns to G20 table in Bangkok on U.S. invitation that angers Europe",
+   "summary": "Russia’s return to the G20 table has tested how far Washington’s outreach to Moscow will strain ties with European allies.",
+   "url": "https://www.cnbc.com/2026/10/16/g20-russia-ukraine-trump-diesel-europe-.html",
+   "published": "2026-10-16T15:11+09:00"
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "Hybe shares jump 10% as K-pop sensation BTS' tour lifts earnings hopes",
+   "summary": "BTS' world tour and rising global demand for newer K-pop acts are fueling earnings expectations, sending Hybe shares soaring.",
+   "url": "https://www.cnbc.com/2026/10/16/bts-concerts-hybe-katseye-cortis.html",
+   "published": "2026-10-16T12:53+09:00"
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "People in China are spending nearly as much of their income as Americans on healthcare",
+   "summary": "Increasing government spending on healthcare could help boost consumption in China, the International Monetary Fund said.",
+   "url": "https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html",
+   "published": "2026-10-16T08:00+09:00"
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "India's rupee forecast to weaken toward 100-per-dollar level even as RBI pushes back",
+   "summary": "The RBI's latest moves have helped the rupee recover from 96.79 rupees per dollar to the 95-level over recent days.",
+   "url": "https://www.cnbc.com/2026/10/16/india-rupee-rbi-dollar-iran-war.html",
+   "published": "2026-10-16T09:54+09:00"
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "What to know about Starshield, SpaceX's military-focused Starlink service",
+   "summary": "Elon Musk distinguished Starshield from Starlink, which he said could not be used for offensive military operations.",
+   "url": "https://www.cnbc.com/2026/10/15/what-is-starshield-spacex-starlink-military.html",
+   "published": "2026-10-16T15:25+09:00"
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "From 'Dune' to 'Wicker,' how this ‘tiny’ European country became a hub for Hollywood",
+   "summary": "Hungary, a small country in central Europe, has played a major part in the movie business since the late 19th century.",
+   "url": "https://www.cnbc.com/2026/10/15/hungary-film-industry-hollywood-movies.html",
+   "published": "2026-10-15T15:09+09:00"
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "Netflix Chief Content Officer Bela Bajaria is leaving, will be replaced by Peter Rice",
+   "summary": "Netflix announced Bela Bajaria will be replaced by former Disney exec Peter Rice as the company's chief content officer.",
+   "url": "https://www.cnbc.com/2026/10/15/netflix-bela-bajaria-peter-rice.html",
+   "published": "2026-10-16T08:08+09:00"
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "Japan bullet trains to raise super express fares in 2027",
+   "summary": "",
+   "url": "https://asia.nikkei.com/business/transportation/japan-bullet-trains-to-raise-super-express-fares-in-2027",
+   "published": null
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "Indonesia stocks plunge after MSCI signals possible downgrade in status",
+   "summary": "",
+   "url": "https://asia.nikkei.com/business/markets/indonesia-stocks-plunge-after-msci-signals-possible-downgrade-in-status",
+   "published": null
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "Optical parts maker to triple Malaysian capacity to tackle AI supply crunch",
+   "summary": "",
+   "url": "https://asia.nikkei.com/spotlight/supply-chain/optical-parts-maker-to-triple-malaysian-capacity-to-tackle-ai-supply-crunch",
+   "published": null
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "Chinese tech companies strive to crack Japan market despite tensions",
+   "summary": "",
+   "url": "https://asia.nikkei.com/politics/international-relations/japan-china-tensions/chinese-tech-companies-strive-to-crack-japan-market-despite-tensions",
+   "published": null
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "Editor's Choice: In divided world, Western schools bring classrooms closer to Asian students",
+   "summary": "",
+   "url": "https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-in-divided-world-western-schools-bring-classrooms-closer-to-asian-students",
+   "published": null
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "China's BYD turns to local assembler in Malaysia after shelving plant plan",
+   "summary": "",
+   "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/china-s-byd-turns-to-local-assembler-in-malaysia-after-shelving-plant-plan",
+   "published": null
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "Robot dolls, chip shortages and Apple's soft sales",
+   "summary": "",
+   "url": "https://asia.nikkei.com/techasia/robot-dolls-chip-shortages-and-apple-s-soft-sales2",
+   "published": null
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "Australian lithium miner PLS green-lights expansion",
+   "summary": "",
+   "url": "https://asia.nikkei.com/business/markets/commodities/australian-lithium-miner-pls-green-lights-expansion",
+   "published": null
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "Pakistan companies move into lithium battery assembly with China partners",
+   "summary": "",
+   "url": "https://asia.nikkei.com/business/business-trends/pakistan-companies-move-into-lithium-battery-assembly-with-china-partners",
+   "published": null
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "IMF warns global food security worsening amid El Nino",
+   "summary": "",
+   "url": "https://asia.nikkei.com/spotlight/environment/climate-change/imf-warns-global-food-security-worsening-amid-el-nino",
+   "published": null
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "China's Canton Fair showcases tech push as trade frictions persist",
+   "summary": "",
+   "url": "https://asia.nikkei.com/business/business-trends/china-s-canton-fair-showcases-tech-push-as-trade-frictions-persist",
+   "published": null
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "Through the Lens: China opens biggest gateway to Korean Peninsula in 80 years",
+   "summary": "",
+   "url": "https://asia.nikkei.com/photos/through-the-lens-china-opens-biggest-gateway-to-korean-peninsula-in-80-years",
+   "published": null
+  },
+  {
+   "region": "글로벌",
+   "source": "Financial Times",
+   "title": "Bets on Fed rate hold in October strengthen after Warsh comments",
+   "summary": "US central bank chair says economy has ‘broadly conformed with our expectations’ since rate increase in September",
+   "url": "https://www.ft.com/content/95a8e05d-fc20-441d-b271-64e87fe41f76?syn-25a6b1a6=1",
+   "published": "2026-10-16T15:37+09:00"
+  },
+  {
+   "region": "글로벌",
+   "source": "Financial Times",
+   "title": "Hiding from the everything trade",
+   "summary": "Unhedged readers on how to hedge AI risk",
+   "url": "https://www.ft.com/content/6533c873-29df-453b-9ac4-7b17e5a3576f?syn-25a6b1a6=1",
+   "published": "2026-10-16T14:30+09:00"
+  },
+  {
+   "region": "글로벌",
+   "source": "Financial Times",
+   "title": "EU resists bid to weaken emissions rules as leaders spar over energy costs",
+   "summary": "Also in this newsletter: Orbán’s favourite Brussels think-tank rebrands",
+   "url": "https://www.ft.com/content/1cda1563-9f99-4993-9373-5d1b4dfe8c98?syn-25a6b1a6=1",
+   "published": "2026-10-16T14:00+09:00"
+  },
+  {
+   "region": "글로벌",
+   "source": "Financial Times",
+   "title": "FirstFT: Healey signals tax raid on banks in UK Budget",
+   "summary": "Also in today’s newsletter: London’s UBS HQ offer and Merz vows to fight on",
+   "url": "https://www.ft.com/content/246f1614-cd9a-4747-bc58-97e9cb10fb4b?syn-25a6b1a6=1",
+   "published": "2026-10-16T13:33+09:00"
+  },
+  {
+   "region": "글로벌",
+   "source": "Financial Times",
+   "title": "Wall Street’s AI wobbles",
+   "summary": "Investors are dumping data centre bonds and abandoned listings are piling up",
+   "url": "https://www.ft.com/content/6a1ecb1a-a998-4cbb-be54-22df550a66ee?syn-25a6b1a6=1",
+   "published": "2026-10-16T13:00+09:00"
+  },
+  {
+   "region": "글로벌",
+   "source": "Financial Times",
+   "title": "Young people to get less cash but more job support under Milburn welfare plan",
+   "summary": "Former Labour cabinet minister is finalising review into the million young people not in education, employment or training",
+   "url": "https://www.ft.com/content/c6e911dd-440b-4852-925c-448faeb52d98?syn-25a6b1a6=1",
+   "published": "2026-10-16T13:00+09:00"
+  },
+  {
+   "region": "글로벌",
+   "source": "Financial Times",
+   "title": "Anthropic secured highest junk credit rating in June",
+   "summary": "Kroll Bond Rating Agency’s judgment sets up AI lab for investment-grade status",
+   "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d?syn-25a6b1a6=1",
+   "published": "2026-10-16T13:00+09:00"
+  },
+  {
+   "region": "글로벌",
+   "source": "Financial Times",
+   "title": "Has London’s £5bn ‘super sewer’ improved water quality in the Thames?",
+   "summary": "Ministers pledged the 25km-long sewer would mitigate health risks, encourage recreational river use and restore wildlife",
+   "url": "https://www.ft.com/content/155bc83f-655d-4891-a431-aa5e1e1ce96a?syn-25a6b1a6=1",
+   "published": "2026-10-16T13:00+09:00"
+  },
+  {
+   "region": "글로벌",
+   "source": "Financial Times",
+   "title": "Canary Wharf developer George Iacobescu overseeing new London skyscraper",
+   "summary": "‘The man who built Canary Wharf’ working with insurer AmTrust on plans for 70-storey City office tower",
+   "url": "https://www.ft.com/content/dcab1c7f-00aa-4194-bdb1-0a0c6712e4e8?syn-25a6b1a6=1",
+   "published": "2026-10-16T13:00+09:00"
+  },
+  {
+   "region": "글로벌",
+   "source": "Financial Times",
+   "title": "The secret fight around financial flows",
+   "summary": "Quicker responses to trade challenges mean companies can free up capital",
+   "url": "https://www.ft.com/content/9585ba4d-5036-4f5d-9656-0dc4f6bdee4e?syn-25a6b1a6=1",
+   "published": "2026-10-16T13:00+09:00"
+  },
+  {
+   "region": "글로벌",
+   "source": "Financial Times",
+   "title": "US business leaders are waking up to the perils of plutopopulism",
+   "summary": "Companies wanted a president who would cut taxes and rules, they got one who has blown holes in free trade and global alliances",
+   "url": "https://www.ft.com/content/586218d3-6943-4690-8dd8-63dd329c781d",
+   "published": "2026-10-16T13:00+09:00"
+  },
+  {
+   "region": "글로벌",
+   "source": "Financial Times",
+   "title": "What do the Houthis want?",
+   "summary": "The Islamist group has wide-ranging ambitions in its fight against Saudi Arabia",
+   "url": "https://www.ft.com/content/7a260d99-c761-4ab1-8185-d7e0225a8472?syn-25a6b1a6=1",
+   "published": "2026-10-16T13:00+09:00"
+  }
+ ],
+ "errors": [
+  "ECB https://www.ecb.europa.eu/rss/press.html: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>"
+ ]
+}

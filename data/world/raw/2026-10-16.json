@@ -1,6 +1,6 @@
 {
  "date": "2026-10-16",
- "fetchedAt": "2026-10-16T16:26+09:00",
+ "fetchedAt": "2026-10-16T16:42+09:00",
  "items": [
   {
    "region": "미국",
@@ -45,11 +45,11 @@
    "region": "유럽",
    "source": "The Guardian",
    "title": "Bank shares drop as John Healey prepares to raise taxes on the banking sector in the budget – business live",
-   "summary": "Rolling coverage of the latest economic and financial news John Healey poised to raise taxes on banks in budget Shares in Barclays have dipped by 0.45%. Shares in UK banks are dropping at the start of trading, as investors react to the Guardian’s scoop that John Healey is poised…",
+   "summary": "Rolling coverage of the latest economic and financial news John Healey poised to raise taxes on banks in budget British banking stocks have eased following last night’s reports that John Healey will tax the banks in the budget, says Angeline Ong, senior technical analyst at…",
    "url": "https://www.theguardian.com/business/live/2026/oct/16/john-healey-set-to-raise-bank-taxes-shares-profits-stock-markets-imf-latest-news-updates",
-   "published": "2026-10-16T16:19+09:00",
+   "published": "2026-10-16T16:28+09:00",
    "id": "w5",
-   "body": "Expectations of a budget tax raid aren’t the only thing weighing on Lloyds’ share price this morning. The bank has also been hit with a broker downgrade – RBC cut its target price for Lloyds this morning, citing increased competition in the UK deposit market."
+   "body": "British banking stocks have eased following last night’s reports that John Healey will tax the banks in the budget, says Angeline Ong, senior technical analyst at investing and trading platform IG “A UK bank tax risk is now a base case. If it is confirmed on 28 October, it’ll be the size and timing that will be key. If Healey does go ahead, shares of Lloyds and NatWest, which are almost entirely exposed to the UK, would likely be impacted most, and you are seeing this already in the share price reaction today. Barclays is partly exposed. HSBC is least exposed in the mix.”"
   },
   {
    "region": "유럽",
@@ -685,6 +685,395 @@
    "published": null,
    "id": "w70",
    "body": "CANBERRA -- Australian miner PLS on Thursday announced a step toward achieving its ambition of becoming one of the world's largest pure-play lithium miners, with a plan for expansion as it bets on future demand despite recent drops in the price of the key battery metal."
+  },
+  {
+   "region": "글로벌",
+   "source": "Financial Times",
+   "title": "Has London’s £5bn ‘super sewer’ improved water quality in the Thames?",
+   "summary": "Ministers pledged the 25km-long sewer would mitigate health risks, encourage recreational river use and restore wildlife",
+   "url": "https://www.ft.com/content/155bc83f-655d-4891-a431-aa5e1e1ce96a?syn-25a6b1a6=1",
+   "published": "2026-10-16T13:00+09:00",
+   "id": "w71"
+  },
+  {
+   "region": "미국",
+   "source": "MarketWatch",
+   "title": "Investors are dumping AI stocks as ‘tech wreck’ worsens. Here’s where they’re turning now.",
+   "summary": "A continued selloff in the AI trade is forcing investors to move from tech names to the relative safety of government bonds and defensive stock sectors.",
+   "url": "https://www.marketwatch.com/story/traders-pile-into-bonds-and-defensive-stocks-as-the-tech-wreck-picks-up-steam-48c04374?mod=mw_rss_topstories",
+   "published": "2026-10-16T05:40+09:00",
+   "id": "w72"
+  },
+  {
+   "region": "유럽",
+   "source": "BBC",
+   "title": "'I'd spend $1,000 on a wedding present'",
+   "summary": "New Yorkers share how much they spend on a wedding gift - and how they decide.",
+   "url": "https://www.bbc.co.uk/news/videos/ckly0jy2ygdjo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-16T03:30+09:00",
+   "id": "w73",
+   "body": ""
+  },
+  {
+   "region": "유럽",
+   "source": "The Guardian",
+   "title": "The water torture goes on at Thames. Sector-wide reform isn’t moving much faster | Nils Pratley",
+   "summary": "If ‘public control’ bit is delaying overhaul, that needs to be nailed down sharpish or continued uncertainty could be costly It is strange now to recall that Thames Water had a prominent slot on what was known as “Sue’s shit list” – the internal Labour dossier, compiled by Keir…",
+   "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/oct/15/water-torture-thames-sector-wide-reform-delay-public-control",
+   "published": "2026-10-16T03:00+09:00",
+   "id": "w74",
+   "body": "I t is strange now to recall that Thames Water had a prominent slot on what was known as “Sue’s shit list” – the internal Labour dossier, compiled by Keir Starmer’s first chief of staff, Sue Gray, of potential crises that could erupt at short notice and force the incoming administration to make some big decisions quickly. That was July 2024. Here we are – more than two years later – and the Thames script has barely advanced. We’re still waiting to see if the financial crisis at the over-indebted, under-performing water company will be resolved by a creditor-led recapitalisation, special administration or something else. Now Thames is seeking another £2.4bn slug of funding from creditors to stay afloat for another year and survive yet more back and forth between ministers, regulators and those same lenders."
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "What to know about Starshield, SpaceX's military-focused Starlink service",
+   "summary": "Elon Musk distinguished Starshield from Starlink, which he said could not be used for offensive military operations.",
+   "url": "https://www.cnbc.com/2026/10/15/what-is-starshield-spacex-starlink-military.html",
+   "published": "2026-10-16T15:25+09:00",
+   "id": "w75",
+   "body": "Uncertainty over who controls SpaceX's military satellite system, Starshield, has drawn renewed attention, as restrictions on the technology hinder Ukraine's defenses. Ukraine has accused SpaceX -owned Starlink of restricting its military-grade services , known as Starshield, as Russia intensified attacks on Kyiv. Officials in Kyiv said SpaceX had imposed restrictions on Starshield without advance notice, disrupting military operations and hampering efforts to protect civilians amid intense Russian attacks this week. In response, SpaceX CEO Elon Musk appeared to shift responsibility for any changes to Starshield's use in Ukraine to the U.S. government and President Donald Trump . He said that Starshield systems are owned and controlled by Washington, with the U.S. military and ultimately the president determining any limits on their use."
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "Pakistan companies move into lithium battery assembly with China partners",
+   "summary": "",
+   "url": "https://asia.nikkei.com/business/business-trends/pakistan-companies-move-into-lithium-battery-assembly-with-china-partners",
+   "published": null,
+   "id": "w76",
+   "body": "ISLAMABAD -- Chinese solar panels are pouring into Pakistan, fueling demand for lithium-ion batteries and persuading local companies to partner with Chinese manufacturers to assemble the power packs domestically, even as prices plunge globally and insiders predict they will fall even further."
+  },
+  {
+   "region": "글로벌",
+   "source": "Financial Times",
+   "title": "Canary Wharf developer George Iacobescu overseeing new London skyscraper",
+   "summary": "‘The man who built Canary Wharf’ working with insurer AmTrust on plans for 70-storey City office tower",
+   "url": "https://www.ft.com/content/dcab1c7f-00aa-4194-bdb1-0a0c6712e4e8?syn-25a6b1a6=1",
+   "published": "2026-10-16T13:00+09:00",
+   "id": "w77"
+  },
+  {
+   "region": "유럽",
+   "source": "BBC",
+   "title": "Thousands of NI workers to get pay bump as Real Living Wage rises",
+   "summary": "About 6,000 workers in NI are paid the Real Living Wage - which is voluntarily paid to reflect the cost of living.",
+   "url": "https://www.bbc.co.uk/news/videos/cq398xnyx4gyo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-15T14:37+09:00",
+   "id": "w78",
+   "body": ""
+  },
+  {
+   "region": "유럽",
+   "source": "The Guardian",
+   "title": "Bad news for Trump ahead of the midterms: it’s still the economy, stupid",
+   "summary": "Voters’ opposition to the state of Trump’s economy is well established – despite his desperate attempts to deflect Tell us: what is your personal ‘recession indicator’? It’s indisputable that the political polarization of our time has reduced (and confused) the influence of…",
+   "url": "https://www.theguardian.com/business/2026/oct/15/trump-economy-midterm-elections",
+   "published": "2026-10-15T21:00+09:00",
+   "id": "w79",
+   "body": "It’s indisputable that the political polarization of our time has reduced (and confused) the influence of economic conditions on US elections. In September of 2024, in the waning weeks of the Joe Biden presidency, 65% of Republicans believed the US economy was getting worse. About six months later, as Donald Trump launched a trade war on the rest of the world with his “liberation day” tariffs, the share of Republican pessimists had dropped to 33%. It’s hard to detect a reason for this in the economic data. Annual consumer price inflation fell from 2.4% to 2.3% between the two polls. The unemployment rate ticked up from 4.1% to 4.2%. Indeed, Democrats disagreed sharply with their Republican neighbors: from the last Harris poll of the Biden era to the first under Trump, the share who thought the US economy was worsening jumped from 28% to 73%."
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "From 'Dune' to 'Wicker,' how this ‘tiny’ European country became a hub for Hollywood",
+   "summary": "Hungary, a small country in central Europe, has played a major part in the movie business since the late 19th century.",
+   "url": "https://www.cnbc.com/2026/10/15/hungary-film-industry-hollywood-movies.html",
+   "published": "2026-10-15T15:09+09:00",
+   "id": "w80",
+   "body": "Think of Academy Award-winning movies such as \"Poor Things,\" \"Blade Runner 2049\" and \"The Brutalist\" and you might assume they were made in Los Angeles. But instead of being produced in California's famous studios, they were all shot largely in one central European country: Hungary. Huge production complexes, a variety of land and cityscapes and generous incentives have made Hungary a hub for Hollywood. Arnold Schwarzenegger, Tom Cruise, Eddie Redmayne, Liam Hemsworth, Anne Hathaway and Dakota Fanning were all reportedly seen in Hungary's capital Budapest and its surrounding areas this year. Hungary has been involved with cinema since its earliest days. The Lumière brothers, makers of the cinematograph device, brought their invention to Budapest's Grand Hotel Royal in 1896 — just months after its Paris debut — and had camera operators film landmarks in the city the same year."
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "IMF warns global food security worsening amid El Nino",
+   "summary": "",
+   "url": "https://asia.nikkei.com/spotlight/environment/climate-change/imf-warns-global-food-security-worsening-amid-el-nino",
+   "published": null,
+   "id": "w81",
+   "body": "BANGKOK -- The ongoing El Nino climate pattern is contributing to rising food prices and worsening global food insecurity, an IMF director said during a meeting in Thailand, with other experts calling for financing schemes to support vulnerable countries."
+  },
+  {
+   "region": "글로벌",
+   "source": "Financial Times",
+   "title": "The secret fight around financial flows",
+   "summary": "Quicker responses to trade challenges mean companies can free up capital",
+   "url": "https://www.ft.com/content/9585ba4d-5036-4f5d-9656-0dc4f6bdee4e?syn-25a6b1a6=1",
+   "published": "2026-10-16T13:00+09:00",
+   "id": "w82"
+  },
+  {
+   "region": "유럽",
+   "source": "The Guardian",
+   "title": "The global economy is muddling through against the odds. But a storm is coming | Larry Elliott",
+   "summary": "Finance ministers gathering for the IMF annual meeting know the need for multilateral cooperation to deal with many crises. There is little chance of that Not much has gone right for the global economy this year, and plenty has gone wrong. Two big regional wars are destabilising…",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/15/global-economy-multilateral-cooperation-crisis-imf",
+   "published": "2026-10-15T14:00+09:00",
+   "id": "w83",
+   "body": "N ot much has gone right for the global economy this year, and plenty has gone wrong. Two big regional wars are destabilising prices and supply chains everywhere. Businesses and consumers are feeling the effects of a serious energy shock. Rising inflation has made it a lot more expensive for governments to finance their debts. China and the US are at loggerheads over trade. Yet, so far, the impact has been modest. It is something of a miracle that the finance ministers and central bank governors gathered for this year’s annual meeting of the International Monetary Fund (IMF) in Bangkok are not having to deal with a full-blown crisis. This is not like the autumn of 2008, when the meetings took place during the worst of the global banking meltdown. The IMF is right when it says countries have shown resilience when having to cope with so many headwinds. It could have been worse."
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "Netflix Chief Content Officer Bela Bajaria is leaving, will be replaced by Peter Rice",
+   "summary": "Netflix announced Bela Bajaria will be replaced by former Disney exec Peter Rice as the company's chief content officer.",
+   "url": "https://www.cnbc.com/2026/10/15/netflix-bela-bajaria-peter-rice.html",
+   "published": "2026-10-16T08:08+09:00",
+   "id": "w84",
+   "body": "Netflix on Thursday announced Bela Bajaria will be replaced as the company's chief content officer by former Disney exec Peter Rice, effective Oct. 26. Rice most recently oversaw Disney's cable channels, news programming and coverage of major sporting events. \"Peter is one of the most effective at-scale operators in the entertainment industry,\" co-CEO Ted Sarandos said in a statement. \"I'm excited to welcome him to Netflix as Chief Content Officer as we continue to scale and deliver members more of the stories they love.\" Before Rice was at Disney, he held roles at 21st Century Fox and Fox Searchlight Pictures. Netflix in its announcement called him \"one of the entertainment industry's most respected creative executives.\" In his new role, Rice will oversee the company's global content organization, including scripted and unscripted series, film and live events."
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "China's Canton Fair showcases tech push as trade frictions persist",
+   "summary": "",
+   "url": "https://asia.nikkei.com/business/business-trends/china-s-canton-fair-showcases-tech-push-as-trade-frictions-persist",
+   "published": null,
+   "id": "w85",
+   "body": "GUANGZHOU -- Coffee machines, air fryers and barbecue grills equipped with cameras and other advanced technologies were on display at China's biggest trade fair, as exporters grappling with rising production costs and fragile trade relations seek to expand their overseas footprint."
+  },
+  {
+   "region": "글로벌",
+   "source": "Financial Times",
+   "title": "US business leaders are waking up to the perils of plutopopulism",
+   "summary": "Companies wanted a president who would cut taxes and rules, they got one who has blown holes in free trade and global alliances",
+   "url": "https://www.ft.com/content/586218d3-6943-4690-8dd8-63dd329c781d",
+   "published": "2026-10-16T13:00+09:00",
+   "id": "w86"
+  },
+  {
+   "region": "유럽",
+   "source": "The Guardian",
+   "title": "The right’s scrounger rhetoric dominates the benefits debate. Labour must fight back – and win | Frances Ryan",
+   "summary": "The prime minister has a once-in-a-generation chance to reintroduce compassion to welfare. He has to seize the moment Back in 2009, months before the coalition government unleashed sweeping austerity, the then Conservative backbencher Iain Duncan Smith produced a study that…",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/16/right-scrounger-rhetoric-benefits-labour-compassion-welfare",
+   "published": "2026-10-16T14:00+09:00",
+   "id": "w87",
+   "body": "B ack in 2009, months before the coalition government unleashed sweeping austerity, the then Conservative backbencher Iain Duncan Smith produced a study that would go on to lay the foundations for the rollout of universal credit. Now, nearly two decades later, Duncan Smith and his thinktank, the Centre for Social Justice (CSJ), has published State of Dependency: a landmark report promising to expose “the full scale of Britain’s worklessness crisis”. The study paints a picture of mass benefits reliance: it identifies 3,400 local areas where more than half the working-age population are on out-of-work benefits, or “economic opiates”, as the authors call them. They’ve even provided an interactive map (in the yellow and black colours of a road hazard sign, no less) so members of the public can type in their postcode to see if their neighbourhood is “a welfare hotspot”."
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "Gasping for clean air: Singapore battles relentless haze as Prime Minister Wong warns of action",
+   "summary": "Singapore continues to grapple with severe haze that is disrupting daily life and businesses, as authorities roll out protective measures — and issue warnings.",
+   "url": "https://www.cnbc.com/2026/10/16/singapore-haze-wong-warning-indonesia.html",
+   "published": "2026-10-16T09:06+09:00",
+   "id": "w88",
+   "body": "Singapore continues to grapple with severe haze as smoke from wildfires in neighboring Indonesia drifts into the city-state, with Prime Minister Lawrence Wong warning of action against companies responsible for the fires. Air quality in Singapore remained unhealthy on Thursday, as smoke from widespread fires in Indonesia's Kalimantan region continued to drift toward the city-state, according to the National Environment Agency. Singapore's air quality first deteriorated to unhealthy levels on Sept. 4, the first time in nearly three years, according to government data. The worsening haze has cast a shadow over the city-state, disrupting daily life and threatening businesses as air pollution continues to worsen. In a post on X Thursday night, Wong said the government was looking into companies potentially responsible for the forest and peatland fires in Indonesia."
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "Through the Lens: China opens biggest gateway to Korean Peninsula in 80 years",
+   "summary": "",
+   "url": "https://asia.nikkei.com/photos/through-the-lens-china-opens-biggest-gateway-to-korean-peninsula-in-80-years",
+   "published": null,
+   "id": "w89",
+   "body": "On Oct. 15, after protracted delays, China and North Korea finally opened the New Yalu River Bridge to expand cross-border trade, which only last year returned to pre-COVID 19 pandemic levels. Previously, a bridge constructed in the 1940s had served as the main conduit for bilateral trade since North Korea's creation in September 1945, soon after the end of World War II. The new bridge crosses the Yalu between Dandong in China's Liaoning province and Sinuiju in North Korea's Pyongan province. During the opening ceremony held in the middle of the new crossing, ten flag-bedecked trucks from each side passed in opposite directions with horns blaring."
+  },
+  {
+   "region": "글로벌",
+   "source": "Financial Times",
+   "title": "What do the Houthis want?",
+   "summary": "The Islamist group has wide-ranging ambitions in its fight against Saudi Arabia",
+   "url": "https://www.ft.com/content/7a260d99-c761-4ab1-8185-d7e0225a8472?syn-25a6b1a6=1",
+   "published": "2026-10-16T13:00+09:00",
+   "id": "w90"
+  },
+  {
+   "region": "유럽",
+   "source": "The Guardian",
+   "title": "Commercial kitchen staff exposed to high levels of air pollution, study finds",
+   "summary": "US research says nitrogen dioxide in restaurants that cook with gas can exceed WHO limits, which also affects diners Each time we enjoy a meal out or order a takeaway, someone cooks for us in a commercial kitchen. In the UK, 3.6 million people work in catering and hospitality.…",
+   "url": "https://www.theguardian.com/environment/2026/oct/16/commercial-kitchen-staff-exposed-high-levels-air-pollution",
+   "published": "2026-10-16T14:00+09:00",
+   "id": "w91",
+   "body": "E ach time we enjoy a meal out or order a takeaway, someone cooks for us in a commercial kitchen. In the UK, 3.6 million people work in catering and hospitality. In the US it is estimated at close to 16 million . A first-of-its-kind study in the US has found catering staff can experience high air pollution at work – and that this can affect diners too."
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "CNBC Daily Open: Is the AI sector losing its rose-colored glow?",
+   "summary": "Caution seems to be the name of the game in the AI sector now as investors worry around the amount of money that companies are splashing out on AI.",
+   "url": "https://www.cnbc.com/2026/10/16/cnbc-daily-open-ai-inflation-coreweave-.html",
+   "published": "2026-10-16T10:06+09:00",
+   "id": "w92",
+   "body": "Hello, this is Hui Jie writing to you from Singapore. Welcome to another edition of CNBC's Daily Open. A line from Netflix's Bojack Horseman goes: \"When you look at someone through rose-colored glasses, all the red flags just look like flags.\" For much of this year, investors viewed the AI trade through rosy lenses. This week, they put down the glasses and what they saw was clearly not pleasing. Credit stress at CoreWeave, concerns over corporate AI spending and another hot inflation report erased more than $1 trillion from 20 of the world's largest AI and semiconductor stocks this week. Caution seems to be the name of the game in the AI sector now as investors worry about the amount of money that companies are splashing on AI. One example is CoreWeave , which is facing spiraling credit stress that has come into the spotlight amid a broader sell-off in AI-related names."
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "Vietnam weighs barring foreign purchases of houses",
+   "summary": "",
+   "url": "https://asia.nikkei.com/business/markets/property/vietnam-weighs-barring-foreign-purchases-of-houses",
+   "published": null,
+   "id": "w93",
+   "body": "HO CHI MINH CITY -- Vietnam has proposed barring foreigners from buying single houses, allowing them to only purchase apartments instead."
+  },
+  {
+   "region": "글로벌",
+   "source": "Financial Times",
+   "title": "Airlines should give up their fuel-hedging dogfight",
+   "summary": "Even for battle-hardened CEOs, this latest crisis is a chance for some helpful new thinking",
+   "url": "https://www.ft.com/content/2839679e-f329-41f0-a252-93444e81252c?syn-25a6b1a6=1",
+   "published": "2026-10-16T13:00+09:00",
+   "id": "w94"
+  },
+  {
+   "region": "유럽",
+   "source": "The Guardian",
+   "title": "People in the US: what is your personal ‘recession indicator’?",
+   "summary": "We’d like to hear about whether you feel like the US is in a recession and what you think signals such a downturn Nearly two-thirds of Americans think the US is experiencing a recession, according to a new Harris Poll conducted for the Guardian. By the typical definition of a…",
+   "url": "https://www.theguardian.com/business/2026/oct/15/what-is-your-personal-recession-indicator",
+   "published": "2026-10-16T01:55+09:00",
+   "id": "w95",
+   "body": "Nearly two-thirds of Americans think the US is experiencing a recession, according to a new Harris Poll conducted for the Guardian. By the typical definition of a recession – when a country’s economic growth is in the negative for two consecutive quarters – the US is not experiencing one. Still, Americans are facing higher prices and a stagnant job market , which for many feels like a downturn. We want to hear from Americans: do you feel like the US is experiencing a recession? What is your so-called personal “recession indicator”, or a signal in your everyday life that points to an incoming economic slump? It could be seen in your job or at your local grocery store, something you notice at your children’s school or out in your community. Tell us about it below. Your contact details are helpful so we can contact you for more information. They will only be seen by the Guardian."
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "Apple and Meta team up to make Muse AI model run on Mac computers",
+   "summary": "Apple and Meta are collaborating to make Muse Spark Open easier to run locally on clustered Mac Studio systems, according to the companies.",
+   "url": "https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html",
+   "published": "2026-10-16T02:52+09:00",
+   "id": "w96",
+   "body": "Tim Cook and Mark Zuckerberg have clashed for years, but with John Ternus taking the reins at Apple , the rivals are finding common ground in artificial intelligence. Meta and Apple revealed a new collaboration Thursday that will enable developers to easily run Meta's new open-weight AI model on Apple's high-end desktop computers. The collaboration centers on Muse Spark Open, the most capable open-weight model released under a license that allows for limited commercial use, according to Meta. It's an 816-billion-parameter model using a so-called mixture-of-experts architecture . As an open-weight model, developers can download the technology's parameters, or weights, from the internet and run the model on a wide range of hardware. Customers will be able to pair between two and four Mac Studio PCs to use Muse Spark to code, analyze video or do other agentic work."
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "China rewired its army in 2016. Why is India only doing it now?",
+   "summary": "",
+   "url": "https://asia.nikkei.com/opinion/china-rewired-its-army-in-2016.-why-is-india-only-doing-it-now",
+   "published": null,
+   "id": "w97",
+   "body": ""
+  },
+  {
+   "region": "글로벌",
+   "source": "Financial Times",
+   "title": "The espresso pot test of Italian capitalism",
+   "summary": "It can be difficult to run companies around the Sunday lunch table",
+   "url": "https://www.ft.com/content/1eee5ed8-48dd-4c2e-9eba-a407d98b6a38?syn-25a6b1a6=1",
+   "published": "2026-10-16T13:00+09:00",
+   "id": "w98"
+  },
+  {
+   "region": "유럽",
+   "source": "The Guardian",
+   "title": "Online ads weaponised to deliver ‘zero-click’ spyware, researchers say",
+   "summary": "Discover-Tech’s Controlium software lets clients mass-profile internet users then covertly hack targets, say researchers at University of Toronto An Israeli advertising agency has been serving millions of online adverts that allow “zero-click” spyware to be used against targets,…",
+   "url": "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say",
+   "published": "2026-10-15T21:15+09:00",
+   "id": "w99",
+   "body": "An Israeli advertising agency has been serving millions of online adverts that allow “zero-click” spyware to be used against targets, researchers at a Canadian university have said . Citizen Lab, a digital investigations research unit at the University of Toronto, said it believed dozens of devices at the Qatari broadcaster Al Jazeera had been compromised by spyware delivered through ads run by Discover-Tech, which describes itself as a specialised digital advertising agency. According to Citizen Lab, Discover-Tech operates a software platform called Controlium that allows its clients to “mass-profile and deanonymise” internet users then covertly hack targets with third-party spyware. Unlike infections that rely on people interacting with links or files, the spyware requires no interaction from the victim to be installed, making it a new delivery technique, Citizen Lab says."
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "TSMC chip capacity is ‘fierce’ battleground for AI customers, amid record quarter",
+   "summary": "TSMC had a record quarter, but it can't make chips for everyone as Nvidia, Apple, Broadcom and AMD fight for capacity.",
+   "url": "https://www.cnbc.com/2026/10/15/nvidia-apple-broadcom-in-fierce-battle-to-make-chips-at-tsmc.html",
+   "published": "2026-10-16T01:56+09:00",
+   "id": "w100",
+   "body": "As Taiwan Semiconductor Manufacturing Co.'s record quarter makes clear, demand from chipmakers shows no sign of slowing down. In fact, TSMC can't manufacture quickly enough. The artificial intelligence boom has created unending need for space on factory lines at the world's leading chip manufacturer, and it could put a chokehold on the entire industry's ability to scale. Last year, TSMC said it had the capacity to make more than 17 million 12-inch equivalent wafers. But customers want more. \"The competition is extremely fierce,\" said Jordan Klein, an analyst at Mizuho Securities. \"It's a game of who can get the most leverage and supply.\" TSMC makes the vast majority of the world's most advanced semiconductors, the graphics processors and central processors from Nvidia , AMD and Broadcom that are necessary for running AI workloads."
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "Samurai: Stephen Schwarzman (15)",
+   "summary": "",
+   "url": "https://asia.nikkei.com/spotlight/my-personal-history/samurai-stephen-schwarzman-15",
+   "published": null,
+   "id": "w101",
+   "body": "Sony's headquarters in the 1980s. The company was one of Blackstone's earliest M&A advisory clients. In 1987, a tide of Japanese capital -- led by Nikko Securities -- entrusted vast sums to the buyout fund we were running at Blackstone."
+  },
+  {
+   "region": "글로벌",
+   "source": "Financial Times",
+   "title": "The perfect artist’s studio? An attic in Paris",
+   "summary": "The bohemian ideal of the struggling young genius was nurtured in the ramshackle world of 19th-century Montmartre and Montparnasse",
+   "url": "https://www.ft.com/content/96bed528-b233-4bc7-a4f2-82304dc09aec",
+   "published": "2026-10-16T13:00+09:00",
+   "id": "w102"
+  },
+  {
+   "region": "유럽",
+   "source": "The Guardian",
+   "title": "Wallace & Gromit maker Aardman falls short of return to profit",
+   "summary": "Animation studio narrows annual loss to £1.1m amid ‘challenging market’ in children’s content Don’t break out the celebratory Wensleydale just yet. Aardman, the British animation studio behind the cheese-loving inventor Wallace and his beloved dog Gromit, has fallen short of a…",
+   "url": "https://www.theguardian.com/film/2026/oct/15/aardman-wallace-gromit-annual-loss",
+   "published": "2026-10-15T16:00+09:00",
+   "id": "w103",
+   "body": "Don’t break out the celebratory Wensleydale just yet. Aardman , the British animation studio behind the cheese-loving inventor Wallace and his beloved dog Gromit, has fallen short of a target to get back in the black, its accounts show. The employee-owned business was aiming to record a small profit in 2025 after two years of consecutive losses but was hit by production delays and a “challenging market” in children’s content. So although its revenues jumped 8% to £20.4m last year, it was in the red to the tune of £1.1m, albeit an improvement on the previous year’s £4.1m loss. Aardman, which also produces the popular Shaun the Sheep series, said the timing of some “significant” deals and weaker income in some parts of the business had hurt its bottom line."
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in decades",
+   "summary": "KFC is switching from PepsiCo to Coca-Cola as its beverage supplier for U.S. restaurants.",
+   "url": "https://www.cnbc.com/2026/10/15/kfc-coca-cola-pepsi-switch.html",
+   "published": "2026-10-16T06:03+09:00",
+   "id": "w104",
+   "body": "KFC's U.S. restaurants will ditch PepsiCo and switch to Coca-Cola beverages next year, marking the first time in decades that the Yum Brands chain has changed its drink supplier, the restaurant company said Thursday. Some of KFC's international markets serve Coke products, but the chain's U.S. restaurants have stuck with PepsiCo drinks ever since Pepsi bought KFC in 1986. At the time of the acquisition, KFC was Coke's second-largest fountain account, trailing only McDonald's. Pepsi later spun off KFC, along with sister chains Pizza Hut and Taco Bell — but even as the combined Yum Brands, the company stayed loyal to its previous owner. Without Pepsi, Taco Bell would not serve its iconic Mountain Dew Baja Blast. The change comes as KFC aims to win back U.S. diners, who have ditched the fried chicken chain for rivals such as Chick-fil-A or Popeyes."
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "Japan eyes 2027 start for childbirth coverage meant to encourage bigger families",
+   "summary": "",
+   "url": "https://asia.nikkei.com/business/health-care/japan-eyes-2027-start-for-childbirth-coverage-meant-to-encourage-bigger-families",
+   "published": null,
+   "id": "w105",
+   "body": "TOKYO -- Japan's health ministry has begun discussing the details of a new benefit that will cover the costs of childbirth to ease the financial burden on parents, starting as soon as the second half of fiscal 2027."
+  },
+  {
+   "region": "글로벌",
+   "source": "Financial Times",
+   "title": "World’s worst-performing stock market hit by fresh MSCI warning",
+   "summary": "Warning from global index provider fuels concerns about investability in south-east Asia’s biggest economy",
+   "url": "https://www.ft.com/content/753fa2ed-1763-462b-a4c0-ded9b53baf3c?syn-25a6b1a6=1",
+   "published": "2026-10-16T12:35+09:00",
+   "id": "w106"
+  },
+  {
+   "region": "유럽",
+   "source": "The Guardian",
+   "title": "Revealed: Serbian ruler’s secret role in ‘illegal’ effort to help Trump business",
+   "summary": "Exclusive: Aleksandar Vučić personally intervened to push plans for controversial $500m Trump Tower in Belgrade, which sparked protests and a criminal case Serbia’s authoritarian ruler personally intervened to advance an allegedly illegal scheme to hand over a protected site in…",
+   "url": "https://www.theguardian.com/world/2026/oct/15/trump-kushner-vucic-belgrade-serbia",
+   "published": "2026-10-15T20:00+09:00",
+   "id": "w107",
+   "body": "Serbia’s authoritarian ruler personally intervened to advance an allegedly illegal scheme to hand over a protected site in Belgrade for a Trump tower, the Guardian can reveal. Aleksandar Vučić summoned officials to a meeting at his presidential offices about the project, which has culminated in a landmark indictment of senior figures from his regime on charges of abuse of public office. The criminal case is believed to be the first resulting from the Trumps’ global moneymaking campaign , described by critics as a “pay to play” arrangement where everything from sanctions relief to cutting-edge chips is available to those who enrich the first family and their associates."
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "Elon Musk helps GOP Senate super PAC raise record $273 million",
+   "summary": "Elon Musk gave a record $158 million to the GOP’s Senate Leadership Fund, boosting its war chest as Republicans pour money into Texas to defend Ken Paxton.",
+   "url": "https://www.cnbc.com/2026/10/15/elon-musk-senate-leadership-fund-fundraising.html",
+   "published": "2026-10-16T08:53+09:00",
+   "id": "w108",
+   "body": "The Senate Leadership Fund , the Republican Party's leading Senate super PAC, posted the largest quarterly haul in its history and entered the final weeks before the Nov. 3 midterm election with more than $155 million in cash, according to a new Federal Election Commission filing Thursday. The SLF brought in $272.9 million from July through September, including $209.7 million from donors. Tesla and SpaceX CEO Elon Musk supplied the bulk of that money, giving the SLF $158 million in September through an affiliated Texas PAC created to support Republican Ken Paxton. His two contributions of $75 million and $83 million are among the largest political donations ever. Musk's contribution alone also exceeded the Democratic Senate Majority PAC's entire third-quarter fundraising."
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "Global pharma firms walk back innovative drug investments in Japan",
+   "summary": "",
+   "url": "https://asia.nikkei.com/business/pharmaceuticals/global-pharma-firms-walk-back-innovative-drug-investments-in-japan",
+   "published": null,
+   "id": "w109",
+   "body": "TOKYO -- Pharmaceutical companies around the world are increasingly unwilling to invest in innovative drug research and manufacturing in Japan, government data shows, raising concerns about the country's ability to maintain a stable supply of essential medicines."
+  },
+  {
+   "region": "글로벌",
+   "source": "Financial Times",
+   "title": "‘Early days’ to see full effect of energy prices on inflation, BoE’s Bailey says",
+   "summary": "Lengthy period of higher costs would squeeze corporate margins and spur some companies to raise prices",
+   "url": "https://www.ft.com/content/b6255adb-3ce5-4463-92cd-de2f8e9a1f74?syn-25a6b1a6=1",
+   "published": "2026-10-16T12:12+09:00",
+   "id": "w110"
   }
  ],
  "errors": [

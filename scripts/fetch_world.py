@@ -25,8 +25,8 @@ KST = timezone(timedelta(hours=9))
 UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/130 Safari/537.36",
       "Accept-Language": "en-US,en;q=0.9"}
 WINDOW_HOURS = 30
-PER_SOURCE = 15
-MAX_ITEMS = 70
+PER_SOURCE = 20
+MAX_ITEMS = 110
 SUMMARY_CHARS = 280
 BODY_CHARS = 900
 NO_BODY = {"MarketWatch", "Financial Times"}  # 본문 접근 차단(401/403)

@@ -420,7 +420,8 @@ function renderWorld(world) {
       <article class="card news-item">
         <h3><a href="${esc(x.url)}" target="_blank" rel="noopener" class="world-title">${esc(x.title)}</a></h3>
         <p class="implication">${esc(x.summary)}</p>
-        <div class="headlines"><span>${esc(x.source || '')}${x.published ? ` · ${fmtDate(x.published, true)}` : ''}${x.original ? ` · <span class="hint">${esc(x.original)}</span>` : ''}</span></div>
+        <div class="headlines"><span>${esc(x.source || '')}${x.published ? ` · ${fmtDate(x.published, true)}` : ''}${x.original ? ` · <span class="hint">${esc(x.original)}</span>` : ''}</span>
+          ${(x.also || []).map((a) => `<div>관련 기사: <a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.source)}</a> <span class="hint">${esc(a.original)}</span></div>`).join('')}</div>
       </article>`).join('')}</div>`;
   }).join('') + '<p class="help" style="margin-top:12px">해외 언론의 무료 RSS 헤드라인·요약을 바탕으로 한글로 정리했습니다. 원문 일부는 유료일 수 있습니다.</p>';
 }

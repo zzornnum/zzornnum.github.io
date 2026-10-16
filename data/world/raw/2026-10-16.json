@@ -1,6 +1,6 @@
 {
  "date": "2026-10-16",
- "fetchedAt": "2026-10-16T16:01+09:00",
+ "fetchedAt": "2026-10-16T16:26+09:00",
  "items": [
   {
    "region": "미국",
@@ -9,70 +9,8 @@
    "summary": "'We see real risks the Fed will deliver another rate hike in two weeks' time,' one Fedwatcher warns",
    "url": "https://www.cnbc.com/2026/10/15/pce-ppi-september-fed-reserve-rate-hike.html",
    "published": "2026-10-16T00:37+09:00",
-   "id": "w1"
-  },
-  {
-   "region": "미국",
-   "source": "CNBC",
-   "title": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
-   "summary": "The exchange comes as U.S. debt exceeds $40 trillion and 10-year Treasury yields remain above 5%, intensifying scrutiny of the fiscal outlook.",
-   "url": "https://www.cnbc.com/2026/10/15/zervos-imf-us-debt-warning.html",
-   "published": "2026-10-15T22:42+09:00",
-   "id": "w2"
-  },
-  {
-   "region": "미국",
-   "source": "CNBC",
-   "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
-   "summary": "September producer prices were expected to increase 0.6% month over month and 5.5% annually, according to the consensus estimate by Dow Jones.",
-   "url": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
-   "published": "2026-10-16T01:15+09:00",
-   "id": "w3"
-  },
-  {
-   "region": "미국",
-   "source": "CNBC",
-   "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
-   "summary": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits.",
-   "url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
-   "published": "2026-10-15T21:11+09:00",
-   "id": "w4"
-  },
-  {
-   "region": "미국",
-   "source": "CNBC",
-   "title": "China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration",
-   "summary": "European trade commissioner Maroš Sefčovič met with Chinese Commerce Minister Wang Wentao in Beijing last week.",
-   "url": "https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html",
-   "published": "2026-10-15T18:02+09:00",
-   "id": "w5"
-  },
-  {
-   "region": "미국",
-   "source": "CNBC",
-   "title": "UK economy grew 0.1% in August, beating expectations",
-   "summary": "The U.K. is grappling with a cost-of-living crisis sparked by sticky inflation and surging energy costs.",
-   "url": "https://www.cnbc.com/2026/10/15/uk-gdp-august-2026-economy.html",
-   "published": "2026-10-15T17:44+09:00",
-   "id": "w6"
-  },
-  {
-   "region": "미국",
-   "source": "CNBC",
-   "title": "In charts: How one of the world's biggest economies got trapped by debt",
-   "summary": "France opens debate on its 2027 budget as high deficits, rising debt and student protests intensify pressure on lawmakers.",
-   "url": "https://www.cnbc.com/2026/10/13/france-2027-budget-debt.html",
-   "published": "2026-10-15T18:54+09:00",
-   "id": "w7"
-  },
-  {
-   "region": "미국",
-   "source": "CNBC",
-   "title": "IMF sees milder global slowdown as AI boom offsets war hit — warns resilience is nearing limits",
-   "summary": "The IMF raised its 2026 global growth forecast to 3.1%, warning that resilience is tested by energy constraints and looming fiscal risks.",
-   "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html",
-   "published": "2026-10-15T15:35+09:00",
-   "id": "w8"
+   "id": "w1",
+   "body": "Wall Street estimates for the Federal Reserve's preferred inflation indicator now expect an acceleration from the level that prompted the central bank to hike rates last month. The estimates come after a hotter-than-expected producer price index came in at 1.3% Thursday, the biggest monthly gain since March 2022 and more than double the 0.6% consensus. That drove the year-over-year increase to 6.3%, the biggest jump since December 2022. The increase was paced by a 20% rise in gasoline prices. But taking out food, energy and trade services, prices still rose a healthy 0.5%, indicating that inflation was broader than just energy. Seven Wall Street estimates gathered by CNBC show core personal consumption expenditures inflation for September, which will be published later this month, is forecast to rise 0.32%, up from 0.25% in August."
   },
   {
    "region": "미국",
@@ -81,106 +19,17 @@
    "summary": "Physical oil can cost about $38 a barrel more to deliver, as tanker rates surge.",
    "url": "https://www.cnbc.com/2026/10/15/brian-sullivan-why-the-real-price-of-oil-is-likely-30-40-higher-than-where-it-is-now.html",
    "published": "2026-10-16T04:53+09:00",
-   "id": "w9"
-  },
-  {
-   "region": "미국",
-   "source": "CNBC",
-   "title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
-   "summary": "Signs of distressed deepened in CoreWeave on Thursday.",
-   "url": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html",
-   "published": "2026-10-16T06:33+09:00",
-   "id": "w10"
+   "id": "w2",
+   "body": "That's the real cost of a barrel of oil because buying the physical commodity is a very different story from a number on traders' screens. Oil futures are just that: paper contracts indicating a price today, tomorrow, next month or further out. If you want to buy the physical commodity, it may be a totally different story — and price. As I've reported , prices for oil delivery have skyrocketed. Last week, a VLCC (aka a \"supertanker\" in non-shipper parlance) was chartered from the U.S. Gulf Coast to China for $76 million. Another very large crude carrier went for $77 million from the U.S. to South Korea. That's 10 times more than the price of the same trip less than one year ago. Assuming these ships hold about 2 million barrels of oil, that charter price means each barrel on the ship costs about $38 over the price of the oil itself."
   },
   {
    "region": "미국",
    "source": "MarketWatch",
-   "title": "Tesla finally delivers on its promise to create a flying car",
-   "summary": "Tesla’s demonstration of a levitating Roadster sports car was “an engineering flex with no commercial value beyond embarrassing traditional car makers.”",
-   "url": "https://www.marketwatch.com/story/tesla-may-finally-debut-a-flying-car-today-after-testing-fans-patience-for-nearly-a-decade-9a23c8e8?mod=mw_rss_topstories",
-   "published": "2026-10-16T11:42+09:00",
-   "id": "w11"
-  },
-  {
-   "region": "미국",
-   "source": "MarketWatch",
-   "title": "Pepsi loses more ground in the soda wars, as KFC switches to Coke",
-   "summary": "As more people switch to Coke, some analysts are getting more worried about the state of archrival Pepsi.",
-   "url": "https://www.marketwatch.com/story/pepsi-loses-more-ground-in-the-soda-wars-as-kfc-switches-to-coke-49b1ef53?mod=mw_rss_topstories",
-   "published": "2026-10-16T08:29+09:00",
-   "id": "w12"
-  },
-  {
-   "region": "미국",
-   "source": "MarketWatch",
-   "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-   "summary": "”I earn $110,000 a year.”",
-   "url": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-   "published": "2026-10-16T07:31+09:00",
-   "id": "w13"
-  },
-  {
-   "region": "미국",
-   "source": "MarketWatch",
-   "title": "I’m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
-   "summary": "“I have some reservations about the long-term stability of my younger son’s marriage.”",
-   "url": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
-   "published": "2026-10-16T07:15+09:00",
-   "id": "w14"
-  },
-  {
-   "region": "미국",
-   "source": "MarketWatch",
-   "title": "How a midterm sweep by Democrats could turn this tech selloff into a tech crash",
-   "summary": "Popular AI names are under pressure again this week — but the pain could worsen after the Nov. 3 election.",
-   "url": "https://www.marketwatch.com/story/how-a-midterm-sweep-by-democrats-could-turn-this-tech-selloff-into-a-tech-crash-a1d1a82f?mod=mw_rss_topstories",
-   "published": "2026-10-16T06:56+09:00",
-   "id": "w15"
-  },
-  {
-   "region": "미국",
-   "source": "MarketWatch",
-   "title": "Nvidia and other chip stocks face renewed pressure as AI fears swell",
-   "summary": "Reported details about Anthropic’s financial progress are adding to concerns about the health of the AI ecosystem.",
-   "url": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories",
-   "published": "2026-10-16T06:23+09:00",
-   "id": "w16"
-  },
-  {
-   "region": "미국",
-   "source": "MarketWatch",
-   "title": "Don’t ditch tech stocks just yet. Make these moves to take advantage of the latest AI reset.",
-   "summary": "Investors have a ‘love-hate relationship’ with tech stocks now — and experts recommend selectively hunting for bargains while also betting on the major cloud companies.",
-   "url": "https://www.marketwatch.com/story/dont-ditch-tech-stocks-just-yet-make-these-moves-to-take-advantage-of-the-latest-ai-reset-cb70c7b2?mod=mw_rss_topstories",
-   "published": "2026-10-16T06:21+09:00",
-   "id": "w17"
-  },
-  {
-   "region": "미국",
-   "source": "MarketWatch",
-   "title": "CoreWeave’s polarizing stock rebounds as Wall Street squares off about AI spending",
-   "summary": "Wall Street’s views on CoreWeave are starkly divisive as investors pay more attention to the financial details of big artificial-intelligence companies.",
-   "url": "https://www.marketwatch.com/story/coreweave-investors-are-feeling-spooked-as-the-companys-stock-and-bonds-see-fresh-pressure-ba39a931?mod=mw_rss_topstories",
-   "published": "2026-10-16T06:03+09:00",
-   "id": "w18"
-  },
-  {
-   "region": "미국",
-   "source": "MarketWatch",
-   "title": "Investors are dumping AI stocks as ‘tech wreck’ worsens. Here’s where they’re turning now.",
-   "summary": "A continued selloff in the AI trade is forcing investors to move from tech names to the relative safety of government bonds and defensive stock sectors.",
-   "url": "https://www.marketwatch.com/story/traders-pile-into-bonds-and-defensive-stocks-as-the-tech-wreck-picks-up-steam-48c04374?mod=mw_rss_topstories",
-   "published": "2026-10-16T05:40+09:00",
-   "id": "w19"
-  },
-  {
-   "region": "미국",
-   "source": "MarketWatch",
-   "title": "Big pharma stocks close near all-time highs as tech selloff pushes investors toward safer bets",
-   "summary": "Shares of AbbVie, Eli Lilly and Gilead Sciences closed near record highs",
-   "url": "https://www.marketwatch.com/story/big-pharma-stocks-near-all-time-highs-as-tech-selloff-pushes-investors-toward-safer-bets-0a5d5d07?mod=mw_rss_topstories",
-   "published": "2026-10-16T05:29+09:00",
-   "id": "w20"
+   "title": "Here are the key things Fed Chairman Kevin Warsh said — and didn’t say — while Americans were sleeping Thursday night",
+   "summary": "Federal Reserve Chair Kevin Warsh had an opportunity Thursday night to shape expectations heading into the central bank’s interest-rate-setting meeting in two week’s time — and in keeping with his practice of leaving markets guessing, he chose not to.",
+   "url": "https://www.marketwatch.com/story/here-are-the-key-things-fed-chairman-kevin-warsh-said-and-didnt-say-while-americans-were-sleeping-thursday-night-b82238a1?mod=mw_rss_topstories",
+   "published": "2026-10-16T16:07+09:00",
+   "id": "w3"
   },
   {
    "region": "유럽",
@@ -188,206 +37,19 @@
    "title": "Banks say Healey planning to increase tax on their profits in Budget",
    "summary": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
    "url": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-16T15:42+09:00",
-   "id": "w21"
-  },
-  {
-   "region": "유럽",
-   "source": "BBC",
-   "title": "I find it quite demoralising in store - why I do all my shopping online",
-   "summary": "After Primark announced plans for home delivery, we hear from women who never go into clothes stores.",
-   "url": "https://www.bbc.co.uk/news/articles/c36lk280kd1o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-16T08:16+09:00",
-   "id": "w22"
-  },
-  {
-   "region": "유럽",
-   "source": "BBC",
-   "title": "Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm",
-   "summary": "The culture secretary says the deal could affect free expression in the media and the variety of Britain's news landscape.",
-   "url": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-15T23:55+09:00",
-   "id": "w23"
-  },
-  {
-   "region": "유럽",
-   "source": "BBC",
-   "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
-   "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
-   "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-15T20:34+09:00",
-   "id": "w24"
-  },
-  {
-   "region": "유럽",
-   "source": "BBC",
-   "title": "'I paid thousands to a company for jobs that never came'",
-   "summary": "Apurv Patel is one of several people who say they were promised job opportunities that did not appear.",
-   "url": "https://www.bbc.co.uk/news/articles/c9j3dvezpdz0o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-16T02:19+09:00",
-   "id": "w25"
-  },
-  {
-   "region": "유럽",
-   "source": "BBC",
-   "title": "Living with a stink? Technology might help",
-   "summary": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
-   "url": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-16T08:18+09:00",
-   "id": "w26"
-  },
-  {
-   "region": "유럽",
-   "source": "BBC",
-   "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
-   "summary": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction.",
-   "url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-15T22:25+09:00",
-   "id": "w27"
-  },
-  {
-   "region": "유럽",
-   "source": "BBC",
-   "title": "Fuel costs squeezing margins for some businesses",
-   "summary": "Diesel recently topped £2 per litre and there is concern that a duty freeze will not go far enough.",
-   "url": "https://www.bbc.co.uk/news/articles/c9rky27ljrxno?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-16T14:30+09:00",
-   "id": "w28"
-  },
-  {
-   "region": "유럽",
-   "source": "BBC",
-   "title": "'TV and cheap booze' blamed for landlord quitting",
-   "summary": "Lincolnshire has lost 27% of its pubs and bars since 2009 and some are calling on the government to act against cheap supermarket booze.",
-   "url": "https://www.bbc.co.uk/news/articles/c6lyk77jq9d2o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-16T14:03+09:00",
-   "id": "w29"
-  },
-  {
-   "region": "유럽",
-   "source": "BBC",
-   "title": "'I'd spend $1,000 on a wedding present'",
-   "summary": "New Yorkers share how much they spend on a wedding gift - and how they decide.",
-   "url": "https://www.bbc.co.uk/news/videos/ckly0jy2ygdjo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-16T03:30+09:00",
-   "id": "w30"
-  },
-  {
-   "region": "유럽",
-   "source": "BBC",
-   "title": "Thousands of NI workers to get pay bump as Real Living Wage rises",
-   "summary": "About 6,000 workers in NI are paid the Real Living Wage - which is voluntarily paid to reflect the cost of living.",
-   "url": "https://www.bbc.co.uk/news/videos/cq398xnyx4gyo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-15T14:37+09:00",
-   "id": "w31"
+   "published": "2026-10-16T16:13+09:00",
+   "id": "w4",
+   "body": "Chancellor John Healey is planning to increase taxes on the bank sector, senior banking executives have told the BBC. Healey has described banks as part of \"the crown jewels\" of the UK economy, but leaders in the sector have said it will be \"on the menu\" at the Budget in two weeks' time. The biggest four banks collectively made about £15bn profit in the first six months of this year, and trade unions have called for them to face additional taxes. The trade body for the banking sector, UK Finance, warned \"further increases in bank taxes would weaken competitiveness, discourage investment and job creation, and work against the government's ambition to deliver growth in every postcode\". The UK's biggest banks and building societies currently pay a surcharge of 3% on top of the baseline 25% rate of corporation tax - a tax on profits."
   },
   {
    "region": "유럽",
    "source": "The Guardian",
-   "title": "John Healey set to raise bank taxes in the budget – business live",
-   "summary": "Rolling coverage of the latest economic and financial news John Healey poised to raise taxes on banks in budget Elsewhere in Bangkok today, Bank of England governor Andrew Bailey, was interviewed at the Institute of International Finance annual members’ meeting, being held…",
+   "title": "Bank shares drop as John Healey prepares to raise taxes on the banking sector in the budget – business live",
+   "summary": "Rolling coverage of the latest economic and financial news John Healey poised to raise taxes on banks in budget Shares in Barclays have dipped by 0.45%. Shares in UK banks are dropping at the start of trading, as investors react to the Guardian’s scoop that John Healey is poised…",
    "url": "https://www.theguardian.com/business/live/2026/oct/16/john-healey-set-to-raise-bank-taxes-shares-profits-stock-markets-imf-latest-news-updates",
-   "published": "2026-10-16T15:53+09:00",
-   "id": "w32"
-  },
-  {
-   "region": "유럽",
-   "source": "The Guardian",
-   "title": "Repairing Brexit economic damage should be Burnham’s top priority, business chief says",
-   "summary": "Shevaun Haviland argues PM is right to revisit Labour’s EU red lines as current trading relationship is bad for business Repairing the economic damage of Brexit should be the top priority for Andy Burnham as he reconsiders Labour’s red lines on EU membership, the head of one of…",
-   "url": "https://www.theguardian.com/business/2026/oct/16/brexit-economic-damage-andy-burnham-uk-business-eu-trading-relationship",
-   "published": "2026-10-16T14:00+09:00",
-   "id": "w33"
-  },
-  {
-   "region": "유럽",
-   "source": "The Guardian",
-   "title": "Meta releases Muse Spark Open, a new ‘open-weight’ AI model",
-   "summary": "Meta says Muse excels at ‘multi-step reasoning’ and ‘complex software engineering’ as it races to catch up to Chinese rivals Meta on Thursday launched a new open-weight AI model which it claims rivals, and in some cases outperforms, similar products from leading Chinese…",
-   "url": "https://www.theguardian.com/technology/2026/oct/16/meta-releases-muse-spark-open-a-new-open-weight-ai-model",
-   "published": "2026-10-16T09:34+09:00",
-   "id": "w34"
-  },
-  {
-   "region": "유럽",
-   "source": "The Guardian",
-   "title": "Number of cloned number plates on UK roads at record high, data shows",
-   "summary": "More than 11,400 drivers last year were fined for offences they did not recognise as RAC says system needs reform The number of reported “cloned” vehicles involved in offences on UK roads has reached a record high, official data shows. More than 11,400 drivers contacted the DVLA…",
-   "url": "https://www.theguardian.com/uk-news/2026/oct/16/cloned-number-plates-uk-roads-record-high",
-   "published": "2026-10-16T13:00+09:00",
-   "id": "w35"
-  },
-  {
-   "region": "유럽",
-   "source": "The Guardian",
-   "title": "Thames Water asks for £2.4bn more to avoid going bust this year or early 2027",
-   "summary": "Water company tells creditors it will not survive long enough to agree refinancing deal without more money Thames Water has asked its creditors for another £2.4bn as the embattled water company comes close to running out of cash. The UK’s largest water company said on Thursday…",
-   "url": "https://www.theguardian.com/business/2026/oct/15/thames-water-24bn-going-bust-this-year-early-2027",
-   "published": "2026-10-16T02:14+09:00",
-   "id": "w36"
-  },
-  {
-   "region": "유럽",
-   "source": "The Guardian",
-   "title": "Cost of balancing Great Britain’s power grid reaches nearly £50m a day",
-   "summary": "Grid operator paying large sums to switch off windfarms in areas of excess electricity generation while turning on gas plants elsewhere The cost of balancing Great Britain’s power grid has soared to near-record highs of almost £50m a day after windfarms were turned off because…",
-   "url": "https://www.theguardian.com/business/2026/oct/15/cost-of-balancing-great-britain-power-grid-50m-daily",
-   "published": "2026-10-16T00:55+09:00",
-   "id": "w37"
-  },
-  {
-   "region": "유럽",
-   "source": "The Guardian",
-   "title": "Lisa Nandy ‘minded to intervene’ in Sky’s £1.6bn purchase of ITV",
-   "summary": "Culture secretary’s move paves way for deeper scrutiny of deal that would create UK’s biggest commercial broadcaster The culture secretary, Lisa Nandy, has said she is “minded to intervene” in Sky’s £1.6bn purchase of ITV, in a move that paves the way for deeper scrutiny of a…",
-   "url": "https://www.theguardian.com/business/2026/oct/15/lisa-nandy-culture-secretary-intervene-sky-purchase-itv",
-   "published": "2026-10-16T00:44+09:00",
-   "id": "w38"
-  },
-  {
-   "region": "유럽",
-   "source": "The Guardian",
-   "title": "US lawmakers unveil bill to hold Wall Street’s ‘Epstein-connected’ bosses to account",
-   "summary": "Move comes as Senator Elizabeth Warren condemns Barclays response to questions over ex-boss’s ties to sex offender US lawmakers have unveiled a new bill to hold Wall Street’s “Epstein-connected” bosses to account for helping finance the late sex offender’s crimes. It came as top…",
-   "url": "https://www.theguardian.com/business/2026/oct/15/new-bill-wall-street-bosses-epstein-connections",
-   "published": "2026-10-15T22:30+09:00",
-   "id": "w39"
-  },
-  {
-   "region": "유럽",
-   "source": "The Guardian",
-   "title": "Cult venue Prince Charles cinema ‘saved’ after lease renewal signed",
-   "summary": "The much-loved central London institution, which has been threatened with closure since January 2025, secures 25-year lease without break clause with current landlords The celebrated Prince Charles repertory cinema in London’s Leicester Square has announced that the threat of…",
-   "url": "https://www.theguardian.com/film/2026/oct/15/cult-venue-prince-charles-cinema-saved-lease-renewal-signed",
-   "published": "2026-10-16T00:20+09:00",
-   "id": "w40"
-  },
-  {
-   "region": "유럽",
-   "source": "The Guardian",
-   "title": "The water torture goes on at Thames. Sector-wide reform isn’t moving much faster | Nils Pratley",
-   "summary": "If ‘public control’ bit is delaying overhaul, that needs to be nailed down sharpish or continued uncertainty could be costly It is strange now to recall that Thames Water had a prominent slot on what was known as “Sue’s shit list” – the internal Labour dossier, compiled by Keir…",
-   "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/oct/15/water-torture-thames-sector-wide-reform-delay-public-control",
-   "published": "2026-10-16T03:00+09:00",
-   "id": "w41"
-  },
-  {
-   "region": "유럽",
-   "source": "The Guardian",
-   "title": "Bad news for Trump ahead of the midterms: it’s still the economy, stupid",
-   "summary": "Voters’ opposition to the state of Trump’s economy is well established – despite his desperate attempts to deflect Tell us: what is your personal ‘recession indicator’? It’s indisputable that the political polarization of our time has reduced (and confused) the influence of…",
-   "url": "https://www.theguardian.com/business/2026/oct/15/trump-economy-midterm-elections",
-   "published": "2026-10-15T21:00+09:00",
-   "id": "w42"
-  },
-  {
-   "region": "유럽",
-   "source": "The Guardian",
-   "title": "The global economy is muddling through against the odds. But a storm is coming | Larry Elliott",
-   "summary": "Finance ministers gathering for the IMF annual meeting know the need for multilateral cooperation to deal with many crises. There is little chance of that Not much has gone right for the global economy this year, and plenty has gone wrong. Two big regional wars are destabilising…",
-   "url": "https://www.theguardian.com/commentisfree/2026/oct/15/global-economy-multilateral-cooperation-crisis-imf",
-   "published": "2026-10-15T14:00+09:00",
-   "id": "w43"
+   "published": "2026-10-16T16:19+09:00",
+   "id": "w5",
+   "body": "Expectations of a budget tax raid aren’t the only thing weighing on Lloyds’ share price this morning. The bank has also been hit with a broker downgrade – RBC cut its target price for Lloyds this morning, citing increased competition in the UK deposit market."
   },
   {
    "region": "유럽",
@@ -396,7 +58,8 @@
    "summary": "From action cameras and smartphones to EVs and robot vacuums, Chinese brands are gaining ground worldwide, despite privacy and security concerns. What's driving their rise, and can European rivals keep up?",
    "url": "https://www.dw.com/en/why-chinese-tech-brands-are-outpacing-western-rivals-from-evs-to-robot-vacuums/a-79646187?maca=en-rss-en-bus-2091-rdf",
    "published": "2026-10-15T17:45+09:00",
-   "id": "w44"
+   "id": "w6",
+   "body": "At its peak in 2015, the US company reigned supreme with around 6.6 million units sold that year and a market share of over 70%. Today, the pioneer is fighting for survival. GoPro's biggest rivals, DJI and Insta360, entered the action camera market in 2019 and 2021, respectively. Today, they account for more than 90% of global smart handheld camera sales. Alexander Hannemann, who regularly uses action cameras to film his motorcycle rides, says he switched from GoPro to Insta360 around two years ago. \"The quality is much better than a GoPro, even when I'm speeding up and going into corners at like 80 kilometers per hour,\" he told DW. GoPro's case is not an exception. Since around 2010, many Chinese brands have not only caught up but surpassed once-dominant Western rivals across the consumer technology industry, from smart TVs to robot vacuums."
   },
   {
    "region": "중국",
@@ -405,7 +68,86 @@
    "summary": "China’s central bank chief has said exchange-rate adjustments alone cannot resolve global economic imbalances, calling on surplus and deficit economies to share responsibility for addressing them. Speaking at the third G20 finance ministers and central bank governors’ meeting in…",
    "url": "https://www.scmp.com/economy/global-economy/article/3371116/china-says-only-joint-action-not-exchange-rates-alone-can-address-global-imbalances?utm_source=rss_feed",
    "published": "2026-10-16T15:13+09:00",
-   "id": "w45"
+   "id": "w7",
+   "body": "China’s central bank chief has said exchange-rate adjustments alone cannot resolve global economic imbalances, calling on surplus and deficit economies to share responsibility for addressing them. Speaking at the third G20 finance ministers and central bank governors’ meeting in Bangkok on Thursday, Pan Gongsheng, governor of the People’s Bank of China (PBOC), called for a “more comprehensive analytical perspective” on global imbalances. “We should look beyond the current account to financial channels, paying greater attention to how financial factors such as capital flows affect imbalances, particularly as global financial integration deepens,” he said, according to a PBOC readout."
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "Fed's Warsh withholds rate signal, praises recent global tightening with 'no free riders'",
+   "summary": "Warsh refrained from signaling another interest rate hike this month, pointed to a \"synchronous tightening\" by central banks in the fight against inflation.",
+   "url": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
+   "published": "2026-10-16T16:11+09:00",
+   "id": "w8",
+   "body": "BANGKOK — Federal Reserve Chairman Kevin Warsh refrained from signaling whether there will be another interest rate hike again this month, while acknowledging a \"synchronous tightening\" by central banks around the world and there's \"no free riders.\" \"I don't prejudge meetings. I don't believe in saying now what I might do at the meetings that we have in the balance of this year,\" Warsh said, reiterating his opposition to the use of forward guidance for markets that should rely on interpreting data. He also acknowledged that stance may disappoint anyone who had hoped for a steer ahead of the central bank meeting later this month. \"It's a new chapter at the Fed [and] we're not in that business anymore. But we can go in any direction you'd like,\" he said."
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "US Fed chair warns of financial stability risk as investment rises",
+   "summary": "",
+   "url": "https://asia.nikkei.com/business/markets/us-fed-chair-warns-of-financial-stability-risk-as-investment-rises",
+   "published": null,
+   "id": "w9",
+   "body": "BANGKOK -- U.S. Federal Reserve Chair Kevin Warsh on Friday warned the central bank must monitor risks to financial stability as the private sector puts more money into emerging technologies and companies."
+  },
+  {
+   "region": "글로벌",
+   "source": "Financial Times",
+   "title": "Healey signals tax raid on banks in Budget",
+   "summary": "Chancellor points to looming ‘decisions’ as financial services sector braces for higher levies",
+   "url": "https://www.ft.com/content/09e07278-8479-49bb-a145-51e5d93828a2?syn-25a6b1a6=1",
+   "published": "2026-10-16T16:08+09:00",
+   "id": "w10"
+  },
+  {
+   "region": "미국",
+   "source": "CNBC",
+   "title": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
+   "summary": "The exchange comes as U.S. debt exceeds $40 trillion and 10-year Treasury yields remain above 5%, intensifying scrutiny of the fiscal outlook.",
+   "url": "https://www.cnbc.com/2026/10/15/zervos-imf-us-debt-warning.html",
+   "published": "2026-10-15T22:42+09:00",
+   "id": "w11",
+   "body": "The International Monetary Fund should check its own forecasting record before criticizing U.S. fiscal policy, David Zervos, newly appointed counselor to the Treasury Secretary , said on Thursday. \"When we see pieces on the IMF, it's good to remember how messy their forecasts have been in the past,\" Zervos said in emailed comments to CNBC. The former Wall Street economist was responding to the IMF's Managing Director Kristalina Georgieva, who cautioned during the IMF-World Bank annual meetings in Bangkok on Wednesday that strong U.S. economic growth would not be sufficient to put mounting federal debt on a sustainable course. Georgieva was herself responding to U.S. Treasury Secretary Scott Bessent, who told CNBC in August that the U.S. could \"grow our way out\" of a rising debt-to-GDP ratio, after government debt surpassed $40 trillion ."
+  },
+  {
+   "region": "미국",
+   "source": "CNBC",
+   "title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
+   "summary": "Signs of distressed deepened in CoreWeave on Thursday.",
+   "url": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html",
+   "published": "2026-10-16T06:33+09:00",
+   "id": "w12",
+   "body": "CoreWeave 's credit stress continued to spiral on Thursday amid a broader sell-off in AI-related names. CoreWeave — a so-called neocloud company — has taken on more than $51 billion of debt and obligations to finance its AI infrastructure build-out. It's now facing a rebellion from stock and bond investors as concerns mount about AI overspending and debt levels. Yields on CoreWeave debt have continued to climb, with the yield to maturity on its 9.75% bond due in 2031 reaching 15.78%. Bond yields move inversely to prices. Meanwhile, the spread on its five-year credit default swaps, which are insurance against default, at one point soared above 1,140 basis points. It last stood at nearly 1,038 bps — a 16% week-over-week jump and 164% higher than a year ago. Credit concerns are spreading into AI equities too."
+  },
+  {
+   "region": "미국",
+   "source": "MarketWatch",
+   "title": "Tesla finally delivers on its promise to create a flying car",
+   "summary": "Tesla’s demonstration of a levitating Roadster sports car was “an engineering flex with no commercial value beyond embarrassing traditional car makers.”",
+   "url": "https://www.marketwatch.com/story/tesla-may-finally-debut-a-flying-car-today-after-testing-fans-patience-for-nearly-a-decade-9a23c8e8?mod=mw_rss_topstories",
+   "published": "2026-10-16T11:42+09:00",
+   "id": "w13"
+  },
+  {
+   "region": "유럽",
+   "source": "BBC",
+   "title": "I find it quite demoralising in store - why I do all my shopping online",
+   "summary": "After Primark announced plans for home delivery, we hear from women who never go into clothes stores.",
+   "url": "https://www.bbc.co.uk/news/articles/c36lk280kd1o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-16T08:16+09:00",
+   "id": "w14",
+   "body": "As a plus-size woman, she finds the size ranges available in stores unreliable. \"The sizing in store is notoriously bad. I find it quite demoralising in store,\" she says. \"The average size woman in the UK is a size 14 or a size 16. I think a lot of people just don't feel seen or represented,\" says the 29-year-old from Peterborough. Jess, a culture journalist and author, finds shopping online \"much quicker than going into a store, paying for parking, trying things on\". And she feels posting back items that don't fit is less hassle than returning in store, while frequent visits to her local post office give her \"more of a community connection\". Jess notes Primark is one of the few High Street retailers where plus-size people can shop. In her experience, Primark stores usually stock up to a size 22."
+  },
+  {
+   "region": "유럽",
+   "source": "The Guardian",
+   "title": "Repairing Brexit economic damage should be Burnham’s top priority, business chief says",
+   "summary": "Shevaun Haviland argues PM is right to revisit Labour’s EU red lines as current trading relationship is bad for business Repairing the economic damage of Brexit should be the top priority for Andy Burnham as he reconsiders Labour’s red lines on EU membership, the head of one of…",
+   "url": "https://www.theguardian.com/business/2026/oct/16/brexit-economic-damage-andy-burnham-uk-business-eu-trading-relationship",
+   "published": "2026-10-16T14:00+09:00",
+   "id": "w15",
+   "body": "Repairing the economic damage of Brexit should be the top priority for Andy Burnham as he reconsiders Labour’s red lines on EU membership, the head of one of Britain’s leading business groups has said. Shevaun Haviland, the director general of the British Chambers of Commerce (BCC), said she welcomed the prime minister reopening the Brexit battle lines despite the uncertainty it could create, arguing that the UK’s current trading relationship with the EU was bad for business. “We do think it’s right, because of what we know from the evidence of how businesses feel it’s not working,” she said. Highlighting the continuing economic hit from Brexit , Haviland said more than half of bosses surveyed by the business lobby group believed the deal negotiated by Boris Johnson’s government and enacted in 2021 was not helping them."
   },
   {
    "region": "중국",
@@ -414,79 +156,8 @@
    "summary": "Beijing has enlisted the support of its top internet watchdog to deepen the investigation into a car safety issue that put Chinese-made intelligent vehicles under the spotlight. The Ministry of Industry and Information Technology (MIIT) said on Thursday that a joint…",
    "url": "https://www.scmp.com/business/china-business/article/3371102/beijing-enlists-multiple-regulators-probe-ev-safety-issue-raised-quality-alarms?utm_source=rss_feed",
    "published": "2026-10-16T15:00+09:00",
-   "id": "w46"
-  },
-  {
-   "region": "중국",
-   "source": "SCMP",
-   "title": "Indonesian durian farmers stand to benefit from minister’s visit to China",
-   "summary": "Indonesian officials, looking to alleviate poverty in their country and eyeing the rise of rural economies in China, are turning to Beijing for help that may include stoking the exports of a potentially lucrative durian crop. Indonesian Transmigration Minister Muhammad Iftitah…",
-   "url": "https://www.scmp.com/economy/china-economy/article/3371091/indonesian-durian-farmers-stand-benefit-ministers-visit-china?utm_source=rss_feed",
-   "published": "2026-10-16T13:00+09:00",
-   "id": "w47"
-  },
-  {
-   "region": "중국",
-   "source": "SCMP",
-   "title": "Pork insecurity: China protein supply ‘exposed’ amid reliance on feed imports, study says",
-   "summary": "Heavy reliance on imported soy feed in China’s massive pork industry puts affordable protein supply for its 1.4 billion people at risk amid rising regional conflicts and climate change, a new study has warned. The nation, which relies largely on pork for its protein intake, was…",
-   "url": "https://www.scmp.com/economy/china-economy/article/3371086/pork-insecurity-chinas-protein-supply-exposed-amid-reliance-feed-imports-study?utm_source=rss_feed",
-   "published": "2026-10-16T11:45+09:00",
-   "id": "w48"
-  },
-  {
-   "region": "중국",
-   "source": "SCMP",
-   "title": "The China decoupling paradox: why the world still needs its manufacturing machine",
-   "summary": "Talk of global decoupling from China has persisted for years, as has speculation that emerging economies such as India and Vietnam could soon replace it as the “world’s factory”. But for Indian hardware engineer Neeraj Arora, the growth of India’s electronics manufacturing…",
-   "url": "https://www.scmp.com/economy/global-economy/article/3371027/china-decoupling-paradox-why-world-still-needs-its-manufacturing-machine?utm_source=rss_feed",
-   "published": "2026-10-16T07:00+09:00",
-   "id": "w49"
-  },
-  {
-   "region": "중국",
-   "source": "SCMP",
-   "title": "Shenzhen offers discount fares, other perks to keep residents off roads during Apec summit",
-   "summary": "Shenzhen residents have been encouraged to work from home and reduce their driving during the coming Asia-Pacific Economic Cooperation (Apec) summit, as the local government unveiled logistics arrangements for one of the year’s biggest events. The measures included “flexible…",
-   "url": "https://www.scmp.com/economy/article/3371029/shenzhen-offers-discount-fares-other-perks-keep-residents-roads-during-apec-summit?utm_source=rss_feed",
-   "published": "2026-10-15T20:00+09:00",
-   "id": "w50"
-  },
-  {
-   "region": "중국",
-   "source": "SCMP",
-   "title": "Notable Chinese demographer calls for 18-fold increase to nation’s childcare subsidies",
-   "summary": "One of China’s most outspoken demographers has called for raising childcare subsidies to at least 200,000 yuan (US$29,883) per child – more than 18 times the total offered under the current national scheme – to reverse the decline in births and strengthen the country’s long-term…",
-   "url": "https://www.scmp.com/economy/china-economy/article/3370991/notable-chinese-demographer-calls-18-fold-increase-nations-childcare-subsidies?utm_source=rss_feed",
-   "published": "2026-10-15T17:02+09:00",
-   "id": "w51"
-  },
-  {
-   "region": "중국",
-   "source": "SCMP",
-   "title": "Morgan Stanley’s Robin Xing on China’s next industrial revolution, deflation woes",
-   "summary": "Robin Xing is chief China economist at Morgan Stanley. A famed economist and Peking University graduate, Xing has a PhD in economics from the Chinese Academy of Social Sciences and previously worked at Goldman Sachs and China International Capital Corp. In his second Open…",
-   "url": "https://www.scmp.com/plus/economy/china-economy/article/3370986/morgan-stanleys-robin-xing-chinas-next-industrial-revolution-deflation-woes?utm_source=rss_feed",
-   "published": "2026-10-15T16:43+09:00",
-   "id": "w52"
-  },
-  {
-   "region": "중국",
-   "source": "SCMP",
-   "title": "China’s CXMT gets pledge of support as provincial party chief vows chip-industry expansion",
-   "summary": "Three weeks into his tenure as the Communist Party secretary of Anhui province, Li Lecheng carried out an on-site inspection at China’s home-grown memory chip giant ChangXin Memory Technologies (CXMT) on Wednesday, pledging to grow integrated circuits (ICs) as an emerging pillar…",
-   "url": "https://www.scmp.com/economy/china-economy/article/3370970/chinas-cxmt-gets-pledge-support-provincial-party-chief-vows-chip-industry-expansion?utm_source=rss_feed",
-   "published": "2026-10-15T15:18+09:00",
-   "id": "w53"
-  },
-  {
-   "region": "아시아",
-   "source": "CNBC",
-   "title": "Fed's Warsh withholds rate signal, praises recent global tightening with 'no free riders'",
-   "summary": "Warsh refrained from signaling another interest rate hike this month, pointed to a \"synchronous tightening\" by central banks in the fight against inflation.",
-   "url": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
-   "published": "2026-10-16T15:18+09:00",
-   "id": "w54"
+   "id": "w16",
+   "body": "Beijing has enlisted the support of its top internet watchdog to deepen the investigation into a car safety issue that put Chinese-made intelligent vehicles under the spotlight. The Ministry of Industry and Information Technology (MIIT) said on Thursday that a joint investigation team including officials from the Cyberspace Administration of China (CAC) and the State Administration for Market Regulation (SAMR) would verify facts regarding reports about brake pedal failures in tests of an electric vehicle (EV) made by the Huawei Technologies-backed Maextro luxury brand. The three ministry-level authorities “have paid close attention to the issue”, the MIIT said."
   },
   {
    "region": "아시아",
@@ -495,88 +166,8 @@
    "summary": "Singapore vessels are set to continue navigating the perilous Strait of Hormuz despite attacks on two container ships, said maritime experts.",
    "url": "https://www.cnbc.com/2026/10/16/strait-hormuz-singapore-ships-attacked.html",
    "published": "2026-10-16T14:56+09:00",
-   "id": "w55"
-  },
-  {
-   "region": "아시아",
-   "source": "CNBC",
-   "title": "Marco Rubio to visit Indian billionaire Ambani's refinery in Gujarat as U.S. diesel prices surge",
-   "summary": "Not only is Ambani's Reliance investing in a U.S. refinery and buying Venezuelan oil, but its strong ability to supply diesel has put Jamnagar on the map during Rubio's visit.",
-   "url": "https://www.cnbc.com/2026/10/16/marco-rubio-reliance-jamnagar-refinery.html",
-   "published": "2026-10-16T15:45+09:00",
-   "id": "w56"
-  },
-  {
-   "region": "아시아",
-   "source": "CNBC",
-   "title": "The IPO drought is driving private equity-owned companies to the debt market to pay investors",
-   "summary": "Private equity firms are increasingly using debt-funded dividend recaps to return cash to investors as exits remain subdued.",
-   "url": "https://www.cnbc.com/2026/10/16/private-equity-portfolios-ipo-debt.html",
-   "published": "2026-10-16T14:00+09:00",
-   "id": "w57"
-  },
-  {
-   "region": "아시아",
-   "source": "CNBC",
-   "title": "Russia returns to G20 table in Bangkok on U.S. invitation that angers Europe",
-   "summary": "Russia’s return to the G20 table has tested how far Washington’s outreach to Moscow will strain ties with European allies.",
-   "url": "https://www.cnbc.com/2026/10/16/g20-russia-ukraine-trump-diesel-europe-.html",
-   "published": "2026-10-16T15:11+09:00",
-   "id": "w58"
-  },
-  {
-   "region": "아시아",
-   "source": "CNBC",
-   "title": "Hybe shares jump 10% as K-pop sensation BTS' tour lifts earnings hopes",
-   "summary": "BTS' world tour and rising global demand for newer K-pop acts are fueling earnings expectations, sending Hybe shares soaring.",
-   "url": "https://www.cnbc.com/2026/10/16/bts-concerts-hybe-katseye-cortis.html",
-   "published": "2026-10-16T12:53+09:00",
-   "id": "w59"
-  },
-  {
-   "region": "아시아",
-   "source": "CNBC",
-   "title": "People in China are spending nearly as much of their income as Americans on healthcare",
-   "summary": "Increasing government spending on healthcare could help boost consumption in China, the International Monetary Fund said.",
-   "url": "https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html",
-   "published": "2026-10-16T08:00+09:00",
-   "id": "w60"
-  },
-  {
-   "region": "아시아",
-   "source": "CNBC",
-   "title": "India's rupee forecast to weaken toward 100-per-dollar level even as RBI pushes back",
-   "summary": "The RBI's latest moves have helped the rupee recover from 96.79 rupees per dollar to the 95-level over recent days.",
-   "url": "https://www.cnbc.com/2026/10/16/india-rupee-rbi-dollar-iran-war.html",
-   "published": "2026-10-16T09:54+09:00",
-   "id": "w61"
-  },
-  {
-   "region": "아시아",
-   "source": "CNBC",
-   "title": "What to know about Starshield, SpaceX's military-focused Starlink service",
-   "summary": "Elon Musk distinguished Starshield from Starlink, which he said could not be used for offensive military operations.",
-   "url": "https://www.cnbc.com/2026/10/15/what-is-starshield-spacex-starlink-military.html",
-   "published": "2026-10-16T15:25+09:00",
-   "id": "w62"
-  },
-  {
-   "region": "아시아",
-   "source": "CNBC",
-   "title": "From 'Dune' to 'Wicker,' how this ‘tiny’ European country became a hub for Hollywood",
-   "summary": "Hungary, a small country in central Europe, has played a major part in the movie business since the late 19th century.",
-   "url": "https://www.cnbc.com/2026/10/15/hungary-film-industry-hollywood-movies.html",
-   "published": "2026-10-15T15:09+09:00",
-   "id": "w63"
-  },
-  {
-   "region": "아시아",
-   "source": "CNBC",
-   "title": "Netflix Chief Content Officer Bela Bajaria is leaving, will be replaced by Peter Rice",
-   "summary": "Netflix announced Bela Bajaria will be replaced by former Disney exec Peter Rice as the company's chief content officer.",
-   "url": "https://www.cnbc.com/2026/10/15/netflix-bela-bajaria-peter-rice.html",
-   "published": "2026-10-16T08:08+09:00",
-   "id": "w64"
+   "id": "w17",
+   "body": "Commercial vessels are likely to continue navigating the perilous Strait of Hormuz despite the sinking of a Singapore-flagged container ship this week, as strong demand for Middle Eastern energy and lucrative shipping opportunities keep some operators willing to brave escalating attacks, maritime experts said. The latest attacks on two Singapore-flagged container ships have heightened concerns over the safety of commercial shipping through one of the world's most important maritime chokepoints. But analysts say the incidents are unlikely to bring remaining shipping activity through the Strait to a halt, even as major container lines largely stay away. Collin Koh, a senior fellow at Singapore's S. Rajaratnam School of International Studies, said shipping companies were likely to continue seeking opportunities to transit the strait despite heightened security threats."
   },
   {
    "region": "아시아",
@@ -585,106 +176,8 @@
    "summary": "",
    "url": "https://asia.nikkei.com/business/transportation/japan-bullet-trains-to-raise-super-express-fares-in-2027",
    "published": null,
-   "id": "w65"
-  },
-  {
-   "region": "아시아",
-   "source": "Nikkei Asia",
-   "title": "Indonesia stocks plunge after MSCI signals possible downgrade in status",
-   "summary": "",
-   "url": "https://asia.nikkei.com/business/markets/indonesia-stocks-plunge-after-msci-signals-possible-downgrade-in-status",
-   "published": null,
-   "id": "w66"
-  },
-  {
-   "region": "아시아",
-   "source": "Nikkei Asia",
-   "title": "Optical parts maker to triple Malaysian capacity to tackle AI supply crunch",
-   "summary": "",
-   "url": "https://asia.nikkei.com/spotlight/supply-chain/optical-parts-maker-to-triple-malaysian-capacity-to-tackle-ai-supply-crunch",
-   "published": null,
-   "id": "w67"
-  },
-  {
-   "region": "아시아",
-   "source": "Nikkei Asia",
-   "title": "Chinese tech companies strive to crack Japan market despite tensions",
-   "summary": "",
-   "url": "https://asia.nikkei.com/politics/international-relations/japan-china-tensions/chinese-tech-companies-strive-to-crack-japan-market-despite-tensions",
-   "published": null,
-   "id": "w68"
-  },
-  {
-   "region": "아시아",
-   "source": "Nikkei Asia",
-   "title": "Editor's Choice: In divided world, Western schools bring classrooms closer to Asian students",
-   "summary": "",
-   "url": "https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-in-divided-world-western-schools-bring-classrooms-closer-to-asian-students",
-   "published": null,
-   "id": "w69"
-  },
-  {
-   "region": "아시아",
-   "source": "Nikkei Asia",
-   "title": "China's BYD turns to local assembler in Malaysia after shelving plant plan",
-   "summary": "",
-   "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/china-s-byd-turns-to-local-assembler-in-malaysia-after-shelving-plant-plan",
-   "published": null,
-   "id": "w70"
-  },
-  {
-   "region": "아시아",
-   "source": "Nikkei Asia",
-   "title": "Robot dolls, chip shortages and Apple's soft sales",
-   "summary": "",
-   "url": "https://asia.nikkei.com/techasia/robot-dolls-chip-shortages-and-apple-s-soft-sales2",
-   "published": null,
-   "id": "w71"
-  },
-  {
-   "region": "아시아",
-   "source": "Nikkei Asia",
-   "title": "Australian lithium miner PLS green-lights expansion",
-   "summary": "",
-   "url": "https://asia.nikkei.com/business/markets/commodities/australian-lithium-miner-pls-green-lights-expansion",
-   "published": null,
-   "id": "w72"
-  },
-  {
-   "region": "아시아",
-   "source": "Nikkei Asia",
-   "title": "Pakistan companies move into lithium battery assembly with China partners",
-   "summary": "",
-   "url": "https://asia.nikkei.com/business/business-trends/pakistan-companies-move-into-lithium-battery-assembly-with-china-partners",
-   "published": null,
-   "id": "w73"
-  },
-  {
-   "region": "아시아",
-   "source": "Nikkei Asia",
-   "title": "IMF warns global food security worsening amid El Nino",
-   "summary": "",
-   "url": "https://asia.nikkei.com/spotlight/environment/climate-change/imf-warns-global-food-security-worsening-amid-el-nino",
-   "published": null,
-   "id": "w74"
-  },
-  {
-   "region": "아시아",
-   "source": "Nikkei Asia",
-   "title": "China's Canton Fair showcases tech push as trade frictions persist",
-   "summary": "",
-   "url": "https://asia.nikkei.com/business/business-trends/china-s-canton-fair-showcases-tech-push-as-trade-frictions-persist",
-   "published": null,
-   "id": "w75"
-  },
-  {
-   "region": "아시아",
-   "source": "Nikkei Asia",
-   "title": "Through the Lens: China opens biggest gateway to Korean Peninsula in 80 years",
-   "summary": "",
-   "url": "https://asia.nikkei.com/photos/through-the-lens-china-opens-biggest-gateway-to-korean-peninsula-in-80-years",
-   "published": null,
-   "id": "w76"
+   "id": "w18",
+   "body": "NAGOYA, Japan -- Japan's two bullet train operators on Friday announced plans to raise reserved-seat fares on Tokaido Shinkansen Nozomi trains and Sanyo Shinkansen Mizuho trains starting in July 2027."
   },
   {
    "region": "글로벌",
@@ -693,7 +186,76 @@
    "summary": "US central bank chair says economy has ‘broadly conformed with our expectations’ since rate increase in September",
    "url": "https://www.ft.com/content/95a8e05d-fc20-441d-b271-64e87fe41f76?syn-25a6b1a6=1",
    "published": "2026-10-16T15:37+09:00",
-   "id": "w77"
+   "id": "w19"
+  },
+  {
+   "region": "미국",
+   "source": "CNBC",
+   "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
+   "summary": "September producer prices were expected to increase 0.6% month over month and 5.5% annually, according to the consensus estimate by Dow Jones.",
+   "url": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
+   "published": "2026-10-16T01:15+09:00",
+   "id": "w20",
+   "body": "September's producer price index came in much hotter than economists forecast on Thursday, underscoring the continued inflationary pressure from energy amid the U.S. war with Iran. The measure of underlying inflation pressures climbed 1.3% in September and 6.3% on an annual basis, according to the Bureau of Labor Statistics. That marked the largest monthly and annual gains since March 2022 and December 2022, respectively. Both readings topped expectations of economists polled by Dow Jones, who forecast an advance of 0.6% on the month and 5.5% annually. Energy drove a sizable chunk of those increases as the Middle East conflict curtailed oil supply and sent prices surging. The so-called core PPI, which excludes volatile food and energy prices from the wholesaler inflation index, added 0.7% on the month and 5% over the 12-month period."
+  },
+  {
+   "region": "미국",
+   "source": "MarketWatch",
+   "title": "Pepsi loses more ground in the soda wars, as KFC switches to Coke",
+   "summary": "As more people switch to Coke, some analysts are getting more worried about the state of archrival Pepsi.",
+   "url": "https://www.marketwatch.com/story/pepsi-loses-more-ground-in-the-soda-wars-as-kfc-switches-to-coke-49b1ef53?mod=mw_rss_topstories",
+   "published": "2026-10-16T08:29+09:00",
+   "id": "w21"
+  },
+  {
+   "region": "유럽",
+   "source": "BBC",
+   "title": "Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm",
+   "summary": "The culture secretary says the deal could affect free expression in the media and the variety of Britain's news landscape.",
+   "url": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-15T23:55+09:00",
+   "id": "w22",
+   "body": "Culture Secretary Lisa Nandy has said she is \"minded to intervene\" in the proposed £1.6bn deal for Sky to buy ITV's media and entertainment division. Nandy said there were reasonable grounds to believe the deal could affect free expression in the media and the variety of Britain's news landscape. Sky said it would \"carefully consider\" a letter from the culture secretary and \"engage constructively\" with the review into the deal. \"We remain confident that bringing Sky and ITV's media and entertainment business together will create a stronger British media,\" it said. ITV welcomed the letter and said the deal would help it \"compete with global streaming platforms, benefiting viewers, advertisers and the UK creative industries\". The two companies announced in July that Sky had agreed to buy ITV's broadcasting business, including its free-to-air TV channels and the ITV X streaming service."
+  },
+  {
+   "region": "유럽",
+   "source": "The Guardian",
+   "title": "Meta releases Muse Spark Open, a new ‘open-weight’ AI model",
+   "summary": "Meta says Muse excels at ‘multi-step reasoning’ and ‘complex software engineering’ as it races to catch up to Chinese rivals Meta on Thursday launched a new open-weight AI model which it claims rivals, and in some cases outperforms, similar products from leading Chinese…",
+   "url": "https://www.theguardian.com/technology/2026/oct/16/meta-releases-muse-spark-open-a-new-open-weight-ai-model",
+   "published": "2026-10-16T09:34+09:00",
+   "id": "w23",
+   "body": "Meta on Thursday launched a new open-weight AI model which it claims rivals, and in some cases outperforms, similar products from leading Chinese developers. Muse Spark Open “is the most capable US open-weight model to date,” Meta’s chief of AI Alexandr Wang wrote on X. Unlike so-called closed models – such as Anthropic’s Claude or OpenAI’s ChatGPT – developers can download the parameters, known as weights and biases, of an open-weight model and modify them. Chinese developers have emerged as dominant players in the open-weight market for AI models over the past couple of years. Alibaba’s Qwen, Moonshot AI’s Kimi K3 and Z.ai’s GLM models have been considered open-weight frontrunners globally, but Meta claims its new open model now competes on a similar level."
+  },
+  {
+   "region": "중국",
+   "source": "SCMP",
+   "title": "Indonesian durian farmers stand to benefit from minister’s visit to China",
+   "summary": "Indonesian officials, looking to alleviate poverty in their country and eyeing the rise of rural economies in China, are turning to Beijing for help that may include stoking the exports of a potentially lucrative durian crop. Indonesian Transmigration Minister Muhammad Iftitah…",
+   "url": "https://www.scmp.com/economy/china-economy/article/3371091/indonesian-durian-farmers-stand-benefit-ministers-visit-china?utm_source=rss_feed",
+   "published": "2026-10-16T13:00+09:00",
+   "id": "w24",
+   "body": "Indonesian officials, looking to alleviate poverty in their country and eyeing the rise of rural economies in China, are turning to Beijing for help that may include stoking the exports of a potentially lucrative durian crop. Indonesian Transmigration Minister Muhammad Iftitah Sulaiman Suryanagara began a seven-day visit to China on Monday, with Indonesia’s state-owned Antara news agency saying consultations with Beijing’s Ministry of Agriculture and Rural Affairs, companies and academic institutions were on his agenda. Before he left for his visit, the news agency quoted Suryanagara as saying that Indonesia wanted to “learn from China’s experience in building industry and developing rural economies”. The minister has held talks in China this week about modern agriculture, technology transfers and industrialisation with a view towards creating jobs in Indonesia’s “transmigration” areas."
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "Marco Rubio to visit Indian billionaire Ambani's refinery in Gujarat as U.S. diesel prices surge",
+   "summary": "Not only is Ambani's Reliance investing in a U.S. refinery and buying Venezuelan oil, but its strong ability to supply diesel has put Jamnagar on the map during Rubio's visit.",
+   "url": "https://www.cnbc.com/2026/10/16/marco-rubio-reliance-jamnagar-refinery.html",
+   "published": "2026-10-16T15:45+09:00",
+   "id": "w25",
+   "body": "U.S. Secretary of State Marco Rubio is set to visit the world's largest oil refinery in Jamnagar, India, owned by billionaire Mukesh Ambani's Reliance Industries , as diesel prices surge ahead of U.S. midterm polls. The International Energy Agency has warned that constraints on the diesel market will likely keep prices elevated into the next year. To ease diesel prices, which affect American truckers, farmers, and shippers, U.S. President Donald Trump earlier this month paused sanctions on Russia to allow supplies from Moscow in the global market. The Trump administration is using this trip to focus on business deals rather than policy and politics as Americans remain focused on the economy ahead of the midterm polls, experts told CNBC. Not only is Ambani's flagship company Reliance investing in a U.S."
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "Indonesia stocks plunge after MSCI signals possible downgrade in status",
+   "summary": "",
+   "url": "https://asia.nikkei.com/business/markets/indonesia-stocks-plunge-after-msci-signals-possible-downgrade-in-status",
+   "published": null,
+   "id": "w26",
+   "body": "JAKARTA/TOKYO -- Indonesian stocks plummeted on Friday after global financial services company MSCI announced that it is considering downgrading the MSCI Indonesia Index from emerging market to standalone market status, a major setback amid recent efforts by Indonesia to maintain its emerging market status."
   },
   {
    "region": "글로벌",
@@ -702,7 +264,76 @@
    "summary": "Unhedged readers on how to hedge AI risk",
    "url": "https://www.ft.com/content/6533c873-29df-453b-9ac4-7b17e5a3576f?syn-25a6b1a6=1",
    "published": "2026-10-16T14:30+09:00",
-   "id": "w78"
+   "id": "w27"
+  },
+  {
+   "region": "미국",
+   "source": "CNBC",
+   "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+   "summary": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits.",
+   "url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
+   "published": "2026-10-15T21:11+09:00",
+   "id": "w28",
+   "body": "Long-term bond yields above 5% and a $2 trillion deficit are giving Americans a taste of what a U.S. debt crisis would be like. A true emergency would hurt much more, and isn't baked in. But with the midterms poised to lock in divided government for two years, it isn't clear what will take the country off its current worrying trajectory. Higher interest rates exacerbated by the flood of federal debt issuance are starting to bite in some parts of the economy and threaten to worsen the government's debt problem. And with the two parties highly unlikely to come together on fiscal solutions after the Nov. 3 midterms, any fixes are years off in the future. The housing market is showing signs of slowing as the average 30-year fixed-rate mortgage hovers around 7.5%. Pending home sales fell 4% in September, Redfin said Monday, the biggest monthly drop in three years."
+  },
+  {
+   "region": "미국",
+   "source": "MarketWatch",
+   "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+   "summary": "”I earn $110,000 a year.”",
+   "url": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+   "published": "2026-10-16T07:31+09:00",
+   "id": "w29"
+  },
+  {
+   "region": "유럽",
+   "source": "BBC",
+   "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
+   "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
+   "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-15T20:34+09:00",
+   "id": "w30",
+   "body": "Artificial intelligence (AI) giant Anthropic has been drumming up support for its expected stock market listing as it seeks to reassure investors of its profit-making potential. Anthropic revenue surged by 45% to $16.8bn (£12.7bn) in the three months to the end of September, the BBC understands. In common with other AI firms, it is seeking to position itself as being able to generate huge profits despite spending billions on tech. It also emphasised safety at its event after warnings by current and former researchers of serious and even existential risks to humanity posed by AI. Anthropic's revenue has risen in successive quarters this year, from $4.7bn in the first three months to $11.6bn the following period."
+  },
+  {
+   "region": "유럽",
+   "source": "The Guardian",
+   "title": "Number of cloned number plates on UK roads at record high, data shows",
+   "summary": "More than 11,400 drivers last year were fined for offences they did not recognise as RAC says system needs reform The number of reported “cloned” vehicles involved in offences on UK roads has reached a record high, official data shows. More than 11,400 drivers contacted the DVLA…",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/16/cloned-number-plates-uk-roads-record-high",
+   "published": "2026-10-16T13:00+09:00",
+   "id": "w31",
+   "body": "The number of reported “cloned” vehicles involved in offences on UK roads has reached a record high, official data shows. More than 11,400 drivers contacted the DVLA last year after being issued with fines for offences they said they did not recognise or accept responsibility for – most of which are believed to be down to cloning, where a number plate is copied fraudulently on similar vehicles to avoid enforcement cameras. The number of complaints about misattribution was 9% higher than in 2024 and almost double the figure recorded in 2018, according to the RAC motoring organisation, which analysed data obtained under freedom of information requests. The rising figures underscore concerns about the number of illegal number plates in use, allowing criminals to evade detection and dangerous drivers to avoid being caught."
+  },
+  {
+   "region": "중국",
+   "source": "SCMP",
+   "title": "Pork insecurity: China protein supply ‘exposed’ amid reliance on feed imports, study says",
+   "summary": "Heavy reliance on imported soy feed in China’s massive pork industry puts affordable protein supply for its 1.4 billion people at risk amid rising regional conflicts and climate change, a new study has warned. The nation, which relies largely on pork for its protein intake, was…",
+   "url": "https://www.scmp.com/economy/china-economy/article/3371086/pork-insecurity-chinas-protein-supply-exposed-amid-reliance-feed-imports-study?utm_source=rss_feed",
+   "published": "2026-10-16T11:45+09:00",
+   "id": "w32",
+   "body": "Heavy reliance on imported soy feed in China’s massive pork industry puts affordable protein supply for its 1.4 billion people at risk amid rising regional conflicts and climate change, a new study has warned. The nation, which relies largely on pork for its protein intake, was “exposed” to risks in access to this essential macronutrient, according to the Protein Sovereignty Index published by a Singapore-registered biotech firm on Friday. China faced a medium level of risk on a global scale, as it ranked 21st among 43 countries and regions assessed by Full Circle Biotechnology. Its challenges mainly involved import exposure and resource headroom, according to the study, released in advance of Friday’s World Food Day."
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "The IPO drought is driving private equity-owned companies to the debt market to pay investors",
+   "summary": "Private equity firms are increasingly using debt-funded dividend recaps to return cash to investors as exits remain subdued.",
+   "url": "https://www.cnbc.com/2026/10/16/private-equity-portfolios-ipo-debt.html",
+   "published": "2026-10-16T14:00+09:00",
+   "id": "w33",
+   "body": "Private equity funds are increasingly pushing their portfolio companies to take on more debt to return cash to their investors, data suggests. It comes as the typical ways of monetizing private equity investments — selling company stakes via IPOs, or offloading them to other PE funds or buyers — have dried up in recent years. While investors get paid, the practice of private equity sponsors adding more debt to companies — known as dividend recapitalizations — risks weakening their ability to invest or weather future downturns in trading. \"Dividend recap\" activity has surged since 2022, and Moody's Ratings expects it to remain high in Europe, the Middle East and Africa as private equity firms look for ways to return money to investors while company sales and IPOs remain subdued."
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "Optical parts maker to triple Malaysian capacity to tackle AI supply crunch",
+   "summary": "",
+   "url": "https://asia.nikkei.com/spotlight/supply-chain/optical-parts-maker-to-triple-malaysian-capacity-to-tackle-ai-supply-crunch",
+   "published": null,
+   "id": "w34",
+   "body": "JOHOR, Malaysia -- A key component supplier for optical communications powering AI data center networks says it plans to more than triple its manufacturing capacity in Malaysia by the end of 2028 to help meet unprecedented demand."
   },
   {
    "region": "글로벌",
@@ -711,16 +342,145 @@
    "summary": "Also in this newsletter: Orbán’s favourite Brussels think-tank rebrands",
    "url": "https://www.ft.com/content/1cda1563-9f99-4993-9373-5d1b4dfe8c98?syn-25a6b1a6=1",
    "published": "2026-10-16T14:00+09:00",
-   "id": "w79"
+   "id": "w35"
   },
   {
-   "region": "글로벌",
-   "source": "Financial Times",
-   "title": "FirstFT: Healey signals tax raid on banks in UK Budget",
-   "summary": "Also in today’s newsletter: London’s UBS HQ offer and Merz vows to fight on",
-   "url": "https://www.ft.com/content/246f1614-cd9a-4747-bc58-97e9cb10fb4b?syn-25a6b1a6=1",
-   "published": "2026-10-16T13:33+09:00",
-   "id": "w80"
+   "region": "미국",
+   "source": "CNBC",
+   "title": "China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration",
+   "summary": "European trade commissioner Maroš Sefčovič met with Chinese Commerce Minister Wang Wentao in Beijing last week.",
+   "url": "https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html",
+   "published": "2026-10-15T18:02+09:00",
+   "id": "w36",
+   "body": "BEIJING — China intends to keep exporting rare earths to Europe regardless of whether a U.S. trade deal with Beijing gets extended past January. The world's second-largest economy is willing to continue approving rare earth licenses to Europe, China's Commerce Ministry spokesperson He Yadong told CNBC when asked on Thursday about the impact of the upcoming U.S. deadline. Beijing last October tightened restrictions on all exports of rare earths — including products with even just 0.1% of China-sourced rare earths . The move followed a new U.S. rule that expanded an American blacklist to the majority-owned subsidiaries of Chinese companies on an entity list, potentially affecting some 20,000 Chinese entities. However, both the U.S. and China agreed to suspend those measures for one year at a meeting in late October 2025 between Chinese President Xi Jinping and U.S. President Donald Trump."
+  },
+  {
+   "region": "미국",
+   "source": "MarketWatch",
+   "title": "I’m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
+   "summary": "“I have some reservations about the long-term stability of my younger son’s marriage.”",
+   "url": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
+   "published": "2026-10-16T07:15+09:00",
+   "id": "w37"
+  },
+  {
+   "region": "유럽",
+   "source": "BBC",
+   "title": "'I paid thousands to a company for jobs that never came'",
+   "summary": "Apurv Patel is one of several people who say they were promised job opportunities that did not appear.",
+   "url": "https://www.bbc.co.uk/news/articles/c9j3dvezpdz0o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-16T02:19+09:00",
+   "id": "w38",
+   "body": "A company has been accused of promising jobs in the healthcare sector which never materialised, leaving people thousands of pounds out of pocket. Registered in 2025, Synetal Solutions Ltd says it offers career-focused training programmes in the healthcare and IT sectors. But the BBC has spoken to a number of people who claim they were promised training and support to secure sponsored healthcare jobs that never became available to apply for. London Citizens Advice says it has seen an increase in recruitment-related scams since the government stopped overseas recruitment for care workers , external . The charity described the firm's practices as \"unethical\". Synetal Solutions says it \"takes these concerns seriously and disputes the broad allegation that its services or candidate outcomes are fictitious\"."
+  },
+  {
+   "region": "유럽",
+   "source": "The Guardian",
+   "title": "Thames Water asks for £2.4bn more to avoid going bust this year or early 2027",
+   "summary": "Water company tells creditors it will not survive long enough to agree refinancing deal without more money Thames Water has asked its creditors for another £2.4bn as the embattled water company comes close to running out of cash. The UK’s largest water company said on Thursday…",
+   "url": "https://www.theguardian.com/business/2026/oct/15/thames-water-24bn-going-bust-this-year-early-2027",
+   "published": "2026-10-16T02:14+09:00",
+   "id": "w39",
+   "body": "Thames Water has asked its creditors for another £2.4bn as the embattled water company comes close to running out of cash. The UK’s largest water company said on Thursday it needed another short-term cash injection because it would be unable to reach a longer-term deal to sort out its giant debt pile before running out of cash by “the end of 2026 or the start of 2027”. Thames Water said in a statement to the stock market that it “does not expect to complete its recapitalisation process ahead of this date”, meaning it would run out of cash without creditors stumping up more. The utility company serves 16 million customers in London and the Thames valley. However, it has been on the brink of collapse for several years after it became overwhelmed by a debt pile that is now about £20bn."
+  },
+  {
+   "region": "중국",
+   "source": "SCMP",
+   "title": "The China decoupling paradox: why the world still needs its manufacturing machine",
+   "summary": "Talk of global decoupling from China has persisted for years, as has speculation that emerging economies such as India and Vietnam could soon replace it as the “world’s factory”. But for Indian hardware engineer Neeraj Arora, the growth of India’s electronics manufacturing…",
+   "url": "https://www.scmp.com/economy/global-economy/article/3371027/china-decoupling-paradox-why-world-still-needs-its-manufacturing-machine?utm_source=rss_feed",
+   "published": "2026-10-16T07:00+09:00",
+   "id": "w40",
+   "body": "Talk of global decoupling from China has persisted for years, as has speculation that emerging economies such as India and Vietnam could soon replace it as the “world’s factory”. But for Indian hardware engineer Neeraj Arora, the growth of India’s electronics manufacturing industry has not eliminated the need to source components from China. Instead, it has changed the nature of those imports. A decade ago, Arora imported finished phone chargers from the world’s second-largest economy. Today, more of these products can be made in India, even as manufacturers there still rely on Chinese parts for assembly."
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "Russia returns to G20 table in Bangkok on U.S. invitation that angers Europe",
+   "summary": "Russia’s return to the G20 table has tested how far Washington’s outreach to Moscow will strain ties with European allies.",
+   "url": "https://www.cnbc.com/2026/10/16/g20-russia-ukraine-trump-diesel-europe-.html",
+   "published": "2026-10-16T15:11+09:00",
+   "id": "w41",
+   "body": "Russia's finance minister attended a Group of 20 meeting in Bangkok on Thursday, his second in-person appearance at the event since the 2022 invasion of Ukraine, testing how far Washington's rapprochement with Moscow will strain ties with Europe. Anton Siluanov and Bank of Russia Deputy Governor Elizaveta Danilova were listed as Russia's delegates at the finance ministers and central bank governors' meetings on the sidelines of the IMF-World Bank Annual Meetings in Bangkok, Thailand, according to a seating plan seen by CNBC. Siluanov was in the meeting, according to a person familiar with the matter. According to the layout document, Russian delegates were seated between attendees from South Korea and the United Arab Emirates. German Finance Minister Lars Klingbeil was also listed as an attendee."
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "Chinese tech companies strive to crack Japan market despite tensions",
+   "summary": "",
+   "url": "https://asia.nikkei.com/politics/international-relations/japan-china-tensions/chinese-tech-companies-strive-to-crack-japan-market-despite-tensions",
+   "published": null,
+   "id": "w42",
+   "body": "CHIBA, Japan -- China's tech companies are making a push to unlock business opportunities in Japan, despite a severe diplomatic chill between the neighbors."
+  },
+  {
+   "region": "미국",
+   "source": "CNBC",
+   "title": "UK economy grew 0.1% in August, beating expectations",
+   "summary": "The U.K. is grappling with a cost-of-living crisis sparked by sticky inflation and surging energy costs.",
+   "url": "https://www.cnbc.com/2026/10/15/uk-gdp-august-2026-economy.html",
+   "published": "2026-10-15T17:44+09:00",
+   "id": "w43",
+   "body": "The U.K. economy grew by a better-than-expected 0.1% in the month to August, with production growth offsetting weak output in services and construction. Economists polled by Reuters had been expecting GDP to shrink by 0.1% between July and August. But the reading still marked a slowdown in momentum for British gross domestic product, which grew by 0.4% month-on-month in June and July. Production grew by 0.8%, the U.K.'s Office for National Statistics said in a release on Thursday, while services showed no growth and construction fell by 0.2% in August. On an annual basis, GDP grew by 2.1% in August, beating economists' expectations of 1.7%. The ONS said it marked the highest year-on-year GDP reading since August 2022. The British pound jumped 0.4% against the U.S. dollar following the release, while yields on U.K. government bonds — known as gilts — fell across the curve."
+  },
+  {
+   "region": "미국",
+   "source": "MarketWatch",
+   "title": "How a midterm sweep by Democrats could turn this tech selloff into a tech crash",
+   "summary": "Popular AI names are under pressure again this week — but the pain could worsen after the Nov. 3 election.",
+   "url": "https://www.marketwatch.com/story/how-a-midterm-sweep-by-democrats-could-turn-this-tech-selloff-into-a-tech-crash-a1d1a82f?mod=mw_rss_topstories",
+   "published": "2026-10-16T06:56+09:00",
+   "id": "w44"
+  },
+  {
+   "region": "유럽",
+   "source": "BBC",
+   "title": "Living with a stink? Technology might help",
+   "summary": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
+   "url": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-16T08:18+09:00",
+   "id": "w45",
+   "body": "Milpitas, an affluent city in California's Silicon Valley tech hub, has an odour problem. For decades, residents have had to endure rank smells wafting from industrial sites, among them a 342-acre landfill. \"When I first moved here, I could not open my window for over 10 years,\" says Chia-Ling Kong, an engineer for a tech firm who lives around half a mile from the dump. While things have got better in recent years, Kong says she and her neighbours must still contend with around \"two or three hours of bad smells a day\". Perhaps befitting Silicon Valley, the community is putting its hopes in technology. The operators of Newby Island landfill have been ordered by local authorities to use drones and install monitors to systematically track and measure the chemicals responsible for bad odours. They have also been told to automate the collection of landfill gases responsible for smells."
+  },
+  {
+   "region": "유럽",
+   "source": "The Guardian",
+   "title": "Cost of balancing Great Britain’s power grid reaches nearly £50m a day",
+   "summary": "Grid operator paying large sums to switch off windfarms in areas of excess electricity generation while turning on gas plants elsewhere The cost of balancing Great Britain’s power grid has soared to near-record highs of almost £50m a day after windfarms were turned off because…",
+   "url": "https://www.theguardian.com/business/2026/oct/15/cost-of-balancing-great-britain-power-grid-50m-daily",
+   "published": "2026-10-16T00:55+09:00",
+   "id": "w46",
+   "body": "The cost of balancing Great Britain’s power grid has soared to near-record highs of almost £50m a day after windfarms were turned off because of bottlenecks in transmitting power around the country. The grid operator paid £47.9m on Wednesday to turn windfarms off in areas with an oversupply of electricity and turn gas plants on in areas where supplies were tight. The costs, which are levied on to household energy bills , included a £1.6m payment for one half-hour period, and were some of the highest recorded since the early months of the Ukraine crisis in 2022. They add to the increasing costs of balancing the grid, which reached a total of £505m in September alone, the highest monthly cost recorded, and are expected to reach £3.2bn over the next year."
+  },
+  {
+   "region": "중국",
+   "source": "SCMP",
+   "title": "Shenzhen offers discount fares, other perks to keep residents off roads during Apec summit",
+   "summary": "Shenzhen residents have been encouraged to work from home and reduce their driving during the coming Asia-Pacific Economic Cooperation (Apec) summit, as the local government unveiled logistics arrangements for one of the year’s biggest events. The measures included “flexible…",
+   "url": "https://www.scmp.com/economy/article/3371029/shenzhen-offers-discount-fares-other-perks-keep-residents-roads-during-apec-summit?utm_source=rss_feed",
+   "published": "2026-10-15T20:00+09:00",
+   "id": "w47",
+   "body": "Shenzhen residents have been encouraged to work from home and reduce their driving during the coming Asia-Pacific Economic Cooperation (Apec) summit, as the local government unveiled logistics arrangements for one of the year’s biggest events. The measures included “flexible work arrangements” and “green travel policies”, as the city seeks to balance “high-standard support for foreign affairs activities” and “smooth operation of the economy and society”, Chan Yaodong, deputy secretary general of the municipal government, said at a press conference on Thursday. During the work week from November 16 to 20, when several Apec events will take place, companies are encouraged to allow staff to work from home. For roles requiring on-site operations, employers can adopt staggered and flexible schedules, Hao Shifei, deputy head of the city’s human resources authority, said on Thursday."
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "Hybe shares jump 10% as K-pop sensation BTS' tour lifts earnings hopes",
+   "summary": "BTS' world tour and rising global demand for newer K-pop acts are fueling earnings expectations, sending Hybe shares soaring.",
+   "url": "https://www.cnbc.com/2026/10/16/bts-concerts-hybe-katseye-cortis.html",
+   "published": "2026-10-16T12:53+09:00",
+   "id": "w48",
+   "body": "Shares of Hybe, the company behind K-pop supergroup BTS, surged 10% on Friday as investors weighed an upbeat third-quarter earnings outlook fueled by its artistes' global concerts. Hybe's third-quarter revenue is expected to reach 1.5 trillion won ($1.11 billion), up 106% from a year earlier, while operating profit is projected at 172.2 billion won, according to local brokerage firm iM Securities. Concert revenue is expected to come in at 717 billion won, nearly tripling from a year earlier. BTS' ongoing world tour featured 16 stadium shows in North America and eight in Europe during the third quarter. Thiat, alongside expanding tours by newer acts including Enhypen, Katseye and Cortis, helped drive concert attendance to nearly 3 million during the quarter, potentially marking a quarterly record for the company, the report said."
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "Editor's Choice: In divided world, Western schools bring classrooms closer to Asian students",
+   "summary": "",
+   "url": "https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-in-divided-world-western-schools-bring-classrooms-closer-to-asian-students",
+   "published": null,
+   "id": "w49",
+   "body": "Hello from Tokyo. I was fortunate enough to grow up as the Cold War was ending and globalization was accelerating at an extraordinary pace. In the late 1980s, due to my father's job, I attended an international school in Lisbon, Portugal. In the late 1990s, I studied at a university in the United States. Today, unfortunately, as geopolitical fragmentation deepens and governments around the world adopt more inward-looking policies, studying overseas has become increasingly difficult . Applying for a visa has become harder, especially for study in the U.S. Stronger Western currencies and concerns about social unrest have also made studying abroad less accessible, particularly for students from Asia. Against this backdrop, a new trend is emerging. More Western educational institutions are expanding into Asia."
   },
   {
    "region": "글로벌",
@@ -729,16 +489,134 @@
    "summary": "Investors are dumping data centre bonds and abandoned listings are piling up",
    "url": "https://www.ft.com/content/6a1ecb1a-a998-4cbb-be54-22df550a66ee?syn-25a6b1a6=1",
    "published": "2026-10-16T13:00+09:00",
-   "id": "w81"
+   "id": "w50"
+  },
+  {
+   "region": "미국",
+   "source": "CNBC",
+   "title": "In charts: How one of the world's biggest economies got trapped by debt",
+   "summary": "France opens debate on its 2027 budget as high deficits, rising debt and student protests intensify pressure on lawmakers.",
+   "url": "https://www.cnbc.com/2026/10/13/france-2027-budget-debt.html",
+   "published": "2026-10-15T18:54+09:00",
+   "id": "w51",
+   "body": "France's parliament begins debate on the 2027 budget Tuesday as high deficits, rising debt and student protests sharpen the political cost of fiscal consolidation. The euro zone's second-biggest economy is barreling toward a debt crisis, and risks dragging the continent down with it, unless it sustainably brings down its national deficit, according to many market watchers. Even as thousands take to the streets to protest years of underfunding in public services, particularly education, France has run one of Europe's highest deficit-to-GDP ratios for nearly a decade under President Emmanuel Macron. Government spending remains well above its peers in the politically sensitive realm of social protections, particularly pensions and healthcare, while tepid economic growth has failed to compensate."
+  },
+  {
+   "region": "미국",
+   "source": "MarketWatch",
+   "title": "Nvidia and other chip stocks face renewed pressure as AI fears swell",
+   "summary": "Reported details about Anthropic’s financial progress are adding to concerns about the health of the AI ecosystem.",
+   "url": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories",
+   "published": "2026-10-16T06:23+09:00",
+   "id": "w52"
+  },
+  {
+   "region": "유럽",
+   "source": "BBC",
+   "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
+   "summary": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction.",
+   "url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-15T22:25+09:00",
+   "id": "w53",
+   "body": "The UK economy's stronger than expected performance in August has been called a \"sign of resilience\" by Chancellor John Healey. Healey told the BBC \"it's really tough in the face of these economic global shocks\" as the latest official figures showed the economy grew by 0.1% for the month, defying analysts' forecasts of a slight contraction. It follows an upgrade to this year's forecast for the UK economy from global watchdog the International Monetary Fund (IMF) earlier this week. Mr Healey said he wanted \"to give people a bit of breathing space from the cost of living and cost of business pressures\", promising to do so when he delivers his first Budget in two weeks' time. Healey did not elaborate on what measures he will take in the Budget, but promised \"where we can take action, we will\"."
+  },
+  {
+   "region": "중국",
+   "source": "SCMP",
+   "title": "Notable Chinese demographer calls for 18-fold increase to nation’s childcare subsidies",
+   "summary": "One of China’s most outspoken demographers has called for raising childcare subsidies to at least 200,000 yuan (US$29,883) per child – more than 18 times the total offered under the current national scheme – to reverse the decline in births and strengthen the country’s long-term…",
+   "url": "https://www.scmp.com/economy/china-economy/article/3370991/notable-chinese-demographer-calls-18-fold-increase-nations-childcare-subsidies?utm_source=rss_feed",
+   "published": "2026-10-15T17:02+09:00",
+   "id": "w54",
+   "body": "One of China’s most outspoken demographers has called for raising childcare subsidies to at least 200,000 yuan (US$29,883) per child – more than 18 times the total offered under the current national scheme – to reverse the decline in births and strengthen the country’s long-term economic competitiveness. James Liang, co-founder of Chinese online travel giant Trip.com Group, who has been vocal about Chinese demographics for years, made the proposal in an article published on Wednesday. Experts said this proposal could be a longer-term goal, with funding potentially coming from the central government or through redirecting some special-purpose bond funds. Beijing introduced a nationwide childcare subsidy last year, offering households 3,600 yuan a year for each child born on or after January 1, 2025, until they turn three – a total of 10,800 yuan over three years."
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "People in China are spending nearly as much of their income as Americans on healthcare",
+   "summary": "Increasing government spending on healthcare could help boost consumption in China, the International Monetary Fund said.",
+   "url": "https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html",
+   "published": "2026-10-16T08:00+09:00",
+   "id": "w55",
+   "body": "BEIJING — High healthcare costs are a big factor driving people in China to save, rather than spend, their money, the International Monetary Fund pointed out in a new book titled \"Toward a New Economic Growth Model for China.\" In rural China, 8.7% of disposable income is spent on healthcare — just second to the U.S. among 20 major economies, the research found. The U.S. ranks the highest in the world with nearly 9.9% of disposable income spent on healthcare. The level of the healthcare burden in China grows starker when considering per capita disposable income in the U.S. was $68,289 as of the end of last year — more than 10 times more than China's 43,377 yuan in U.S. dollar terms (around $6,400). The gap widens further when looking at China's countryside, which only officially emerged from extreme poverty in 2020."
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "China's BYD turns to local assembler in Malaysia after shelving plant plan",
+   "summary": "",
+   "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/china-s-byd-turns-to-local-assembler-in-malaysia-after-shelving-plant-plan",
+   "published": null,
+   "id": "w56",
+   "body": "KUALA LUMPUR -- Chinese auto giant BYD has appointed a local partner to assemble knocked-down parts into completed electric vehicles in Malaysia after shelving plans to build its own plant in a move that will help bypass various taxes and maintain competitiveness as competition increases."
   },
   {
    "region": "글로벌",
    "source": "Financial Times",
-   "title": "Young people to get less cash but more job support under Milburn welfare plan",
+   "title": "Young people to receive less cash but more job support under Milburn welfare plan",
    "summary": "Former Labour cabinet minister is finalising review into the million young people not in education, employment or training",
    "url": "https://www.ft.com/content/c6e911dd-440b-4852-925c-448faeb52d98?syn-25a6b1a6=1",
    "published": "2026-10-16T13:00+09:00",
-   "id": "w82"
+   "id": "w57"
+  },
+  {
+   "region": "미국",
+   "source": "CNBC",
+   "title": "IMF sees milder global slowdown as AI boom offsets war hit — warns resilience is nearing limits",
+   "summary": "The IMF raised its 2026 global growth forecast to 3.1%, warning that resilience is tested by energy constraints and looming fiscal risks.",
+   "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html",
+   "published": "2026-10-15T15:35+09:00",
+   "id": "w58",
+   "body": "BANGKOK — The International Monetary Fund has raised its forecast for global growth this year as the AI-driven investment boom helps offset some of the impact from surging energy costs, while warning that economic resilience could be nearing its breaking point. The IMF expects the global economy to grow at 3.1% in 2026, up from the 3% projected in July , but slower than the 3.5% rate last year. For 2027, it kept the forecast unchanged at 3.4%. The UN agency expects inflation at 4.1% in 2027, above the 3.9% it projected in July – when it estimated the Strait of Hormuz would reopen by mid-July, with conditions broadly returning to pre-war levels by March 2027. For the current year, it maintained its 4.7% outlook."
+  },
+  {
+   "region": "미국",
+   "source": "MarketWatch",
+   "title": "Don’t ditch tech stocks just yet. Make these moves to take advantage of the latest AI reset.",
+   "summary": "Investors have a ‘love-hate relationship’ with tech stocks now — and experts recommend selectively hunting for bargains while also betting on the major cloud companies.",
+   "url": "https://www.marketwatch.com/story/dont-ditch-tech-stocks-just-yet-make-these-moves-to-take-advantage-of-the-latest-ai-reset-cb70c7b2?mod=mw_rss_topstories",
+   "published": "2026-10-16T06:21+09:00",
+   "id": "w59"
+  },
+  {
+   "region": "유럽",
+   "source": "BBC",
+   "title": "Fuel costs squeezing margins for some businesses",
+   "summary": "Diesel recently topped £2 per litre and there is concern that a duty freeze will not go far enough.",
+   "url": "https://www.bbc.co.uk/news/articles/c9rky27ljrxno?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-16T14:30+09:00",
+   "id": "w60",
+   "body": "Some businesses in Jersey have expressed concern about the impact of rising global fuel prices. Locally, and in the UK, diesel prices recently topped £2 a litre , and global leaders have since made efforts to ease the strain on supply. The Government of Jersey has proposed to freeze fuel duty in 2027 in a bid to \"help ease cost-of-living pressures\". A&A Scaffolding Solutions said it welcomed that move, but said it would provide \"limited relief if global prices continue to rise\". Fuel duty was frozen in Jersey from 2023-2025, before rising in line with inflation in 2026. In the proposed budget for 2027 , external , the government has suggested freezing it once again."
+  },
+  {
+   "region": "유럽",
+   "source": "The Guardian",
+   "title": "US lawmakers unveil bill to hold Wall Street’s ‘Epstein-connected’ bosses to account",
+   "summary": "Move comes as Senator Elizabeth Warren condemns Barclays response to questions over ex-boss’s ties to sex offender US lawmakers have unveiled a new bill to hold Wall Street’s “Epstein-connected” bosses to account for helping finance the late sex offender’s crimes. It came as top…",
+   "url": "https://www.theguardian.com/business/2026/oct/15/new-bill-wall-street-bosses-epstein-connections",
+   "published": "2026-10-15T22:30+09:00",
+   "id": "w61",
+   "body": "US lawmakers have unveiled a new bill to hold Wall Street’s “Epstein-connected” bosses to account for helping finance the late sex offender’s crimes. It came as top Democratic senator Elizabeth Warren condemned the UK bank Barclays for “dodging responsibility” over its failure to vet former boss Jes Staley and his ties to the once well-connected billionaire. A bipartisan group of politicians, led by Warren and House representative Robert Garcia, are introducing a bill on Thursday known as the Epstein Wall Street Records Act. The bill follows a months-long investigation into the financier, who died in prison in 2019 while awaiting trial on child sex-trafficking charges."
+  },
+  {
+   "region": "중국",
+   "source": "SCMP",
+   "title": "Morgan Stanley’s Robin Xing on China’s next industrial revolution, deflation woes",
+   "summary": "Robin Xing is chief China economist at Morgan Stanley. A famed economist and Peking University graduate, Xing has a PhD in economics from the Chinese Academy of Social Sciences and previously worked at Goldman Sachs and China International Capital Corp. In his second Open…",
+   "url": "https://www.scmp.com/plus/economy/china-economy/article/3370986/morgan-stanleys-robin-xing-chinas-next-industrial-revolution-deflation-woes?utm_source=rss_feed",
+   "published": "2026-10-15T16:43+09:00",
+   "id": "w62",
+   "body": ""
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "Robot dolls, chip shortages and Apple's soft sales",
+   "summary": "",
+   "url": "https://asia.nikkei.com/techasia/robot-dolls-chip-shortages-and-apple-s-soft-sales2",
+   "published": null,
+   "id": "w63",
+   "body": "Hello everyone, this is Cissy in Hong Kong. One of the biggest surprises in Chinese politics for me this week was the probe into Huang Qifan, the former Chongqing mayor who served under two disgraced Chinese Communist Party heavyweights - Bo Xilai and Sun Zhengcai - and somehow emerged unscathed from both purges. In 2019, when I was in Shanghai for an event, I overheard a conversation between Huang and the chairman of one of China's biggest private companies. The chairman asked Huang: \"What's your secret for surviving when everyone around you keeps getting arrested?\" Huang laughed, said something vague, and added that he would one day write a book about everything he has been through. Seven years later, before we can read that book, he is now under investigation for alleged corruption. The real reasons for the inquiry remain unknown."
   },
   {
    "region": "글로벌",
@@ -747,52 +625,66 @@
    "summary": "Kroll Bond Rating Agency’s judgment sets up AI lab for investment-grade status",
    "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d?syn-25a6b1a6=1",
    "published": "2026-10-16T13:00+09:00",
-   "id": "w83"
+   "id": "w64"
   },
   {
-   "region": "글로벌",
-   "source": "Financial Times",
-   "title": "Has London’s £5bn ‘super sewer’ improved water quality in the Thames?",
-   "summary": "Ministers pledged the 25km-long sewer would mitigate health risks, encourage recreational river use and restore wildlife",
-   "url": "https://www.ft.com/content/155bc83f-655d-4891-a431-aa5e1e1ce96a?syn-25a6b1a6=1",
-   "published": "2026-10-16T13:00+09:00",
-   "id": "w84"
+   "region": "미국",
+   "source": "MarketWatch",
+   "title": "CoreWeave’s polarizing stock rebounds as Wall Street squares off about AI spending",
+   "summary": "Wall Street’s views on CoreWeave are starkly divisive as investors pay more attention to the financial details of big artificial-intelligence companies.",
+   "url": "https://www.marketwatch.com/story/coreweave-investors-are-feeling-spooked-as-the-companys-stock-and-bonds-see-fresh-pressure-ba39a931?mod=mw_rss_topstories",
+   "published": "2026-10-16T06:03+09:00",
+   "id": "w65"
   },
   {
-   "region": "글로벌",
-   "source": "Financial Times",
-   "title": "Canary Wharf developer George Iacobescu overseeing new London skyscraper",
-   "summary": "‘The man who built Canary Wharf’ working with insurer AmTrust on plans for 70-storey City office tower",
-   "url": "https://www.ft.com/content/dcab1c7f-00aa-4194-bdb1-0a0c6712e4e8?syn-25a6b1a6=1",
-   "published": "2026-10-16T13:00+09:00",
-   "id": "w85"
+   "region": "유럽",
+   "source": "BBC",
+   "title": "'TV and cheap booze' blamed for landlord quitting",
+   "summary": "Lincolnshire has lost 27% of its pubs and bars since 2009 and some are calling on the government to act against cheap supermarket booze.",
+   "url": "https://www.bbc.co.uk/news/articles/c6lyk77jq9d2o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-16T14:03+09:00",
+   "id": "w66",
+   "body": "Former pub landlord Patrick Hughes is blunt when explaining why he has called time on his tenure behind the bar. \"I thought there was a gap in the market but there was no market for the gap\", he said. The 66-year-old took over The Royal Mail Cart pub in Spalding, in August 2025, hoping to attract customers with live music nights and \"a sense of community\". Just over a year on he is packing boxes and looking around the empty rooms after he quit his tenancy with the pub's owner, Stonegate Group. Patrick told BBC Politics North that he blames a perfect storm of rising utility and wage prices, people's changing habits and major roadworks directly outside the pub, which began in the summer. \"These days people are used to staying at home, watching TV, having cheap drink from the supermarket or off licence and getting food deliveries,\" he said."
   },
   {
-   "region": "글로벌",
-   "source": "Financial Times",
-   "title": "The secret fight around financial flows",
-   "summary": "Quicker responses to trade challenges mean companies can free up capital",
-   "url": "https://www.ft.com/content/9585ba4d-5036-4f5d-9656-0dc4f6bdee4e?syn-25a6b1a6=1",
-   "published": "2026-10-16T13:00+09:00",
-   "id": "w86"
+   "region": "유럽",
+   "source": "The Guardian",
+   "title": "Cult venue Prince Charles cinema ‘saved’ after lease renewal signed",
+   "summary": "The much-loved central London institution, which has been threatened with closure since January 2025, secures 25-year lease without break clause with current landlords The celebrated Prince Charles repertory cinema in London’s Leicester Square has announced that the threat of…",
+   "url": "https://www.theguardian.com/film/2026/oct/15/cult-venue-prince-charles-cinema-saved-lease-renewal-signed",
+   "published": "2026-10-16T00:20+09:00",
+   "id": "w67",
+   "body": "The celebrated Prince Charles repertory cinema in London’s Leicester Square has announced that the threat of closure has been staved off by signing a new 25-year lease with its landlords. In a post on social media titled “You Saved the PCC”, the cinema said that “after 21 months of uncertainty, we’re delighted to have secured the future of the cinema” and that they had “signed a new 25-year lease with no break clause, ensuring our projectors will keep rolling for years to come”. The cinema also expressed its gratitude for the “support, commitment and belief of many, many people”. In January 2025, the Prince Charles launched a petition , claiming that its landlord, Zedwell LSQ Ltd (owned by developer Criterion Capital) was trying to “bully us out of the building” by demanding a break clause in its lease, due for renewal in September 2025."
   },
   {
-   "region": "글로벌",
-   "source": "Financial Times",
-   "title": "US business leaders are waking up to the perils of plutopopulism",
-   "summary": "Companies wanted a president who would cut taxes and rules, they got one who has blown holes in free trade and global alliances",
-   "url": "https://www.ft.com/content/586218d3-6943-4690-8dd8-63dd329c781d",
-   "published": "2026-10-16T13:00+09:00",
-   "id": "w87"
+   "region": "중국",
+   "source": "SCMP",
+   "title": "China’s CXMT gets pledge of support as provincial party chief vows chip-industry expansion",
+   "summary": "Three weeks into his tenure as the Communist Party secretary of Anhui province, Li Lecheng carried out an on-site inspection at China’s home-grown memory chip giant ChangXin Memory Technologies (CXMT) on Wednesday, pledging to grow integrated circuits (ICs) as an emerging pillar…",
+   "url": "https://www.scmp.com/economy/china-economy/article/3370970/chinas-cxmt-gets-pledge-support-provincial-party-chief-vows-chip-industry-expansion?utm_source=rss_feed",
+   "published": "2026-10-15T15:18+09:00",
+   "id": "w68",
+   "body": "Three weeks into his tenure as the Communist Party secretary of Anhui province, Li Lecheng carried out an on-site inspection at China’s home-grown memory chip giant ChangXin Memory Technologies (CXMT) on Wednesday, pledging to grow integrated circuits (ICs) as an emerging pillar industry. During the visit to the company’s headquarters in the central province’s capital of Hefei, Li urged CXMT to further refine its product portfolio and actively expand into domestic and overseas markets. He emphasised home-grown innovation, pressing the firm to accelerate launches of new technologies and products. According to a photo published by Anhui News on Thursday, CXMT chairman Zhu Yiming took part in the tour and briefed Li on the firm’s products."
   },
   {
-   "region": "글로벌",
-   "source": "Financial Times",
-   "title": "What do the Houthis want?",
-   "summary": "The Islamist group has wide-ranging ambitions in its fight against Saudi Arabia",
-   "url": "https://www.ft.com/content/7a260d99-c761-4ab1-8185-d7e0225a8472?syn-25a6b1a6=1",
-   "published": "2026-10-16T13:00+09:00",
-   "id": "w88"
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "India's rupee forecast to weaken toward 100-per-dollar level even as RBI pushes back",
+   "summary": "The RBI's latest moves have helped the rupee recover from 96.79 rupees per dollar to the 95-level over recent days.",
+   "url": "https://www.cnbc.com/2026/10/16/india-rupee-rbi-dollar-iran-war.html",
+   "published": "2026-10-16T09:54+09:00",
+   "id": "w69",
+   "body": "Fund outflows and a rising energy bill are expected to keep putting pressure on India's rupee, even as the central bank works to slow depreciation. Over the last several days, the currency has recovered from 96.79 rupees per dollar to the 95-level, aided by the Reserve Bank of India's latest measures. But while those will provide short-term relief, the currency is expected to weaken toward the end of the year and mid-2027, and a 100 rupee-per-dollar mark could not be ruled out, strategists said. The RBI's steps will slow the rupee's depreciation, but they cannot \"fully offset the fundamental pressures stemming from elevated oil prices, a wider current account deficit, and a challenging global capital flow environment,\" Hanna Luchnikava-Schorsch, head of Asia-Pacific economics at S&P Global Market Intelligence, told CNBC."
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "Australian lithium miner PLS green-lights expansion",
+   "summary": "",
+   "url": "https://asia.nikkei.com/business/markets/commodities/australian-lithium-miner-pls-green-lights-expansion",
+   "published": null,
+   "id": "w70",
+   "body": "CANBERRA -- Australian miner PLS on Thursday announced a step toward achieving its ambition of becoming one of the world's largest pure-play lithium miners, with a plan for expansion as it bets on future demand despite recent drops in the price of the key battery metal."
   }
  ],
  "errors": [

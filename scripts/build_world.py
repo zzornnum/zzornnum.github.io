@@ -38,7 +38,16 @@ def main(date):
         if region not in REGIONS:
             problems.append(f"{r['id']}: region must be one of {REGIONS}")
             continue
+        # 같은 사건을 다룬 다른 언론사 기사 ('관련 기사'로 표시)
+        also = []
+        for aid in p.get("also", []):
+            a = raw.get(aid)
+            if not a or aid == r["id"]:
+                problems.append(f"{r['id']}: bad also id {aid!r}")
+            else:
+                also.append({"source": a["source"], "url": a["url"], "original": a["title"]})
         seen.add(r["id"])
+        seen.update(p.get("also", []))
         out.append({
             "id": r["id"],
             "region": region,
@@ -48,6 +57,7 @@ def main(date):
             "source": r["source"],
             "url": r["url"],
             "published": r["published"],
+            **({"also": also} if also else {}),
         })
     if problems:
         print("problems:", *problems, sep="\n  ", file=sys.stderr)

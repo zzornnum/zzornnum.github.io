@@ -3,12 +3,15 @@
 Usage: python scripts/fetch_world.py [--date YYYY-MM-DD] [--force]
        -> data/world/raw/<date>.json
 
-Only headline + the feed's own short summary are kept (no article bodies),
-trimmed to the last ~30 hours, de-duplicated and capped per source, so the
-routine that translates/summarises them reads as few tokens as possible.
+Each item keeps the headline, the feed's short summary and the opening of the
+article text (when the site allows it), trimmed to the last ~30 hours.
+Same-event headlines from different outlets are collapsed, articles already
+shown in the previous days' briefing are dropped, and the total is capped, so
+the routine that translates/summarises them reads a bounded amount of text.
 An existing file is never overwritten unless --force is given.
 """
 import argparse
+import glob
 import html
 import json
 import os
@@ -19,10 +22,14 @@ from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 
 KST = timezone(timedelta(hours=9))
-UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/130 Safari/537.36"}
+UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/130 Safari/537.36",
+      "Accept-Language": "en-US,en;q=0.9"}
 WINDOW_HOURS = 30
-PER_SOURCE = 12
+PER_SOURCE = 15
+MAX_ITEMS = 70
 SUMMARY_CHARS = 280
+BODY_CHARS = 900
+NO_BODY = {"MarketWatch", "Financial Times"}  # 본문 접근 차단(401/403)
 
 # (region, source, url)
 FEEDS = [
@@ -39,6 +46,9 @@ FEEDS = [
     ("아시아", "Nikkei Asia", "https://asia.nikkei.com/rss/feed/nar"),
     ("글로벌", "Financial Times", "https://www.ft.com/world?format=rss"),
 ]
+
+STOP = {"the", "and", "for", "with", "from", "that", "this", "says", "said", "after", "over", "into",
+        "amid", "will", "its", "are", "has", "have", "what", "why", "how", "new", "more", "than"}
 
 
 def text(s):
@@ -74,6 +84,15 @@ def norm(t):
     return re.sub(r"[^0-9a-z]", "", t.lower())
 
 
+def words(t):
+    return {w for w in re.findall(r"[a-z0-9$%]+", t.lower()) if len(w) > 2 and w not in STOP}
+
+
+def same_event(a, b):
+    wa, wb = words(a), words(b)
+    return bool(wa and wb) and len(wa & wb) / len(wa | wb) >= 0.45
+
+
 def fetch(region, source, url, since):
     req = urllib.request.Request(url, headers=UA)
     with urllib.request.urlopen(req, timeout=25) as res:
@@ -103,6 +122,64 @@ def fetch(region, source, url, since):
     return out
 
 
+def find_body(obj):
+    if isinstance(obj, dict):
+        b = obj.get("articleBody")
+        if isinstance(b, str) and len(b) > 200:
+            return b
+        obj = list(obj.values())
+    if isinstance(obj, list):
+        for v in obj:
+            b = find_body(v)
+            if b:
+                return b
+    return None
+
+
+def article_text(url):
+    """Opening of the article: JSON-LD articleBody if present, else sentence-like <p> text."""
+    req = urllib.request.Request(url, headers=UA)
+    with urllib.request.urlopen(req, timeout=20) as res:
+        page = res.read().decode("utf-8", "replace")
+    body = None
+    for blk in re.findall(r"<script[^>]*application/ld\+json[^>]*>(.*?)</script>", page, re.S):
+        try:
+            body = find_body(json.loads(blk))
+        except ValueError:
+            continue
+        if body:
+            break
+    if body:
+        body = text(body)
+    else:
+        page = re.sub(r"<(script|style|noscript|nav|header|footer|aside)\b[^>]*>.*?</\1>", "", page, flags=re.S)
+        paras = [text(p) for p in re.findall(r"<p\b[^>]*>(.*?)</p>", page, re.S)]
+        body = " ".join(p for p in paras if len(p) > 80 and re.search(r"[.!?][\"”’)]?$", p))
+    if len(body) > BODY_CHARS:
+        cut = body[:BODY_CHARS]
+        body = cut[: cut.rfind(". ") + 1] or cut
+    return body
+
+
+def shown_before(date, days=3):
+    """URLs and English titles already used in the last few days' Korean briefings."""
+    first = (datetime.fromisoformat(date) - timedelta(days=days)).strftime("%Y-%m-%d")
+    urls, titles = set(), []
+    for p in glob.glob("data/world/*.json"):
+        d = os.path.basename(p)[:10]
+        if not first <= d < date:
+            continue
+        try:
+            for it in json.load(open(p, encoding="utf-8")).get("items", []):
+                urls.add(it.get("url"))
+                titles.append(it.get("original", ""))
+                for a in it.get("also", []):
+                    urls.add(a.get("url"))
+        except (ValueError, OSError):
+            pass
+    return urls, titles
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--date", default=datetime.now(KST).strftime("%Y-%m-%d"))
@@ -113,18 +190,35 @@ def main():
         print(f"{path} already exists; skipping (use --force to overwrite)")
         return
     since = datetime.now(timezone.utc) - timedelta(hours=WINDOW_HOURS)
-    items, errors, seen = [], [], set()
+    old_urls, old_titles = shown_before(args.date)
+    per_feed, errors = [], []
     for region, source, url in FEEDS:
         try:
-            for it in fetch(region, source, url, since):
-                k = norm(it["title"])
-                if k in seen:
-                    continue
-                seen.add(k)
-                it["id"] = f"w{len(items) + 1}"  # 루틴은 이 id로만 기사를 가리킨다
-                items.append(it)
+            per_feed.append(fetch(region, source, url, since))
         except Exception as e:  # noqa: BLE001
             errors.append(f"{source} {url}: {e}")
+    # 피드를 번갈아 담아 한 언론사에 쏠리지 않게 하고, 같은 사건·이미 보여준 기사는 뺀다
+    items, dropped = [], 0
+    for rnd in range(PER_SOURCE):
+        for feed in per_feed:
+            if rnd >= len(feed) or len(items) >= MAX_ITEMS:
+                continue
+            it = feed[rnd]
+            if it["url"] in old_urls or any(same_event(it["title"], t) for t in old_titles):
+                dropped += 1
+                continue
+            if any(norm(it["title"]) == norm(x["title"]) or same_event(it["title"], x["title"]) for x in items):
+                dropped += 1
+                continue
+            it["id"] = f"w{len(items) + 1}"  # 루틴은 이 id로만 기사를 가리킨다
+            items.append(it)
+    for it in items:
+        if it["source"] in NO_BODY:
+            continue
+        try:
+            it["body"] = article_text(it["url"])
+        except Exception as e:  # noqa: BLE001
+            errors.append(f"body {it['id']} {it['source']}: {e}")
     if not items:
         print(f"no items collected: {errors}", file=sys.stderr)
         sys.exit(1)
@@ -133,7 +227,8 @@ def main():
         json.dump({"date": args.date, "fetchedAt": datetime.now(KST).isoformat(timespec="minutes"),
                    "items": items, "errors": errors}, f, ensure_ascii=False, indent=1)
         f.write("\n")
-    print(f"wrote {path}: {len(items)} items, errors={errors}")
+    with_body = sum(1 for i in items if i.get("body"))
+    print(f"wrote {path}: {len(items)} items ({with_body} with body), dropped {dropped} duplicates/repeats, errors={len(errors)}")
 
 
 if __name__ == "__main__":

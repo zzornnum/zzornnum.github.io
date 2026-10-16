@@ -1,0 +1,123 @@
+{
+  "date": "2026-10-16",
+  "generatedAt": "2026-10-16T16:05:58.099257+09:00",
+  "items": [
+    {
+      "region": "미국",
+      "title": "미국 9월 생산자물가 상승, 추가 인상 신호",
+      "summary": "미국 생산자물가지수(PPI)의 상승이 연방준비제도의 추가 금리 인상 가능성을 시사한다. 연준 관계자들은 인플레이션이 여전히 높다고 경고하고 있다.",
+      "original": "Economists: Hot PPI shows Fed's work is not done",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/15/pce-ppi-september-fed-reserve-rate-hike.html",
+      "published": "2026-10-16T00:37+09:00"
+    },
+    {
+      "region": "미국",
+      "title": "미국 적자 2조 달러, 국채 금리 5% 이상으로 상승",
+      "summary": "미국 국가 부채가 40조 달러를 초과하고 10년물 국채 금리가 5% 이상으로 유지되면서 재정 전망에 대한 관심이 고조되고 있다. 높은 금리는 가계와 정부의 차입 비용을 상승시키고 있다.",
+      "original": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
+      "published": "2026-10-15T21:11+09:00"
+    },
+    {
+      "region": "미국",
+      "title": "IMF, AI 호황으로 글로벌 경기 회복 전망…다만 위험 경고",
+      "summary": "국제통화기금(IMF)이 2026년 글로벌 성장률을 3.1%로 상향 조정했다. AI 산업 호황이 긍정적이지만 에너지 제약과 재정 위험이 경제 회복력을 시험하고 있다.",
+      "original": "IMF sees milder global slowdown as AI boom offsets war hit — warns resilience is nearing limits",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html",
+      "published": "2026-10-15T15:35+09:00"
+    },
+    {
+      "region": "미국",
+      "title": "석유 실제 가격, 공시가보다 배럴당 30~40달러 높음",
+      "summary": "유조선 운임이 급증하면서 석유의 실제 인도 가격이 공시 가격보다 배럴당 약 38달러 비싸다. 중동 지역의 해상 운송 리스크가 에너지 비용에 반영되고 있다.",
+      "original": "Brian Sullivan: Why the 'real' price of oil is likely $30-$40 higher than where it is now",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/15/brian-sullivan-why-the-real-price-of-oil-is-likely-30-40-higher-than-where-it-is-now.html",
+      "published": "2026-10-16T04:53+09:00"
+    },
+    {
+      "region": "미국",
+      "title": "AI 우려 심화로 엔비디아 등 반도체주 약세",
+      "summary": "Anthropic의 재정 상황에 대한 우려가 AI 생태계의 건전성에 대한 의심을 높이면서 엔비디아와 마이크론 등 칩 제조사 주가가 하락했다. AI 인프라 투자 지속 가능성에 대한 시장의 의문이 반영된 것이다.",
+      "original": "Nvidia and other chip stocks face renewed pressure as AI fears swell",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories",
+      "published": "2026-10-16T06:23+09:00"
+    },
+    {
+      "region": "미국",
+      "title": "영국 8월 경제성장률 0.1%, 예상 부진 극복",
+      "summary": "영국 경제가 8월에 0.1% 성장해 예상의 소폭 수축을 이겼다. 높은 인플레이션과 급등한 에너지 비용으로 인한 생활비 위기 속에서도 경기 회복력을 보였다.",
+      "original": "UK economy grew 0.1% in August, beating expectations",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/15/uk-gdp-august-2026-economy.html",
+      "published": "2026-10-15T17:44+09:00"
+    },
+    {
+      "region": "미국",
+      "title": "영국 재무장관, 은행 이익에 세금 인상 시사",
+      "summary": "영국 재무장관 Healey가 10월 말 예정된 예산에서 은행 이익에 대한 세금 인상을 검토 중이라고 밝혔다. 고위 은행 임원들은 자신들이 세제 개혁의 대상이 될 것으로 예상하고 있다.",
+      "original": "How a midterm sweep by Democrats could turn this tech selloff into a tech crash",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/how-a-midterm-sweep-by-democrats-could-turn-this-tech-selloff-into-a-tech-crash-a1d1a82f?mod=mw_rss_topstories",
+      "published": "2026-10-16T06:56+09:00"
+    },
+    {
+      "region": "유럽",
+      "title": "중국 \"환율만으로는 글로벌 불균형 해결 불가\"",
+      "summary": "중국 중앙은행 최고 책임자는 G20 회의에서 환율 조정만으로는 글로벌 경제 불균형을 해결할 수 없다며, 흑자국과 적자국이 공동 책임을 져야 한다고 강조했다.",
+      "original": "Living with a stink? Technology might help",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-16T08:18+09:00"
+    },
+    {
+      "region": "미국",
+      "title": "중국, EV 안전 이슈 조사 강화…업계 통제 심화",
+      "summary": "중국 정부는 산업통상자원부(MIIT)를 중심으로 중국산 지능형 자동차의 안전 문제에 대한 조사를 심화시키기로 했다. 이는 중국 EV 업계의 품질 문제가 국가 차원의 감시 대상이 되었음을 의미한다.",
+      "original": "Investors are dumping AI stocks as ‘tech wreck’ worsens. Here’s where they’re turning now.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/traders-pile-into-bonds-and-defensive-stocks-as-the-tech-wreck-picks-up-steam-48c04374?mod=mw_rss_topstories",
+      "published": "2026-10-16T05:40+09:00"
+    },
+    {
+      "region": "유럽",
+      "title": "중국 반도체 기업 CXMT, 지방 정부 지원 약속받아",
+      "summary": "안휘성 당서기 Li Lecheng이 중국의 메모리 반도체 기업 ChangXin Memory Technologies(CXMT)를 방문해 집적회로(IC) 산업 확대를 약속했다. 중국이 반도체 자급화 전략을 강화하고 있다.",
+      "original": "AI giant Anthropic woos potential investors ahead of stock market debut",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-15T20:34+09:00"
+    },
+    {
+      "region": "중국",
+      "title": "중국, 미국 무역 협정 만료 후에도 EU에 희토류 공급",
+      "summary": "중국은 미국과의 무역 협정 만료 후에도 유럽연합에 희토류를 계속 공급할 방침이라고 밝혔다. 중국 상무부장이 유럽 통상위원과의 베이징 회담에서 이를 확인했으며, 이는 중국이 희토류 공급망 전략을 다각화하고 있음을 보여준다.",
+      "original": "China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html",
+      "published": "2026-10-15T18:02+09:00"
+    },
+    {
+      "region": "유럽",
+      "title": "인도 루피화 100달러 수준으로 약세 전망",
+      "summary": "인도 중앙은행(RBI)의 노력에도 불구하고 인도 루피화는 1달러당 100 루피 수준으로 약세할 것으로 전망된다. 최근 RBI의 개입으로 96.79에서 95 수준으로 회복했지만 장기 약세 추세는 이어질 것 같다.",
+      "original": "The water torture goes on at Thames. Sector-wide reform isn’t moving much faster | Nils Pratley",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/oct/15/water-torture-thames-sector-wide-reform-delay-public-control",
+      "published": "2026-10-16T03:00+09:00"
+    },
+    {
+      "region": "유럽",
+      "title": "HYBE 주가 10% 급등…BTS 투어로 실적 기대",
+      "summary": "K-pop 기업 HYBE의 주가가 BTS의 월드 투어와 신규 K-pop 그룹에 대한 글로벌 수요 증가로 10% 상승했다. BTS 재개 활동이 실적 개선의 주요 동력이 될 것으로 시장이 평가하고 있다.",
+      "original": "Banks say Healey planning to increase tax on their profits in Budget",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-16T15:42+09:00"
+    }
+  ]
+}

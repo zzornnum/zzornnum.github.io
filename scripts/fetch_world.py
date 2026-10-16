@@ -121,6 +121,7 @@ def main():
                 if k in seen:
                     continue
                 seen.add(k)
+                it["id"] = f"w{len(items) + 1}"  # 루틴은 이 id로만 기사를 가리킨다
                 items.append(it)
         except Exception as e:  # noqa: BLE001
             errors.append(f"{source} {url}: {e}")

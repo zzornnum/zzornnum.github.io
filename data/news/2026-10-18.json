@@ -12,17 +12,20 @@
         {
           "title": "JW중외제약(001060) 소폭 상승세 +4.71%, 외국계 매수 유입, 6거래일만에 반등",
           "source": "KIS 뉴스",
-          "date": "2026-10-16"
+          "date": "2026-10-16",
+          "urlChecked": true
         },
         {
           "title": "[장중수급포착] JW중외제약, 외국인 5일 연속 순매수행진... 주가 +4.30%",
           "source": "KIS 뉴스",
-          "date": "2026-10-16"
+          "date": "2026-10-16",
+          "urlChecked": true
         },
         {
           "title": "JW중외제약·공정위, 299억 과징금 소송 쌍방 상고…대법원 판단 받는다",
-          "source": "KIS 뉴스",
-          "date": "2026-10-13"
+          "source": "메디컬투데이",
+          "date": "2026-10-13",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RbFZtcEowekZyUHFaX1p3VFpMUkJjMDBXdHJLYzBORW13WF8zY1l6UGlXU3RjZVVVVjVucFBCQlFHYkZTYk9OdlE0NUstQVQxck5UMHNJdEhMWTVLcGR4MGVHZW8wVHFQcktvaQ?oc=5"
         }
       ]
     },
@@ -35,22 +38,26 @@
         {
           "title": "[장중수급포착] 메리츠금융지주, 기관 5일 연속 순매수행진... 주가 +1.38%",
           "source": "KIS 뉴스",
-          "date": "2026-10-16"
+          "date": "2026-10-16",
+          "urlChecked": true
         },
         {
           "title": "한국금융지주(071050)  +5.79%, GS피앤엘 +4.90%, KB금융 +4.34%, 메리츠금융지주 +4.28%, HS효성 +4.12%",
           "source": "KIS 뉴스",
-          "date": "2026-10-16"
+          "date": "2026-10-16",
+          "urlChecked": true
         },
         {
           "title": "메리츠 1조 택한 신세계, 차환 리스크에 후속 조달 부담까지",
           "source": "인베스트조선",
-          "date": "2026-10-15"
+          "date": "2026-10-15",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPR0FPTlExdUJPdktXVnE3eDhUbzN0OC1KRzlzT1NhYlRxNE9WamNNTjlwQTRMUnpmMU1ubU1UNUVBQkRqOWI1NUNoVlVhUlo0NlhjYmR0YUp6c3dOWHZHaGpEMGJvODNMQnFiTnpWN2tLOTlpQzFWNGI4VE1PcFMtdHQzWQ?oc=5"
         },
         {
           "title": "국고채 PD 담합 결론 지연에 증권사·은행들 속앓이…\"연내 결론 안 날 수도\"",
           "source": "인베스트조선",
-          "date": "2026-10-16"
+          "date": "2026-10-16",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeURQbVN0T1JveVlWdzQ2TWdWa0lnbmJlSDNhMTFSUU52eGhkX3Y5eDVBUnZiYXpFdEoxY0lKejg4RGlKbnowNjNvSHB6a0Z6cnhDVW5xS2ZwLTNRdmRkMDF5c1QzWktpV1FtNE04VmF5TXN0THNNc2hjY1plak1wR2Q2Yw?oc=5"
         }
       ]
     },
@@ -62,13 +69,15 @@
       "headlines": [
         {
           "title": "한화호텔앤드리조트, 한화솔루션 지분 '49.57→29%' 축소",
-          "source": "KIS 뉴스",
-          "date": "2026-10-16"
+          "source": "톱데일리",
+          "date": "2026-10-16",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ndW9mV0I2cmRVVkkyLVJWZmI5UEJVX2F4YTY2NGpDMFkzUmNGQUVYWHFReFlyS2JtVmlBVklMd0xGSEN2dVgyeTYwQ1VIUU8w?oc=5"
         },
         {
           "title": "키움증권 “한화오션 주식 5092억원어치 추가취득…지분율 2.73%”",
-          "source": "KIS 뉴스",
-          "date": "2026-10-16"
+          "source": "헤럴드경제",
+          "date": "2026-10-16",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlZllwZzNFQnNFcFhJbFgyXzUxSDJPQ3RBaUFQUm9HMkRwbjNtUk9yTmdjYWdjRDZramYzaVNKdC11MDF5algxM2JhLUVUR3FzeGg3S1hR?oc=5"
         }
       ]
     },
@@ -81,12 +90,14 @@
         {
           "title": "[리포트 브리핑]제이에스코퍼레이션, '작년 관세 악재는 올해의 호재' Not Rated - 하나증권",
           "source": "KIS 뉴스",
-          "date": "2026-10-12"
+          "date": "2026-10-12",
+          "urlChecked": true
         },
         {
           "title": "\"높아진 호텔 자산 가치, 성장 호텔주에 미반영\"-KB",
-          "source": "KIS 뉴스",
-          "date": "2026-09-28"
+          "source": "한국경제",
+          "date": "2026-09-28",
+          "url": "https://n.news.naver.com/mnews/article/015/0005336455"
         }
       ]
     },
@@ -99,7 +110,8 @@
         {
           "title": "(주)아바코 (정정)단일판매ㆍ공급계약체결(자율공시)",
           "source": "KIS 뉴스",
-          "date": "2026-10-13"
+          "date": "2026-10-13",
+          "urlChecked": true
         }
       ]
     },
@@ -112,17 +124,20 @@
         {
           "title": "한화M&S, 한화 3남 김동선 공개매수에 24% 급등(종합)",
           "source": "연합뉴스",
-          "date": "2026-10-12"
+          "date": "2026-10-12",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KRU1HVXRUY1JwQVhOTktoMTZiTzR1VF9jQTBiWHFVRFp0dTBDRmJyUXBqYVpHUGJLY0s2Y2NucnNCMElxX3hMWlRSQ3BlMVpUMmxlcXBSa0dYbXPSAWBBVV95cUxNU181WjVGZnE2anF1a3kxYWk1d2JMMEdtVnhjYXVpNk9oczBnRGt0UjN1dndHeUFvRmRGanF5U1B0MnlUbm9mSFAwZGFzcDlqMHRPYUR3WE5pWDBtZXlycF8?oc=5"
         },
         {
           "title": "김동선, 한화M&S 저점 공개매수 셈법…주가 반토막 나자 1400억 베팅",
-          "source": "KIS 뉴스",
-          "date": "2026-10-13"
+          "source": "톱데일리",
+          "date": "2026-10-13",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE44bzBYWW5hSDY0MDNfNjljZlZDR1p6Y2wzUDU2Vk5tVnVaU1A2aEdyZ0FaYmZwMWhobmZUYUtaSXJQSWNBUjV5ekpCZWVWbVRM?oc=5"
         },
         {
           "title": "한화M&S 주가 약세 속 김동선 지분 확대…'책임경영' 향한 엇갈린 시선",
-          "source": "KIS 뉴스",
-          "date": "2026-10-13"
+          "source": "인베스트조선",
+          "date": "2026-10-13",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRGhNRGJrN2prc3BlNl9ic2dkb3pHX3c1Z3lPMVJ3R29aam45bWNJSzRjRmRKaVFWNi1OTFE1UG11SXJsS2t0S0FmUkNpLV9sM2o3WnExTU1RaDd0R3I5d0FSOElBMTg2Z2FxVlVLWTJYd1phbGxqMW1lb0drRTJrXzZhVQ?oc=5"
         }
       ]
     },
@@ -134,18 +149,21 @@
       "headlines": [
         {
           "title": "산업부, 석유 최고가격 4주간 동결…국제유가 상승에 '고육지책'",
-          "source": "KIS 뉴스",
-          "date": "2026-10-16"
+          "source": "뉴스핌",
+          "date": "2026-10-16",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBOY0Q1aHFNSFFWRlVpVnpXaHY1VUJOQThGbk1vaUxmYXdXSTFBWHdzZ1RIR2E2S21Kcl9KdjNGNTNfLWFybG1Dc0llMlRZckdPanVQazVBTHdXQlRX?oc=5"
         },
         {
           "title": "국제유가 100달러 재돌파에도 기름값 동결…커지는 정유사 손실·출구 고민",
-          "source": "KIS 뉴스",
-          "date": "2026-10-16"
+          "source": "헤럴드경제",
+          "date": "2026-10-16",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYOWQxcktUaVg1MWx2al95bGVNT194eUxfNnJrVURNcGJZWmYtLS0wdUNub1AzamJhRW1IZWNSdTVfd2M4RVdVVkFQSWxlWkZyNFFSVzRB?oc=5"
         },
         {
           "title": "GS, 최대주주등 소유주식수 30,000주 감소",
           "source": "KIS 뉴스",
-          "date": "2026-10-16"
+          "date": "2026-10-16",
+          "urlChecked": true
         }
       ]
     },
@@ -158,17 +176,20 @@
         {
           "title": "웰킵스하이텍(043590)  -13.88%, 씨엠티엑스 -10.00%, 에프엔에스테크 -9.38%, 한양디지텍 -8.24%, 타이거일렉 -8.48%",
           "source": "KIS 뉴스",
-          "date": "2026-10-15"
+          "date": "2026-10-15",
+          "urlChecked": true
         },
         {
           "title": "에프엔에스테크(주) [투자주의]소수계좌 거래집중 종목",
           "source": "KIS 뉴스",
-          "date": "2026-10-14"
+          "date": "2026-10-14",
+          "urlChecked": true
         },
         {
           "title": "신용비율 상위 종목",
           "source": "KIS 뉴스",
-          "date": "2026-10-16"
+          "date": "2026-10-16",
+          "urlChecked": true
         }
       ]
     },
@@ -180,8 +201,9 @@
       "headlines": [
         {
           "title": "E1, 10월 LPG 공급가격 kg당 80원 인상",
-          "source": "KIS 뉴스",
-          "date": "2026-09-30"
+          "source": "뉴스1",
+          "date": "2026-09-30",
+          "url": "https://n.news.naver.com/mnews/article/421/0009200692"
         }
       ]
     },
@@ -194,17 +216,20 @@
         {
           "title": "DN오토모티브(007340) 소폭 상승세 +4.71%",
           "source": "KIS 뉴스",
-          "date": "2026-10-16"
+          "date": "2026-10-16",
+          "urlChecked": true
         },
         {
           "title": "‘납 배출 주사’ 국감 도마에…DN오토모티브 대표 증인 요구",
           "source": "KIS 뉴스",
-          "date": "2026-10-13"
+          "date": "2026-10-13",
+          "urlChecked": true
         },
         {
           "title": "DN오토모티브, 납 수치 은폐 의혹 사과…\"조사 결과 따라 책임\"",
-          "source": "KIS 뉴스",
-          "date": "2026-10-13"
+          "source": "블로그",
+          "date": "2026-10-13",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Ud0Jya21WeEkyUDRqTWFoYTZxNTR6RFhlLV9WT0lkY1FIM0FVSi1BUi1xNlJwNHlWblItWWpHQUgyUE1oVldDaWVNSm8wTXZ0eUE5djVuQTNvUQ?oc=5"
         }
       ]
     },
@@ -216,18 +241,21 @@
       "headlines": [
         {
           "title": "외국인이 8.8조 던진 삼전·하이닉스…한 주 새 각각 17%·24% 뚝",
-          "source": "KIS 뉴스",
-          "date": "2026-10-16"
+          "source": "한국경제",
+          "date": "2026-10-16",
+          "url": "https://n.news.naver.com/mnews/article/015/0005343502"
         },
         {
           "title": "반도체 투톱 반등에도 'AI 빚' 그늘…가격 왜곡 가능성은",
-          "source": "KIS 뉴스",
-          "date": "2026-10-16"
+          "source": "머니투데이",
+          "date": "2026-10-16",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSeUkyQzNCVFBFN3ptd2VYWGVDRko3cklSLXFZNm1vaHRCUXJPVFhiRmgyQjZGYlVIc0U3QjNsNE5HM2xFSkxDTHYwLVpFbFFpa3g2OHczemZyd0tCTVNoak90cWNVd2J4djE1b09MdUFkaXMwQ1HSAXtBVV95cUxNSUxkSWlTVm94SEhUa2hacHBfUlRwVTFLUE5zQWRxbVRScVBlbFdvZTc4WFJWYXpzOFV6Sks2YTVBaTY1RU9JNE1WVnlWOGVjclh4Z29hUjFNRUc1SW04Rmc0QnI4cFI0VWtKRlUzNk8yTUFIREJQUkdkVTg?oc=5"
         },
         {
           "title": "[1016마감체크] 코스피, 외국인 순매수에 2% 반등... 5600선 회복",
-          "source": "KIS 뉴스",
-          "date": "2026-10-16"
+          "source": "인포스탁데일리",
+          "date": "2026-10-16",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1EcTNxNGtWbzFrRWFRUTRSVjE2RWZhVm5za2V0eUNUTkh0QndzNjJmQTlKVjA1WVc0MnZybVY5S2ZlUGM1ZXMyZ281TGVhWnFkLUJwc01sVlFURkljSXQ4Ynk3Rk4waW1SQTRYbU9NWkxsajhZdnc?oc=5"
         }
       ]
     },
@@ -239,13 +267,15 @@
       "headlines": [
         {
           "title": "휴메딕스 '엘라비에' K-뷰티엑스포 참가…해외 바이어 접점 넓힌다",
-          "source": "KIS 뉴스",
-          "date": "2026-10-15"
+          "source": "메디컬투데이",
+          "date": "2026-10-15",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNT1duN0I2R1lzYndlckFqTGcyaG5BYWYtYy1RTF9ndHpSODRpUU9Pamx6THFvU0E2RXMySmJBaEFyRmFNUC1xdkc0RGJlX3pfN0ZXdVhteVJTXzhyTVY2Z0JVbGg2TjBBWjB2Wg?oc=5"
         },
         {
           "title": "몸집 키운 ECM 스킨부스터…안전관리 기준 '어디까지'",
-          "source": "KIS 뉴스",
-          "date": "2026-10-16"
+          "source": "프라임경제",
+          "date": "2026-10-16",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE54Y2ZCaHhZZmIxR0FmeW9YNTNhLTY4NUhxNUJWSEVCUEJPbWYzWDNrQmxUdTdHYWt3clJOT1VLVVM2bFdwbGJncHJpZE1tWEJ4N3FpNmZBVmRRWXM3MjZrRUFnT0VsLWhQaUlUM2FyMXZ1dw?oc=5"
         }
       ]
     },
@@ -258,17 +288,20 @@
         {
           "title": "[장중수급포착] 세방전지, 외국인/기관 동시 순매수… 주가 +5.93%",
           "source": "KIS 뉴스",
-          "date": "2026-10-14"
+          "date": "2026-10-14",
+          "urlChecked": true
         },
         {
           "title": "'축전지 산업 개척' 세방그룹 이의순 창업주 별세",
           "source": "KIS 뉴스",
-          "date": "2026-10-12"
+          "date": "2026-10-12",
+          "urlChecked": true
         },
         {
           "title": "저PBR 명단 공개 임박…車부품사 ‘밸류업’ 시계 빨라진다",
-          "source": "KIS 뉴스",
-          "date": "2026-09-25"
+          "source": "딜사이트",
+          "date": "2026-09-25",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03V2ZRa3N5Y1VjeGdDNG1lSHNGd3ExSXVqR2FMZ2hNaGkwMXp3eUlDV3ZZeGVlRWZONkhUSS16ZEotNUxzZkF2Z3FtYVppeVE?oc=5"
         }
       ]
     },
@@ -281,12 +314,14 @@
         {
           "title": "한솔아이원스(114810) 소폭 상승세 +4.65%",
           "source": "KIS 뉴스",
-          "date": "2026-10-16"
+          "date": "2026-10-16",
+          "urlChecked": true
         },
         {
           "title": "한솔아이원스, 주식등의 대량보유자 소유주식수 변동",
           "source": "KIS 뉴스",
-          "date": "2026-10-12"
+          "date": "2026-10-12",
+          "urlChecked": true
         }
       ]
     },
@@ -298,13 +333,15 @@
       "headlines": [
         {
           "title": "티씨케이, 반도체 식각 SiC 포커스링 특허 정정...디에스테크노 상대 분쟁",
-          "source": "KIS 뉴스",
-          "date": "2026-10-10"
+          "source": "지디넷코리아",
+          "date": "2026-10-10",
+          "url": "https://n.news.naver.com/mnews/article/092/0002440426"
         },
         {
           "title": "와이엠씨, 3년간 150억원 이상 배당…자사주 추가 소각",
-          "source": "KIS 뉴스",
-          "date": "2026-09-16"
+          "source": "뉴스핌",
+          "date": "2026-09-16",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42RWgzM2dRTmhZb21TSW9Xd1VWVlRzVEhjY0VrTnoxeGttMlFyUHE2VzBPTlVrVmpLdW1LVEhmYXQzUW1oek1UVHg3Tnh2dE9tUXBDbFRJUV82UEFm?oc=5"
         }
       ]
     },
@@ -316,13 +353,15 @@
       "headlines": [
         {
           "title": "외국인이 8.8조 던진 삼전·하이닉스…한 주 새 각각 17%·24% 뚝",
-          "source": "KIS 뉴스",
-          "date": "2026-10-16"
+          "source": "한국경제",
+          "date": "2026-10-16",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HTnp5eUlTMWhhME1STGJaVlFqUWEtYk1OMGhsYkRoeC1vRHdTN3ZJaWd4ZXVHS2xPWkVsWlVoZkpzSHpfT1dSWmFfa2hraERXVVAzaWlZTXdlZw?oc=5"
         },
         {
           "title": "외국인 '11조' 팔았는데…中 공포 덮친 삼전닉스 '깜짝 전망' [분석+]",
-          "source": "KIS 뉴스",
-          "date": "2026-10-16"
+          "source": "한국경제",
+          "date": "2026-10-16",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52QnJFZ0Z0MjN5M0pUcFRYQXJndnRjcW1KcFVBRXE0dmVNTFhtZllnLTRLSkd2bDdMN1dHbWluZU1pajNsNlBlN1RKemNYUmJMRHFtN3lQODlDZw?oc=5"
         }
       ]
     },
@@ -334,18 +373,21 @@
       "headlines": [
         {
           "title": "현대차증권 \"휴젤, 미국 판매체계 전환에 3분기 실적 부진 전망\"",
-          "source": "KIS 뉴스",
-          "date": "2026-10-16"
+          "source": "이투데이",
+          "date": "2026-10-16",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGRTBrOGtpd3pyX1Q5MndydzNCVFpVSmF2b3V0TE5haEFxWV9KZWpaY3FkMzFDTDhnYnl5U0JxaUpEZk9rZmY5eVRmbS02SEs0blpVNQ?oc=5"
         },
         {
           "title": "[모닝 리포트] \"휴젤, 美 톡신 재고 환입에 영업익 41% 급감…목표가 29%↓\"",
-          "source": "KIS 뉴스",
-          "date": "2026-10-16"
+          "source": "뉴스핌",
+          "date": "2026-10-16",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44RV84ZmNSUEo0TXdJZWN5c0VoZVc3REluWFpIdHJpSEhUbTBQMkR0eHgtbzRLVWdoVGN6UlRJRDNfT0hUZ2dVRUhuaXFid1pwTVBFb1V2ZHlGMXlw?oc=5"
         },
         {
           "title": "[리포트 브리핑]휴젤, '3분기, 재정비의 시간' 목표가 290,000원 - KB증권",
           "source": "KIS 뉴스",
-          "date": "2026-10-16"
+          "date": "2026-10-16",
+          "urlChecked": true
         }
       ]
     }

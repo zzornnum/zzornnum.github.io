@@ -15,6 +15,7 @@ const state = {
   portfolio: { holdings: [], watchlist: [] },
   thoughts: { folders: [], posts: [] },
   sold: { sold: [] },
+  trash: { items: [] },
   sha: {},
   access: {},
   newsIndex: [],
@@ -120,6 +121,7 @@ const STORES = {
   portfolio: { path: 'data/portfolio.json', normalize },
   thoughts: { path: 'data/thoughts.json', repo: PRIVATE_REPO, private: true, normalize: normalizeThoughts },
   sold: { path: 'data/sold.json', repo: PRIVATE_REPO, private: true, normalize: (s) => ({ sold: Array.isArray(s?.sold) ? s.sold : [] }) },
+  trash: { path: 'data/trash.json', repo: PRIVATE_REPO, private: true, normalize: (t) => ({ items: Array.isArray(t?.items) ? t.items : [] }) },
 };
 
 async function loadStore(key) {
@@ -198,6 +200,7 @@ function render() {
   document.querySelectorAll('.tabs a').forEach((a) => a.classList.toggle('active', a.dataset.tab === tab));
   $('.tabs a[data-tab=thoughts]').hidden = !canEdit();
   $('.tabs a[data-tab=sold]').hidden = !canEdit();
+  $('.tabs a[data-tab=settings]').hidden = !canEdit();
   const btn = $('#settingsBtn');
   btn.classList.toggle('on', canEdit());
   $('#modeLabel').textContent = canEdit() ? '편집 모드' : '보기 전용';
@@ -208,6 +211,7 @@ function render() {
   else if (tab === 'top') view.innerHTML = renderTop();
   else if (tab === 'thoughts') view.innerHTML = renderThoughts(sub);
   else if (tab === 'sold') view.innerHTML = renderSold();
+  else if (tab === 'settings') view.innerHTML = renderSettings(sub);
   else renderNews();
 }
 
@@ -753,6 +757,56 @@ function moveDialog(kind, id) {
   });
 }
 
+// 설정 탭: 메뉴 목록. 기능을 늘릴 때는 SETTINGS_MENU에 항목을 추가하고 renderSettings에 화면을 붙인다
+const SETTINGS_MENU = [
+  { key: 'trash', icon: '🗑️', title: '휴지통', desc: () => `삭제한 종목 ${state.trash.items.length}개 · 되살리기와 영구 삭제` },
+  { key: 'token', icon: '🔑', title: '편집 권한', desc: () => 'GitHub 토큰 확인·변경, 편집 모드 해제', act: 'open-token' },
+];
+
+function renderSettings(sub) {
+  if (!canEdit()) return `<div class="section-head"><div><h1>설정</h1></div></div><div class="empty">🔒 편집 모드에서만 볼 수 있습니다.</div>`;
+  if (sub === 'trash') return renderTrash();
+  return `<div class="section-head"><div><h1>설정</h1><p>🔒 비공개</p></div></div>
+    <div class="list">${SETTINGS_MENU.map((m) => (m.act
+      ? `<button class="card settings-item" data-act="${m.act}">`
+      : `<a class="card settings-item" href="#settings/${m.key}">`) + `
+        <span class="settings-icon">${m.icon}</span>
+        <span><span class="settings-title">${m.title}</span><span class="meta">${esc(m.desc())}</span></span>
+        <svg class="chev" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 6l6 6-6 6"/></svg>
+      ${m.act ? '</button>' : '</a>'}`).join('')}</div>`;
+}
+
+function renderTrash() {
+  const access = state.access.trash;
+  const crumbs = `<nav class="crumbs"><a href="#settings">설정</a><span class="sep">›</span><b>휴지통</b></nav>`;
+  if (access === 'noaccess' || access === 'badtoken') {
+    return `<div class="section-head"><div><h1>휴지통</h1></div></div>${crumbs}
+      <div class="card news-summary">🔒 지금 토큰으로는 비공개 저장소(${PRIVATE_REPO})를 열 수 없습니다. GitHub 토큰 설정에서 이 저장소 권한(Contents: Read and write)을 추가한 뒤 새로고침하세요.</div>`;
+  }
+  const items = state.trash.items;
+  const head = `<div class="section-head">
+      <div><h1>휴지통</h1><p>🔒 비공개 · 기록이 있는 종목을 삭제하면 이곳에 보관됩니다</p></div>
+      ${items.length ? '<div class="head-actions"><button class="btn ghost danger" data-act="trash-empty">휴지통 비우기</button></div>' : ''}
+    </div>${crumbs}`;
+  if (!items.length) return head + '<div class="empty">휴지통이 비어 있습니다.</div>';
+  return head + `<div class="list">${items.map((e) => {
+    const notes = [...(e.item.notes || [])].sort((a, b) => b.at.localeCompare(a.at));
+    return `<article class="card trash-item">
+      <div class="trash-head">
+        <div>
+          <div class="name">${esc(e.item.name)}<span class="badge">${esc(LIST_NAMES[e.list] || e.list)}</span></div>
+          <div class="meta">${e.item.code} · 기록 ${notes.length}건 · ${fmtDate(e.deletedAt, true)} 삭제</div>
+          ${notes[0] ? `<div class="trash-preview">${esc(notes[0].text.slice(0, 80))}${notes[0].text.length > 80 ? '…' : ''}</div>` : ''}
+        </div>
+        <div class="trash-actions">
+          <button class="btn small primary" data-act="trash-restore" data-id="${e.id}">되살리기</button>
+          <button class="btn small ghost danger" data-act="trash-purge" data-id="${e.id}">영구 삭제</button>
+        </div>
+      </div>
+    </article>`;
+  }).join('')}</div>`;
+}
+
 function sellDialog(code, draft) {
   const it = findItem('holdings', code);
   const q = quote(code);
@@ -892,8 +946,37 @@ view.addEventListener('click', async (e) => {
     }, storeOf(list));
   } else if (act === 'remove') {
     const it = findItem(list, code);
-    if (!confirm(`${it.name}을(를) ${LIST_NAMES[list]}에서 삭제할까요? 기록 ${it.notes?.length || 0}건도 함께 삭제됩니다.`)) return;
-    await mutate(`${LIST_NAMES[list]} 삭제: ${it.name}`, (p) => { p[list] = p[list].filter((x) => x.code !== code); }, storeOf(list));
+    const n = it.notes?.length || 0;
+    if (!n) {
+      if (!confirm(`${it.name}을(를) ${LIST_NAMES[list]}에서 삭제할까요?`)) return;
+      await mutate(`${LIST_NAMES[list]} 삭제: ${it.name}`, (p) => { p[list] = p[list].filter((x) => x.code !== code); }, storeOf(list));
+      return;
+    }
+    if (!confirm(`${it.name}을(를) ${LIST_NAMES[list]}에서 삭제할까요?\n기록 ${n}건과 함께 휴지통으로 옮겨지며, 설정 › 휴지통에서 되살릴 수 있습니다.`)) return;
+    // 1) 비공개 휴지통에 먼저 보관 → 2) 원래 목록에서 제거. 2)가 실패하면 1)을 되돌린다
+    const entry = { id: uid(), list, deletedAt: new Date().toISOString(), item: it };
+    if (!await mutate(`휴지통으로 이동: ${it.name}`, (t) => { t.items.unshift(entry); }, 'trash')) return;
+    const removed = await mutate(`${LIST_NAMES[list]} 삭제: ${it.name}`, (p) => { p[list] = p[list].filter((x) => x.code !== code); }, storeOf(list));
+    if (!removed) await mutate(`휴지통 이동 취소: ${it.name}`, (t) => { t.items = t.items.filter((x) => x.id !== entry.id); }, 'trash');
+    else toast(`${it.name}을(를) 휴지통으로 옮겼습니다`);
+  } else if (act === 'trash-restore') {
+    const entry = state.trash.items.find((x) => x.id === id);
+    const { list: to, item } = entry;
+    if (findItem(to, item.code)) { toast(`이미 ${LIST_NAMES[to]}에 ${item.name}이(가) 있습니다`); return; }
+    if (to !== 'sold' && listOf(item.code)) { toast(`${item.name}은(는) 이미 ${LIST_NAMES[listOf(item.code)]}에 있습니다`); return; }
+    // 원래 목록에 먼저 되살리고, 성공하면 휴지통에서 뺀다
+    if (!await mutate(`휴지통에서 복구: ${item.name}`, (p) => { p[to].push(item); }, storeOf(to))) return;
+    await mutate(`휴지통에서 제외: ${item.name}`, (t) => { t.items = t.items.filter((x) => x.id !== id); }, 'trash');
+    toast(`${item.name}을(를) ${LIST_NAMES[to]}으로 되살렸습니다`);
+  } else if (act === 'trash-purge') {
+    const entry = state.trash.items.find((x) => x.id === id);
+    if (!confirm(`${entry.item.name}을(를) 영구 삭제할까요? 기록 ${entry.item.notes?.length || 0}건도 되살릴 수 없게 됩니다.`)) return;
+    await mutate(`휴지통 영구 삭제: ${entry.item.name}`, (t) => { t.items = t.items.filter((x) => x.id !== id); }, 'trash');
+  } else if (act === 'trash-empty') {
+    if (!confirm(`휴지통의 ${state.trash.items.length}개 종목을 모두 영구 삭제할까요? 되살릴 수 없습니다.`)) return;
+    await mutate('휴지통 비우기', (t) => { t.items = []; }, 'trash');
+  } else if (act === 'open-token') {
+    settingsDialog();
   } else if (act === 'sell') sellDialog(code);
   else if (act === 'unsell') {
     const it = findItem('sold', code);

@@ -198,6 +198,17 @@ textarea.field { min-height: 160px; resize: vertical; line-height: 1.6; }
 .news-tabs button.on { background: #1f4fd8; color: #fff; }
 .news-tabs .count { font-size: 12px; font-weight: 600; opacity: .8; margin-left: 3px; }
 .sold-meta { margin-top: 2px; }
+/* settings & trash */
+.settings-item { display: flex; align-items: center; gap: 14px; padding: 16px 18px; text-decoration: none; width: 100%; text-align: left; cursor: pointer; font: inherit; color: inherit; }
+.settings-item:hover { border-color: var(--faint); }
+.settings-item > span:nth-child(2) { display: flex; flex-direction: column; flex: 1; }
+.settings-icon { font-size: 22px; }
+.settings-title { font-weight: 700; font-size: 16px; }
+.trash-item { padding: 14px 18px; }
+.trash-head { display: flex; gap: 12px; align-items: flex-start; justify-content: space-between; flex-wrap: wrap; }
+.trash-head .name { font-weight: 600; font-size: 16px; }
+.trash-preview { color: var(--muted); font-size: 13px; margin-top: 4px; }
+.trash-actions { display: flex; gap: 4px; }
 .sell-badge { margin: 0; border-color: var(--up); color: var(--up); }
 .summary-label { font-size: 12px; font-weight: 700; color: var(--accent); margin-bottom: 6px; }
 .region-label { font-size: 20px; font-weight: 800; color: var(--text); margin: 28px 0 10px; letter-spacing: -0.02em; }

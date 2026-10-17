@@ -5,12 +5,16 @@ const REPO = 'zzornnum/zzornnum.github.io';
 const PRIVATE_REPO = 'zzornnum/invest-private';
 const TOKEN_KEY = 'gh_token';
 const LISTS = { holdings: '보유종목', watchlist: '관심종목' };
+// 처분종목은 비공개 저장소(invest-private)에 따로 저장된다
+const LIST_NAMES = { ...LISTS, sold: '처분종목' };
+const storeOf = (list) => (list === 'sold' ? 'sold' : 'portfolio');
 
 const state = {
   market: null,
   byCode: new Map(),
   portfolio: { holdings: [], watchlist: [] },
   thoughts: { folders: [], posts: [] },
+  sold: { sold: [] },
   sha: {},
   access: {},
   newsIndex: [],
@@ -115,6 +119,7 @@ function normalizeThoughts(t) {
 const STORES = {
   portfolio: { path: 'data/portfolio.json', normalize },
   thoughts: { path: 'data/thoughts.json', repo: PRIVATE_REPO, private: true, normalize: normalizeThoughts },
+  sold: { path: 'data/sold.json', repo: PRIVATE_REPO, private: true, normalize: (s) => ({ sold: Array.isArray(s?.sold) ? s.sold : [] }) },
 };
 
 async function loadStore(key) {
@@ -181,7 +186,7 @@ async function mutate(message, fn, key = 'portfolio') {
 }
 
 const quote = (code) => state.byCode.get(code);
-const findItem = (list, code) => state.portfolio[list].find((s) => s.code === code);
+const findItem = (list, code) => state[storeOf(list)][list].find((s) => s.code === code);
 const listOf = (code) => Object.keys(LISTS).find((l) => findItem(l, code));
 // stock.naver.com 주소는 PC·모바일 모두 해당 종목 페이지로 연결된다 (finance.naver.com 옛 주소는 모바일에서 홈으로 튕김)
 const naverUrl = (code, page = '') => `https://stock.naver.com/domestic/stock/${code}${page ? `/${page}` : ''}`;
@@ -192,6 +197,7 @@ function render() {
   const [tab, sub] = (location.hash || '#news').slice(1).split('/');
   document.querySelectorAll('.tabs a').forEach((a) => a.classList.toggle('active', a.dataset.tab === tab));
   $('.tabs a[data-tab=thoughts]').hidden = !canEdit();
+  $('.tabs a[data-tab=sold]').hidden = !canEdit();
   const btn = $('#settingsBtn');
   btn.classList.toggle('on', canEdit());
   $('#modeLabel').textContent = canEdit() ? '편집 모드' : '보기 전용';
@@ -201,6 +207,7 @@ function render() {
   }
   else if (tab === 'top') view.innerHTML = renderTop();
   else if (tab === 'thoughts') view.innerHTML = renderThoughts(sub);
+  else if (tab === 'sold') view.innerHTML = renderSold();
   else renderNews();
 }
 
@@ -269,10 +276,18 @@ function stockCard(list, it) {
   const notes = [...(it.notes || [])].sort((a, b) => b.at.localeCompare(a.at));
   const open = state.open.has(it.code);
   const other = list === 'holdings' ? 'watchlist' : 'holdings';
-  const tools = canEdit() ? `
+  const sold = list === 'sold';
+  const tools = !canEdit() ? '' : sold ? `
+      <button class="btn small primary" data-act="add-note" data-list="sold" data-code="${it.code}">기록 추가</button>
+      <button class="btn small" data-act="unsell" data-code="${it.code}">보유종목으로 되돌리기</button>
+      <button class="btn small ghost danger" data-act="remove" data-list="sold" data-code="${it.code}">삭제</button>` : `
       <button class="btn small primary" data-act="add-note" data-list="${list}" data-code="${it.code}">기록 추가</button>
+      ${list === 'holdings' ? `<button class="btn small" data-act="sell" data-code="${it.code}">매각</button>` : ''}
       <button class="btn small" data-act="move" data-list="${list}" data-code="${it.code}">${LISTS[other]}으로 이동</button>
-      <button class="btn small ghost danger" data-act="remove" data-list="${list}" data-code="${it.code}">삭제</button>` : '';
+      <button class="btn small ghost danger" data-act="remove" data-list="${list}" data-code="${it.code}">삭제</button>`;
+  // 처분종목: 매각가와 매각 이후 등락을 함께 보여준다
+  const sinceSale = sold && q && it.soldPrice ? ((q.p - it.soldPrice) / it.soldPrice) * 100 : null;
+  const soldLine = sold ? `<div class="meta sold-meta">${fmtDate(it.soldAt)} 매각 · 매각가 ${fmtNum(it.soldPrice)}원${sinceSale != null ? ` · 매각 후 ${fmtPct(sinceSale)}` : ''}</div>` : '';
   const noteHtml = notes.length
     ? `<ul class="notes">${notes.map((n) => noteItem(list, it, n, q)).join('')}</ul>`
     : `<div class="help">아직 기록이 없습니다.</div>`;
@@ -283,6 +298,7 @@ function stockCard(list, it) {
         <div>
           <div class="name">${esc(it.name)}<span class="badge">${esc(q?.m || it.market || '')}</span></div>
           <div class="meta">${it.code} · 기록 ${notes.length}건${notes[0] ? ` · 최근 ${fmtDate(notes[0].at)}` : ''}</div>
+          ${soldLine}
         </div>
         <div class="price">
           <div>${q ? `${fmtNum(q.p)}원 ${fmtPct(q.r)}` : '<span class="meta">시세 없음</span>'}</div>
@@ -303,6 +319,7 @@ function noteItem(list, it, n, q) {
   return `
     <li class="note">
       <div class="note-meta">
+        ${n.kind === 'sell' ? '<span class="badge sell-badge">매각</span>' : ''}
         <b>${fmtDate(n.at, true)}</b>
         <span>당시 주가 ${fmtNum(n.price)}원</span>
         <span>시총 ${fmtCap(n.cap)}</span>
@@ -609,7 +626,7 @@ function noteDialog(list, code, id, draft) {
     : q ? `지금 저장하면: 주가 ${fmtNum(q.p)}원 · 시총 ${fmtCap(q.cap)} (시세 기준 ${fmtDate(state.market.updatedAt, true)})` : '시세 데이터가 없어 주가·시총 없이 저장됩니다.';
   openDialog(`
     <h2>${esc(it.name)} ${existing ? '기록 수정' : '기록 추가'}</h2>
-    <p class="sub">${it.code} · ${LISTS[list]}</p>
+    <p class="sub">${it.code} · ${LIST_NAMES[list]}</p>
     <div class="snapshot">${snap}</div>
     ${draft != null && state.lastError ? `<p class="error">저장하지 못했습니다. ${esc(state.lastError)}</p>` : ''}
     <textarea class="field" id="txt" placeholder="투자 아이디어, 공부한 내용, 매수·매도 이유 등을 자유롭게 기록하세요.">${esc(draft ?? existing?.text ?? '')}</textarea>
@@ -627,7 +644,7 @@ function noteDialog(list, code, id, draft) {
           const n = p[list].find((s) => s.code === code).notes.find((x) => x.id === id);
           n.text = text;
           n.editedAt = new Date().toISOString();
-        });
+        }, storeOf(list));
       } else {
         ok = await mutate(`기록 추가: ${it.name}`, (p) => {
           p[list].find((s) => s.code === code).notes.push({
@@ -638,7 +655,7 @@ function noteDialog(list, code, id, draft) {
             quoteAt: state.market?.updatedAt ?? null,
             text,
           });
-        });
+        }, storeOf(list));
       }
       // 저장 실패 시 쓴 내용을 잃지 않도록 창을 다시 연다
       if (!ok) noteDialog(list, code, id, text);
@@ -736,6 +753,59 @@ function moveDialog(kind, id) {
   });
 }
 
+function sellDialog(code, draft) {
+  const it = findItem('holdings', code);
+  const q = quote(code);
+  openDialog(`
+    <h2>${esc(it.name)} 매각</h2>
+    <p class="sub">처분종목(비공개)으로 옮기고 기록 ${it.notes?.length || 0}건을 그대로 이어서 관리합니다.</p>
+    <div class="snapshot">${q ? `매각 시점으로 저장: 주가 ${fmtNum(q.p)}원 · 시총 ${fmtCap(q.cap)} (시세 기준 ${fmtDate(state.market.updatedAt, true)})` : '시세 데이터가 없어 매각가 없이 저장됩니다.'}</div>
+    ${draft != null && state.lastError ? `<p class="error">저장하지 못했습니다. ${esc(state.lastError)}</p>` : ''}
+    <textarea class="field" id="memo" placeholder="매각 이유를 적어 두세요 (선택). 매각 기록으로 함께 남습니다.">${esc(draft || '')}</textarea>
+    <div class="actions"><button class="btn" value="cancel">취소</button><button class="btn primary" id="ok">매각 처리</button></div>`, (d) => {
+    const memo = $('#memo', d);
+    memo.focus();
+    $('#ok', d).addEventListener('click', async (e) => {
+      e.preventDefault();
+      const text = memo.value.trim();
+      dialog.close();
+      const at = new Date().toISOString();
+      const sale = { soldAt: at, soldPrice: q?.p ?? null, soldCap: q?.cap ?? null, soldQuoteAt: state.market?.updatedAt ?? null };
+      const saleNote = { id: uid(), kind: 'sell', at, price: sale.soldPrice, cap: sale.soldCap, quoteAt: sale.soldQuoteAt, text: text ? `매각 — ${text}` : '매각' };
+      // 1) 비공개 처분종목에 먼저 저장 (예전에 처분한 같은 종목이 있으면 기록을 합친다)
+      const ok = await mutate(`처분종목 추가: ${it.name}`, (s) => {
+        const prev = s.sold.find((x) => x.code === code);
+        const notes = [...(prev?.notes || []), ...(it.notes || []), saleNote];
+        s.sold = [{ ...it, ...sale, notes }, ...s.sold.filter((x) => x.code !== code)];
+      }, 'sold');
+      if (!ok) { sellDialog(code, text); return; }
+      // 2) 공개 보유종목에서 제거. 실패하면 1)을 되돌린다
+      const removed = await mutate(`보유종목 매각: ${it.name}`, (p) => { p.holdings = p.holdings.filter((x) => x.code !== code); });
+      if (!removed) {
+        await mutate(`처분종목 추가 취소: ${it.name}`, (s) => { s.sold = s.sold.filter((x) => !(x.code === code && x.soldAt === at)); }, 'sold');
+        return;
+      }
+      state.open.add(code);
+      toast(`${it.name}을(를) 처분종목으로 옮겼습니다`);
+    });
+  });
+}
+
+function renderSold() {
+  const access = state.access.sold;
+  if (!canEdit() || access === 'locked') {
+    return `<div class="section-head"><div><h1>처분종목</h1></div></div><div class="empty">🔒 비공개 탭입니다. 편집 모드에서만 볼 수 있습니다.</div>`;
+  }
+  if (access === 'noaccess' || access === 'badtoken') {
+    return `<div class="section-head"><div><h1>처분종목</h1></div></div>
+      <div class="card news-summary">🔒 지금 토큰으로는 비공개 저장소(${PRIVATE_REPO})를 열 수 없습니다. GitHub 토큰 설정에서 이 저장소 권한(Contents: Read and write)을 추가한 뒤 새로고침하세요.</div>`;
+  }
+  const items = [...state.sold.sold].sort((a, b) => (b.soldAt || '').localeCompare(a.soldAt || ''));
+  const head = `<div class="section-head"><div><h1>처분종목</h1><p>🔒 비공개 · ${items.length}개 종목 · 보유종목에서 '매각'을 누르면 기록과 함께 이곳으로 옮겨집니다</p></div></div>`;
+  if (!items.length) return head + '<div class="empty">아직 처분한 종목이 없습니다.</div>';
+  return head + `<div class="list">${items.map((it) => stockCard('sold', it)).join('')}</div>`;
+}
+
 function settingsDialog() {
   const has = canEdit();
   openDialog(`
@@ -819,11 +889,20 @@ view.addEventListener('click', async (e) => {
     await mutate(`기록 삭제: ${it.name}`, (p) => {
       const s = p[list].find((x) => x.code === code);
       s.notes = s.notes.filter((n) => n.id !== id);
-    });
+    }, storeOf(list));
   } else if (act === 'remove') {
     const it = findItem(list, code);
-    if (!confirm(`${it.name}을(를) ${LISTS[list]}에서 삭제할까요? 기록 ${it.notes?.length || 0}건도 함께 삭제됩니다.`)) return;
-    await mutate(`${LISTS[list]} 삭제: ${it.name}`, (p) => { p[list] = p[list].filter((x) => x.code !== code); });
+    if (!confirm(`${it.name}을(를) ${LIST_NAMES[list]}에서 삭제할까요? 기록 ${it.notes?.length || 0}건도 함께 삭제됩니다.`)) return;
+    await mutate(`${LIST_NAMES[list]} 삭제: ${it.name}`, (p) => { p[list] = p[list].filter((x) => x.code !== code); }, storeOf(list));
+  } else if (act === 'sell') sellDialog(code);
+  else if (act === 'unsell') {
+    const it = findItem('sold', code);
+    if (findItem('holdings', code)) { toast('이미 보유종목에 있습니다'); return; }
+    if (!confirm(`${it.name}을(를) 다시 보유종목으로 옮길까요? 기록은 그대로 함께 옮겨집니다.`)) return;
+    const { soldAt, soldPrice, soldCap, soldQuoteAt, ...rest } = it;
+    // 공개 쪽(보유종목)에 먼저 추가하고, 성공하면 비공개 처분종목에서 뺀다
+    if (!await mutate(`보유종목 복귀: ${it.name}`, (p) => { p.holdings.push(rest); })) return;
+    await mutate(`처분종목에서 제외: ${it.name}`, (s) => { s.sold = s.sold.filter((x) => x.code !== code); }, 'sold');
   } else if (act === 'move') {
     const to = list === 'holdings' ? 'watchlist' : 'holdings';
     const it = findItem(list, code);

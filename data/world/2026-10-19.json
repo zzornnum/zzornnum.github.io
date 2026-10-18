@@ -1,0 +1,436 @@
+{
+  "date": "2026-10-19",
+  "generatedAt": "2026-10-19T07:54+09:00",
+  "items": [
+    {
+      "id": "w7",
+      "region": "미국",
+      "title": "슈워츠먼의 실패한 1989년 Edgcomb 인수 회고",
+      "summary": "블랙스톤 창업자 스티븐 슈워츠먼이 회고록 연재(18회)에서 1989년 Edgcomb 인수를 돌아봤다. 그는 이 인수를 기억하기 위해 책상 위에 명판(plaque)을 두고 있다고 밝혔다. 1985년 블랙스톤을 창업한 뒤 40여 년 동안 일어난 일 중 세 가지 사건이 특히 기억에 남는다고 말했다. 원문은 여기까지만 전하며 인수 손실 규모 등 세부 내용은 담고 있지 않다.",
+      "original": "Edgcomb: Stephen Schwarzman (18)",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/my-personal-history/edgcomb-stephen-schwarzman-18",
+      "published": null
+    },
+    {
+      "id": "w21",
+      "region": "미국",
+      "title": "미국 증시 거의 24시간 거래… 일본 투자자 준비",
+      "summary": "미국 증시가 12월 초부터 거의 24시간 거래 체제로 옮겨갈 예정이다. 세계 최대 주식시장에서 일본 투자자들이 전례 없는 매매 유연성을 얻게 된다는 의미다. 원문은 이 변화가 일본 투자자들이 야간에도 미국 주식을 사고팔 수 있게 한다고 전한다.",
+      "original": "Japan's investors gear up for 23-hour US trading",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/trading-asia/japan-s-investors-gear-up-for-23-hour-us-trading",
+      "published": null
+    },
+    {
+      "id": "w76",
+      "region": "미국",
+      "title": "이란 전쟁·AI 붐, 청정전력 명분 키워",
+      "summary": "FT는 트럼프 대통령이 청정에너지를 줄이려 하지만, 이란 전쟁과 AI 붐이 청정 전력의 필요성을 키우고 있다고 분석한다. 대통령의 정책과 시장 흐름이 엇갈리는 상황을 보여준다.",
+      "original": "Trump’s losing battle with green energy",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/b263bbe1-cd0c-4508-9ec8-07cb8a9c2a02?syn-25a6b1a6=1",
+      "published": "2026-10-18T19:00+09:00"
+    },
+    {
+      "id": "w46",
+      "region": "미국",
+      "title": "S&P 500 내부 조용한 순환매… '트리플 톱' 약세 신호",
+      "summary": "S&P 500 안에서 조용한 시장 순환매가 일어나고 있으며, 이것이 추가 약세를 예고한다는 분석이다. 차트에 '트리플 톱(triple-top)' 반전 패턴이 나타나 S&P 500이 장기간 시장 대비 부진할 수 있다고 본다. 원문은 이 기간이 짧지 않을 수도 있다고 전한다.",
+      "original": "There is a silent market rotation inside the S&P 500 that’s warning of more weakness ahead",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/there-is-a-silent-market-rotation-inside-the-s-p-500-thats-warning-of-more-weakness-ahead-549e7650?mod=mw_rss_topstories",
+      "published": "2026-10-18T21:00+09:00"
+    },
+    {
+      "id": "w57",
+      "region": "미국",
+      "title": "소상공인은 버티지만, 트럼프 지지율 반전될까",
+      "summary": "미국 소상공인은 3,400만 곳으로 전체 노동자의 절반을 고용하고 GDP의 절반가량을 창출한다. 원문은 트럼프 대통령에 대한 전반적인 경제 심리는 나쁘지만 소상공인은 비교적 자신감이 있다고 전한다. NFIB(전미독립사업자연맹)의 소기업낙관지수는 장기 평균을 살짝 밑돌며 떨어졌고, 불확실성은 소폭 늘었다. 가장 큰 걱정은 인력의 질(26%)과 물가(20%)였으며, 향후 3개월 내 고용을 늘릴 계획인 곳은 17%다. 11월 중간선거를 앞두고 이 집단의 심리가 정치 지지율에 어떤 영향을 줄지가 쟁점이다.",
+      "original": "Small business owners are doing OK – but will that help Trump overcome his low approval ratings?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/18/small-business-owners-trump-economy",
+      "published": "2026-10-18T21:00+09:00"
+    },
+    {
+      "id": "w60",
+      "region": "미국",
+      "title": "EPA, 과불화화합물 단종 주장 조용히 번복",
+      "summary": "미국 환경보호국(EPA)이 PFOA와 PFOS를 미국에서 단계적으로 퇴출했다는 주장을 조용히 철회했다. 가디언은 EPA가 웹사이트 문구를 바꿨다고 전했다. 그러나 EPA는 식수에서 두 물질에 노출되는 수준이 거의 안전하지 않다고 봤고, 국제암연구소(IARC)는 PFOA를 인체 발암성 물질로 분류한다. 그럼에도 휴스턴 소재 Inhance사가 PFOA가 내용물로 높은 수준 스며드는 플라스틱 용기 생산을 계속할 수 있도록 허용됐다. 이 회사는 연간 최대 2억 개의 용기를 만들며, 전직 EPA 과학자는 이것이 지속적인 공중보건 위협이라고 말했다.",
+      "original": "EPA quietly backtracks on claims US has phased out toxic Pfas compounds",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/oct/18/epa-pfas-compounds-toxins",
+      "published": "2026-10-18T21:00+09:00"
+    },
+    {
+      "id": "w1",
+      "region": "미국",
+      "title": "월가 애널리스트 추천주 3선… 유나이티드헬스 실적 상향",
+      "summary": "AI 거래에 대한 우려와 국제유가 상승 압력 속에서도 장기 성장성을 가진 종목이 있다는 분석이다. 이 기사는 과거 성과로 순위가 매겨진 월가 애널리스트들이 선호하는 종목 3개를 소개한다. 건강보험사 유나이티드헬스는 2026년 3분기 실적이 예상을 웃돌았고, 연간 실적 전망도 높였다. 모건스탠리의 Erin Wright 애널리스트는 UNH에 대해 목표주가 529달러의 매수 의견을 재확인했다. 금리 인상 우려가 있어도 투자자는 변동성을 넘어 장기 성장 종목을 살펴볼 수 있다는 것이 기사의 메시지다.",
+      "original": "Top Wall Street analysts are bullish on the growth potential of these 3 stocks",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/18/top-analysts-are-bullish-on-the-growth-potential-of-these-3-stocks.html",
+      "published": "2026-10-18T21:34+09:00"
+    },
+    {
+      "id": "w41",
+      "region": "미국",
+      "title": "강한 실적 vs 상승하는 차입 비용… 증시 격돌",
+      "summary": "기업 실적은 강하지만 채권 금리가 오르면서 증시가 큰 시험대에 섰다는 분석이다. 일부 전략가는 AI 거래가 금리 상승에 대체로 영향을 받지 않았다는 생각이 정확하지 않다고 지적한다.",
+      "original": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories",
+      "published": "2026-10-18T22:00+09:00"
+    },
+    {
+      "id": "w38",
+      "region": "미국",
+      "title": "월 배당 노리는 커버드콜 ETF, 세금 함정",
+      "summary": "월 현금흐름을 원하는 베이비붐 세대 사이에서 커버드콜 ETF 인기가 높다. 이 펀드는 주식을 보유하면서 콜옵션을 팔아 옵션 프리미엄으로 소득을 얻는다. 투자자는 높은 소득 수익률을 받는 대신 주가 상승 이익이 제한된다. 문제는 세금이다. 옵션 프리미엄과 단기 이익 등을 실현한 펀드는 과세 대상 금액을 투자자에게 분배해야 해, 일반 ETF와 달리 세금 부담이 클 수 있다.",
+      "original": "Boomers are buying into the promise of monthly income from options ETFs, but there's a tax catch",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/18/retirement-income-funds-taxes.html",
+      "published": "2026-10-18T22:10+09:00"
+    },
+    {
+      "id": "w35",
+      "region": "미국",
+      "title": "S&P 500 이익 증가 견인할 의외의 종목들",
+      "summary": "S&P 500 이익 성장을 이끌 의외의 종목으로 보잉, 메타, EchoStar가 꼽혔다. 이들은 1년 전 큰 비용과 충당금을 기록했는데, 그 기저효과 때문에 이번 분기 실적이 특히 좋아 보일 것으로 예상된다.",
+      "original": "These surprising stocks could be some of the biggest drivers of S&P 500 earnings growth",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/these-surprising-stocks-could-be-some-of-the-biggest-drivers-of-s-p-500-earnings-growth-ea073a07?mod=mw_rss_topstories",
+      "published": "2026-10-18T23:00+09:00"
+    },
+    {
+      "id": "w43",
+      "region": "미국",
+      "title": "일요일에도 일하는 직장인 절반… 유연성일까 불안일까",
+      "summary": "Owl Labs 보고서에 따르면 직장인 약 절반이 자주 일요일에 업무에 접속한다. 7월에 2,000명을 대상으로 한 조사이며 오차범위는 ±2%다. 응답자의 21%는 일요일에 거의 하루 종일, 24%는 몇 시간씩 일한다고 답했다. 텍사스 오스틴의 회계사는 9월 이후 주 최대 60시간을 일하고 일요일에도 재택근무를 한다고 말했다. 원문은 일요일이 사실상 주의 시작이 되고 있다고 진단한다. 유연성의 혜택으로 보는 시각과 고용 불안의 신호로 보는 시각이 맞서 있다.",
+      "original": "The bloated workweek is coming for Sundays—as some embrace flexibility, others worry about job security",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/make-it/2026/10/18/why-people-are-working-sundays.html",
+      "published": "2026-10-18T23:00+09:00"
+    },
+    {
+      "id": "w62",
+      "region": "미국",
+      "title": "트럼프의 '미국 다시 싸게' 전략 실패 평가",
+      "summary": "FT는 트럼프 행정부가 내세운 '미국을 다시 싸게 만들겠다'는 시도가 실패했다고 평가한다. 유권자들은 오르는 에너지 가격을 행정부 정책과 점점 더 연결 짓고 있다고 원문은 전한다.",
+      "original": "Trump’s bid to make America cheap again has failed",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/52a5e9df-cd9a-4951-99b5-2364e575bb44?syn-25a6b1a6=1",
+      "published": "2026-10-19T00:00+09:00"
+    },
+    {
+      "id": "w15",
+      "region": "미국",
+      "title": "에버코어, 공동 사장 체제 도입… 워인버그 CEO 유지",
+      "summary": "투자은행 에버코어가 조직 개편에서 처음으로 공동 사장(co-presidents) 체제를 도입했다. Nigel Dawn과 Naveen Nataraj가 승진했고, John Weinberg는 최소 3년간 최고경영자(CEO) 자리를 유지한다. 원문은 이 외의 세부 사항은 전하지 않는다.",
+      "original": "Evercore appoints co-presidents for the first time in leadership reshuffle",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/5700f8fb-32b9-4324-972c-9578904ac6e2?syn-25a6b1a6=1",
+      "published": "2026-10-19T05:01+09:00"
+    },
+    {
+      "id": "w3",
+      "region": "유럽",
+      "title": "스포츠 불법 방송 단속… 이미 통제 불능인가",
+      "summary": "스포츠 산업의 수익 모델이 불법 TV 스틱과 불법 스트리밍 링크로 흔들리고 있다는 BBC 칼럼이다. 칼럼은 1992년 프리미어리그가 스카이(Sky)와 5년간 3억 파운드 넘는 초기 중계권 계약을 맺으면서 라이브 축구가 처음으로 유료 TV 뒤로 들어갔다는 점에서 출발한다. 그때부터 축구는 스포츠에서 큰 사업으로 바뀌었다고 원문은 설명한다. 저작권 침해가 이 구조를 얼마나 위협하는지, 현재의 단속이 충분한지가 쟁점이다.",
+      "original": "There's a crackdown on sports piracy - but is it already out of control?",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2375zqwwwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-18T09:11+09:00"
+    },
+    {
+      "id": "w31",
+      "region": "유럽",
+      "title": "단열·히트펌프가 새 유전보다 생활비·일자리에 유리",
+      "summary": "영국의 주택 단열과 히트펌프 투자가 새 석유 시추보다 생활비 절감, 일자리 창출, 경제 성장에 더 효과적이라는 E3G 분석이 나왔다. 150억 파운드 규모의 '따뜻한 주택 계획(warm homes plan)'은 예산 절감 압박으로 삭감 위험에 놓여 있다. 분석에 따르면 이 계획은 가구 에너지 요금을 연 10억 파운드 줄이고, 연간 경제에 16억 파운드를 보태며, 약 5만 개의 일자리를 만든다. 반면 셰틀랜드 서쪽의 로즈뱅크(Rosebank) 유전은 직간접 일자리 약 1,100개를 만든다고 한다. 그 일자리도 북해와 두 기업에 몰려 있으며, 그중 하나는 해외 투자사 Equinor다.",
+      "original": "Heat pumps and insulation would cut UK living costs more than new oilfields, study suggests",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/oct/18/heat-pumps-insulation-warm-homes-plan-beat-new-oilfields-cutting-uk-cost-of-living-study",
+      "published": "2026-10-18T15:00+09:00"
+    },
+    {
+      "id": "w66",
+      "region": "유럽",
+      "title": "노팅엄 레이스를 짜는 마지막 공장",
+      "summary": "MYB 텍스타일스는 전통 직기로 패턴이 있는 노팅엄 레이스를 짜는 세계 마지막 공장이다. 뉴밀른스와 다벨 두 마을에만 한때 레이스 공장이 20곳 있었고, 레이스 산업은 한동안 이 지역 최대 고용처였다. 원문은 사진 기획으로 공장의 현재 모습을 보여준다.",
+      "original": "The last lace mill – in pictures",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/oct/18/the-last-lace-mill-in-pictures",
+      "published": "2026-10-18T15:00+09:00"
+    },
+    {
+      "id": "w36",
+      "region": "유럽",
+      "title": "난방유 가격 급등에 영국 겨울나기 부담",
+      "summary": "이란 전쟁 이후 난방유 가격이 오르면서 영국 일부 가구가 난방비를 감당하기 어렵다고 호소하고 있다. 남서부 주민들은 가격이 내려가기를 기다리며 겨울 연료 구매를 미루고 있다고 BBC에 말했다. 에너지 소비자 담당 장관 Polly Billington은 난방 연료 비용이 분쟁 시작 이후 최대 82% 올랐다고 밝혔다. 정부는 시장을 규제하고 일부 가구가 사야 하는 최소 구매량을 재검토하는 조치를 발표했다. 전력망 밖에 있는(off grid) 가구가 많은 농촌 지역이 가장 큰 타격을 받는다고 원문은 전한다.",
+      "original": "Heating oil customers face tough winter",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cq1j3x66e1rno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-18T15:07+09:00"
+    },
+    {
+      "id": "w25",
+      "region": "유럽",
+      "title": "콘데 나스트 영국법인 이익 36% 급감",
+      "summary": "잡지 그룹 콘데 나스트의 영국 법인 세전이익(특별항목 제외)이 지난해 36% 줄었다. 이익은 2024년 2,800만 파운드에서 약 1,800만 파운드로 떨어졌다. 2024년에는 런던 본사 Vogue House 매각 수익 6,400만 파운드 덕분에 실적이 좋았다. 영국 내 매출은 7% 줄어 7,060만 파운드가 됐고, 해외 매출은 18% 늘어 2,970만 파운드가 됐다. 회사는 구조조정 비용을 언급하면서도 영국에서 '1년 더 수익을 낼 것'이라고 밝혔다. 보도는 소유 가문이 매각을 배제한 직후에 나왔다.",
+      "original": "Condé Nast’s UK profits drop by more than a third as sale of Vogue publisher ruled out",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/media/2026/oct/18/conde-nast-uk-profits-drop-vogue-publisher-magazine-group",
+      "published": "2026-10-18T16:00+09:00"
+    },
+    {
+      "id": "w26",
+      "region": "유럽",
+      "title": "독일·프랑스, '유럽산' 자동차 기준 강화 공동 입장",
+      "summary": "독일과 프랑스가 유럽 자동차 패키지에 대해 공동 입장을 내놨다. 핵심은 '유럽산(Made in Europe)'의 지리적 정의를 좁히고, 보조금과 공공조달 자격에 연구개발(R&D) 요건을 두는 것이다. 문서에 따르면 '유럽산'은 EU 27개 회원국에 한정되며, 2020년 1월 1일 기준 단일시장에 속했던 유럽 파트너만 선택적으로 포함될 수 있다. 업계는 이것이 중국 완성차 업체에 역내 생산 투자 압박을 키울 것으로 본다. 베를린과의 논의에서 탄소 배출 목표에는 일부 양보를 허용했지만, 파리는 독일이 엄격한 정의를 받아들이도록 설득했다.",
+      "original": "Germany, France to tighten ‘Made in Europe’ stance, pressuring China’s auto industry",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/global-economy/article/3371261/germany-france-tighten-made-europe-stance-pressuring-chinas-auto-industry?utm_source=rss_feed",
+      "published": "2026-10-18T16:00+09:00"
+    },
+    {
+      "id": "w17",
+      "region": "유럽",
+      "title": "조류 발전기로 해안 마을 바꿀 수 있을까",
+      "summary": "엔지니어 David Mummery는 스코틀랜드 고지대 강물에 몸을 맡긴 체험에서 착안해 소형 조류 발전기를 개발했다. 이 장치는 '스위머 터빈(Swimmer Turbine)'이라 불리며 출력은 50kW이고, 해저에 고정돼 수면 아래 보이지 않게 설치된다. 그는 이 장치가 해안 지역 주민들의 삶을 바꿀 수 있다고 말한다. 기사는 이 기술이 해안 공동체에 실질적인 변화를 줄 수 있을지 묻는다.",
+      "original": "Turning the tides: Could hidden sea power energise our coastal towns?",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c8y56y6xg9n9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-18T17:12+09:00"
+    },
+    {
+      "id": "w10",
+      "region": "유럽",
+      "title": "영국 예산안 10월 28일 발표… 증세 가능성 열어둬",
+      "summary": "영국 재무장관 John Healey가 10월 28일 첫 예산안을 발표한다. 노동당은 2024년 총선 전 소득세, 국민보험료, 부가가치세를 올리지 않겠다고 약속했지만, 그는 세금 인상 가능성을 배제하지 않았다. 정부 차입 비용이 '역사적 고점'이라는 점을 인정했기 때문이다. 발표에서는 세율 인상과 인하 계획, 각 조치의 비용이 함께 공개된다. 독립 재정 감시기구인 예산책임기구(OBR)도 경제 상황 평가와 전망을 내놓는다.",
+      "original": "What is the Budget and what could be in it?",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-18T19:22+09:00"
+    },
+    {
+      "id": "w4",
+      "region": "유럽",
+      "title": "MS, 영국 에식스 AI 데이터센터 사업서 손 떼",
+      "summary": "영국 정부가 국내 최대 규모라고 소개해 온 에식스 로턴(Loughton)의 AI 데이터센터 사업에서 마이크로소프트가 철수했다. 개발사 Nscale의 이 사업은 2025년 발표 당시 영국 최대 AI 데이터센터로 꼽혔고, 내년 개장이 계획돼 있었다. 마이크로소프트는 주요 임차인(anchor tenant)으로 기대됐지만 전력 공급 우려를 이유로 계약을 철회했다. 한 달 전에도 전력 공급 문제로 가동까지 긴 대기가 예상된다는 보도가 나왔다. 전력 확보가 AI 데이터센터 사업의 걸림돌이 되고 있음을 보여주는 사례다.",
+      "original": "Microsoft pulls out of AI datacentre project in Essex over power supply concerns",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/18/microsoft-drops-huge-ai-datacentre-project-in-essex-over-power-supply-concerns",
+      "published": "2026-10-18T22:05+09:00"
+    },
+    {
+      "id": "w65",
+      "region": "유럽",
+      "title": "영국 재무부, 예산 유출 막으려 '군사급' 보안 도입",
+      "summary": "재무장관 John Healey가 예산 관련 기밀 정보 유출을 막기 위해 '군사급' 보안 절차를 도입했다. 민감한 정보의 흐름을 제한하는 것이 목적이다.",
+      "original": "Treasury introduces new security measures in bid to stop UK Budget leaks",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/6748e45a-0b1a-43be-b65f-645849af4a57?syn-25a6b1a6=1",
+      "published": "2026-10-18T22:48+09:00"
+    },
+    {
+      "id": "w11",
+      "region": "유럽",
+      "title": "맨시티 구단주 5,500만 파운드 대출, 버넘 시장 재임 중 조사",
+      "summary": "맨체스터 시티의 아부다비 구단주에게 간 5,500만 파운드 대출이 주택 사업 기금 검토의 일부로 조사된다. 이 대출은 전 그레이터맨체스터 시장 앤디 버넘의 재임 중에 이뤄졌다. 원문은 구단이 9년간 재정 규정을 어겨 수입을 9억 파운드 부풀린 것으로 판정된 뒤 총리가 구단주들과의 관계를 두고 몇 주째 질문을 받고 있다고 전한다. 버넘은 이 규정 위반 이후 아부다비 구단주 편을 들었다는 비판을 받았다. 지역 시의원들은 그가 시장일 때 부동산 회사에 한 대출도 조사하겠다고 밝혔고, 총리는 '완전한 투명성'을 약속했다.",
+      "original": "Manchester City owner’s £55m housing loan while Burnham was mayor investigated",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/18/manchester-city-owners-55m-housing-loan-while-burnham-was-mayor-investigated",
+      "published": "2026-10-18T23:41+09:00"
+    },
+    {
+      "id": "w59",
+      "region": "유럽",
+      "title": "미국, Starlink 규제 두고 EU에 보복 경고",
+      "summary": "미국 대사 Andrew Puzder는 브뤼셀이 비(非)EU 기업의 전파 사용을 제한하는 계획을 추진하면 '파괴적인' 보복이 따를 것이라고 경고했다. 제목은 이 갈등을 Starlink 규제 문제로 짚는다.",
+      "original": "US threatens Europe over Starlink restrictions",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/d1e28d93-8574-4a46-946a-b261c401d6fa?syn-25a6b1a6=1",
+      "published": "2026-10-19T01:00+09:00"
+    },
+    {
+      "id": "w49",
+      "region": "유럽",
+      "title": "시티 오브 런던, 7,000만 파운드 예산 공백 메우기 나서",
+      "summary": "런던 시티 코퍼레이션(City of London Corporation)은 7,000만 파운드 규모의 예산 공백을 메우기 위해 증세와 서비스 축소를 검토하고 있다. 이에 따라 바비칸 센터의 앞날이 불확실해졌다. 원문은 노동당 정부의 자금 지원 체계 개편에 대비하고 있다고 전한다.",
+      "original": "City of London Corporation weighs tax rises and service cuts to plug £70mn budget hole",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/873e7ef2-d3d6-4c30-b8f8-ee3e69d60138",
+      "published": "2026-10-19T03:00+09:00"
+    },
+    {
+      "id": "w32",
+      "region": "중국",
+      "title": "'차이나 하울' 확산… 외국인 관광객 쇼핑 붐",
+      "summary": "미국 콘텐츠 크리에이터 Grace Andrews는 빈 여행 가방을 쇼핑용으로 들고 중국에 갔다가, 돌아올 때는 가방이 터질 듯 찼다. 그의 영상은 고가 골동 도자기부터 디자이너 블라인드 박스, 중국 브랜드의 의류·신발·가방까지 중국 소매 시장의 폭을 보여준다. 원문은 중국을 찾는 외국인 관광객이 늘면서 '차이나 하울(China haul)'이라는 소셜미디어 유행이 생겼다고 전한다. 제목은 이 현상이 베이징의 정책 변화 이후 나타났다고 짚는다.",
+      "original": "‘China haul’: why foreign tourists are shopping up a storm after Beijing policy changes",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/china-economy/article/3371258/china-haul-why-foreign-tourists-are-shopping-storm-after-beijing-policy-changes?utm_source=rss_feed",
+      "published": "2026-10-18T14:00+09:00"
+    },
+    {
+      "id": "w19",
+      "region": "중국",
+      "title": "이란 전쟁 속 중국 기업, 카타르 터널 공사 협약",
+      "summary": "중국 국영 건설사 China Railway Tunnel Group이 카타르 복합기업 Aamal의 자회사와 터널 사업 및 관련 공급망에 대한 양해각서(MOU)를 체결했다. 카타르 측 발표에 따르면 두 회사는 카타르와 주변 지역에서 '전략적 협력'을 하기로 했다. 이 회사는 산악·해저·도시 대중교통용 터널 건설을 전문으로 한다. 원문은 이 협약이 동남아와 중남미의 철도 수주에 이어 중국의 인프라 수출이 중동으로 확장되는 흐름이라고 짚는다.",
+      "original": "Risky business? Chinese firm agrees to build rail tunnels in Qatar amid Iran war",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/china-economy/article/3371195/risky-business-chinese-firm-agrees-build-rail-tunnels-qatar-amid-iran-war?utm_source=rss_feed",
+      "published": "2026-10-18T18:00+09:00"
+    },
+    {
+      "id": "w12",
+      "region": "중국",
+      "title": "중국, 기후 회복력을 성장 전략에 편입한 방식",
+      "summary": "중동 전쟁으로 석유·가스 공급이 흔들리면서 각국은 에너지 압박에 직면했고, 다음 달 튀르키예 안탈리아에서 COP31이 열린다. SCMP 기고는 중국을 경제 회복력과 기후 행동을 함께 키운 사례로 든다. 중국 공장은 녹색 전환에 필요한 첨단 제품을 경쟁력 있는 가격에 공급하며, 전기차·배터리·풍력·태양광 설비에서 생산 원가 우위를 가진다. 중국은 기후 목표를 산업 정책과 개발 계획에 더 많이 넣어 왔다. 원문은 이를 국제 협약 준수를 넘어 생산을 현대화하고 새 성장 동력을 만드는 목적으로 설명한다.",
+      "original": "How China made climate resilience part of its economic growth strategy",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/opinion/china-opinion/article/3371034/how-china-made-climate-resilience-part-its-economic-growth-strategy?utm_source=rss_feed",
+      "published": "2026-10-19T06:30+09:00"
+    },
+    {
+      "id": "w5",
+      "region": "중국",
+      "title": "모건스탠리 중국 이코노미스트 'K자형' 회복론",
+      "summary": "모건스탠리의 중국 수석이코노미스트 Robin Xing과의 인터뷰다. 그는 중국 경제가 'K자형'으로 갈라져 있다고 진단하며, K의 위쪽 절반이 디플레이션과 약한 소비 같은 문제를 상쇄할 수 있다고 본다. 인터뷰는 베이징의 실제 정책 우선순위와 '구성의 오류(fallacy of composition)' 문제도 다룬다. 또 소비자를 돕는 것이 중국의 기술 발전을 지속하고 가속할 것이라고 주장한다. 중국 내수 회복 속도를 가늠하는 참고 자료가 된다.",
+      "original": "Robin Xing on how China’s ‘two-speed’ economy can solve contrasting problems",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/china-economy/article/3371109/robin-xing-how-chinas-two-speed-economy-can-solve-contrasting-problems?utm_source=rss_feed",
+      "published": "2026-10-19T07:00+09:00"
+    },
+    {
+      "id": "w14",
+      "region": "아시아",
+      "title": "일본 지방은행, 부동산 대출 사상 최대 증가",
+      "summary": "일본 지방은행들의 4~6월 분기 부동산 대출 증가액이 기록적인 수준을 보였다. 일부 은행에서는 부동산 관련 대출이 전체 대출잔액의 거의 절반을 차지한다. 원문은 이 흐름을 짧게 전하는 단신이다.",
+      "original": "Japan's regional banks log record growth in property lending",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/finance/japan-s-regional-banks-log-record-growth-in-property-lending",
+      "published": null
+    },
+    {
+      "id": "w39",
+      "region": "아시아",
+      "title": "스바루, 2020년대 후반 소프트웨어 정의 차량 도입",
+      "summary": "스바루는 이번 10년 후반에 무선 업데이트(OTA)가 가능한 소프트웨어 정의 차량을 도입하겠다고 밝혔다. 차세대 차량의 개발 기간을 40% 줄이기 위해 디지털 설계와 테스트를 더 많이 쓸 계획이다.",
+      "original": "Subaru to launch software-defined vehicles in late 2020s",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/automobiles/subaru-to-launch-software-defined-vehicles-in-late-2020s",
+      "published": null
+    },
+    {
+      "id": "w44",
+      "region": "아시아",
+      "title": "미쓰비시중공업, 보급선 건조 라인 재가동",
+      "summary": "미쓰비시중공업은 2027 회계연도 중 서부 일본의 휴면 조선 라인을 다시 가동한다. 방위성이 쓸 새로운 보급함(replenishment vessel)을 짓기 위해서다. 원문은 늘어나는 선박 수요에 맞춰 추가 건조 능력을 확보하려는 움직임이라고 전한다.",
+      "original": "Mitsubishi Heavy to revive shipbuilding line for Japan resupply vessel",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/aerospace-defense-industries/mitsubishi-heavy-to-revive-shipbuilding-line-for-japan-resupply-vessel",
+      "published": null
+    },
+    {
+      "id": "w48",
+      "region": "아시아",
+      "title": "미중 '대타협'은 아직 요원… 정상회담 두 차례 추가",
+      "summary": "트럼프 대통령과 시진핑 국가주석이 연말까지 두 차례 더 만나기로 합의했다. 원문은 이를 매우 이례적인 외교적 전개라고 전한다. 다만 제목처럼 포괄적인 미중 '대타협(grand bargain)'은 아직 멀다는 평가다.",
+      "original": "The US-China grand bargain remains out of reach",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/comment/the-us-china-grand-bargain-remains-out-of-reach",
+      "published": null
+    },
+    {
+      "id": "w52",
+      "region": "아시아",
+      "title": "AI·기후·사모자본이 가른 아시아의 엇갈린 운명",
+      "summary": "아시아는 에너지 공급 충격과 생활비 위기 속에서도 견조한 경제 성장을 보였다. 그러나 AI 붐과 기타 순풍을 놓친 나라들이 생기면서 그 성장세가 고르지 않다는 평가다.",
+      "original": "AI, climate and private capital reveal Asia's diverging fortunes",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/ai-climate-and-private-capital-reveal-asia-s-diverging-fortunes",
+      "published": null
+    },
+    {
+      "id": "w61",
+      "region": "아시아",
+      "title": "호주 집값 급락… 금리 인상과 투자 억제 세제가 타격",
+      "summary": "호주의 집값이 급락하고 있다. 금리 인상과 주택 투자를 억제하려는 세제 개편이 시장을 가라앉혔다. 이는 건설 수요에도 타격을 주고 있으며, 정부의 주택 공급 확대 계획에도 의문을 던진다.",
+      "original": "Australian home prices tumble as tax rules, rate hikes bite",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/property/australian-home-prices-tumble-as-tax-rules-rate-hikes-bite",
+      "published": null
+    },
+    {
+      "id": "w13",
+      "region": "아시아",
+      "title": "이란 '새 작전 계획' 경고… 아라비아반도 인근 상선 공격 잇따라",
+      "summary": "이란 최고국가안보회의의 Mohsen Rezaei 서기는 미국·이스라엘의 재공격이 있으면 대응 계획이 준비돼 있다고 밝혔다. 그는 이 대응이 2025년 6월의 12일 전쟁과 올해 2월 미국·이스라엘이 촉발한 40일 전쟁보다 훨씬 파괴적일 것이라고 X에 적었다. 같은 날 아라비아반도 주변에서 상선에 대한 여러 건의 공격이 해양 당국에 보고됐다. 트럼프 대통령은 지난주 이란에 핵무기를 쓸 의도도, 지상군을 투입할 계획도 없다고 말했다고 원문은 전한다. 해상 운송과 유가에 대한 부담이 커지고 있다는 점이 함께 전해진다.",
+      "original": "Iran says it has a 'new operational plan' if the U.S. resumes attacks, as shipping vessels report strikes",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/18/iran-us-war-rezaei-operational-plan-shipping-attacks.html",
+      "published": "2026-10-18T22:52+09:00"
+    },
+    {
+      "id": "w20",
+      "region": "글로벌",
+      "title": "헤지펀드 확대가 글로벌 채권시장 충격 가능성 키운다",
+      "summary": "영국 중앙은행 부총재 Sarah Breeden은 헤지펀드의 채권시장 참여 확대로 광범위한 시장 충격 가능성이 '전보다 크다'고 CNBC에 말했다. 그는 핵심 국채 시장의 투자자 구성이 바뀌었다고 지적했다. 보험사와 연기금 같은 실수요(real money) 투자자가 예전만큼 주도하지 않는다는 것이다. 레버리지 사용이 늘면서 국지적인 시장 혼란이 광범위한 금융 스트레스로 번질 위험이 커졌다고 설명했다.",
+      "original": "Why hedge funds could be making a bond market shock more likely",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/18/hedge-funds-bond-market-turmoil.html",
+      "published": "2026-10-18T15:13+09:00"
+    },
+    {
+      "id": "w18",
+      "region": "글로벌",
+      "title": "세계은행 '스몰 AI'가 개도국 발전 앞당길 수 있다",
+      "summary": "세계은행은 개발도상국이 연결이 약한 휴대폰에서도 돌아가는 '스몰 AI' 모델을 서둘러 만들어야 한다고 촉구했다. 스몰 AI는 좁은 데이터셋으로 특정 목적을 위해 훈련된 전문 모델이다. 세계은행 수석지식책임자 Paschal Donohoe는 빅테크가 정교한 소비자 제품에 집중하는 동안 AI가 신흥국의 발전도 가속할 수 있다고 말했다. 다만 현지 수요에 맞게 조정될 때만 가능하다는 조건을 달았다. 그는 수세기 걸릴 경제 발전이 수십 년 안에 가능하다고 주장했다.",
+      "original": "World Bank says ‘small AI’ could transform developing countries",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies",
+      "published": "2026-10-18T19:00+09:00"
+    },
+    {
+      "id": "w71",
+      "region": "글로벌",
+      "title": "억만장자 모두가 정책 실패는 아니다",
+      "summary": "FT 사설은 10자리(십억 단위 이상) 재산을 가진 부자들을 무차별적으로 겨냥하는 정책은 자의적이고 잘못됐으며 비용도 크다고 주장한다. 모든 억만장자가 정책 실패의 상징은 아니라는 논지다.",
+      "original": "Not every billionaire is a policy failure",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/2c8c610b-83f3-4cab-b409-bab69f4c2207?syn-25a6b1a6=1",
+      "published": "2026-10-18T20:00+09:00"
+    },
+    {
+      "id": "w72",
+      "region": "글로벌",
+      "title": "메타 실적이 AI 붐에 대한 신뢰를 되살릴까",
+      "summary": "FT의 주간 전망 코너 'Market Questions'는 메타의 실적이 AI 붐에 대한 신뢰를 회복시킬 수 있을지 묻는다. 원문은 이번 주 시장 일정을 안내하는 기사다.",
+      "original": "Will Meta’s earnings restore confidence in the AI boom?",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/7c2e889e-2eb5-4c62-821b-1a7f88c13d05?syn-25a6b1a6=1",
+      "published": "2026-10-18T20:00+09:00"
+    },
+    {
+      "id": "w54",
+      "region": "글로벌",
+      "title": "사이버 공격 위협, 각국 지도자가 나서야",
+      "summary": "방콕에서 열린 IMF 연차총회에서 프랑스 슈퍼마켓 냉장고가 해킹돼 온도가 섭씨 50도까지 올라가 식품이 대량 폐기된 사건이 논의됐다. IMF 총재 Kristalina Georgieva는 AI가 디지털 사기의 위험을 한층 키우고 있다고 경고했다. 기고자 Heather Stewart는 사이버 공격 비용이 빠르게 늘고 있다고 짚는다. 금융 시스템을 지키기 위한 국제 협력이 필요하지만 실현 가능성은 낮아 보인다고 전한다.",
+      "original": "World leaders must wise up to threat of cyber-attacks or rogue fridges will be least of their worries | Heather Stewart",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/18/world-leaders-threat-cyber-attacks-rogue-fridges-financial-system",
+      "published": "2026-10-18T20:46+09:00"
+    },
+    {
+      "id": "w51",
+      "region": "글로벌",
+      "title": "가봉, 신성한 식물 이보가를 해외 제약사로부터 지키려",
+      "summary": "가봉에서 의식에 쓰이던 이보가(iboga) 뿌리가 중독 치료 등에 쓸 수 있다는 기대로 해외 제약사의 관심을 받고 있다. 이보가는 중앙아프리카 열대우림의 관목 뿌리 껍질이며, 이보가인(ibogaine)이라는 약물의 원료다. 미국 행정명령이 이 약물에 주목하면서 제약사들은 중독 치료에서 큰 잠재력을 본다. 원문은 해외 수요가 빠르게 늘 수 있어 가봉이 이 식물을 지키려 나섰다고 전한다.",
+      "original": "The next ayahuasca? Gabon fights to protect sacred plant from US drug companies",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/oct/18/gabon-sacred-plant-said-to-cure-addiction-trauma-pharmaceutical-companies-iboga-root-aoe",
+      "published": "2026-10-18T22:00+09:00"
+    }
+  ]
+}

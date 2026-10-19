@@ -11,13 +11,15 @@
       "headlines": [
         {
           "title": "JW중외제약·공정위, 299억 과징금 소송 쌍방 상고…대법원 판단 받는다",
-          "source": "KIS 뉴스",
-          "date": "2026-10-13"
+          "source": "메디컬투데이",
+          "date": "2026-10-13",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RbFZtcEowekZyUHFaX1p3VFpMUkJjMDBXdHJLYzBORW13WF8zY1l6UGlXU3RjZVVVVjVucFBCQlFHYkZTYk9OdlE0NUstQVQxck5UMHNJdEhMWTVLcGR4MGVHZW8wVHFQcktvaQ?oc=5"
         },
         {
           "title": "[장중수급포착] JW중외제약, 외국인 5일 연속 순매수행진... 주가 +4.30%",
           "source": "KIS 뉴스",
-          "date": "2026-10-16"
+          "date": "2026-10-16",
+          "urlChecked": true
         }
       ]
     },
@@ -30,12 +32,14 @@
         {
           "title": "메리츠 1조 택한 신세계, 차환 리스크에 후속 조달 부담까지",
           "source": "인베스트조선",
-          "date": "2026-10-15"
+          "date": "2026-10-15",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPR0FPTlExdUJPdktXVnE3eDhUbzN0OC1KRzlzT1NhYlRxNE9WamNNTjlwQTRMUnpmMU1ubU1UNUVBQkRqOWI1NUNoVlVhUlo0NlhjYmR0YUp6c3dOWHZHaGpEMGJvODNMQnFiTnpWN2tLOTlpQzFWNGI4VE1PcFMtdHQzWQ?oc=5"
         },
         {
           "title": "[장중수급포착] 메리츠금융지주, 기관 5일 연속 순매수행진... 주가 +1.38%",
           "source": "KIS 뉴스",
-          "date": "2026-10-16"
+          "date": "2026-10-16",
+          "urlChecked": true
         }
       ]
     },
@@ -47,18 +51,21 @@
       "headlines": [
         {
           "title": "삼전·하닉 무너진 한 달…소재·장비주는 40% 뛰었다[AI 공포 속 뜨거운 소부장①]",
-          "source": "KIS 뉴스",
-          "date": "2026-10-20"
+          "source": "이투데이",
+          "date": "2026-10-20",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HQjEwOFZsTl9QdzBURE5kVGpBdjMySk94WmltMUNzN3luRVN6aV80VXRhWlFlS2hiZmVKdEhleGxwNUtuaHY3eklOSGZhc2NzU1N4bWtHTkVVbk5TRExqREhRVU1ydHlZZDRVbm5n?oc=5"
         },
         {
           "title": "AI 거품론에 주가 흔들려도…글로벌 반도체 증설 경쟁은 ‘현재진행형’ [AI 공포 속 뜨거운 소부장②]",
           "source": "KIS 뉴스",
-          "date": "2026-10-20"
+          "date": "2026-10-20",
+          "urlChecked": true
         },
         {
           "title": "[전날 애프터마켓] 삼성전자·SK하이닉스 오름폭↑?삼성전기 상승 전환",
-          "source": "KIS 뉴스",
-          "date": "2026-10-20"
+          "source": "이투데이",
+          "date": "2026-10-20",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LZGMwSXhRUVpJWXQyZV9KaGNMRmY3SHhzeUhLSFRGZ0d4bDFUYTVWM0x1ejJRSWw3aUdvdTFEM2YwVXBtY3FlS2g3WWkzSWt3WnBDY0ZBSEg5RUZ1aFNqN0pKMklvTjRZbGxSTkZfSDVzdw?oc=5"
         }
       ]
     },
@@ -70,8 +77,9 @@
       "headlines": [
         {
           "title": "[단독] 한화에어로 이부환, 獨 투자유치 서밋 참석…현지 협력 확대 모색",
-          "source": "KIS 뉴스",
-          "date": "2026-10-19"
+          "source": "헤럴드경제",
+          "date": "2026-10-19",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xVjRDel9jem5iZXFxVkdZY29odjJoaURrWVNDekpsZnQzbEhpYXNya1RXNWR0UlJrX1hQV3BycjlZc2pfSDlSaEhPbE4wUVNSdi1SME13?oc=5"
         }
       ]
     },
@@ -84,12 +92,14 @@
         {
           "title": "(주)아바코 (정정)단일판매ㆍ공급계약체결(자율공시)",
           "source": "DART 공시",
-          "date": "2026-10-13"
+          "date": "2026-10-13",
+          "urlChecked": true
         },
         {
           "title": "\"GIST '반도체 혁신기술' 2종, 소부장 기업들 러브콜 기대\"",
-          "source": "KIS 뉴스",
-          "date": "2026-10-18"
+          "source": "머니투데이",
+          "date": "2026-10-18",
+          "url": "https://n.news.naver.com/mnews/article/008/0005427800"
         }
       ]
     },
@@ -101,13 +111,15 @@
       "headlines": [
         {
           "title": "정유 4사 3Q 실적 기대감…SK이노·에쓰오일 영업익 4조 전망",
-          "source": "KIS 뉴스",
-          "date": "2026-10-20"
+          "source": "파이낸셜뉴스",
+          "date": "2026-10-20",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4RjJPN3V2S0g3UHdkTGM1eDJsMDZUbUdSSHJUS3BUS0FBbUdlQ2o3R3kyZjBrelYtZDlVaEduUk9nWGtXRk04WmZBTU9pckhIdng5TUUyeDMxZw?oc=5"
         },
         {
           "title": "[단독] 산업부, 비축유 417만 배럴 '그림의 떡'…정작 위기 땐 못 쓴다",
-          "source": "KIS 뉴스",
-          "date": "2026-10-19"
+          "source": "뉴스핌",
+          "date": "2026-10-19",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55eFViUld5TG14QjhqeFI2dlZkRXZ6SnRRTEpRN0w3aE54ZENpekY3eElZZHpGaC1xdkh1cW5qVEp1VW9aTjdnZ0xpTkhuc1FpQ2s3alZfVjJFU2VH?oc=5"
         }
       ]
     },
@@ -119,18 +131,21 @@
       "headlines": [
         {
           "title": "[장중수급포착] 세방전지, 외국인/기관 동시 순매수… 주가 +7.13%",
-          "source": "KIS 뉴스",
-          "date": "2026-10-19"
+          "source": "뉴스핌",
+          "date": "2026-10-19",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80T2l1aTlrdUxrY09tdXMwQ2ZDVkJSYS1QTFlMenV5RVZYYUtKLUZVdk5RYnhyMkVhTmJzTGNUd19XTVVvbkdEalJwUmNzMnZJTGExZVJHS2ZLWC1U?oc=5"
         },
         {
           "title": "\"미국 사업 사실상 포기\" 백기 든 중국 ESS 기업들...2차전지주 '불기둥'",
-          "source": "KIS 뉴스",
-          "date": "2026-10-19"
+          "source": "머니투데이",
+          "date": "2026-10-19",
+          "url": "https://n.news.naver.com/mnews/article/008/0005428229"
         },
         {
           "title": "'축전지 산업 개척' 세방그룹 이의순 창업주 별세",
           "source": "KIS 뉴스",
-          "date": "2026-10-12"
+          "date": "2026-10-12",
+          "urlChecked": true
         }
       ]
     },
@@ -142,18 +157,21 @@
       "headlines": [
         {
           "title": "류현철 산안본부장 \"DN오토모티브, 일터 보건관리시스템 전반 살필 문제\"",
-          "source": "KIS 뉴스",
-          "date": "2026-10-19"
+          "source": "뉴스핌",
+          "date": "2026-10-19",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wbXFUUDVrb1FraC1uVVI3OFlBNnV4U1JQeHJDckp0YUhpZTFGYkE0WGV6UjNKRUNuSVFhNG9XLW1GX1c1dDJuZzVFNlotLVR5WXlsem0yV2kzbXZS?oc=5"
         },
         {
           "title": "노동부, 납 노출 고위험 사업장 150여곳 감독 추진",
-          "source": "KIS 뉴스",
-          "date": "2026-10-19"
+          "source": "헤럴드경제",
+          "date": "2026-10-19",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96enVxcjU4ZEY4Y19XT1BkbF8td0tvTUZTN0xPMGdmcnFhOEw4eXY2UzVsZVlKRnI0YklDSEJzbDBkS2MzWi0xNGJKNDdLUDFOVnpQLUZB?oc=5"
         },
         {
           "title": "‘납 배출 주사’ 국감 도마에…DN오토모티브 대표 증인 요구",
           "source": "KIS 뉴스",
-          "date": "2026-10-13"
+          "date": "2026-10-13",
+          "urlChecked": true
         }
       ]
     },
@@ -166,7 +184,8 @@
         {
           "title": "서한(011370) 상승폭 확대 +8.45%",
           "source": "KIS 뉴스",
-          "date": "2026-10-19"
+          "date": "2026-10-19",
+          "urlChecked": true
         }
       ]
     },
@@ -178,13 +197,15 @@
       "headlines": [
         {
           "title": "몸집 키운 ECM 스킨부스터…안전관리 기준 '어디까지'",
-          "source": "KIS 뉴스",
-          "date": "2026-10-16"
+          "source": "프라임경제",
+          "date": "2026-10-16",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12YVhkQmY4LVptaGxfSHh0T2liOHF6b0FFU1dxWmQ1ZG9sRklsZXBHNkl6dnlqWWpjU214S2Z5eTdWc2RQRVFvcTVMbkZQU0hZX19adXVGZzBfNG5heHhNek1FYw?oc=5"
         },
         {
           "title": "휴메딕스 '엘라비에' K-뷰티엑스포 참가…해외 확대 모색",
-          "source": "KIS 뉴스",
-          "date": "2026-10-15"
+          "source": "데일리팜",
+          "date": "2026-10-15",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05YmJzajZ2bTltbWN1YWEyS09HSmpjM29fMGtpeTN2UFNrRmE3LUNaYU9mS3FQZ0VUay0wdE02X1Y4Sy1BZDJiLVBDWU1UMDZ5?oc=5"
         }
       ]
     },
@@ -196,13 +217,15 @@
       "headlines": [
         {
           "title": "와이엠씨, 3년간 150억원 이상 배당…자사주 추가 소각",
-          "source": "KIS 뉴스",
-          "date": "2026-09-16"
+          "source": "뉴스핌",
+          "date": "2026-09-16",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42RWgzM2dRTmhZb21TSW9Xd1VWVlRzVEhjY0VrTnoxeGttMlFyUHE2VzBPTlVrVmpLdW1LVEhmYXQzUW1oek1UVHg3Tnh2dE9tUXBDbFRJUV82UEFm?oc=5"
         },
         {
           "title": "저PBR 명단 공개 앞두고 밸류업 공시 확산…누적 764사 참여",
-          "source": "KIS 뉴스",
-          "date": "2026-10-06"
+          "source": "서울경제",
+          "date": "2026-10-06",
+          "url": "https://n.news.naver.com/mnews/article/011/0004668619"
         }
       ]
     },
@@ -214,13 +237,15 @@
       "headlines": [
         {
           "title": "삼성전자 19% 급락했지만…\"내년 이익 성장 이미 확보\"",
-          "source": "KIS 뉴스",
-          "date": "2026-10-20"
+          "source": "이데일리",
+          "date": "2026-10-20",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM0lQTUFheERHTkFUUEh3aXBGaTc1aXAzYXBkRGFFTXlCclVGMkR1aTJReTBrbGRhYmtsdktCQWREb1d0SV8wTkJrdXRLNnlyY2s1SU1jUkEtNGtvYll0RmZESDJnV3IwSUVFUzkzOHdDdWlpTUZZX3daSEhDUlNpMA?oc=5"
         },
         {
           "title": "삼성전자 주주환원에 쏠리는 눈..29일 기업설명회 예정",
-          "source": "KIS 뉴스",
-          "date": "2026-10-20"
+          "source": "뉴스톱",
+          "date": "2026-10-20",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaNHE2VlBWOE81R1VRaVhBNWx5cGpHaFpZNkNmU2JsX1cwU3J1eUZNME01YVJpMFRteWF5ZWkyekxIeHJ4cUNsYTctdndJd0VHRndJcHpLbmZMaVlOaXgxX09mRi16bGc3NWduLVVnaw?oc=5"
         }
       ]
     },
@@ -233,12 +258,14 @@
         {
           "title": "[리포트 브리핑]휴젤, '미국 직판 전환의 과도기' 목표가 300,000원 - 신한투자증권",
           "source": "KIS 뉴스",
-          "date": "2026-10-19"
+          "date": "2026-10-19",
+          "urlChecked": true
         },
         {
           "title": "현대차증권 \"휴젤, 미국 판매체계 전환에 3분기 실적 부진 전망\"",
-          "source": "KIS 뉴스",
-          "date": "2026-10-16"
+          "source": "이투데이",
+          "date": "2026-10-16",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGRTBrOGtpd3pyX1Q5MndydzNCVFpVSmF2b3V0TE5haEFxWV9KZWpaY3FkMzFDTDhnYnl5U0JxaUpEZk9rZmY5eVRmbS02SEs0blpVNQ?oc=5"
         }
       ]
     }

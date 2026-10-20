@@ -1,0 +1,715 @@
+{
+  "date": "2026-10-21",
+  "generatedAt": "2026-10-21T07:55+09:00",
+  "items": [
+    {
+      "id": "w10",
+      "region": "미국",
+      "title": "블랙스톤, 2007년 업계 첫 IPO 결정 회고",
+      "summary": "블랙스톤 공동창업자 스티븐 슈워츠먼과 피트 피터슨이 회사 상장을 돌아보는 연재의 한 편이다. 2007년 블랙스톤은 같은 규모의 업계 기업으로는 세계에서 처음으로 기업공개를 택했다. 그 결정은 회사 운영 방식의 전환점이 됐다. 또 당시 변화하던 지정학의 흐름을 비추는 거울이 됐다고 원문은 설명한다.",
+      "original": "The Main Event -- Going Public: Stephen Schwarzman (20)",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/my-personal-history/the-main-event-going-public-stephen-schwarzman-20",
+      "published": null
+    },
+    {
+      "id": "w80",
+      "region": "미국",
+      "title": "트럼프 '미국 경제 호황' 주장, 실상은?",
+      "summary": "트럼프 대통령은 중간선거를 앞두고 소득 증가, 물가 하락, 일자리 창출을 내세우고 있다. BBC Verify는 물가, 고용, 성장 지표를 검증했다. 전반적으로 미국 경제는 많은 예상보다 나은 편이다. 다만 '해방의 날' 관세와 미국·이스라엘의 이란 전쟁이 물가를 끌어올렸고, 그 여파는 대부분의 가구가 느끼고 있다. AI 투자 붐이 경제를 떠받치고 있어 이 투자가 줄면 흔들릴 수 있다.",
+      "original": "How is the US economy really doing under President Trump?",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T14:00+09:00"
+    },
+    {
+      "id": "w105",
+      "region": "미국",
+      "title": "AI 반등 랠리 식어…아시아·유럽 증시 하락",
+      "summary": "미국 주식 선물은 월요일 AI 종목 반등에 따른 낙관을 일부 반납했다. 아시아에서는 한국 코스피가 크게 떨어져 약세장 영역에 들어섰다. 유럽에서도 기술주가 오전 장에서 지수를 끌어내렸다. CoreWeave가 음의 마감을 기록하고 오라클 채권 수익률이 높게 유지되면서 AI 거래의 신용 우려가 이어졌다. 이날은 넷플릭스와 스페이스X 실적에 관심이 쏠린다.",
+      "original": "AI rally fades away from Wall Street as a tiny IPO makes big waves",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/20/ai-rally-fades-elice-ipo-dives.html",
+      "published": "2026-10-20T20:34+09:00"
+    },
+    {
+      "id": "w87",
+      "region": "미국",
+      "title": "애플, 미국 티타늄 공급사 추가…국내 생산 확대",
+      "summary": "애플이 새 아이폰 Duo용 티타늄을 공급할 미국 업체 Perryman Company를 추가한다. 이 회사에 3년간 최대 1억 달러를 투자하며, 1999달러짜리 폴더블 Duo에 쓰일 티타늄을 생산한다. 아이폰 18 프로 카메라 부품의 국내 생산도 확대한다. 애플은 미국 내 투자를 늘리는 흐름에 맞춰 지난해 8월 American Manufacturing Program을 통해 국내 지출 계획을 총 6000억 달러로 늘렸다.",
+      "original": "Apple adds U.S. titanium supplier for iPhone Duo as supply stays tight",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/20/apple-adds-us-titanium-supplier-for-iphone-duo.html",
+      "published": "2026-10-20T21:29+09:00"
+    },
+    {
+      "id": "w57",
+      "region": "미국",
+      "title": "앤스로픽, Nscale과 두 번째 대형 임대 협상",
+      "summary": "앤스로픽이 영국 네오클라우드 기업 Nscale과 미국 내 두 번째 대규모 컴퓨팅 용량 임대 계약을 논의 중이라고 CNBC가 정보원을 인용해 보도했다. 계약 대상은 앞선 계약과 같은 웨스트버지니아 부지에 들어설 두 번째 460메가와트 규모 데이터센터다. 계약 규모는 약 450억 달러로 전해졌다. 블룸버그도 두 회사가 두 번째 계약을 논의 중이라고 먼저 보도했다. 앤스로픽은 논평을 거부했다. Nscale은 엔비디아가 지원하는 기업으로, AI 데이터센터를 짓거나 임대해 컴퓨팅 용량을 대형 클라우드 기업과 AI 연구소에 판매한다.",
+      "original": "Anthropic in talks with neocloud Nscale over second multibillion-dollar deal, source tells CNBC",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/20/anthropic-nscale-data-center-deal.html",
+      "published": "2026-10-20T23:12+09:00"
+    },
+    {
+      "id": "w39",
+      "region": "미국",
+      "title": "9월 미국 주택시장 냉각…계약 7.3% 감소",
+      "summary": "9월 미국 주택 지표가 대부분 예상보다 나쁘게 나왔다. 기존주택 매매계약 건수는 전월 대비 7.3%, 전년 대비 11.3% 줄었다. 9월 중 30년 고정 모기지 금리가 빠르게 올라 구매 수요가 위축됐다. 금리는 월초 약 6.8%에서 월말 7.6%까지 올랐다. NAR의 로런스 윈 수석이코노미스트는 일자리와 소득이 주택 구매를 떠받칠 수 있지만, 주택 구매 부담은 모기지 금리에 더 좌우된다고 말했다. 지역별로는 남부(-8.2%)와 서부(-9.2%)에서 월간 감소폭이 가장 컸다.",
+      "original": "September data shows housing market in a deep freeze",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/20/september-data-shows-housing-market-in-a-deep-freeze.html",
+      "published": "2026-10-20T23:18+09:00"
+    },
+    {
+      "id": "w96",
+      "region": "미국",
+      "title": "AI 랠리 속 CoreWeave·오라클 채권은 여전히 불안",
+      "summary": "AI 관련 주식은 월요일 반등했지만 CoreWeave 채권 투자자들은 여전히 높은 수익률과 더 많은 보험을 요구했다. 오라클 채권 수익률도 높게 유지되며 AI 거래 전반의 신용 우려가 이어졌다. CoreWeave는 52주 신저가에 닿았고, 9.625% 2032년 만기 채권의 만기수익률은 14.9%였다. 5년 만기 신용부도스와프(CDS) 스프레드는 약 1082bp로 금요일보다 소폭 낮아졌다. 나스닥 종합지수는 월요일 1% 올랐고, 오라클은 지난주 9% 떨어진 뒤 1% 반등했다.",
+      "original": "Stock investors are ready to move on from the AI rout. Credit investors are not",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/19/coreweave-oracle-ai-credit-stress.html",
+      "published": "2026-10-20T23:55+09:00"
+    },
+    {
+      "id": "w91",
+      "region": "미국",
+      "title": "스페이스X 실적 발표 앞두고 옵션 6% 변동 예상",
+      "summary": "스페이스X가 화요일 장 마감 후 실적을 발표한다. 옵션 시장은 실적 발표 뒤 주가가 약 6% 움직일 것으로 보고 있다. 8월 첫 보고 때 13% 떨어졌던 것과 비교하면 변동폭이 절반 이하다. 회사는 우주비행사 4명을 국제우주정거장에 기록적인 속도로 보냈고 모바일 네트워크 주파수를 넓혔다. 엔비디아 칩 구매를 위해 400억 달러 규모 부채 거래를 검토 중이라는 보도도 나왔다. 최근 2주 동안 주가는 최대 19% 떨어졌다.",
+      "original": "What options traders expect from SpaceX earnings after the bell",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/20/spacex-reports-after-the-bell-heres-what-options-traders-expect-.html",
+      "published": "2026-10-21T01:34+09:00"
+    },
+    {
+      "id": "w73",
+      "region": "미국",
+      "title": "머스크, 미국 아동에 스페이스X 주식 증여 발표",
+      "summary": "일론 머스크는 내년에 미국의 모든 아이에게 스페이스X 주식을 나눠주겠다고 월요일 밝혔다. 그는 X에 올린 글에서 이 증여가 트럼프 계좌(Trump Accounts)에 도움이 된다는 취지로 말했다. 백악관과 스콧 베선트 재무장관도 이 증여를 트럼프 계좌와 연결해 언급했다. 재무부 가이드라인에 따르면 기부된 주식을 받은 아이들은 대체로 5년 동안 팔 수 없으며, 회사가 어려움에 빠져도 예외가 없다.",
+      "original": "If Elon Musk gifts SpaceX stock through Trump Accounts, it will come with a catch",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/20/musk-spacex-trump-account-stock-rules.html",
+      "published": "2026-10-21T04:11+09:00"
+    },
+    {
+      "id": "w1",
+      "region": "미국",
+      "title": "주택지표 악화에 연준 금리인상 부담 가중",
+      "summary": "9월 주택 관련 지표가 한층 나빠졌다는 보고서가 화요일 잇따라 발표됐다. 연준은 물가를 잡는 싸움에서 주택시장 침체라는 새 변수에 직면했다. 연준이 예상대로 앞으로 몇 달간 단기금리를 올리면 이미 7.43%인 모기지 금리는 더 오를 수 있다. 이는 주택 구매 부담을 더 키울 전망이다. 주택 대출 비용 상승은 전반적인 물가 상승 및 주택 공급 부족과 맞물려 나타나고 있다. 상황이 나아지기 전에 더 나빠질 조짐이라는 평가다.",
+      "original": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
+      "published": "2026-10-21T04:28+09:00"
+    },
+    {
+      "id": "w25",
+      "region": "미국",
+      "title": "트럼프 캐나다 관세 두 번째 소송",
+      "summary": "'해방의 날' 관세 소송에서 승소했던 단체가 이번에는 캐나다산 제품에 부과된 새 관세를 상대로 소송을 냈다. 백악관은 8월 캐나다와의 무역 협상이 결렬된 뒤 약 200억 달러 규모 캐나다 상품에 50% 관세를 부과했다. 소송은 미국 국제무역법원에 위법 판결과 이자를 포함한 환급을 요청하는 내용이다. 원고인 식품업체 Gellert Global Group은 캐나다산 치즈에 50% 관세를 물고 있다고 밝혔다. 소송 측은 백악관이 권한을 넘어 관세를 부과해 미국 기업에 즉각적 피해를 줬다고 주장한다.",
+      "original": "Trump sued over Canadian tariffs in latest legal challenge",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T04:30+09:00"
+    },
+    {
+      "id": "w60",
+      "region": "미국",
+      "title": "월가, 클로드로 신약 설계 실험…투자 테마 부상",
+      "summary": "월가 리서치 담당자들이 앤스로픽의 AI 모델 클로드로 신약을 설계하는 실험을 했다. 오랫동안 AI 옹호자들은 AI가 신약 개발과 의학 연구를 혁신할 것이라고 주장해 왔다. 이 실험은 새로운 투자 테마를 낳았다는 평가다.",
+      "original": "Wall Street researchers just used Claude to design a drug. The experiment has spawned a new investment thesis.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/wall-street-researchers-just-used-claude-to-design-a-drug-the-experiment-has-spawned-a-new-investment-thesis-6a5c3710?mod=mw_rss_topstories",
+      "published": "2026-10-21T04:35+09:00"
+    },
+    {
+      "id": "w100",
+      "region": "미국",
+      "title": "GM 3분기 실적 예상 상회…주가는 하락",
+      "summary": "제너럴모터스가 3분기 실적으로 월가 예상을 웃돌았다. 2026년 실적 전망 범위를 좁혔고, 자동차 부문 잉여현금흐름 전망은 올렸다. 새로운 다년간 자사주 매입 규모는 200억 달러다. 그러나 회사 전망이 월가 기대에 못 미쳐 주가는 화요일 장중 7% 가까이 떨어졌다. 연간 주당 순이익 중간값 전망은 13.25달러로, 시장 예상 13.41달러보다 낮다.",
+      "original": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
+      "published": "2026-10-21T05:08+09:00"
+    },
+    {
+      "id": "w77",
+      "region": "미국",
+      "title": "세일즈포스, 브레이즈 56억 달러 인수…주가 51%↑",
+      "summary": "세일즈포스가 고객 참여 플랫폼 브레이즈를 약 56억6000만 달러에 인수하기로 합의했다. 브레이즈 Class A 보통주 주주는 주당 47.50달러를 현금으로 받는다. 브레이즈 주가는 전날 30.04달러에 마감했는데, 발표 뒤 51% 넘게 올라 45.57달러에 마감했다. 거래는 2028 회계연도에 완료될 것으로 예상되며 주주와 규제당국의 승인이 필요하다. 브레이즈는 고객 데이터와 메시지를 관리하는 AI 마케팅 도구를 만든다.",
+      "original": "Salesforce announces $5.66 billion deal for Braze, sending BRZE stock soaring 51%",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/20/salesforce-braze-acquisition-deal.html",
+      "published": "2026-10-21T05:10+09:00"
+    },
+    {
+      "id": "w47",
+      "region": "미국",
+      "title": "보잉 MAX 10 인증…실적 회복 청신호",
+      "summary": "보잉의 MAX 10 여객기가 마침내 인증을 받았다. 항공사들이 더 크고 효율적인 항공기를 찾는 가운데 에어버스와 경쟁하는 데 도움이 될 전망이다. 보잉의 실적 회복 노력에도 힘이 실릴 것으로 보인다.",
+      "original": "Boeing wins approval for Max 10 jet in boost for turnaround efforts",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/0e99c2bc-873c-4d2d-b5c9-a0876faeb9ed?syn-25a6b1a6=1",
+      "published": "2026-10-21T05:43+09:00"
+    },
+    {
+      "id": "w48",
+      "region": "미국",
+      "title": "강세장 고점은 완만…S&P500 15% 조정 가능성",
+      "summary": "강세장은 보통 큰 폭의 폭락 없이 점진적으로 꺾이는 경향이 있다는 분석이다. 약세장 바닥이 투매로 끝나는 것과 달리 강세장 고점은 훨씬 완만하고 덜 극적이다. 원문은 S&P500이 15% 조정을 받을 수 있다고 전한다.",
+      "original": "Bull markets tend to peak with a whimper, not a bang — but a 15% correction for the S&P 500 may be next",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-correction-for-the-s-p-500-may-be-next-dab40e2c?mod=mw_rss_topstories",
+      "published": "2026-10-21T05:45+09:00"
+    },
+    {
+      "id": "w30",
+      "region": "미국",
+      "title": "메타 대외업무 총괄 캐플런 사임",
+      "summary": "메타의 글로벌 대외업무 총괄 조엘 캐플런이 물러난다. 공화당 출신 정치 전략가인 그는 마크 저커버그 CEO의 핵심 자문역이었다.",
+      "original": "Joel Kaplan to step down as Meta global affairs chief",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/850f15c9-5833-4acb-a65c-c17ca88a5fde?syn-25a6b1a6=1",
+      "published": "2026-10-21T06:30+09:00"
+    },
+    {
+      "id": "w37",
+      "region": "미국",
+      "title": "월마트, 아마존·코스트코 겨냥 멤버십 출시",
+      "summary": "월마트가 새 멤버십 프로그램을 내놓으며 아마존과 코스트코를 겨냥하고 있다. 일부 애널리스트는 소비자가 이 번들 혜택을 실제로 이용할지, 혜택을 이해하기 쉬운지에 의문을 제기한다.",
+      "original": "Walmart takes aim at Amazon and Costco with new membership program — but is it a good deal?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/walmart-takes-aim-at-amazon-and-costco-with-new-membership-program-but-is-it-a-good-deal-8e2292ef?mod=mw_rss_topstories",
+      "published": "2026-10-21T06:47+09:00"
+    },
+    {
+      "id": "w2",
+      "region": "미국",
+      "title": "CoreWeave 채권 과잉 매도…수익률 15%대",
+      "summary": "Janus Henderson의 John Lloyd 포트폴리오 매니저는 자신의 펀드가 보유한 CoreWeave 채권을 계속 들고 가겠다고 CNBC에 밝혔다. 그는 최근 CoreWeave 채권 매도를 '다소 과잉 반응'이라고 평가했다. 일부 CoreWeave 채권의 수익률은 15%를 넘어 크게 흔들리고 있다. 그러나 Lloyd는 회사가 이 어려운 시기를 버틸 수 있다고 본다. 그가 보유한 2031년 만기 9.75% 채권의 만기수익률은 4월 발행 이후 70% 넘게 뛰어 15.97%가 됐다. 그는 자금조달 비용 상승 외에 생태계에 큰 근본적 변화는 보이지 않는다고 말했다. 데이터센터 기업 채권에 대한 시장의 우려가 커진 상황이다.",
+      "original": "This Janus Henderson fund manager owns CoreWeave debt — here's why he's sticking with it",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/20/coreweave-debt-janus-henderson-lloyd.html",
+      "published": "2026-10-21T07:06+09:00"
+    },
+    {
+      "id": "w16",
+      "region": "미국",
+      "title": "넷플릭스 3분기 실적 상회에도 주가 하락",
+      "summary": "넷플릭스는 3분기 순이익과 매출이 시장 예상을 웃돌았다고 발표했다. 매출은 전년 대비 12% 가까이 늘었고, 회원 증가와 3월 적용된 구독료 인상이 힘이 됐다. 3분기 순이익은 36억6000만 달러(주당 0.87달러)로 전년 25억5000만 달러보다 늘었는데, 일부는 비용 집행 시점 때문이라고 회사는 밝혔다. 4분기 매출은 11% 넘게 늘어난 134억4000만 달러로 전망됐다. 그러나 광고와 매출 가이던스에 대한 실망으로 주가는 하락했다. 회사는 '치열한 경쟁'을 언급하며 시청 시간 증가에 대한 투자자 우려를 인정했고, 창작 리더십 개편도 진행 중이다.",
+      "original": "Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
+      "published": "2026-10-21T07:29+09:00",
+      "also": [
+        {
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/netflix-vows-to-revive-viewership-trends-but-investors-hit-sell-on-the-stock-3e24420a?mod=mw_rss_topstories",
+          "original": "Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock"
+        },
+        {
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/1b5d97dc-535a-42d9-ac0e-2c00e91c0aed?syn-25a6b1a6=1",
+          "original": "Netflix gives downbeat outlook as streaming hits dry up"
+        }
+      ]
+    },
+    {
+      "id": "w3",
+      "region": "미국",
+      "title": "슈퍼마이크로 실적 상향 공시에 주가 급등",
+      "summary": "슈퍼마이크로가 매출과 수익성이 당초 예상보다 훨씬 좋을 수 있다고 예상치 못하게 공시했다. 이 소식에 슈퍼마이크로 주가가 급등했고, 델과 HPE 주가도 함께 올랐다.",
+      "original": "Super Micro’s stock soars after surprise update — with Dell and HPE shares joining the rally",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/super-micros-stock-soars-after-surprise-update-with-dell-and-hpe-shares-joining-the-rally-1837a69f?mod=mw_rss_topstories",
+      "published": "2026-10-21T07:37+09:00"
+    },
+    {
+      "id": "w4",
+      "region": "미국",
+      "title": "테슬라·스페이스X 합병 검토…머스크 '장점 많다'",
+      "summary": "일론 머스크는 스페이스X 분기 실적 콜에서 테슬라와 스페이스X의 합병이 적극 검토되고 있다고 밝혔다. 그는 합병이 좋은 생각이냐는 질문에 '그렇다'고 답했다. 두 회사는 각각 특별위원회를 꾸려 검토 중이지만, 아직 거래 조건에 합의하지 않았고 성사가 보장된 것도 아니라고 덧붙였다. 합병에는 주주 지지가 필요하다. 테슬라는 약 1조5000억 달러, 스페이스X는 약 2조 달러로 평가되며 두 회사가 합쳐지면 역사상 가장 큰 합병 중 하나가 된다. 이 소식에 테슬라 주가는 상승했다.",
+      "original": "Elon Musk says Tesla-SpaceX merger being considered",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T07:43+09:00",
+      "also": [
+        {
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/teslas-stock-rises-as-elon-musk-drops-new-clues-about-a-possible-spacex-merger-8cc44fc2?mod=mw_rss_topstories",
+          "original": "Tesla’s stock rises as Elon Musk drops new clues about a possible SpaceX merger"
+        },
+        {
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37?syn-25a6b1a6=1",
+          "original": "SpaceX and Tesla boards are exploring potential merger"
+        }
+      ]
+    },
+    {
+      "id": "w7",
+      "region": "유럽",
+      "title": "엘더슨 ECB '규제 비용은 금융위기 비용보다 작아'",
+      "summary": "ECB의 프랭크 엘더슨은 은행들이 규제 비용이 과도하다고 불평하는 데 반론을 폈다. 그는 2008년 금융위기의 비용이 은행뿐 아니라 가계, 기업, 납세자 등 사회 전체에 막대했다고 강조했다. 그에 따르면 그 비용은 규제 비용을 훨씬 넘어선다. 위기 이후 도입된 규제 개혁으로 유럽 은행은 훨씬 탄탄해졌고, 자본과 유동성 수준이 높아졌으며 수익성도 평균적으로 좋아졌다. 다만 감독 체계가 시간이 지나며 복잡해진 것은 사실이라고 인정하며, 금융 안정을 해치지 않고 감독을 단순화할 수 있는지를 물었다.",
+      "original": "Frank Elderson: Interview with Die Presse",
+      "source": "ECB",
+      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261020~97e2e4bc38.en.html",
+      "published": "2026-10-20T16:00+09:00"
+    },
+    {
+      "id": "w56",
+      "region": "유럽",
+      "title": "영국 은행세 소폭 인상, 대출엔 큰 타격 아냐",
+      "summary": "은행들은 세금 인상이 성장을 짓누른다고 주장하지만, 세금을 조금 올린다고 자본 흐름이 크게 흔들리지는 않는다는 주장이다. 가디언 칼럼니스트 Nils Pratley는 세금 인상이 지나치지만 않다면 괜찮다고 본다. 가디언이 보도한 대로 힐리 재무장관은 다음 주 예산안에서 은행세를 올릴 가능성이 높다. 재정 규칙을 지키려면 어디선가 재원을 찾아야 하는데, 은행에 세금을 물리는 것은 합리적인 선택이라는 것이다.",
+      "original": "A modest increase in bank taxes is not the end of the world for lenders | Nils Pratley",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/oct/20/modest-increase-bank-taxes-not-end-of-world-for-lenders",
+      "published": "2026-10-20T17:00+09:00"
+    },
+    {
+      "id": "w26",
+      "region": "유럽",
+      "title": "영국 실업률 뜻밖의 하락…공석은 최저",
+      "summary": "영국 실업률이 8월까지 3개월 기준 4.7%로 떨어졌다. 전 분기 4.9%에서 낮아진 것으로, 시장은 5%로 오를 것으로 예상했었다. 9월 급여 고용자 수는 1만3000명 늘어 3030만 명이 됐다. 다만 구인 공석은 2만1000명 줄어 69만1000명으로, 2021년 이후 가장 낮았다. 팬데믹 이후 정점인 130만 명에서 크게 줄어든 수준이다. 일부 이코노미스트는 노동시장이 '공회전' 중이라고 경고했고, ONS는 소규모 기업들이 인건비를 이유로 채용을 줄이고 있다고 밝혔다. 이번 지표는 존 힐리 재무장관의 첫 예산안 발표 전 마지막 공식 지표다.",
+      "original": "Surprise drop in UK unemployment to 4.7% as John Healey’s first budget looms",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/20/uk-unemployment-rate-surprise-drop",
+      "published": "2026-10-20T17:39+09:00",
+      "also": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
+          "original": "Jobless rate falls but small firms cut back hiring"
+        },
+        {
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/2d20b09b-6565-4253-a809-8a0542e6770a?syn-25a6b1a6=1",
+          "original": "UK jobs market stabilises before Budget"
+        }
+      ]
+    },
+    {
+      "id": "w6",
+      "region": "유럽",
+      "title": "미국 자본, 독일 강소기업 인수 급증",
+      "summary": "미국 투자자들이 독일의 전통 산업기업과 가족경영 중소기업에 몰리고 있다. 버켄슈톡 등 잘 알려진 독일 기업들도 이미 미국 자본의 손에 넘어갔다. PitchBook에 따르면 지난해 미국 투자자들은 독일 산업·제조 기업에 대한 인수와 투자 76건에 참여했고, 거래액은 약 295억 달러로 2022년의 거의 두 배였다. 올해 8월 19일 기준 거래액은 239억 달러에 이르렀다. 승계자를 찾지 못한 오너들이 늘면서 인수 대상이 되는 기업도 많아지고 있다.",
+      "original": "Why US investors are snapping up Germany's famed Mittelstand",
+      "source": "DW",
+      "url": "https://www.dw.com/en/why-us-investors-are-snapping-up-germany-s-famed-mittelstand/a-79705421?maca=en-rss-en-bus-2091-rdf",
+      "published": "2026-10-20T18:06+09:00"
+    },
+    {
+      "id": "w5",
+      "region": "유럽",
+      "title": "구글 클라우드 장애에 영국 은행·법원 마비",
+      "summary": "구글 클라우드의 영국 서비스 장애로 로이즈, HSBC, 레볼루트 등 은행 고객들이 자금을 보내거나 결제하지 못하는 피해가 발생했다. 구글은 런던 클라우드 데이터센터의 '전력 이벤트'가 원인이라고 밝혔다. 서비스는 화요일 오후 1시(런던 시간) 무렵 복구되기 시작해 오후 3시쯤 대부분 고객에게 정상화됐다. 그 사이 중요한 금융 거래가 차질을 빚었고, 원격 법정 심리 시스템도 오전 내내 작동하지 않았다. 금융 기관이 소수 클라우드 업체에 기대는 구조의 위험이 드러난 사건이다.",
+      "original": "Google cloud failure hits millions as UK courts and banks knocked offline",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/20/revolut-down-app-cards-service-disruption",
+      "published": "2026-10-20T18:45+09:00",
+      "also": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
+          "original": "Google resolves cloud outage affecting UK banks and websites"
+        }
+      ]
+    },
+    {
+      "id": "w49",
+      "region": "유럽",
+      "title": "영국 예산안, 양도소득세 인상 보류 가닥",
+      "summary": "존 힐리 재무장관은 노동당 일부 의원들이 요구한 양도소득세(CGT) 인상을 거부했다. 일부 의원들은 CGT를 근로소득세 수준과 맞추자고 주장했지만, 부유층이 영국을 떠날 수 있다는 우려가 나왔다. 타임스 보도에 따르면 힐리는 다음 주 예산안에서 CGT를 올리지 않을 방침이다. 기본세율 납세자의 CGT는 18%, 고소득자는 24%다. 부유층이 해외로 떠나거나 자산 매각을 미루면 오히려 세수가 줄 수 있다는 경고도 있었다.",
+      "original": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T19:06+09:00"
+    },
+    {
+      "id": "w109",
+      "region": "유럽",
+      "title": "HSBC CEO '데이터센터 투자는 선별해야'",
+      "summary": "HSBC의 조지스 엘헤드리 CEO는 AI가 은행의 모든 사업을 재설계할 혁신 기술이라고 강조했다. 다만 AI 인프라에 투자할 때는 모든 데이터센터가 좋은 투자는 아니라며 선별이 필요하다고 CNBC에 말했다. 그는 임대차 계약의 질을 봐야 한다고 덧붙였다.",
+      "original": "HSBC CEO warns the AI boom won’t make every data center a good bet",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html",
+      "published": "2026-10-20T19:39+09:00"
+    },
+    {
+      "id": "w44",
+      "region": "유럽",
+      "title": "테임스워터 채권단, 전 장관 이사장 후보 지명",
+      "summary": "10억 파운드 규모 구조조정안을 추진하는 테임스워터 채권단 London & Valley Water가 존 허턴 전 노동당 장관을 독립 이사장 예정자로 선정했다. 인수 계획이 승인되면 이 인사가 이사회를 맡게 된다. 채권단은 부채가 많은 이 회사의 소유권을 두고 몇 달째 정부, 규제당국과 협상 중이다. 가디언 보도에 따르면 버넘 총리는 관계자들에게 기존 정상화 계획을 폐기하고 더 급진적인 대안을 가져오라고 지시했다. 버넘은 총리가 되기 전 테임스워터를 국유화하겠다고 말한 바 있다.",
+      "original": "Thames Water creditors secure former Labour minister to drive rescue deal",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/20/thames-water-creditors-former-labour-minister-john-hutton-rescue-deal",
+      "published": "2026-10-20T19:49+09:00"
+    },
+    {
+      "id": "w33",
+      "region": "유럽",
+      "title": "라이언에어 '내년 유럽 항공료 최대 20% 상승'",
+      "summary": "라이언에어의 마이클 오리어리 CEO는 내년 유럽 항공료가 기록적으로 오를 것이라고 예측했다. 중동 분쟁으로 항공유 가격이 뛰었는데, 많은 항공사가 연료 가격 상승에 대비한 헤지를 하지 않았다는 이유다. 그는 항공료가 10~15%, 최대 20%까지 오를 수 있으며 유럽 역사상 가장 큰 인상이 될 것이라고 말했다. 헤지를 하지 않은 항공사들은 파산하거나 인수될 수 있다고 덧붙였다. 이란 전쟁으로 연료 공급이 막히면서 항공유 가격이 최근 크게 올랐다고 원문은 설명한다.",
+      "original": "European air fares could rise by as much as 20% in 2027, Ryanair boss predicts",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/20/european-air-fares-rise-2027-ryanair-fuel-costs",
+      "published": "2026-10-20T23:28+09:00"
+    },
+    {
+      "id": "w38",
+      "region": "유럽",
+      "title": "플러터, 최대 1400명 감원…도박세 인상 탓",
+      "summary": "패디파워 운영사 플러터가 최대 1400명을 감원하겠다고 발표했다. 최고경영자는 도박 산업에 부과된 세금 인상을 회사가 '완전히 흡수할 수 없다'고 주장했다. 영향을 받는 직원은 리즈와 더블린, 그리고 영국·아일랜드 사업 소속으로 포르투갈과 루마니아 사이트에 있는 직원이 주로 해당된다. 어떤 직무가 위험에 처하는지는 공개되지 않았다. 작년 예산안에서 온라인 카지노와 스포츠 베팅에 대한 세율이 올랐는데, 플러터는 이로써 영국 베팅·게임 산업의 경제 모델이 근본적으로 바뀌었다고 주장했다. 이 세금 인상이 미허가 불법 시장을 키웠다는 주장도 덧붙였다.",
+      "original": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T00:53+09:00"
+    },
+    {
+      "id": "w98",
+      "region": "유럽",
+      "title": "영국 국채, 예산 우려 완화에 주변국 추격",
+      "summary": "영국 길트(국채) 시장은 이란 전쟁 발발 직후 크게 흔들렸지만, 이후 주변국 국채보다 나은 성과를 내고 있다. 예산에 대한 투자자 우려가 누그러지면서 시장의 관심은 프랑스 쪽으로 옮겨갔다. FT는 이 흐름을 전했다.",
+      "original": "Gilt market catches up with peers as investor worries over Budget ease",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/31f86452-c16a-4fbf-b393-bb5282c1cb59?syn-25a6b1a6=1",
+      "published": "2026-10-21T01:10+09:00"
+    },
+    {
+      "id": "w82",
+      "region": "유럽",
+      "title": "노보, 차세대 비만약 CagriSema 체중 25%↓",
+      "summary": "노보노디스크는 후기 임상 이후 새로 실시한 분석에서 실험 단계 주사제 CagriSema가 성인 여성에게 평균 25% 체중 감량 효과를 보였다고 발표했다. 회사는 두 건의 사후 분석 가설을 확인하려면 추가 연구가 필요하다고 덧붙였다. 그럼에도 이 결과는 CagriSema가 블록버스터 비만약 위고비의 체중 감량 효과를 넘어설 수 있다는 근거가 또 하나 늘었다는 뜻이다. CagriSema는 세마글루타이드와 아밀린 경로 표적 약물 카그릴린타이드를 결합한 약으로, 내년 초 출시될 것으로 예상된다.",
+      "original": "Novo's next-generation obesity drug shows 25% weight loss in women in late-stage analysis",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/20/novo-cagrisema-women-weight-loss-analysis.html",
+      "published": "2026-10-21T01:11+09:00"
+    },
+    {
+      "id": "w20",
+      "region": "유럽",
+      "title": "NatWest, 전 직원 주 2일 출근 의무화",
+      "summary": "영국 은행 NatWest가 2027년 2월부터 UK 직원 약 4만 명 전원에게 주 2일 출근을 의무화한다. 현재 한 달에 2일만 출근하는 직원 1만3000명은 주 2일로 늘어나며, 재택 우선 정책은 폐지된다. 노조 Unite는 이를 '실질적 타격'이라며 강하게 반발했다. 노조는 정보기술, 보안, 데이터 분석, 인사 등 저임금 직원이 많은 부서가 특히 영향을 받는다고 주장했다. 생활비 부담이 커지고 돌봄 책임이 있거나 장애가 있는 직원의 유연 근무 여지도 줄어든다는 것이다. 은행은 금융업계 기준에서 여전히 경쟁력 있는 수준이며 예외도 두겠다고 밝혔다.",
+      "original": "NatWest cracks down on 13,000 staff attending office two days a month",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/20/natwest-staff-back-two-days-a-week-policy",
+      "published": "2026-10-21T01:45+09:00",
+      "also": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmly0qwnlgdvo?at_medium=RSS&at_campaign=rss",
+          "original": "Union attacks NatWest plans to get workers back to the office"
+        }
+      ]
+    },
+    {
+      "id": "w89",
+      "region": "유럽",
+      "title": "메르츠 '베를린 임대주택 몰수 계획' 경고",
+      "summary": "독일 메르츠 총리는 베를린 지방정부가 임대인의 재산을 몰수하려는 계획에 경고를 보냈다. 그는 지방정부가 시장경제를 '실험'하지 말아야 한다고 촉구했으며, 투자자들이 모인 정상회의에서 이같이 말했다.",
+      "original": "Merz warns over Berlin plans to seize landlords’ property",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/82f99b04-144d-4f2a-b23e-d5a3c0674f3b?syn-25a6b1a6=1",
+      "published": "2026-10-21T01:49+09:00"
+    },
+    {
+      "id": "w59",
+      "region": "유럽",
+      "title": "영국 예산 '무난하게'…채권시장 달래기 우선",
+      "summary": "FT는 영국 예산안이 과감한 변화보다 무난한 '지루한' 기조를 택할 것이라고 전했다. 최우선 과제는 채권시장을 자극하지 않는 것이다. FT의 별도 논평은 버넘 총리와 힐리 재무장관이 산업 향수에서 벗어나 영국 경제의 현대적 강점을 봐야 한다고 주문했다. 영국 경제의 회복력을 기반으로 예산을 짜야 한다는 주장이다.",
+      "original": "UK bets on a boring budget",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/50be6960-c609-4849-94bc-7084afc89255?syn-25a6b1a6=1",
+      "published": "2026-10-21T05:00+09:00",
+      "also": [
+        {
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/8be29348-e112-462f-96eb-44a699ca61a6?syn-25a6b1a6=1",
+          "original": "Britain’s budget should build on its economic resilience"
+        }
+      ]
+    },
+    {
+      "id": "w32",
+      "region": "유럽",
+      "title": "영국 감사당국, 맨체스터 시티 회계 조사",
+      "summary": "영국 감사 규제기관 FRC가 맨체스터 시티의 회계 부정 의혹을 맡아 조사하고 있다. FRC는 9월 30일 잉글랜드·웨일스 회계사협회로부터 이 사건의 규제 검토를 넘겨받았다고 하원 기업위원회에 서한으로 밝혔다. 아직 공식 조사가 시작되지는 않았지만 문의는 진행 중이다. 앞서 독립 위원회는 맨시티가 2009-10 시즌부터 2017-18 시즌까지 프리미어리그 재무규정을 어긴 혐의 전부에 유죄라고 판단했다. 구단이 재무 상태를 9억 파운드 넘게 부풀렸다는 것이다. 맨시티는 판결에 항소했고, FRC는 위반이 확인되면 더 큰 권한으로 제재할 수 있다.",
+      "original": "Audit regulator looking into Manchester City accounting",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T05:56+09:00"
+    },
+    {
+      "id": "w11",
+      "region": "유럽",
+      "title": "영국, 북해 잭도 가스전 개발 승인",
+      "summary": "영국 정부는 수요일 북해의 잭도 가스전 개발을 승인할 예정이다. 이 가스전은 애버딘 동쪽 약 150마일 해상에 있다. 셸과 에퀴노르가 운영하는 이 가스전은 영국 석유가스 산업에 큰 힘이 될 것으로 보인다. 반면 기후 운동가들과 노동당 내 일부 의원들은 기후 공약을 훼손한다며 반발할 것으로 예상된다. 로즈뱅크 유전에 대한 결정은 아직 나지 않은 것으로 알려졌다. 앤디 버넘 총리의 북해 산업 지지 노선을 보여주는 결정이라는 평가다.",
+      "original": "UK to approve development of Jackdaw gasfield in North Sea",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/9cfa52b2-77cb-4b53-ad74-badd53f24fc6?syn-25a6b1a6=1",
+      "published": "2026-10-21T07:31+09:00",
+      "also": [
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/environment/2026/oct/20/jackdaw-north-sea-gas-field-to-get-go-ahead-in-blow-to-climate-campaigners",
+          "original": "Andy Burnham faces climate revolt after approval of North Sea gas drilling"
+        },
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss",
+          "original": "UK government to make Jackdaw gas field announcement"
+        }
+      ]
+    },
+    {
+      "id": "w22",
+      "region": "중국",
+      "title": "중국 의료기기, 글로벌 브랜드 추격",
+      "summary": "홍콩 Hong Kong Sanatorium & Hospital이 중국 기업의 고급 CT 스캐너를 처음 들여왔을 때, 일부 방사선사와 의사들은 회의적이었다. 오랫동안 써온 서구 기기의 정밀도와 신뢰성에 익숙했기 때문이다. 그러나 중국 의료기기가 점차 글로벌 브랜드를 따라잡으며 병원 현장에서 자리를 넓히고 있다.",
+      "original": "China's medtech scores bright prognosis as it gains on global brands",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/business-asia/china-s-medtech-scores-bright-prognosis-as-it-gains-on-global-brands",
+      "published": null
+    },
+    {
+      "id": "w34",
+      "region": "중국",
+      "title": "중국 '영국 전기차 규제 시 강력 대응' 경고",
+      "summary": "영국이 EU의 중국산 전기차 수입 제한 조치에 보조를 맞추는 방안을 검토하자 중국 상무부가 강력한 대응을 경고했다. 상무부는 영국이 WTO 규칙을 지키고 EU를 맹목적으로 따르지 말라고 촉구했다. 이는 영국 무역장관 Anas Sarwar가 영국과 EU가 중국의 자동차 분야 지배력에 맞서 '보조를 맞춰야' 한다고 말한 데 대한 반응이다. 영국 정부는 중국산 전기차 관세를 두고 EU와 계속 논의 중이다. 중국은 영국이 전기차 수입을 계속 제한하면 '단호한 대응책'을 취하겠다고 밝혔다.",
+      "original": "Beijing warns London of ‘firm countermeasures’ if it aligns with EU import curbs on EVs",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/china-economy/article/3371472/beijing-warns-london-firm-countermeasures-if-it-aligns-eu-import-curbs-evs",
+      "published": "2026-10-20T16:00+09:00"
+    },
+    {
+      "id": "w27",
+      "region": "중국",
+      "title": "중국 완성차, EU 쿼터 피해 현지 생산 확대",
+      "summary": "EU의 하이브리드차 수입 쿼터에 직면한 중국 완성차 업체들이 유럽 현지 생산을 늘리고 있다. 자체 공장을 짓기 위해 수십억 위안을 투입하거나, 해외 완성차 업체의 유휴 공장을 빌려 차를 만드는 방안을 추진한다. 모건스탠리 분석가들은 중국 자동차 업계의 성장이 수출 중심에서 현지 생산으로, 가격 경쟁 중심에서 마진 중심 전략으로 바뀌고 있다고 분석했다. 단일 수출 채널에서 여러 시장을 아우르는 생산 기지로의 전환이다. 베이징과 브뤼셀이 중국산 하이브리드차 수입 쿼터에 합의한 뒤 나온 움직임이다.",
+      "original": "Chinese carmakers gear up European production to sidestep tariffs, import quota",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/business/china-evs/article/3371460/chinese-carmakers-gear-european-production-sidestep-tariffs-import-quota",
+      "published": "2026-10-20T17:00+09:00"
+    },
+    {
+      "id": "w21",
+      "region": "중국",
+      "title": "중국, 채권 유동성·신규 ETF로 증시 안정책",
+      "summary": "중국 인민은행과 증권 규제당국이 자본시장을 떠받치기 위한 조치를 내놓았다. 위기 상황에서 채권시장 유동성을 지원하는 새 장치를 도입했고, 주식시장 안정을 위한 신규 ETF 출시를 허가했다. 그러나 원문에 따르면 투자자들의 반응은 시큰둥했다.",
+      "original": "China moves to shore up capital markets, investors nonplussed",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/plus/economy/policy/article/3371498/china-moves-shore-capital-markets-investors-nonplussed",
+      "published": "2026-10-20T18:06+09:00"
+    },
+    {
+      "id": "w15",
+      "region": "중국",
+      "title": "중국 하이브리드차 대EU 수출 204% 급증",
+      "summary": "중국의 9월 하이브리드차 대EU 수출은 전년 같은 달보다 204.2% 늘어 약 10만 대에 가까웠다. 전월 대비로도 18.9% 증가했다. 같은 기간 중국의 대EU 승용차 전체 수출 증가율 142.7%를 웃도는 수치다. 분석가들은 10월 베이징에서 열린 고위급 무역 협상 전에 차량을 앞당겨 실은 영향으로 보고 있다. 협상에서 합의된 수입 상한이 발효되기 전까지 수출이 높은 수준을 유지할 것으로 예상된다. ING의 Lynn Song은 상한이나 관세를 앞두고 딜러들이 최대한 물량을 확보하려 했을 것이라고 말했다.",
+      "original": "China’s hybrid car exports to EU surge by more than 200% as import cap looms",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/global-economy/article/3371541/chinas-hybrid-car-exports-eu-surge-more-200-import-cap-looms",
+      "published": "2026-10-20T22:00+09:00"
+    },
+    {
+      "id": "w8",
+      "region": "중국",
+      "title": "중국 기업 해외 거점, 베트남 대신 태국 부상",
+      "summary": "국내 수익이 줄고 생산능력이 늘면서 중국 기업들이 해외 거점을 넓히고 있다. 이들은 관세와 지정학적 위험을 피하려고 '차이나 플러스 원' 전략으로 이웃 경제권에 투자를 돌리고 있다. 베트남이 한동안 인기를 끌었지만 최근에는 태국을 대안으로 보는 기업이 늘고 있다. 태국은 무역전쟁 2.0 이후 지난해 수십억 달러의 투자를 끌어들이며 경쟁국보다 우위를 점했다.",
+      "original": "‘Poster child’: why more Chinese firms have Thailand in their expansion plans",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/global-economy/article/3371529/poster-child-why-more-chinese-firms-have-thailand-their-expansion-plans",
+      "published": "2026-10-21T07:00+09:00"
+    },
+    {
+      "id": "w29",
+      "region": "아시아",
+      "title": "이데미쓰, 중동 외 LNG 수입해 일본 판매",
+      "summary": "정유사 이데미쓰 코산이 중동 이외 지역에서 수입한 액화천연가스(LNG)를 일본 내에서 판매하기 시작할 계획이다. 판매는 빠르면 2030년대 초부터 가능하다.",
+      "original": "Japan oil refiner Idemitsu to import non-Mideast LNG",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/energy/japan-oil-refiner-idemitsu-to-import-non-mideast-lng",
+      "published": null
+    },
+    {
+      "id": "w35",
+      "region": "아시아",
+      "title": "일본 저가 비즈니스호텔, 해외 확장 가속",
+      "summary": "일본의 저가 비즈니스호텔들이 해외 확장을 빠르게 키우고 있다. 대중목욕 시설과 무료 조식 등 저렴한 가격에 편의를 더하는 노하우를 앞세워 해외 수요를 노리는 것이다.",
+      "original": "Japan budget hotels ramp up overseas push with public baths, free breakfast",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/travel-leisure/japan-budget-hotels-ramp-up-overseas-push-with-public-baths-free-breakfast",
+      "published": null
+    },
+    {
+      "id": "w40",
+      "region": "아시아",
+      "title": "도쿄권 신축 콘도 평균가 1억 엔 돌파",
+      "summary": "도쿄권 신축 콘도의 평균 가격이 9월까지 6개월간 1억 엔($632,000)을 넘어 같은 기간 사상 최고치를 기록했다. 시장에 나오는 공급이 줄어든 것이 원인으로 꼽혔다. 다만 둔화 조짐도 나타나고 있다고 원문은 전한다.",
+      "original": "Tokyo area condo prices hit half-year record, but signs of slowdown emerge",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/property/tokyo-area-condo-prices-hit-half-year-record-but-signs-of-slowdown-emerge",
+      "published": null
+    },
+    {
+      "id": "w46",
+      "region": "아시아",
+      "title": "이와이코스모증권, 사이버 공격에 무단 거래",
+      "summary": "일본 증권사 이와이코스모증권은 온라인 거래 시스템 운영사에 대한 무단 접근으로 고객 계좌에 승인되지 않은 거래가 발생했다고 화요일 밝혔다.",
+      "original": "Japan brokerage IwaiCosmo hit with unauthorized trades in cyberattack",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/cybersecurity/japan-brokerage-iwaicosmo-hit-with-unauthorized-trades-in-cyberattack",
+      "published": null
+    },
+    {
+      "id": "w52",
+      "region": "아시아",
+      "title": "프랑스 불안·AI 리스크에 초장기 일본 국채 인기",
+      "summary": "프랑스의 정치 불안과 재정 우려로 프랑스 국채 금리가 오르면서 투자자들이 안전자산을 찾고 있다. 화요일 일본 20년물 국채 입찰에서는 초장기 국채 수요가 활발했다. AI 관련 금융 위험에 대한 우려도 안전자산 선호를 키운 요인으로 꼽혔다.",
+      "original": "French unrest, AI debt risks push investors toward ultralong JGBs",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/bonds/french-unrest-ai-debt-risks-push-investors-toward-ultralong-jgbs",
+      "published": null
+    },
+    {
+      "id": "w58",
+      "region": "아시아",
+      "title": "일본 여당, 식료품 세금 인하 신속 심의 추진",
+      "summary": "일본 집권 여당이 식료품 세금 인하안을 국회에서 이례적으로 빠르게 심의하려 하고 있다. 일본의 가장 중요한 세수원 중 하나의 변경을 다루는 과거 사례와 비교하면 이례적인 속도다.",
+      "original": "Japan PM's party pushes to fast-track debate on food tax cut",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/japan-pm-s-party-pushes-to-fast-track-debate-on-food-tax-cut",
+      "published": null
+    },
+    {
+      "id": "w64",
+      "region": "아시아",
+      "title": "탈레스 CEO '일본 방산 시장 기회 많아'",
+      "summary": "프랑스 방산·기술기업 탈레스의 파트리스 카인 CEO는 일본에서 사업을 키울 기회가 많다고 말했다. 일본이 방위산업을 키우는 만큼 일본 기업과의 파트너십도 기대한다는 것이다. 그는 파리 본사에서 닛케이와 인터뷰했다.",
+      "original": "Japan offers opportunities, partnerships for defense contractor Thales: CEO",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/aerospace-defense-industries/japan-offers-opportunities-partnerships-for-defense-contractor-thales-ceo",
+      "published": null
+    },
+    {
+      "id": "w69",
+      "region": "아시아",
+      "title": "도요타, 2027년 태국서 수소 하이럭스 생산",
+      "summary": "도요타가 수소 연료전지 버전 하이럭스 픽업트럭의 태국 생산을 시작할 계획이다. 생산은 2027년 12월부터이며 초기에는 수출용으로 만든다.",
+      "original": "Toyota to build hydrogen-powered Hilux pickup in Thailand",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/automobiles/toyota-to-build-hydrogen-powered-hilux-pickup-in-thailand",
+      "published": null
+    },
+    {
+      "id": "w74",
+      "region": "아시아",
+      "title": "일본 H3 발사 운영, 미쓰비시중공업 이전 추진",
+      "summary": "일본 정부가 주력 로켓 H3의 발사 운영 책임을 미쓰비시중공업에 넘기는 방안을 논의하기로 했다. 2027년까지 전환을 마치는 것이 목표다. 스페이스X와 경쟁하기 위해 발사 체계를 민간으로 넘기는 흐름의 일환이다.",
+      "original": "Japan eyes private-sector H3 launches to compete with SpaceX",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/aerospace-defense-industries/japan-eyes-private-sector-h3-launches-to-compete-with-spacex",
+      "published": null
+    },
+    {
+      "id": "w78",
+      "region": "아시아",
+      "title": "폴라리스, 1000억 엔 사모신용 펀드 추진",
+      "summary": "일본 투자회사 폴라리스 캐피털 그룹이 사모신용 펀드를 내놓을 계획이다. 목표 모집액은 약 1000억 엔(약 6억3000만 달러)으로, 생명보험사와 연기금 등 기관투자자가 주요 대상이다. 출시는 빨라야 2026 회계연도 말로 예상된다. 완료되면 일본에서 가장 큰 사모신용 펀드 중 하나가 된다.",
+      "original": "Polaris to launch $630m private credit fund, one of Japan's largest",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/finance/polaris-to-launch-630m-private-credit-fund-one-of-japan-s-largest",
+      "published": null
+    },
+    {
+      "id": "w83",
+      "region": "아시아",
+      "title": "GCash 운영사 Mynt 상장…필리핀 최대 IPO",
+      "summary": "디지털 지갑 GCash의 모회사 Mynt가 필리핀 증권거래소에 상장했다. 609억 페소(9억6500만 달러) 규모로 필리핀 역대 최대 IPO다.",
+      "original": "Mynt, Philippine digital wallet GCash parent, goes public in Manila",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/ipo/mynt-philippine-digital-wallet-gcash-parent-goes-public-in-manila",
+      "published": null
+    },
+    {
+      "id": "w88",
+      "region": "아시아",
+      "title": "체리, 내년 일본서 하이브리드차 출시 계획",
+      "summary": "중국 자동차 업체 체리가 내년 일본 시장에 하이브리드차를 출시할 계획이다. 경쟁사 BYD에 이어 일본 시장에 들어가는 것이다. 무역 장벽이 있음에도 중국 완성차들의 일본 진출이 이어지고 있다.",
+      "original": "China's Chery eyes hybrid vehicle launch in Japan amid trade barriers",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/automobiles/china-s-chery-eyes-hybrid-vehicle-launch-in-japan-amid-trade-barriers",
+      "published": null
+    },
+    {
+      "id": "w92",
+      "region": "아시아",
+      "title": "아시아 AI 붐 과실은 기업주에…소비자 혜택은 부족",
+      "summary": "아시아의 AI 투자 붐이 수출과 경제성장을 끌어올리고 있지만, 그 혜택이 소비자에게는 충분히 돌아가지 않는다는 지적이 나왔다. 방콕에서 열린 고급 기업 콘퍼런스에서 경제학자들이 이같이 말했다.",
+      "original": "Asia's AI boom is benefiting business owners, not consumers, economists say",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/consumer/asia-s-ai-boom-is-benefiting-business-owners-not-consumers-economists-say",
+      "published": null
+    },
+    {
+      "id": "w106",
+      "region": "아시아",
+      "title": "미쓰비시자동차, 닛산 편입 10년…독자 노선",
+      "summary": "미쓰비시자동차가 닛산 자회사로 편입된 지 10년을 맞았다. 재건기를 마치고 성장 가속 단계로 넘어가는 중이다. 회사는 오랫동안 특색으로 알려진 차량을 더 개발하는 데 자원을 집중하겠다고 밝혔다. 닛산과 노선이 갈라지고 있다는 평가다.",
+      "original": "Mitsubishi Motors bets on distinctive vehicles as path diverges from Nissan",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/automobiles/mitsubishi-motors-bets-on-distinctive-vehicles-as-path-diverges-from-nissan",
+      "published": null
+    },
+    {
+      "id": "w110",
+      "region": "아시아",
+      "title": "방글라데시 취사용 가스 가격 급등",
+      "summary": "방글라데시 가정은 취사용 가스를 공식 가격보다 최대 36% 비싸게 사고 있다. 정부가 핵심 시장에 대한 통제력을 잃은 것으로 보인다. 연료 유통업체들의 파업 위험도 커졌다.",
+      "original": "Bangladesh cooking gas price spike prompts blame game",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/energy/bangladesh-cooking-gas-price-spike-prompts-blame-game",
+      "published": null
+    },
+    {
+      "id": "w50",
+      "region": "아시아",
+      "title": "암바니 Jio 플랫폼스, 인도 역대 최대 IPO",
+      "summary": "인도 2위 부호 무케시 암바니가 이끄는 Jio 플랫폼스가 인도 역대 최대 규모의 기업공개(IPO)에 나섰다. 시장 약세에도 회사는 최대 3020억 루피를 조달하고 10조3000억 루피의 기업가치를 목표로 수요일 상장한다. 저가 브로드밴드를 제공하는 이 통신사는 Meta와 구글이 지원하는 곳이다. 상장 전 앵커 투자자 212곳을 확보했다.",
+      "original": "Billionaire Mukesh Ambani launches India’s biggest-ever IPO",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/20/mukesh-ambani-jio-platforms-ipo-india-stock-market",
+      "published": "2026-10-20T18:53+09:00"
+    },
+    {
+      "id": "w72",
+      "region": "글로벌",
+      "title": "AI 주식 거품 끝인가…나스닥100 5.5% 급락",
+      "summary": "지난주 나스닥100 지수가 5.5% 떨어지면서 AI 붐이 끝날지 모른다는 우려가 커졌다. 올해 AI에 쏟아붓는 투자가 약 1조 달러로 추산되는데, 그 투자가 모래 위에 세운 성 같은 것인지 세계가 지켜보고 있다. 발단은 호주 데이터센터 기업 Firmus의 ASX 상장 실패다. 상장 전에는 기업가치가 텔스트라보다 높아질 수 있다는 기대가 있었지만, 실적이 입증되기 전 과도한 평가였다는 것이 드러났다. 이 일로 호주와 세계 투자자들이 비슷한 기업들의 가치를 다시 따지기 시작했다는 분석이다.",
+      "original": "Is this the beginning of the end of the AI stock market boom?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/20/ai-stock-market-boom-beginning-of-the-end-imf-wallstreet-nasdaq",
+      "published": "2026-10-20T11:29+09:00"
+    },
+    {
+      "id": "w99",
+      "region": "글로벌",
+      "title": "파나마 운하 가뭄…농가 가축 매각 속출",
+      "summary": "운하에 물을 대는 파나마의 수원이 가뭄으로 위협받고 있다. 우기에 비가 거의 오지 않았고, 엘니뇨까지 겹쳤다. 아수에로 지역 농가들은 물웅덩이와 하천이 다시 차지 않아 목초지가 재생되지 않고 있다. 우유 생산량이 절반으로 줄어든 농가는 건기를 앞두고 가축을 팔고 있다. 원문은 운하가 파나마의 생명줄이라고 설명한다.",
+      "original": "‘For Panama, it is life or death’: how drought is choking the canal that feeds a nation",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/global-development/2026/oct/20/panama-canal-environment-water-drought-el-nino-farming",
+      "published": "2026-10-20T19:00+09:00"
+    },
+    {
+      "id": "w9",
+      "region": "글로벌",
+      "title": "국제유가 하락…미·이란 외교 진전 기대",
+      "summary": "원유 가격이 화요일 하락했다. 미국과 이란 사이 외교적 진전에 대한 기대가 반영됐지만, 최근 상선과 유조선에 대한 공격도 이어지고 있다. 미국 WTI 11월물은 1.8% 내린 배럴당 101.79달러로 마감했다. 장중 고점은 110.48달러였다. 브렌트 12월물은 0.7% 내린 108.79달러로 정산됐다. 호르무즈 해협을 지나는 선박 최소 18척이 지난 2주간 공격을 받았다고 해운 추적업체 Kpler가 밝혔다.",
+      "original": "Oil prices fall as traders hope for diplomatic progress in Middle East",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
+      "published": "2026-10-21T04:40+09:00"
+    }
+  ]
+}

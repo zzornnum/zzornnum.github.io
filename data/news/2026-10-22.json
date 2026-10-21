@@ -12,22 +12,26 @@
         {
           "title": "KB證 “코스피 W자 바닥 확인…삼성전자·SK하이닉스 ‘역사적 저평가’”",
           "source": "KIS 제공",
-          "date": "2026-10-22"
+          "date": "2026-10-22",
+          "urlChecked": true
         },
         {
           "title": "[증시키워드] 삼성전자 ‘코어팀’ 신설?SK하이닉스 40조 자사주 매입 완료",
           "source": "KIS 제공",
-          "date": "2026-10-22"
+          "date": "2026-10-22",
+          "urlChecked": true
         },
         {
           "title": "솔리다임 상장 “국장 둠스데이 될 것”... 당국·정치권 맹공에 SK하이닉스 ‘진퇴양난’",
-          "source": "KIS 제공",
-          "date": "2026-10-22"
+          "source": "Chosunbiz",
+          "date": "2026-10-22",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUGxzYlE1VE5VYXBBRFZmajc3Mi03ZzNwUkNfM1c5Vzg2WTNwN096c0xTNXNrV2pEQUFSSTNCeDRmWVZPNXlNdFNkSU5JdXZwS0N0V3ExajVqSGY1M2g3OXcxOFdpRlE2ekVzM3BuekhISVVYOU1ZOC1WSW5TVU1GcGVMbGx2dHJIZ2pJLVdLM2JKTHpudk53SzBxM2LSAZwBQVVfeXFMTlBsc2JRNVROVWFwQURWZmo3NzItN2czcFJDXzNXOVc4NlkzcDdPenNMUzVza1dqREFBUkkzQng0ZllWTzV5TXRTZElOSXV2cEtDdFdxMWo1akhmNTNoNzl3MThXaUZRNnpFczNwbnpISElVWDlNWTgtVkluU1VNRnBlTGxsdnRySGdqSS1XSzNiSkx6bnZOd0swcTNi?oc=5"
         },
         {
           "title": "코스피 3% 반등에도 거래대금 제자리…매수 기반 회복은 아직",
-          "source": "KIS 제공",
-          "date": "2026-10-22"
+          "source": "이투데이",
+          "date": "2026-10-22",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BTV94a2xYcDdDRXpQX3FFcnFzNjktT0JzMnJ1YmdzQmlDWlYxaE5fd295UVZ1ZExMVlVuaGdZOThxdHF3US1oVVpuWlh3RUJnOFpJYXNhaFRnTFo4akV0SGpnYnhrS2wwSWFfcnZn?oc=5"
         }
       ]
     },
@@ -39,18 +43,21 @@
       "headlines": [
         {
           "title": "'납 배출 주사'로 급락한 DN오토 주식…與박상혁 \"ESG공시 법정화 필요\"",
-          "source": "KIS 제공",
-          "date": "2026-10-20"
+          "source": "머니투데이",
+          "date": "2026-10-20",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aS1psZ3BlYXFEWVgzS1lTcThaMnJyU0Z0NlpSRGdsMTVBY3dGZUptdU9TNEY5SWVsZUl4YmI3VksxamYxbDdyWXZCQTVkVUl0VFhUcHNzU1NBcFlCZmNGUWhVcDIzUHJweGlOdtIBckFVX3lxTE5zLWVhUnBJMjFPelRDSGtTSm1zWkZ5U2FNY1lMNENWcDVsaGFHVGpESU1acWJlSGRmVGlSTU5lUDIyZnh2Q0EtZzdHN1VzMWQ3V0tMX2xkcWpWWDk0bmFFbTIwMWhJaS01Ykx3VzBZOHBpQQ?oc=5"
         },
         {
           "title": "노동부, 납 노출 고위험 사업장 150여곳 감독 추진",
-          "source": "KIS 제공",
-          "date": "2026-10-19"
+          "source": "헤럴드경제",
+          "date": "2026-10-19",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96enVxcjU4ZEY4Y19XT1BkbF8td0tvTUZTN0xPMGdmcnFhOEw4eXY2UzVsZVlKRnI0YklDSEJzbDBkS2MzWi0xNGJKNDdLUDFOVnpQLUZB?oc=5"
         },
         {
           "title": "[장중수급포착] DN오토모티브, 외국인 5일 연속 순매수행진... 주가 +2.17%",
           "source": "KIS 제공",
-          "date": "2026-10-21"
+          "date": "2026-10-21",
+          "urlChecked": true
         }
       ]
     },
@@ -62,23 +69,27 @@
       "headlines": [
         {
           "title": "성수2지구 시공사 내달 선정…DL이앤씨, ‘아크로 성수’ 제안",
-          "source": "KIS 제공",
-          "date": "2026-10-21"
+          "source": "서울경제",
+          "date": "2026-10-21",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHRUs3bEN0VXJwc2Q4eHJnYnhlWFYxeEFaRlJ2Y3M5U1NHa0ptUnRZZFFJWjhiSnVUcVhYUmhpdTExQXNLU2plV0hsaHJla3dxLUHSAVNBVV95cUxPY3BHMGRtekFiTFlLQjhvekt5eXJpWHVfSlU3ZF9zRThyVVplV2xERHN4NHJzaGE0ZEFPd0s4MkI5VFhNTVV5NW8zeC14b3kwUXVQdw?oc=5"
         },
         {
           "title": "현대·대우 웃고 GS·DL 주춤…원가율이 가른 건설사 3분기 실적 온도차",
-          "source": "KIS 제공",
-          "date": "2026-10-21"
+          "source": "머니투데이",
+          "date": "2026-10-21",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xQktESTlKSVV1TElRVmVEd0tWZlVjbmFfaktRczdPVU56M2MzTmNydHRIeEVOTzZrbDN4VGpTSUdjaHBGTUVLazR4SjlNX0xiQ0ZBWW5xZC1UMktETFBLQW03MFp0RmRnSWfSAW9BVV95cUxNQTdSMzRYSnJPRnNxV2hYTnZ0dmJWTGJuVkl3cFNpQ0Q1enVTeVBfMVFsZ3ZQVDctUzFFb2pTcEZfYlVlV1JHMU1EZFdLT3ZoNFlMZ0pnSnBtZUFWYmlYT1ZYQzZsWjFJTXlrZ3A0N2M?oc=5"
         },
         {
           "title": "DL이앤씨, 플랜트 비용에 3분기 부진 관측",
-          "source": "KIS 제공",
-          "date": "2026-10-21"
+          "source": "연합인포맥스",
+          "date": "2026-10-21",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaRnRfa1VHVENJQmYyTkNoam1JbS1TelFkTEk5UHlra2pieWtXc2hwcVBRRmVGc0pHaE5sVjItSFpacHcxZW5zWnBNSk9Eazg0bGNxVndTZXgzTnRCYWNBMHlYOERRMUVIamxubHlCaTg?oc=5"
         },
         {
           "title": "[리포트 브리핑]DL이앤씨, '재무 구조는 안정적, 수주는 숙제' 목표가 87,000원 - IBK투자증권",
-          "source": "KIS 제공",
-          "date": "2026-10-21"
+          "source": "뉴스핌",
+          "date": "2026-10-21",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IREhwc1Bid2NCRlNvaC1seThpSlE4Z1JoYkR5Y1RlVnhIZlhmand1RzhHS0UtZTRfSWZmSU1FUXBiU2VjRnVXRnJYLU1mMmI4bUxmSTJYamY4TTgy?oc=5"
         }
       ]
     },
@@ -91,12 +102,14 @@
         {
           "title": "방산 빅4, 수주잔고 120조원 ‘역대 최대’",
           "source": "KIS 제공",
-          "date": "2026-10-21"
+          "date": "2026-10-21",
+          "urlChecked": true
         },
         {
           "title": "한화오션 지분으로 3조 마련한 한화시스템, 어디에 어떻게 쓸까",
-          "source": "KIS 제공",
-          "date": "2026-10-21"
+          "source": "인베스트조선",
+          "date": "2026-10-21",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTWZIRlMtVk9kR01id2E2aUhXX0NnN3RSQWpiMlQ5ZHQwLTc4R2ZHcHR0RnpJdWo2ZTZFaW5VVVdzNXI1Ny16NmpXdjVscGxCNzlOT1luVTR6MEsxamZzbWhfQ0Nnczdid0RDczhpRnUwcEhZRm92SGlDZDF5cHFuMEczRQ?oc=5"
         }
       ]
     },
@@ -108,13 +121,15 @@
       "headlines": [
         {
           "title": "김동선 사장 1285억 썼는데…한화M&S, 지주사 정비에 또 돈 든다",
-          "source": "KIS 제공",
-          "date": "2026-10-19"
+          "source": "인베스트조선",
+          "date": "2026-10-19",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeUQtbUhtMVNGSl9pMlNPYWx1QjNHb1dSSGk0dnl3d3Q4ZVFEUlluTXhLbU50YjNVcVo4THg2YmZkWnpQb3FNSHduY2F6YUthVUItZVNNNkNOd29yZjdIMjZUVE1GZzBFMlFnZ1FYQ2tpcDJRWFpyRVNOWXprUkZJWUUtcw?oc=5"
         },
         {
           "title": "김동선, 한화M&S 저점 공개매수 셈법…주가 반토막 나자 1400억 베팅",
           "source": "KIS 제공",
-          "date": "2026-10-13"
+          "date": "2026-10-13",
+          "urlChecked": true
         }
       ]
     },
@@ -126,18 +141,21 @@
       "headlines": [
         {
           "title": "JW중외제약·공정위, 299억 과징금 소송 쌍방 상고…대법원 판단 받는다",
-          "source": "KIS 제공",
-          "date": "2026-10-13"
+          "source": "메디컬투데이",
+          "date": "2026-10-13",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RbFZtcEowekZyUHFaX1p3VFpMUkJjMDBXdHJLYzBORW13WF8zY1l6UGlXU3RjZVVVVjVucFBCQlFHYkZTYk9OdlE0NUstQVQxck5UMHNJdEhMWTVLcGR4MGVHZW8wVHFQcktvaQ?oc=5"
         },
         {
           "title": "JW중외제약, 전립선비대증 치료제 '트루패스' 고령 환자 임상 가치 조명",
           "source": "KIS 제공",
-          "date": "2026-10-21"
+          "date": "2026-10-21",
+          "urlChecked": true
         },
         {
           "title": "JW중외제약(주) 추가상장(주식의종류변경)",
           "source": "공시",
-          "date": "2026-10-20"
+          "date": "2026-10-20",
+          "urlChecked": true
         }
       ]
     },
@@ -150,17 +168,20 @@
         {
           "title": "(주)서한 (정정)단일판매ㆍ공급계약체결",
           "source": "DART 공시",
-          "date": "2026-10-21"
+          "date": "2026-10-21",
+          "urlChecked": true
         },
         {
           "title": "<코>서한, 상한가 진입.. +29.90% ↑",
           "source": "KIS 제공",
-          "date": "2026-10-21"
+          "date": "2026-10-21",
+          "urlChecked": true
         },
         {
           "title": "[급등락주 짚어보기] 상장 첫날 32% 폭락한 엘리스, 하루 만에 ‘上’…혜인·서한도 급등",
-          "source": "KIS 제공",
-          "date": "2026-10-21"
+          "source": "이투데이",
+          "date": "2026-10-21",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BeE9jSmNhRmp6Wllzd095eFVUTjBmc0I0T3p2RGtURTktY2F1anlPZW1ObVdCNm9rZmVDQXRvbjk4LW9yTkQ3Y25MWGFTeWtyd2k0Vw?oc=5"
         }
       ]
     },
@@ -173,12 +194,14 @@
         {
           "title": "(주)휴메딕스 기업설명회(IR) 개최",
           "source": "DART 공시",
-          "date": "2026-10-21"
+          "date": "2026-10-21",
+          "urlChecked": true
         },
         {
           "title": "몸집 키운 ECM 스킨부스터…안전관리 기준 '어디까지'",
-          "source": "KIS 제공",
-          "date": "2026-10-16"
+          "source": "프라임경제",
+          "date": "2026-10-16",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12YVhkQmY4LVptaGxfSHh0T2liOHF6b0FFU1dxWmQ1ZG9sRklsZXBHNkl6dnlqWWpjU214S2Z5eTdWc2RQRVFvcTVMbkZQU0hZX19adXVGZzBfNG5heHhNek1FYw?oc=5"
         }
       ]
     },
@@ -191,12 +214,14 @@
         {
           "title": "GS(078930)  -3.26%, S-Oil -3.19%, SK이노베이션 -2.03%",
           "source": "KIS 제공",
-          "date": "2026-10-21"
+          "date": "2026-10-21",
+          "urlChecked": true
         },
         {
           "title": "韓 AI 데이터센터 투자, 건설주 내년 수혜 본격화",
-          "source": "KIS 제공",
-          "date": "2026-10-21"
+          "source": "한국경제",
+          "date": "2026-10-21",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tSWt1M3R0SjhrRTZaV3NZUnZWc244MG8xZW9jNUhjaGdLdTJIMUVTUEdZUm5VZnpidXowWk1BU0hsbVZJRW1QUFYwOUV6NDVFNHJQWXBIMkwtQQ?oc=5"
         }
       ]
     },
@@ -209,7 +234,8 @@
         {
           "title": "(주)아바코 (정정)단일판매ㆍ공급계약체결(자율공시)",
           "source": "DART 공시",
-          "date": "2026-10-13"
+          "date": "2026-10-13",
+          "urlChecked": true
         }
       ]
     },
@@ -221,18 +247,21 @@
       "headlines": [
         {
           "title": "[분석] 삼성-하이닉스 자사주 매입 끝…수급 방어막 사라진 증시 '홀로서기'",
-          "source": "KIS 제공",
-          "date": "2026-10-22"
+          "source": "파이낸셜포스트",
+          "date": "2026-10-22",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmNEhweVdLVHBRUnFLS1BvdDM3TG1iVzExUXhIbEhwcXJKdXlIMmJDRVRXZzR6UVJlWWo0Q1FLbi1kZEhZQmRHR2txZHh4SjN2Y3dIdXBkRGR3WFJhbjEtRWRlSENOZHQxcTNLdTZHWlFNRlVG?oc=5"
         },
         {
           "title": "머스크의 반도체 승부수…삼성엔 위협, 소부장엔 기회 [갭 월드]",
           "source": "KIS 제공",
-          "date": "2026-10-22"
+          "date": "2026-10-22",
+          "urlChecked": true
         },
         {
           "title": "KB證 “코스피 W자 바닥 확인…삼성전자·SK하이닉스 ‘역사적 저평가’”",
           "source": "KIS 제공",
-          "date": "2026-10-22"
+          "date": "2026-10-22",
+          "urlChecked": true
         }
       ]
     },
@@ -245,12 +274,14 @@
         {
           "title": "[리포트 브리핑]휴젤, '직판하러 가는 길' 목표가 250,000원 - 키움증권",
           "source": "KIS 제공",
-          "date": "2026-10-21"
+          "date": "2026-10-21",
+          "urlChecked": true
         },
         {
           "title": "[리포트 브리핑]휴젤, '미국 직판 전환의 과도기' 목표가 300,000원 - 신한투자증권",
           "source": "KIS 제공",
-          "date": "2026-10-19"
+          "date": "2026-10-19",
+          "urlChecked": true
         }
       ]
     },
@@ -262,13 +293,15 @@
       "headlines": [
         {
           "title": "국고채 PD 담합 결론 지연에 증권사·은행들 속앓이…\"연내 결론 안 날 수도\"",
-          "source": "KIS 제공",
-          "date": "2026-10-16"
+          "source": "인베스트조선",
+          "date": "2026-10-16",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeURQbVN0T1JveVlWdzQ2TWdWa0lnbmJlSDNhMTFSUU52eGhkX3Y5eDVBUnZiYXpFdEoxY0lKejg4RGlKbnowNjNvSHB6a0Z6cnhDVW5xS2ZwLTNRdmRkMDF5c1QzWktpV1FtNE04VmF5TXN0THNNc2hjY1plak1wR2Q2Yw?oc=5"
         },
         {
           "title": "[장중수급포착] 메리츠금융지주, 기관 5일 연속 순매수행진... 주가 +1.38%",
           "source": "KIS 제공",
-          "date": "2026-10-16"
+          "date": "2026-10-16",
+          "urlChecked": true
         }
       ]
     },
@@ -280,13 +313,15 @@
       "headlines": [
         {
           "title": "\"미국 사업 사실상 포기\" 백기 든 중국 ESS 기업들...2차전지주 '불기둥'",
-          "source": "KIS 제공",
-          "date": "2026-10-19"
+          "source": "머니투데이",
+          "date": "2026-10-19",
+          "url": "https://n.news.naver.com/mnews/article/008/0005428229"
         },
         {
           "title": "[장중수급포착] 세방전지, 외국인/기관 동시 순매수… 주가 +7.13%",
-          "source": "KIS 제공",
-          "date": "2026-10-19"
+          "source": "뉴스핌",
+          "date": "2026-10-19",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80T2l1aTlrdUxrY09tdXMwQ2ZDVkJSYS1QTFlMenV5RVZYYUtKLUZVdk5RYnhyMkVhTmJzTGNUd19XTVVvbkdEalJwUmNzMnZJTGExZVJHS2ZLWC1U?oc=5"
         }
       ]
     }

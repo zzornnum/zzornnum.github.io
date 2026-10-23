@@ -11,13 +11,15 @@
       "headlines": [
         {
           "title": "韓 법인 세우는 주가이제약, JW와 헴리브라 동행은 계속...신약은 직접?",
-          "source": "뉴스 제목(KIS)",
-          "date": "2026-10-23"
+          "source": "이데일리",
+          "date": "2026-10-23",
+          "url": "https://n.news.naver.com/mnews/article/018/0006394304"
         },
         {
           "title": "JW중외제약, 전립선비대증 치료제 '트루패스' 고령 환자 임상 가치 조명",
           "source": "뉴스 제목(KIS)",
-          "date": "2026-10-21"
+          "date": "2026-10-21",
+          "urlChecked": true
         }
       ]
     },
@@ -30,12 +32,14 @@
         {
           "title": "[IR일정] 메리츠금융지주, 2026년 3분기 경영실적",
           "source": "뉴스 제목(KIS)",
-          "date": "2026-10-22"
+          "date": "2026-10-22",
+          "urlChecked": true
         },
         {
           "title": "(주)메리츠금융지주 기업설명회(IR) 개최(안내공시)",
           "source": "공시",
-          "date": "2026-10-22"
+          "date": "2026-10-22",
+          "urlChecked": true
         }
       ]
     },
@@ -47,13 +51,15 @@
       "headlines": [
         {
           "title": "한화오션-하청노조, 3차 교섭도 난항…'교섭 범위' 두고 정면 충돌",
-          "source": "뉴스 제목(KIS)",
-          "date": "2026-10-23"
+          "source": "메디컬투데이",
+          "date": "2026-10-23",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2QmxxdDNkMk1fYVpuNFZhQVZFYWs0clNjNDMxT1BGQm94NXdHTkxQU1hQb1F0ei00X0JicXZSald4b1ktRUxPS2tBYm9tSEZ4Wm5uUElIc2lnellYeEpMTVRtbTV5UW4wRnpsYQ?oc=5"
         },
         {
           "title": "한화파워, 1700TEU급 배터리 추진선 설계 개념승인",
-          "source": "뉴스 제목(KIS)",
-          "date": "2026-10-23"
+          "source": "로이슈",
+          "date": "2026-10-23",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Tb01ncFhmaWZhWV96MjJnOEdMaXgybGgxd1d3N3AyazRxSGYtTExjT0Fia1RhRGpYZjNjbzlxaEdnNXA4dFRJUU05ODVaZUJ1cE1mTzlJZ1hRb2JoeFlKS0h5SkdnRkllY2toX2VnVlc4ZTFLVm9TeWNn?oc=5"
         }
       ]
     },
@@ -66,12 +72,14 @@
         {
           "title": "(주)제이에스코퍼레이션 타인에대한채무보증결정(자율공시)",
           "source": "공시",
-          "date": "2026-10-22"
+          "date": "2026-10-22",
+          "urlChecked": true
         },
         {
           "title": "[리포트 브리핑]제이에스코퍼레이션, '작년 관세 악재는 올해의 호재' Not Rated - 하나증권",
           "source": "뉴스 제목(KIS)",
-          "date": "2026-10-12"
+          "date": "2026-10-12",
+          "urlChecked": true
         }
       ]
     },
@@ -84,12 +92,14 @@
         {
           "title": "GS, 최대주주등 소유주식수 30,000주 감소",
           "source": "공시",
-          "date": "2026-10-23"
+          "date": "2026-10-23",
+          "urlChecked": true
         },
         {
           "title": "기름값 잡은 석유 최고가격제…재정 부담은 '숙제'",
-          "source": "뉴스 제목(KIS)",
-          "date": "2026-10-23"
+          "source": "뉴스핌",
+          "date": "2026-10-23",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fN2NDSC1TZDNBckhvTjZ3a3hwb1V5TEc4NUJjVGFkRkk5X1JWOVBIUWIzRkoxd25PWl9GLVFQVXBuUEJEemJZeXdVenhGbHdqUkFPQ2NhSEtvZnhJ?oc=5"
         }
       ]
     },
@@ -102,12 +112,14 @@
         {
           "title": "태성(323280) -5.89%, 에프엔에스테크 -5.53%, 켐트로닉스 -5.51%, 한빛레이저 -5.46%, 제이앤티씨 -5.13%",
           "source": "뉴스 제목(KIS)",
-          "date": "2026-10-23"
+          "date": "2026-10-23",
+          "urlChecked": true
         },
         {
           "title": "신용비율 상위 종목",
           "source": "뉴스 제목(KIS)",
-          "date": "2026-10-16"
+          "date": "2026-10-16",
+          "urlChecked": true
         }
       ]
     },
@@ -119,8 +131,9 @@
       "headlines": [
         {
           "title": "E1, 10월 LPG 공급가격 kg당 80원 인상",
-          "source": "뉴스 제목(KIS)",
-          "date": "2026-09-30"
+          "source": "뉴스1",
+          "date": "2026-09-30",
+          "url": "https://n.news.naver.com/mnews/article/421/0009200692"
         }
       ]
     },
@@ -132,18 +145,21 @@
       "headlines": [
         {
           "title": "AI 안경 부정행위·DN오토 ‘납 배출주사’·‘낙하산 인사’…노동부 산하기관 국감 쟁점",
-          "source": "뉴스 제목(KIS)",
-          "date": "2026-10-22"
+          "source": "헤럴드경제",
+          "date": "2026-10-22",
+          "url": "https://n.news.naver.com/mnews/article/016/0002712742"
         },
         {
           "title": "'납 배출 주사'로 급락한 DN오토 주식…與박상혁 \"ESG공시 법정화 필요\"",
-          "source": "뉴스 제목(KIS)",
-          "date": "2026-10-20"
+          "source": "머니투데이",
+          "date": "2026-10-20",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aS1psZ3BlYXFEWVgzS1lTcThaMnJyU0Z0NlpSRGdsMTVBY3dGZUptdU9TNEY5SWVsZUl4YmI3VksxamYxbDdyWXZCQTVkVUl0VFhUcHNzU1NBcFlCZmNGUWhVcDIzUHJweGlOdtIBckFVX3lxTE5zLWVhUnBJMjFPelRDSGtTSm1zWkZ5U2FNY1lMNENWcDVsaGFHVGpESU1acWJlSGRmVGlSTU5lUDIyZnh2Q0EtZzdHN1VzMWQ3V0tMX2xkcWpWWDk0bmFFbTIwMWhJaS01Ykx3VzBZOHBpQQ?oc=5"
         },
         {
           "title": "노동부, 납 노출 고위험 사업장 150여곳 감독 추진",
-          "source": "뉴스 제목(KIS)",
-          "date": "2026-10-19"
+          "source": "헤럴드경제",
+          "date": "2026-10-19",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96enVxcjU4ZEY4Y19XT1BkbF8td0tvTUZTN0xPMGdmcnFhOEw4eXY2UzVsZVlKRnI0YklDSEJzbDBkS2MzWi0xNGJKNDdLUDFOVnpQLUZB?oc=5"
         }
       ]
     },
@@ -155,18 +171,21 @@
       "headlines": [
         {
           "title": "솔리다임 상장 접자 '환호'…SK하이닉스, 하루 만에 '급반등' [종목+]",
-          "source": "뉴스 제목(KIS)",
-          "date": "2026-10-23"
+          "source": "한국경제",
+          "date": "2026-10-23",
+          "url": "https://n.news.naver.com/mnews/article/015/0005345995"
         },
         {
           "title": "솔리다임 IPO 중단 덕분?…코스피, 낙폭 좁혀 5,500선 회복 마감(종합)",
-          "source": "뉴스 제목(KIS)",
-          "date": "2026-10-23"
+          "source": "연합뉴스",
+          "date": "2026-10-23",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01VWtxbks5UjlEQ2Y2bTU3cTV5M3dmQjd3ZHJhOWk0R0FUNXpmMXg4X3QySEJwUFR0amlNUHFIUnY3Ymk3NXpGTWwyV3U1a3VjOWdoaEZpOFlxMmvSAWBBVV95cUxPNHoxNmctX2ZIZ25kVE12cExkMjhXVDNVRFpyYWY4UGl6SjkyWTJDUlBfaUNZSkJZMWRnbHU2bzFVOVlVU3hqZTNXREFvYUhEeHEyeXFGRGRmamFHXzhGWS0?oc=5"
         },
         {
           "title": "삼전·닉스 이어 마이크론도…메모리 3사 ‘이익연동 성과급’ 시대",
-          "source": "뉴스 제목(KIS)",
-          "date": "2026-10-23"
+          "source": "매경이코노미",
+          "date": "2026-10-23",
+          "url": "https://n.news.naver.com/mnews/article/024/0000109125"
         }
       ]
     },
@@ -179,12 +198,14 @@
         {
           "title": "(주)서한 공매도 과열종목 연장(공매도 거래 금지 연장)",
           "source": "공시",
-          "date": "2026-10-23"
+          "date": "2026-10-23",
+          "urlChecked": true
         },
         {
           "title": "(주)서한 공매도 과열종목 지정(공매도 거래 금지 적용)",
           "source": "공시",
-          "date": "2026-10-22"
+          "date": "2026-10-22",
+          "urlChecked": true
         }
       ]
     },
@@ -196,18 +217,21 @@
       "headlines": [
         {
           "title": "휴메딕스, 中 북경경지와 '엘라비에' 필러 독점 유통 협력 연장",
-          "source": "뉴스 제목(KIS)",
-          "date": "2026-10-23"
+          "source": "머니투데이",
+          "date": "2026-10-23",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaYVVMbmN1bHdVUkNqM000eDNvOGhkbWxKV1hadjdNdWdVZ2h1Q2hHYVZpZlhicngySEx4cjNuX0lmeE4zT3NreEdlRS1ORmRkQktmUGVHQ0ZldlJPOUpaRWh6Q1FjQWxaTnfSAW9BVV95cUxQZDRWaDVrR3ZkckFTS1dETnRCOUs4UTVMYWZ4NHNCb25hc2dxLVE0dDc1bmttdkRzNnRta0NWYXVtUGxLR1JjZi1wRGVwdnRoY2NhZ3BLdGktOXZ0NmN0UTBYWkFJWDRkbXpJTG14VlU?oc=5"
         },
         {
           "title": "[모닝 리포트] \"휴메딕스, 리투오 판매 확대에 분기 최대 매출 전망\"",
-          "source": "뉴스 제목(KIS)",
-          "date": "2026-10-23"
+          "source": "뉴스핌",
+          "date": "2026-10-23",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10bEZmNlRXaWd5NXFzdzNaeW15dEl5T3drNURJVnhOLXBVMjczY0xVV2tMZDJhcHZXa2o2VUxQY0ZnVGliTHpna3B2TU5tdUN2cmtENEtTeTNodVg3?oc=5"
         },
         {
           "title": "[리포트 브리핑]휴메딕스, '리투오가 이끄는 성장, 배당이 더하는 매력' Not Rated - 신한투자증권",
-          "source": "뉴스 제목(KIS)",
-          "date": "2026-10-23"
+          "source": "뉴스핌",
+          "date": "2026-10-23",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5odjRkb3FZdGYtRjQyRkVPdy1Ybjl6Y1loNldfSmJvRFN1aW1RSnNVeVl1NnNBZHZMLWdVcTg4Z0xuNVdFRWxSZkNTQ0tkdWtJa0MwUE1ROGt5b0df?oc=5"
         }
       ]
     },
@@ -219,18 +243,21 @@
       "headlines": [
         {
           "title": "한솔아이원스, 600억 유상증자…반도체 부품 생산능력 확충",
-          "source": "뉴스 제목(KIS)",
-          "date": "2026-10-23"
+          "source": "한국경제",
+          "date": "2026-10-23",
+          "url": "https://n.news.naver.com/mnews/article/015/0005345781"
         },
         {
           "title": "한솔아이원스, 1,260억원 규모 신규 시설투자 결정",
-          "source": "뉴스 제목(KIS)",
-          "date": "2026-10-23"
+          "source": "헤럴드경제",
+          "date": "2026-10-23",
+          "url": "https://n.news.naver.com/mnews/article/016/0002681780"
         },
         {
           "title": "한솔아이원스, 600억원 주주배정후 실권주 일반공모 유상증자 결정",
           "source": "뉴스 제목(KIS)",
-          "date": "2026-10-23"
+          "date": "2026-10-23",
+          "urlChecked": true
         }
       ]
     },
@@ -242,13 +269,15 @@
       "headlines": [
         {
           "title": "DL이앤씨, 광명 하안주공9단지 재건축 단독 입찰…공사비 9309억",
-          "source": "뉴스 제목(KIS)",
-          "date": "2026-10-23"
+          "source": "컨슈머타임스",
+          "date": "2026-10-23",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PeXpkSkp3MkZtUDdEVDhLMDQtb2dpS3Eya3FoamZ3SG5vdzFsMnU3Q0p4b0JHUEViWnlCa0tWeHBKTVlsUHNhclhrSFBGalJ5c2NlN1hIWnhHMW4yUkl0OFJrU180OGZTQ3c?oc=5"
         },
         {
           "title": "디엘이앤씨 주식회사 결산실적공시 예고(안내공시)",
           "source": "공시",
-          "date": "2026-10-23"
+          "date": "2026-10-23",
+          "urlChecked": true
         }
       ]
     },
@@ -260,13 +289,15 @@
       "headlines": [
         {
           "title": "김동선, 한화M&S 공개매수 1000만주 더 늘린다…주가 3.9% 상승 [시그널]",
-          "source": "뉴스 제목(KIS)",
-          "date": "2026-10-22"
+          "source": "서울경제",
+          "date": "2026-10-22",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VLUpiSTF5TkNHWVA1dW5VZzhQcEhfRUt1dENJeEZZTXF1ZDBJM2lPV2VzOUVnUVFDNVdLUjJlMUstYnc4X284d1ZMaV9DTmppX0HSAVNBVV95cUxPck1CcmRaRnU1MUxwTFg4Y1VVS0ZHeVJ5clA3ZGRTSlV5SUNrcElrMzFFaWhvcnJGeDdMSlUtd0lVR2dSM0ZUN3pFVWJZMncwWXV4WQ?oc=5"
         },
         {
           "title": "‘코스피 급락에도 훨훨’…‘김동선 공개매수’에 한화M&S 4% 급등 [종목Pick]",
-          "source": "뉴스 제목(KIS)",
-          "date": "2026-10-22"
+          "source": "헤럴드경제",
+          "date": "2026-10-22",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wN3h3VmxISE9zSm9nYmNaUDFQaUhZcWE1ZF9lSm1FOVBRVXo2b244OUVpVXVReklCOThpZ29acWRzSlVMVXFqNHRHeG0xTWR3NFNzdnp3?oc=5"
         }
       ]
     },
@@ -278,13 +309,15 @@
       "headlines": [
         {
           "title": "연기금이 담는 삼성화재, 삼성전자 지분 1.49%에 특별배당 기대까지",
-          "source": "뉴스 제목(KIS)",
-          "date": "2026-10-23"
+          "source": "파이낸셜뉴스",
+          "date": "2026-10-23",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZYkFQcHVDQ0llelpaYWtVZzByeHFMTTZfczd6NGdiUEhSLUo1bmZTbUphV0ZWandPUEJ1elEza2lVUkw2MWFwMlBsa19ZaGxxRDZvYlgtRXU3dw?oc=5"
         },
         {
           "title": "삼전·닉스 이어 마이크론도…메모리 3사 ‘이익연동 성과급’ 시대",
           "source": "뉴스 제목(KIS)",
-          "date": "2026-10-23"
+          "date": "2026-10-23",
+          "urlChecked": true
         }
       ]
     },
@@ -297,12 +330,14 @@
         {
           "title": "[리포트 브리핑]휴젤, '직판하러 가는 길' 목표가 250,000원 - 키움증권",
           "source": "뉴스 제목(KIS)",
-          "date": "2026-10-21"
+          "date": "2026-10-21",
+          "urlChecked": true
         },
         {
           "title": "[리포트 브리핑]휴젤, '미국 직판 전환의 과도기' 목표가 300,000원 - 신한투자증권",
           "source": "뉴스 제목(KIS)",
-          "date": "2026-10-19"
+          "date": "2026-10-19",
+          "urlChecked": true
         }
       ]
     }

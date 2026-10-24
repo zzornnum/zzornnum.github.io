@@ -323,6 +323,13 @@
       "market": "KOSDAQ",
       "addedAt": "2026-10-24T01:10:05.468Z",
       "notes": []
+    },
+    {
+      "code": "144960",
+      "name": "뉴파워프라즈마",
+      "market": "KOSDAQ",
+      "addedAt": "2026-10-24T01:27:49.530Z",
+      "notes": []
     }
   ]
 }

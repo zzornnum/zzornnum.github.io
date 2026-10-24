@@ -316,6 +316,13 @@
       "market": "KOSDAQ",
       "addedAt": "2026-10-16T04:37:06.141Z",
       "notes": []
+    },
+    {
+      "code": "348350",
+      "name": "위드텍",
+      "market": "KOSDAQ",
+      "addedAt": "2026-10-24T01:10:05.468Z",
+      "notes": []
     }
   ]
 }

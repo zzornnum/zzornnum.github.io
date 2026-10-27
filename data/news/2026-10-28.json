@@ -12,12 +12,14 @@
         {
           "title": "[장중수급포착] JW중외제약, 외국인 12일 연속 순매수행진... 주가 +1.52%",
           "source": "이데일리/장중수급",
-          "date": "2026-10-27"
+          "date": "2026-10-27",
+          "urlChecked": true
         },
         {
           "title": "韓 법인 세우는 주가이제약, JW와 헴리브라 동행은 계속...신약은 직접?",
-          "source": "더바이오",
-          "date": "2026-10-23"
+          "source": "이데일리",
+          "date": "2026-10-23",
+          "url": "https://n.news.naver.com/mnews/article/018/0006394304"
         }
       ]
     },
@@ -30,12 +32,14 @@
         {
           "title": "(주)메리츠금융지주 기업설명회(IR) 개최(안내공시)",
           "source": "DART 공시",
-          "date": "2026-10-22"
+          "date": "2026-10-22",
+          "urlChecked": true
         },
         {
           "title": "[IR일정] 메리츠금융지주, 2026년 3분기 경영실적",
           "source": "연합인포맥스",
-          "date": "2026-10-22"
+          "date": "2026-10-22",
+          "urlChecked": true
         }
       ]
     },
@@ -47,18 +51,21 @@
       "headlines": [
         {
           "title": "[종합] 한화시스템, 방산·ICT 동반성장…3분기 호실적 거둬",
-          "source": "이데일리",
-          "date": "2026-10-27"
+          "source": "뉴스핌",
+          "date": "2026-10-27",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wZHpvSWZnWktxRk11UHlOLV9ZZEU3bl9LSjdTbEV1aG1JOUtKWHhuMUx1LTFCNi1SOUs1cjFfeERuM19kcjNNWjBiYjNtd3AwdURMaTQtZE1QZVdt?oc=5"
         },
         {
           "title": "[컨콜] 한화시스템 \"UAE 통합 대공망 사업 확대…위성 데이터 서비스 본격화\"",
-          "source": "이데일리",
-          "date": "2026-10-27"
+          "source": "뉴스핌",
+          "date": "2026-10-27",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9NdUNNYXFDMmJDaUU0RXVjTFpNYi0tTW1vaDBNWldDWFNnTDhsb3pBWEg4eVdsc3B5T3dBblQ5YWljVzdFZUhCSHYyb1hyNWRDdmx4dThuQXZycWxB?oc=5"
         },
         {
           "title": "한화오션, 목표가 28% 하향…“성장 기대 약화”-NH",
           "source": "이데일리",
-          "date": "2026-10-28"
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeVh5YVNuZW11REhEb1ZhUW1lNnM0TEVIX2QwaDNHX1R4OTA1NWFGSkFPUTI0cE9lazR2eUJiOC1Da3oxMGdXMzdnaFh5dVBqQUdkOVhlMk1tRzdRM1Q4cTloSXJ3Ql9WTGdWQkNzVlRPWHhpMzFlcm9NSjlMWm5kWA?oc=5"
         }
       ]
     },
@@ -70,18 +77,21 @@
       "headlines": [
         {
           "title": "벤슨, 가맹사업 진출…내달 아워홈 사업부로 편입",
-          "source": "이데일리",
-          "date": "2026-10-26"
+          "source": "뉴스핌",
+          "date": "2026-10-26",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE04MVVhNjlsbHZCM2ZJLTlwMVFSdThhdXBKc3dnenkwTTFHQVR6TW9XRmlET2NNQy1uTEcwQXhGbE91dXR1UnJnR2xlUEVuaDg5cUNHcUJkaTBiT01v?oc=5"
         },
         {
           "title": "‘벤슨’ 넘긴 갤러리아, 외식사업 부담 덜고 명품관 집중",
-          "source": "디지털타임스",
-          "date": "2026-10-27"
+          "source": "이투데이",
+          "date": "2026-10-27",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MVlB3UGxYa1pqenlINVZ1Zjg2UmpydHlUQnhGSFZDZlZJR2FycWdKSXB4MVRMWU1hUENodmh0TDA1YjhGeVU4M2twSVVTa0RQWTZvZA?oc=5"
         },
         {
           "title": "한화세미텍, 中 '넵콘 아시아'서 고속 칩마운터 공개",
-          "source": "이데일리",
-          "date": "2026-10-27"
+          "source": "뉴스핌",
+          "date": "2026-10-27",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yZkFBNUdRXzNKNjQyLWZxRVNMM2laVC1odlBLR1c5ZzNkQ3BxTWYzYzkyZWJDeXIyR2xjRjRyWDR6NEoyVUgxQnpXRzU0cE1fNndpdEItaWRvRjVp?oc=5"
         }
       ]
     },
@@ -94,7 +104,8 @@
         {
           "title": "(주)제이에스코퍼레이션 타인에대한채무보증결정(자율공시)",
           "source": "DART 공시",
-          "date": "2026-10-22"
+          "date": "2026-10-22",
+          "urlChecked": true
         }
       ]
     },
@@ -106,8 +117,9 @@
       "headlines": [
         {
           "title": "아바코, 슈미드의 엔비디아·인텔·AMD 공급망 협력 소식에 유리기판 합작법인 주목",
-          "source": "서울경제/더벨",
-          "date": "2026-10-27"
+          "source": "마켓잉크",
+          "date": "2026-10-27",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLZ3E5bzlRamY1bFV3TjB4a3dMN0JJT0I2dnV1Sm8wVzhRT0tMN1FkSm4yNUM0QzdKazdYRU9NMXhVempPQjhEUFp6cjNxYXpjU0pvUG1pS3p3Y2lBOTZIaW9XWHdNY1ViNV9MUF9Baw?oc=5"
         }
       ]
     },
@@ -119,13 +131,15 @@
       "headlines": [
         {
           "title": "GS엔텍, 3000억 들여 해상풍력 기지 구축…생산능력 3.75배↑[르포]",
-          "source": "이데일리",
-          "date": "2026-10-27"
+          "source": "파이낸셜뉴스",
+          "date": "2026-10-27",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nUHJyOHA3aTl2LTBmTTllQmhvZXlBVHFOajdzUjl6ZmlOcF80eUVVQUVpRWlRT0lxaHAtZGJEWEY0VmVIdm5STUw0dlBneVV0VlFzRUNTZW5ydw?oc=5"
         },
         {
           "title": "GS엔텍, 亞 최초 모노파일 전용 설비 구축…“해상풍력도 쿠팡처럼 전용 부두 필요”",
-          "source": "한국경제",
-          "date": "2026-10-27"
+          "source": "헤럴드경제",
+          "date": "2026-10-27",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2SXBMLS1fX0ttM3d1QWZQQlU0bzRwOF9HcFN0WEtSQlZvbXpuQTFvZk02OVRpSnVzc29seUJLU3hfTWZ4Z1lTVTlsSU1xZmRVQjBkSGdB?oc=5"
         }
       ]
     },
@@ -138,7 +152,8 @@
         {
           "title": "태성, 에프엔에스테크 -5.53%, 켐트로닉스 등 하락",
           "source": "연합인포맥스",
-          "date": "2026-10-23"
+          "date": "2026-10-23",
+          "urlChecked": true
         }
       ]
     },
@@ -150,18 +165,21 @@
       "headlines": [
         {
           "title": "정은경 “‘납 배출’ 킬레이션 주사제 비급여 파악…과다 공급기관 행정조사”",
-          "source": "뉴시스/연합",
-          "date": "2026-10-27"
+          "source": "헤럴드경제",
+          "date": "2026-10-27",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nXzhvWnNFb3FkRlJ3alVtZU9QMDFhelhsRjdFbEJRc3RzQnJsay1aQk54N3R2dlNuRzI4TVVndzNybGthYVJESjBQYWNmMzZBdGxESENn?oc=5"
         },
         {
           "title": "[장중수급포착] DN오토모티브, 외국인 9일 연속 순매수행진... 주가 +1.90%",
           "source": "이데일리",
-          "date": "2026-10-27"
+          "date": "2026-10-27",
+          "urlChecked": true
         },
         {
           "title": "'납 배출 주사'로 급락한 DN오토 주식…與박상혁 \"ESG공시 법정화 필요\"",
-          "source": "매일경제",
-          "date": "2026-10-20"
+          "source": "머니투데이",
+          "date": "2026-10-20",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAyZEgtazJFOXN0RnJKMkN5QWt4b0o3d1NLVVpuR2R2LXluZEdBLVZiYmFnWTk3dmx4U2J2ZzdvMm51M2E2dURBMGIwdmRrQmVaLTFjM0Y2MmJSWllMdUlBVHFKZzdJeTNMZ0t4Zjh2QzA5VVhSMjJ3ZU5n0gF_QVVfeXFMTVl3VjJLTVhWbGs4bkhjLUp2dVFvN21sbFRvc3JlNmxGeW16THBGaXBmVWRYUkdQQmdBZmlxZnMwNHdlZVRZOXk2eDZicnZRd2VsSmkwRExNcU5VOFZpT3JGRmF0T0MtQzFIMHNCaHlFcnQwcGRyTkVTaXhKY3NNWQ?oc=5"
         }
       ]
     },
@@ -173,18 +191,21 @@
       "headlines": [
         {
           "title": "SK하이닉스, 3분기 영업익 77조 전망…HBM4·메모리 가격 상승에 역대 최대 실적",
-          "source": "디지털타임스",
-          "date": "2026-10-28"
+          "source": "이투데이",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Bdms2Y0FacjBBNDRmZXFZcHdacFJZaEVMdVVWUlRDc0MzSDhRbTQ5RGphVnpIZ0Jsd2RmX0l1SldrYU14SHdIYXRYZ20xSUdRd2FVRQ?oc=5"
         },
         {
           "title": "“SK하이닉스 자회사 솔리다임, 美에 60조원 낸드공장 추진”",
-          "source": "디지털타임스",
-          "date": "2026-10-28"
+          "source": "아이뉴스24",
+          "date": "2026-10-28",
+          "url": "https://n.news.naver.com/mnews/article/031/0001069858"
         },
         {
           "title": "PER 3배까지 추락한 삼전·하닉…코스피 반등 위한 신호될까[증시 반등의 조건①]",
-          "source": "디지털타임스",
-          "date": "2026-10-28"
+          "source": "이투데이",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KVHJHUjJwR09XR0FHUmsxdkpBUUZUYXl0MWhCbWtjYXdYak1SM3pyNjJnQnZiR2Y0QnBDejU0NHBHcGRoS2J5T3lRSVZxVERYT3FJMQ?oc=5"
         }
       ]
     },
@@ -197,7 +218,8 @@
         {
           "title": "(주)서한 공매도 과열종목 연장(공매도 거래 금지 연장)",
           "source": "DART 공시",
-          "date": "2026-10-26"
+          "date": "2026-10-26",
+          "urlChecked": true
         }
       ]
     },
@@ -209,18 +231,21 @@
       "headlines": [
         {
           "title": "휴메딕스, ‘리투오’ 매출 5배 성장…필러 부진 메운다 [Why 바이오]",
-          "source": "이투데이",
-          "date": "2026-10-26"
+          "source": "서울경제",
+          "date": "2026-10-26",
+          "url": "https://n.news.naver.com/mnews/article/011/0004675065"
         },
         {
           "title": "[리포트 브리핑]휴메딕스, '매출 성장은 지속될 전망' 목표가 36,000원 - 상상인증권",
-          "source": "이데일리",
-          "date": "2026-10-26"
+          "source": "뉴스핌",
+          "date": "2026-10-26",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50UTRsOWZjd3A1and6dGE2NGJoNVJVSU05QUd6eEl3cVZCN2hlOWt2aFFNRkpCbE5tRVpoMkl6QjRnT2tWSlJvdk9WOUFGZzV1ZHFmc2FuOXhrdWFD?oc=5"
         },
         {
           "title": "휴메딕스, 中 북경경지社와 필러 ‘엘라비에’ 유통 계약 연장",
-          "source": "디지털타임스",
-          "date": "2026-10-25"
+          "source": "중앙일보",
+          "date": "2026-10-25",
+          "url": "https://n.news.naver.com/mnews/article/025/0003560069"
         }
       ]
     },
@@ -232,13 +257,15 @@
       "headlines": [
         {
           "title": "\"커지는 ESS 시장…K-배터리 증산 본격화 기대\"",
-          "source": "뉴스1",
-          "date": "2026-10-26"
+          "source": "아시아경제",
+          "date": "2026-10-26",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SU1dncER0cDVRazRpd25TanFxbzNibFJDckNFYWRrYnJfM1BBSGlEN2FneFJCUHA2UGljbmsyRVhaRzl6dWx1VFotaFVrLXdpMXJRdE5CV2gyTy03enUxaA?oc=5"
         },
         {
           "title": "\"미국 사업 사실상 포기\" 백기 든 중국 ESS 기업들...2차전지주 '불기둥'",
-          "source": "한국경제",
-          "date": "2026-10-19"
+          "source": "머니투데이",
+          "date": "2026-10-19",
+          "url": "https://n.news.naver.com/mnews/article/008/0005428229"
         }
       ]
     },
@@ -251,7 +278,8 @@
         {
           "title": "한솔아이원스(114810) 소폭 상승세 +5.49%, 4거래일만에 반등",
           "source": "연합인포맥스",
-          "date": "2026-10-27"
+          "date": "2026-10-27",
+          "urlChecked": true
         }
       ]
     },
@@ -264,17 +292,20 @@
         {
           "title": "디엘이앤씨 주식회사 (정정)단일판매ㆍ공급계약체결",
           "source": "DART 공시",
-          "date": "2026-10-27"
+          "date": "2026-10-27",
+          "urlChecked": true
         },
         {
           "title": "DL이앤씨, 광명 하안주공9단지 재건축 단독 입찰…공사비 9309억",
-          "source": "서울경제",
-          "date": "2026-10-23"
+          "source": "컨슈머타임스",
+          "date": "2026-10-23",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PeXpkSkp3MkZtUDdEVDhLMDQtb2dpS3Eya3FoamZ3SG5vdzFsMnU3Q0p4b0JHUEViWnlCa0tWeHBKTVlsUHNhclhrSFBGalJ5c2NlN1hIWnhHMW4yUkl0OFJrU180OGZTQ3c?oc=5"
         },
         {
           "title": "[리포트 브리핑]DL이앤씨, '실적개선세 잠시 주춤' 목표가 96,000원 - BNK투자증권",
-          "source": "이데일리",
-          "date": "2026-10-26"
+          "source": "뉴스핌",
+          "date": "2026-10-26",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03UTJ6aEhWMGhOZ2NDSG00M3QxcjdVQ1JvdnVsN01qYVYwanZUSDNsMTN0ZlR5dUVZQkxtbDE2MEUwckZ1UE1OUFV4NXBlbmdDWWRZazVpVDhEU0JE?oc=5"
         }
       ]
     },
@@ -287,12 +318,14 @@
         {
           "title": "\"코스피 7500 간다는데\"…외국인이 '삼전닉스' 던지는 이유 [분석+]",
           "source": "한국경제",
-          "date": "2026-10-28"
+          "date": "2026-10-28",
+          "urlChecked": true
         },
         {
           "title": "‘삼성전자ㆍSK하이닉스’ 주주환원 승부수?코스피 반등 계기 될까[증시 반등의 조건③]",
-          "source": "디지털타임스",
-          "date": "2026-10-28"
+          "source": "이투데이",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wYlpCbFMxbjJGRTVLaTZDYzlCYm13MC05SXFFYlhQQXVId1EyWGNGVTlZOERtN2NnZ2ZlTWFTaDB0WnJITW52aTJfMTg5aUhyR1NyaA?oc=5"
         }
       ]
     },
@@ -305,12 +338,14 @@
         {
           "title": "[리포트 브리핑]휴젤, '직판하러 가는 길' 목표가 250,000원 - 키움증권",
           "source": "이데일리",
-          "date": "2026-10-21"
+          "date": "2026-10-21",
+          "urlChecked": true
         },
         {
           "title": "[리포트 브리핑]휴젤, '미국 직판 전환의 과도기' 목표가 300,000원 - 신한투자증권",
           "source": "이데일리",
-          "date": "2026-10-19"
+          "date": "2026-10-19",
+          "urlChecked": true
         }
       ]
     },
@@ -322,13 +357,15 @@
       "headlines": [
         {
           "title": "[장중수급포착] 뉴파워프라즈마, 기관 8일 연속 순매수행진... 주가 +10.67%",
-          "source": "이데일리",
-          "date": "2026-10-27"
+          "source": "뉴스핌",
+          "date": "2026-10-27",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPRkNPR2lscWFaRnlIQ0p6NlJ5d0dkVkUwaTlNaG0xd2Z1YTNOTlFpTWdBeFBWQ3JtTUV1dlRRRzlxVnJIdGx4c0hTVjFOcnE2ZE9zVllzQ0o4UjRO?oc=5"
         },
         {
           "title": "반도체 코스닥 중소형주, 美 훈풍에 두 자릿수 강세",
-          "source": "한국경제",
-          "date": "2026-10-27"
+          "source": "머니투데이",
+          "date": "2026-10-27",
+          "url": "https://n.news.naver.com/mnews/article/008/0005432038"
         }
       ]
     },
@@ -340,13 +377,15 @@
       "headlines": [
         {
           "title": "위드텍, SK하이닉스와 39억 규모 장비 공급계약",
-          "source": "더벨",
-          "date": "2026-10-16"
+          "source": "이데일리",
+          "date": "2026-10-16",
+          "url": "https://n.news.naver.com/mnews/article/018/0006389343"
         },
         {
           "title": "(주)위드텍 단일판매ㆍ공급계약체결(자율공시)",
           "source": "DART 공시",
-          "date": "2026-10-16"
+          "date": "2026-10-16",
+          "urlChecked": true
         }
       ]
     }

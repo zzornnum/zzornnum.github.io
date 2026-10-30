@@ -1,0 +1,665 @@
+{
+  "date": "2026-10-31",
+  "generatedAt": "2026-10-31T07:54+09:00",
+  "items": [
+    {
+      "id": "w103",
+      "region": "미국",
+      "title": "캘리포니아 고속철도청장 사임…경비 부정 사용 논란",
+      "summary": "캘리포니아 고속철도청의 이언 쇼드리 최고경영자가 주 감사관의 보고서에서 공금 오용이 확인된 뒤 갑작스럽게 사임했다. 9월 보고서는 컨설턴트들의 허용되지 않은 출장비 정산 54만 3000달러를 지적했다. 최고경영자의 공적·사적 출장이 섞여 있었는지도 문제로 제기됐다.",
+      "original": "California high-speed rail chief quits amid billowing expenses scandal",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/oct/29/california-high-speed-rail-ian-choudri-resigns",
+      "published": "2026-10-30T10:37+09:00"
+    },
+    {
+      "id": "w78",
+      "region": "미국",
+      "title": "트럼프 물가 공약 무색…관세·이란 전쟁이 인플레 자극",
+      "summary": "칼럼니스트 스티븐 그린하우스는 트럼프가 취임 첫날 물가를 낮추겠다고 약속했지만 실제로는 물가 안정에 거의 나서지 않았다고 지적한다. 이란 전쟁과 관세 정책이 오히려 인플레이션을 키웠다는 것이다. 경제학자들은 관세가 물가를 올릴 것이라고 경고했지만 트럼프는 두 번째 임기 중 관세를 적극 도입했다. 트럼프에게 투표한 미국인 5명 중 1명 이상이 이제는 그의 직무 수행에 반대한다고 전했다.",
+      "original": "Trump vowed to reduce prices, but his policies have fueled US inflation | Steven Greenhouse",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/30/trump-tariffs-inflation-election-promise",
+      "published": "2026-10-30T19:00+09:00"
+    },
+    {
+      "id": "w31",
+      "region": "미국",
+      "title": "앤스로픽 IPO 설명서 공개…남은 의문들",
+      "summary": "앤스로픽이 공개한 300쪽 넘는 S-1 증권신고서는 순수 AI 연구소가 어떻게 돈을 버는지 가장 포괄적으로 보여준다. 매출, 위험요인, 경쟁사, 컴퓨팅 비용 등이 담겼다. 최고경영자 다리오 아모데이와 공동창업자 6명은 각각 2억 주 넘는 주식을 보유하고 있으며, 기업 가치가 크게 오르면 수십억 달러 규모가 될 수 있다. 상장 과정에서 풀리지 않은 의문도 여전히 남아 있다는 분석이다.",
+      "original": "The big questions remaining after Anthropic’s blockbuster IPO prospectus",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/30/anthropic-ipo-s1-revenue-compute.html",
+      "published": "2026-10-30T21:27+09:00",
+      "also": [
+        {
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f?syn-25a6b1a6=1",
+          "original": "Anthropic may not secure investment-grade rating after IPO, Blackstone says"
+        }
+      ]
+    },
+    {
+      "id": "w7",
+      "region": "미국",
+      "title": "미 FCC, 중국 통신사의 미국 전화번호 발급 금지 추진",
+      "summary": "미국 연방통신위원회(FCC)가 중국 통신사들이 인터넷 기반 음성 서비스를 통해 미국 전화번호를 얻지 못하도록 하는 규정을 제안했다. 국가 안보 우려와 국내 통신망 보호가 명분이다. 차이나모바일, 차이나텔레콤, 차이나유니콤 등이 영향을 받을 수 있다. FCC는 11월 19일 회의에서 이 제안을 표결할 예정이다. 당국은 불법 로보콜 등 악성 활동을 막기 위한 조치라고 설명했다.",
+      "original": "Chinese telecoms giants in Washington’s crosshairs as FCC weighs fresh curbs",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/global-economy/article/3372709/chinese-telecoms-giants-washingtons-crosshairs-fcc-weighs-fresh-curbs",
+      "published": "2026-10-30T22:00+09:00"
+    },
+    {
+      "id": "w83",
+      "region": "미국",
+      "title": "이란 전쟁이 미국 에너지 위기 심화…겨울 난방비 우려",
+      "summary": "난방유로 집을 데우는 미국 가정은 올겨울 요금이 50% 가까이 오를 수 있다는 전망이다. 이는 난방비가 약 900달러 가까이 더 드는 셈이다. 칼럼니스트 마크 울프는 이란 전쟁이 이미 어려운 미국의 에너지 부담을 더 키우고 있다고 지적했다. 그는 의회가 겨울이 오기 전에 가정의 난방을 보장하는 조치를 취해야 한다고 주장했다. 이 칼럼은 최근 2년간 10개 주의 전기 공급 중단이 28% 늘었다는 조사도 인용했다.",
+      "original": "The Iran war is deepening the US energy crisis. A bad winter is ahead | Mark Wolfe",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/30/iran-war-energy-crisis-winter",
+      "published": "2026-10-30T23:00+09:00"
+    },
+    {
+      "id": "w108",
+      "region": "미국",
+      "title": "캘리포니아 억만장자세 주민투표…중간선거 최대 쟁점",
+      "summary": "캘리포니아는 억만장자에게 1회성 5% 세금을 부과하는 법안을 주민투표에 부친다. 이 구상은 1년 전만 해도 초기 단계였지만 노조 지도자의 제안에서 출발했다. 민주당 안에서도 찬반이 갈리는 격렬한 싸움이 됐고, 실리콘밸리 자금이 수억 달러 규모로 반대 운동에 쏟아지고 있다. 이 세금은 트럼프 행정부의 의료 예산 삭감에 대한 대응이라는 성격도 띤다.",
+      "original": "Billionaire tax: how a union leader’s ‘crazy’ idea became the defining issue of California’s midterms",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/30/california-billionaire-tax",
+      "published": "2026-10-31T00:00+09:00"
+    },
+    {
+      "id": "w91",
+      "region": "미국",
+      "title": "셰브런·엑슨모빌, 정유 호황에 사상 최고가 경신",
+      "summary": "셰브런과 엑슨모빌이 3분기 실적이 급증했다고 발표했다. 미국 정유 공장이 디젤 가격 상승을 활용해 최대 가동에 들어간 덕분이다. 두 회사 주가는 모두 사상 최고치를 찍었다. 우크라이나·이란·후티 반군의 정유 시설 공격으로 세계 디젤 공급이 줄면서 미국 걸프 연안 정유소에 수입 수요가 몰렸다. 엑슨모빌의 이익은 154억 달러로 두 배 늘었다.",
+      "original": "Chevron and Exxon hit all-time highs as refining profits soar in reaction to Iran and Ukraine wars",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html",
+      "published": "2026-10-31T01:44+09:00"
+    },
+    {
+      "id": "w64",
+      "region": "미국",
+      "title": "CD&R, 400억 달러 규모 글로벌 페이먼츠 인수 추진",
+      "summary": "사모펀드 CD&R이 카드 결제 기업 글로벌 페이먼츠 인수를 추진 중이다. 인수가 성사되면 역사상 가장 큰 바이아웃 중 하나에 들어가게 된다.",
+      "original": "CD&R pursues buyout of $40bn card processor Global Payments",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/da16af06-4431-4ced-9c3e-a0753d8c45c9?syn-25a6b1a6=1",
+      "published": "2026-10-31T02:10+09:00"
+    },
+    {
+      "id": "w44",
+      "region": "미국",
+      "title": "레딧 주가 29% 폭락…4분기 부진한 전망 탓",
+      "summary": "레딧 주가는 금요일 29.22% 급락해 2024년 상장 이후 최대 낙폭을 기록했다. 회사가 4분기 매출을 10억~10억 3000만 달러로 전망하면서 애널리스트 예상치 10억 5000만 달러를 밑돌았기 때문이다. 3분기 매출은 전년 대비 53% 늘었지만, 구글 AI 오버뷰 확산으로 검색 유입 트래픽이 줄어든 점이 부담이 됐다. 레딧은 콘텐츠를 보려면 로그인을 요구하는 방식을 시험할 계획이라고 밝혔다.",
+      "original": "Reddit stock plunges 29% after weak outlook, wrapping its worst day ever",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/30/reddit-stock-q3-earnings.html",
+      "published": "2026-10-31T05:11+09:00",
+      "also": [
+        {
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/reddit-shares-on-track-for-largest-ever-one-day-drop-and-analysts-say-the-bad-news-hasnt-ended-25d46284?mod=mw_rss_topstories",
+          "original": "Reddit’s stock logs its biggest one-day drop ever. It’s not the last of the bad news, analysts say."
+        }
+      ]
+    },
+    {
+      "id": "w18",
+      "region": "미국",
+      "title": "미국 생활비 지표가 중간선거 판도 가를 수도",
+      "summary": "FT가 미국 유권자에게 영향을 줄 생활비 변화를 추적하는 물가 부담 지표를 내놨다. 2026년 중간선거의 결과를 가를 수 있는 데이터로 꼽힌다.",
+      "original": "US affordability tracker: the data that could decide the 2026 midterm elections",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/71dccbca-4a1f-485a-9790-28cc527cdb82?syn-25a6b1a6=1",
+      "published": "2026-10-31T05:16+09:00"
+    },
+    {
+      "id": "w12",
+      "region": "미국",
+      "title": "미국 기술주 급락…AI 지출 1조 달러 육박 우려",
+      "summary": "미국 기술주가 이틀 연속 하락했다. 기업들이 AI에 수천억 달러를 쏟아붓는 데 대한 우려가 커진 탓이다. 인텔 주가는 금요일 28% 급락했고, 알파벳은 전날 12% 폭락한 데 이어 1.4% 더 떨어졌다. 레딧과 아마존 등 다른 기술주도 밀렸다. 나스닥 종합지수는 10월에 2025년 3월 이후 최악의 월간 하락률로 마감했다. 기술 기업들의 실적이 애널리스트 기대에 늘 부합하는 것은 아니어서 AI 거품 우려가 번지고 있다.",
+      "original": "US tech stocks see sharp falls as AI spending nears $1tn",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T05:34+09:00",
+      "also": [
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates",
+          "original": "Wall Street closes sharply lower as AI cash burn fears spark tech selloff – as it happened"
+        },
+        {
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/the-selloff-in-tech-stocks-is-shifting-into-overdrive-afb50975?mod=mw_rss_topstories",
+          "original": "The selloff in tech stocks is shifting into overdrive"
+        },
+        {
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3?syn-25a6b1a6=1",
+          "original": "US tech stocks tumble as concerns over AI spending intensify"
+        },
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/30/ai-stocks-selloff-ai-spending-returns.html",
+          "original": "The AI investing story had a rough week. It may be time to take profits while you still can"
+        },
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/30/tech-trade-nasdaq-futures-crypto-hack.html",
+          "original": "Tech scare trade hits Nasdaq futures while crypto reels from its biggest-ever hack"
+        },
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/30/google-lost-about-half-a-trillion-this-week-how-mike-khouw-trades-it-.html",
+          "original": "Google lost nearly half a trillion this week. Here's how Mike Khouw is trading it"
+        }
+      ]
+    },
+    {
+      "id": "w34",
+      "region": "미국",
+      "title": "인텔, 수십 년 만의 최악의 하루…1400억 달러 증발",
+      "summary": "인텔 주가는 수십 년 만에 가장 큰 하루 낙폭을 기록하며 시가총액 1400억 달러가 증발했다. 메모리 반도체 가격 상승으로 PC 수요가 눌린 데다, 기업 IT 부서의 노트북 예산도 줄어든 것이 배경이다. 애널리스트들은 주가가 싸졌다고 해서 저가 매수 기회라고 보기는 어렵다고 경고했다.",
+      "original": "Why Intel’s stock saw its worst day in decades — and a $140 billion wipeout",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
+      "published": "2026-10-31T05:48+09:00",
+      "also": [
+        {
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/after-intels-historic-stock-drop-analysts-say-theres-no-reason-to-buy-the-dip-068446af?mod=mw_rss_topstories",
+          "original": "After Intel’s historic stock drop, analysts say there’s no reason to buy the dip"
+        },
+        {
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories",
+          "original": "AMD’s stock slides after Intel earnings reveal two big issues"
+        }
+      ]
+    },
+    {
+      "id": "w27",
+      "region": "미국",
+      "title": "10월 증시, 빅테크 급락 속 S&P 500 내실은 탄탄",
+      "summary": "10월 미국 증시는 빅테크 종목이 크게 타격을 받았지만, S&P 500은 내부적으로 강한 면모를 보였다. 한 달 동안 대다수 종목이 상승을 기록했다.",
+      "original": "In a wild October for markets, these stocks were the biggest winners and losers",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/in-a-wild-october-for-markets-these-stocks-were-the-biggest-winners-and-losers-3736f043?mod=mw_rss_topstories",
+      "published": "2026-10-31T05:52+09:00"
+    },
+    {
+      "id": "w19",
+      "region": "미국",
+      "title": "워시 연준 '말 줄이자'…두 위원은 투명성 요구",
+      "summary": "워시 연준 의장은 연준이 대외 발언을 줄였으면 한다는 입장이다. 반면 연준 위원 두 명은 오히려 더 많은 투명성을 요구하고 있다. 이들은 인플레이션을 잡기 위해 금리 인상이 더 필요하다는 입장도 함께 밝혔다.",
+      "original": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-fed-held-interest-rates-steady-but-these-officials-see-more-hikes-coming-soon-2098bbd8?mod=mw_rss_topstories",
+      "published": "2026-10-31T06:23+09:00"
+    },
+    {
+      "id": "w11",
+      "region": "미국",
+      "title": "금값 1년 만에 최저…이란 우려에도 하락",
+      "summary": "안전자산인 금 가격이 1년 만에 최저 수준으로 떨어졌다. 미국 중간선거 이후 중동에서 새로운 공격 가능성에 대한 우려가 다시 커졌지만, 금값은 오히려 내렸다.",
+      "original": "Why gold plunged to its lowest price in a year despite renewed Iran jitters",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-gold-plunged-to-its-lowest-price-in-a-year-despite-renewed-iran-jitters-365be0e2?mod=mw_rss_topstories",
+      "published": "2026-10-31T06:30+09:00"
+    },
+    {
+      "id": "w82",
+      "region": "미국",
+      "title": "할로윈 사탕값 급등…미국 소비자 부담 커져",
+      "summary": "미국 할로윈 장보기에서 사탕 등 시즌 상품 가격이 크게 올라 쇼핑객들이 부담을 느끼고 있다. 초콜릿 가격 상승이 특히 두드러진다. 한 소비자는 평소 15~20달러를 쓰던 것을 올해는 최소 20~30달러로 늘려야 할 것 같다고 말했다. 생활비 압박이 이어지면서 할인과 절약 방법을 찾는 소비자가 늘고 있다.",
+      "original": "Soaring cost of Halloween treats spooks shoppers",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cr0qk25p1yeno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T06:34+09:00"
+    },
+    {
+      "id": "w2",
+      "region": "미국",
+      "title": "옥타, 수요일 S&P 500 편입…켄뷰 대체",
+      "summary": "사이버 보안주 옥타(Okta)가 수요일부터 S&P 500 지수에 편입된다. 소비재 기업 켄뷰(Kenvue)를 대신하는 교체다.",
+      "original": "This cybersecurity stock will be the next to join the S&P 500",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/this-cybersecurity-stock-will-be-the-next-to-join-the-s-p-500-dc976803?mod=mw_rss_topstories",
+      "published": "2026-10-31T07:20+09:00"
+    },
+    {
+      "id": "w100",
+      "region": "유럽",
+      "title": "노바티스, 다발성경화증 신약 기대…특허 절벽은 여전히",
+      "summary": "노바티스 CEO 바스 나라심한은 실험 중인 다발성경화증 약 remibrutinib가 연간 40억 달러 이상의 최고 매출을 낼 수 있다고 밝혔다. 다만 바클레이스는 최근 임상 결과가 기대보다 재발 감소 효과가 작았다며 이 약의 최고 매출 전망치를 낮췄다. 회사는 11월 중순 장기 성장 전략을 발표할 예정이다.",
+      "original": "A pharma giant is moving past one patent cliff — but another is already looming",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/30/novartis-remibrutinib-multiple-sclerosis.html",
+      "published": "2026-10-30T15:00+09:00"
+    },
+    {
+      "id": "w30",
+      "region": "유럽",
+      "title": "프랑스 망 장애에 노키아 시험대…EU 화웨이·ZTE 퇴출 압박",
+      "summary": "프랑스 최대 통신사 오렌지의 모바일망이 월요일 오전부터 저녁까지 장애를 겪었고, 일부 고객은 최대 9시간 동안 불편을 겪었다. 오렌지 CEO는 원인이 노키아 코드의 소프트웨어 버그라고 설명했다. EU가 화웨이와 ZTE 장비를 단계적으로 퇴출하려는 가운데 노키아 제품의 신뢰성 문제가 불거졌다.",
+      "original": "France network outage puts Nokia under scrutiny as EU pushes to phase out Huawei, ZTE gear",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/global-economy/article/3372699/france-network-outage-puts-nokia-under-scrutiny-eu-pushes-phase-out-huawei-zte-gear",
+      "published": "2026-10-30T16:00+09:00"
+    },
+    {
+      "id": "w61",
+      "region": "유럽",
+      "title": "영국 부업 비과세 한도 3000파운드로 상향",
+      "summary": "영국에서 부업으로 세금 없이 벌 수 있는 금액이 2027년 4월부터 1000파운드에서 3000파운드로 오른다. 예산안 발표에서 확정된 내용이다. 최대 140만 명이 혜택을 볼 것으로 예상되며, 취미나 재판매로 돈을 버는 사람들에게 유리하다.",
+      "original": "UK side-hustle tax-free allowance to rise to £3,000 next year",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/30/uk-side-hustle-tax-free-allowance-rise-3000",
+      "published": "2026-10-30T16:00+09:00"
+    },
+    {
+      "id": "w23",
+      "region": "유럽",
+      "title": "중국 기업, 세르비아 정권 교체에도 큰 변화 없을 듯",
+      "summary": "세르비아 신정부는 고위 관료 사임과 공공 프로젝트 감사를 요구했고, 일부 프로젝트는 중국 계약사가 지었다. 그러나 분석가들은 새 연립정부가 양국 사업 관계를 크게 바꾸지는 않을 것으로 봤다. 인근 헝가리에서 정권 교체 뒤 나온 메시지와 비슷한 흐름이라는 평가다.",
+      "original": "Chinese firms in Serbia not expecting big changes after change in government",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/china-economy/article/3372715/chinese-firms-serbia-not-expecting-big-changes-change-government",
+      "published": "2026-10-30T17:08+09:00"
+    },
+    {
+      "id": "w43",
+      "region": "유럽",
+      "title": "버넘 총리 '첫 예산, 더 급진적이었어야'…전쟁 탓 제약",
+      "summary": "앤디 버넘 총리는 첫 예산이 원래 바랐던 것보다 덜 급진적이었다고 인정했다. 이란 전쟁으로 차입 비용이 오르면서 재정 여력이 제한됐다는 설명이다. 그는 더 높은 에너지 지원금을 포함해 더 나아가고 싶었다고 말했다. 이번 예산에는 대부분 가구에 주는 100파운드 에너지 지원금 등 비교적 저비용 조치가 담겼다.",
+      "original": "Andy Burnham admits he would have liked more radical first budget",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/30/andy-burnham-first-budget-labour-welfare",
+      "published": "2026-10-30T17:53+09:00"
+    },
+    {
+      "id": "w22",
+      "region": "유럽",
+      "title": "유로존 인플레이션 전망 상향…2026년 3.0%",
+      "summary": "유럽중앙은행(ECB)의 4분기 전문가 예측 조사에서 2026년 HICP 기준 헤드라인 물가 상승률 기대치는 3.0%로 나타났다. 2027년은 2.6%, 2028년은 2.0%로 제시됐다. 직전 조사와 비교하면 2026년은 0.3%p, 2027년은 0.4%p 올라간 수치다. 장기(2031년) 기대치는 헤드라인과 근원 물가 모두 2.0%로 유지됐다. 중동 전쟁의 영향을 묻는 특별 질문에서는 에너지 가격 충격의 추가 효과가 주로 2027년에 나타날 것으로 예상됐다.",
+      "original": "Results of the ECB Survey of Professional Forecasters for the fourth quarter of 2026",
+      "source": "ECB",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261030~e92c3c838c.en.html",
+      "published": "2026-10-30T18:00+09:00"
+    },
+    {
+      "id": "w49",
+      "region": "유럽",
+      "title": "영국 집값 상승률 2년 만에 최저…주담대 금리 부담",
+      "summary": "네이션와이드 집계에 따르면 10월 영국 주택 가격은 전년 대비 0.5% 올라 2년 넘게 가장 느린 상승세를 보였다. 평균 주택 가격은 27만 3566파운드로 전월과 같았다. 9월 0.8% 상승에서 둔화된 것이다. 주택담보대출 금리가 높아지면서 잠재 구매자들이 주춤한 것이 원인으로 꼽힌다. 5년 고정금리 주담대 평균은 5.99%로, 이달 6% 선에 근접했다. 3년 만에 처음 보는 수준이다.",
+      "original": "UK house prices grow at slowest pace in two years as mortgage rates rise",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/30/uk-house-prices-grow-at-slowest-pace-in-two-years-as-mortgage-rates-rise",
+      "published": "2026-10-30T18:05+09:00"
+    },
+    {
+      "id": "w13",
+      "region": "유럽",
+      "title": "레이너 주택장관 '번화가 쇠퇴, 차기 총선 전 개선될 것'",
+      "summary": "앤절라 레이너 주택장관은 노동당 정부가 쇠퇴한 번화가 살리기를 최우선 과제로 삼았다고 말했다. 유권자들이 차기 총선 전에 변화를 체감하게 될 것이라는 전망이다. 힐리 재무장관은 이번 예산에서 10억 파운드 이상을 배정했다.",
+      "original": "Britain’s blighted high streets will improve by next election, says Rayner",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/30/britain-blighted-high-streets-angela-rayner-labour",
+      "published": "2026-10-30T19:00+09:00"
+    },
+    {
+      "id": "w1",
+      "region": "유럽",
+      "title": "유로존 3분기 성장률 0.4%…프랑스는 역성장",
+      "summary": "유로존 경제가 3분기에 0.4% 성장했다고 통계기관 유로스타트가 발표했다. 2분기 0.6% 성장보다는 둔화됐지만, 로이터 설문 경제학자들의 예상치 0.2%보다는 높았다. 반면 프랑스는 3분기에 0.1% 역성장해 유로존 성장의 부담이 됐다. 프랑스는 높은 재정적자와 늘어난 국가 부채를 두고 정치권 갈등이 이어지며 차입 비용이 치솟고 있다. 애널리스트들은 생산성 약세, 산업 경쟁력 문제, 인구 구조 압박이 여전히 남아 있다고 지적했다.",
+      "original": "Euro zone economy slows to 0.4% growth in Q3 as crisis-hit France contracts",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/30/euro-zone-gdp-france.html",
+      "published": "2026-10-30T20:16+09:00"
+    },
+    {
+      "id": "w60",
+      "region": "유럽",
+      "title": "스트리팅 국방장관 '국방비 미룬다는 비판 부인'",
+      "summary": "웨스 스트리팅 국방장관은 국방비 지출을 미룬다는 비판을 부인했다. 예산안에서 2030년까지 GDP 3%를 국방비로 쓰는 목표 달성 경로가 제시되지 않았다는 지적이 있었다. 이와 함께 힐리 재무장관과 스트리팅 장관은 5000만 파운드 이상 국방 계약을 따낸 외국 기업이 같은 금액을 영국 공장·일자리·훈련에 투자하도록 하는 '오프셋 전략'을 발표했다.",
+      "original": "Streeting denies 'kicking can down the road' in defence spending row",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T20:23+09:00"
+    },
+    {
+      "id": "w98",
+      "region": "유럽",
+      "title": "유엔, EU의 '유럽산 우선' 인도적 지원에 경고",
+      "summary": "유엔 사무총장은 EU가 인도적 지원 자금을 자체 기구 쪽으로 옮기면 영향력이 약해질 것이라고 경고했다. 'Buy European' 방침을 겨냥한 발언이다.",
+      "original": "UN warns EU over ‘Buy European’ humanitarian aid",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/4a1e0399-99a0-4f04-862b-529f148dfa5d?syn-25a6b1a6=1",
+      "published": "2026-10-30T22:02+09:00"
+    },
+    {
+      "id": "w70",
+      "region": "유럽",
+      "title": "스위스중앙은행 3분기 191억 프랑 흑자…금·외환 덕",
+      "summary": "스위스국립은행(SNB)은 3분기 투자 수익으로 191억 스위스프랑(약 233억 달러)의 이익을 냈다고 발표했다. 금과 외화 보유액이 주요 원인이었다. 연초 이후 누적 이익은 442억 프랑(약 538억 달러)에 이르러, 연말 정부에 이익을 분배할 가능성이 거론된다. 다만 3분기 이익은 전년 같은 기간보다 약 32% 줄었다.",
+      "original": "Swiss central bank posts bumper $23 billion profit thanks to gold, foreign assets",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/30/swiss-national-bank-q3-profit-gold-foreign-asset.html",
+      "published": "2026-10-31T00:07+09:00"
+    },
+    {
+      "id": "w54",
+      "region": "유럽",
+      "title": "요크셔 워터 CEO 사임…최저 환경 등급 받은 지 하루 만",
+      "summary": "요크셔 워터의 니콜라 쇼 최고경영자가 환경청(EA)으로부터 최저 환경 등급을 받은 지 하루 만에 사임을 발표했다. 쇼는 2022년부터 회사를 이끌었으며 1월 1일 물러난다. 후임은 니콜라 메달로바가 맡는다. 쇼는 2023~2026년 사이 미공개 지급금 190만 파운드를 받은 것으로도 비판을 받아 왔다.",
+      "original": "Yorkshire Water boss resigns after firm downgraded",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T01:04+09:00"
+    },
+    {
+      "id": "w6",
+      "region": "유럽",
+      "title": "레인 ECB 이사 'AI 도입이 유럽 생산성 좌우'",
+      "summary": "필립 레인 유럽중앙은행 이사는 AI가 유로존 경제를 어떻게 바꾸고 있는지 설명하는 연설을 했다. 프런티어 AI 모델 개발은 주로 미국과 중국에서 이뤄지지만, 유럽의 향후 생산성 성장은 AI 도입 속도에 크게 좌우될 것이라고 말했다. AI 도입을 위한 지출 자체도 현재 유로존 경제에 상당한 자극 요인이라고 짚었다. 또 유럽 기업은 글로벌 AI 공급망의 일부이고, 유럽 투자자들은 주식·채권 시장과 은행 시스템을 통해 AI 인프라 투자 자금을 대고 있다고 밝혔다.",
+      "original": "Philip R. Lane: AI adoption in Europe",
+      "source": "ECB",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261030~08d9d540f0.en.html",
+      "published": "2026-10-31T01:10+09:00"
+    },
+    {
+      "id": "w39",
+      "region": "중국",
+      "title": "유니클로, 중국 전략 전환…매장별 수익성 중시",
+      "summary": "유니클로가 중국 사업의 초점을 매장 확장에서 매장별 수익성 개선으로 바꿨다. 상하이에 이전한 글로벌 플래그십 스토어부터 이 전략을 적용한다.",
+      "original": "Uniqlo shakes up China strategy with focus on store profitability",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/retail/uniqlo-shakes-up-china-strategy-with-focus-on-store-profitability",
+      "published": null
+    },
+    {
+      "id": "w88",
+      "region": "중국",
+      "title": "중국 해운·석탄주, AI 대비 선방…실적 전망 엇갈려",
+      "summary": "이번 주 AI 공급업체 주가가 크게 밀린 가운데 중국 해운주와 석탄주는 상대적으로 강세를 보였다. 장기화된 연료 부족과 공급망 차질이 이들 기업의 실적을 떠받쳤다는 분석이다.",
+      "original": "Chinese shipping, coal stocks outperform AI as earnings outlooks diverge",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/companies/chinese-shipping-coal-stocks-outperform-ai-as-earnings-outlooks-diverge",
+      "published": null
+    },
+    {
+      "id": "w37",
+      "region": "중국",
+      "title": "핑루 운하 개통 한 달…화물 100만 톤 처리",
+      "summary": "중국의 신규 핑루 운하가 개통 후 첫 한 달간 100만 톤 이상의 화물을 처리했다. 10월 17일 화물선 한 척이 광시좡족자치구 남부의 핵심 갑문을 통과하며 이 기록을 달성했다. 내륙 지역 화물이 해외 시장에 직접 닿게 되면서 특히 동남아 교역 확대가 기대된다는 평가다.",
+      "original": "Pinglu Canal off to ‘encouraging start’ in China’s push to boost trade with Southeast Asia",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/china-economy/article/3372581/pinglu-canal-encouraging-start-chinas-push-boost-trade-southeast-asia",
+      "published": "2026-10-30T10:00+09:00"
+    },
+    {
+      "id": "w15",
+      "region": "중국",
+      "title": "중국 상위 10개 성, 올해 3분기까지 성장 견인",
+      "summary": "중국 GDP 상위 10개 성(省)이 2026년 1~3분기 전국 성장을 떠받쳤다는 분석이다. 이들 중 9곳은 같은 기간 성장률이 전국 평균 4.6%와 같거나 웃돌았다. 애널리스트들은 이 지역들이 올해 말과 2027년에도 선두를 이어갈 것으로 봤다. 다른 지역의 부진을 상쇄하면서 베이징의 경제 자신감을 뒷받침한다는 평가다.",
+      "original": "From strong to stronger: China’s powerhouse provinces propel economy towards GDP target",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/china-economy/article/3372727/strong-stronger-chinas-powerhouse-provinces-propel-economy-towards-gdp-target",
+      "published": "2026-10-30T20:00+09:00"
+    },
+    {
+      "id": "w105",
+      "region": "아시아",
+      "title": "우에다 BOJ 총재 '2% 물가 목표 아직 지속 달성 못 해'",
+      "summary": "우에다 가즈오 일본은행 총재는 기저 인플레이션이 대체로 2%와 부합한다고 말했다. 그러나 물가 안정 목표가 아직 지속적이고 안정적으로 달성되지는 않았다는 판단을 내놨다.",
+      "original": "BOJ chief Ueda says 2% inflation goal not yet sustainably achieved",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/bank-of-japan/boj-chief-ueda-says-2-inflation-goal-not-yet-sustainably-achieved",
+      "published": null
+    },
+    {
+      "id": "w63",
+      "region": "아시아",
+      "title": "메모리 반도체 기업, 이익에서 미국 빅테크 앞질러",
+      "summary": "주요 글로벌 메모리 반도체 공급업체 5곳의 영업이익과 순이익 합계가 지난 분기 미국 빅테크 5곳을 처음으로 웃돌았다. AI 수요가 메모리 칩 수요를 키우고 있지만, 공급이 아직 수요를 따라가지 못하고 있다.",
+      "original": "Memory chip makers outearn Alphabet, other tech giants on AI demand",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/tech/semiconductors/memory-chip-makers-outearn-alphabet-other-tech-giants-on-ai-demand",
+      "published": null
+    },
+    {
+      "id": "w110",
+      "region": "아시아",
+      "title": "폭스콘 회장 'AI 거품 우려 과장'…2027년 두 자릿수 성장 전망",
+      "summary": "폭스콘 회장은 금요일 AI 거품 우려를 일축하며, 엔비디아 서버 공급업체인 폭스콘에 대한 수요가 분명하고 강하다고 말했다. 2027년 매출은 두 자릿수 성장이 예상된다고 밝혔다.",
+      "original": "Foxconn chief downplays AI bubble concerns, sees strong 2027 growth",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/technology/foxconn-chief-downplays-ai-bubble-concerns-sees-strong-2027-growth",
+      "published": null
+    },
+    {
+      "id": "w25",
+      "region": "아시아",
+      "title": "폭스콘, 전기차 3종 공개…위탁 자동차 생산 확대",
+      "summary": "폭스콘이 금요일 전기차 3개 모델을 공개했다. 자동차 위탁 생산 사업을 키우기 위해 제공하는 플랫폼 라인업을 넓히는 행보다.",
+      "original": "Foxconn unveils 3 EVs to grow contract manufacturing business",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/foxconn-unveils-3-evs-to-grow-contract-manufacturing-business",
+      "published": null
+    },
+    {
+      "id": "w84",
+      "region": "아시아",
+      "title": "키옥시아 4분기 순이익 15배 급증 전망",
+      "summary": "키옥시아는 10~12월 분기 연결 순이익이 전년 대비 15배 늘어 1조 3600억 엔(약 87억 달러)에 이를 것으로 예상했다. 데이터센터 수요가 메모리 매출 증가를 이끌고 있다. 칩 가격 상승은 스마트폰 사업에도 힘을 보탰다.",
+      "original": "Kioxia net profit to surge 15-fold to $8.7bn this quarter",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/tech/semiconductors/kioxia-net-profit-to-surge-15-fold-to-8.7bn-this-quarter",
+      "published": null
+    },
+    {
+      "id": "w45",
+      "region": "아시아",
+      "title": "무라타, AI용 커패시터 생산에 5년간 1조 엔 투자",
+      "summary": "무라타제작소가 AI 서버와 기기용 첨단 전자부품 수요에 대응하기 위해 향후 5년간 1조 엔(약 63억 달러)을 투자한다고 발표했다. 커패시터 생산 확대가 목적이다.",
+      "original": "Japan's Murata to invest $6.3bn in capacitor production for AI over 5 years",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/supply-chain/japan-s-murata-to-invest-6.3bn-in-capacitor-production-for-ai-over-5-years",
+      "published": null
+    },
+    {
+      "id": "w51",
+      "region": "아시아",
+      "title": "오므론 헬스케어, 인도를 수출 거점으로",
+      "summary": "오므론 헬스케어 자회사는 인도 신공장에서 가정용 혈압계를 연간 300만 대 생산할 계획이다. 인도 내수뿐 아니라 유럽 등 해외 수출도 겨냥하고 있다.",
+      "original": "Japan's Omron eyes India as export base for blood pressure monitors",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/health-care/japan-s-omron-eyes-india-as-export-base-for-blood-pressure-monitors",
+      "published": null
+    },
+    {
+      "id": "w32",
+      "region": "아시아",
+      "title": "Nittetsu Mining, 2033년까지 덤프트럭 무인 전환",
+      "summary": "일본 광산 기업 Nittetsu Mining은 광산에서 쓰는 대형 덤프트럭을 2033년까지 자율주행 차량으로 개조할 계획이다. 업계의 인력난에 대응하기 위한 조치다.",
+      "original": "Japan miner to address labor crunch with self-driving dump trucks",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/technology/japan-miner-to-address-labor-crunch-with-self-driving-dump-trucks",
+      "published": null
+    },
+    {
+      "id": "w76",
+      "region": "아시아",
+      "title": "도요타·웨이모, 2027년 일본에서 무인 로보택시 운행",
+      "summary": "도요타와 웨이모는 2027년부터 일본에서 자율주행 로보택시를 운행하기로 했다. 전기차 bZ4X를 사용한다. 이후 영국 등 다른 지역으로 확대하는 방안도 검토 중이다.",
+      "original": "Toyota and Waymo to roll out driverless robotaxis in Japan in 2027",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/transportation/toyota-and-waymo-to-roll-out-driverless-robotaxis-in-japan-in-2027",
+      "published": null
+    },
+    {
+      "id": "w80",
+      "region": "아시아",
+      "title": "일본 정부, 앤스로픽·오픈AI에 고급 모델 접근 확대 요청",
+      "summary": "일본 정부가 미국 AI 기업 앤스로픽과 오픈AI에 사이버 보안 취약점을 찾는 데 쓰이는 고급 모델에 대한 접근을 넓혀 달라고 요청했다고 니혼게이자이가 전했다. 일본 정부는 필수 인프라 운영자들이 이 모델을 활용하도록 장려할 방침이다.",
+      "original": "Japan asks Anthropic, OpenAI for more access to advanced models",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-asks-anthropic-openai-for-more-access-to-advanced-models",
+      "published": null
+    },
+    {
+      "id": "w57",
+      "region": "아시아",
+      "title": "소지츠, 말레이시아서 희토류 이트륨 수입…중국 의존 축소",
+      "summary": "일본 종합상사 소지츠는 2027년부터 말레이시아에서 희토류 원소 이트륨을 조달하기 시작한다. 핵심 희토류의 공급처를 중국 밖으로 다변화하려는 목적이다.",
+      "original": "Japan's Sojitz to import rare earth yttrium from Malaysia",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/supply-chain/japan-s-sojitz-to-import-rare-earth-yttrium-from-malaysia",
+      "published": null
+    },
+    {
+      "id": "w101",
+      "region": "아시아",
+      "title": "유엔, 방글라데시·네팔 최빈국 지위 3년 유지",
+      "summary": "유엔은 방글라데시와 네팔의 최빈국(LDC) 졸업을 3년 더 미뤘다. 두 나라는 잇따른 내부·외부 충격 속에 졸업 준비를 더 할 시간을 얻었다. 이에 따라 무역 혜택에 대한 접근성이 유지된다.",
+      "original": "UN retains Bangladesh and Nepal's least developed country status",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/un-retains-bangladesh-and-nepal-s-least-developed-country-status",
+      "published": null
+    },
+    {
+      "id": "w68",
+      "region": "아시아",
+      "title": "다이와증권 펀드, 블랙스톤 도쿄 오피스 인수에 디지털 증권 발행",
+      "summary": "다이와증권그룹의 펀드가 블랙스톤 소유의 도쿄 복합 오피스 대부분을 사들이면서 약 300억 엔(약 1억 9100만 달러) 규모의 디지털 부동산 증권을 발행한다. 일본에서 개인 투자자를 겨냥한 단일 디지털 부동산 투자로는 가장 큰 규모 중 하나가 될 전망이다.",
+      "original": "Daiwa fund buy of Blackstone Tokyo office complex include retail digital securities",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/business-deals/daiwa-fund-buy-of-blackstone-tokyo-office-complex-include-retail-digital-securities",
+      "published": null
+    },
+    {
+      "id": "w109",
+      "region": "아시아",
+      "title": "인도 AI 인프라 기업, 엔비디아 루빈 GPU 위해 30억 달러 조달 추진",
+      "summary": "블룸버그에 따르면 인도 하이데라바드 기반 AM 인텔리전스는 엔비디아 루빈(Rubin) GPU를 사들이기 위해 최대 30억 달러를 채권과 은행 대출로 조달할 계획이다. 2년 안에 400MW 규모의 컴퓨팅 용량을 구축하는 것이 목표다. 채권과 대출의 비율은 아직 확정되지 않았으며, 잠재 구매자로부터 선급금 3억 달러를 받을 것으로 예상된다. 회사는 CNBC의 논평 요청에 응답하지 않았다.",
+      "original": "Indian AI infrastructure firm reportedly seeks to raise $3 billion of debt to buy Nvidia's next-generation chips",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/30/nvidia-india-ai-chips-computing.html",
+      "published": "2026-10-30T17:19+09:00"
+    },
+    {
+      "id": "w21",
+      "region": "글로벌",
+      "title": "BP 분기 이익 18년 만의 최대…정유 마진 급등",
+      "summary": "BP의 3분기 기초 대체원가 이익은 84억 6000만 달러로 18년 만에 최고치를 기록했다. 전년 같은 기간 22억 달러에서 거의 네 배로 늘었다. 2008년 기록한 89억 달러 이후 가장 높은 수준이다. 중동 전쟁으로 석유와 가스 가격이 오르면서 정유 마진이 높아진 것이 배경이다. 기후 활동가들은 이익을 두고 '터무니없다'고 비판했다.",
+      "original": "BP profits hit ‘obscene’ 18-year high as Iran war drives up oil refining margins",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/30/bp-profits-jump-as-middle-east-conflict-drives-up-oil-refining-margins",
+      "published": "2026-10-31T01:49+09:00",
+      "also": [
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/30/bp-earnings-oil-q3.html",
+          "original": "BP’s third-quarter profit nearly quadruples to $8.5 billion as refining margins surge"
+        }
+      ]
+    },
+    {
+      "id": "w58",
+      "region": "글로벌",
+      "title": "아폴로·Thrive, 사모펀드 세대교체 속 수혜",
+      "summary": "FT는 아폴로와 Thrive가 사모펀드 세대교체 속에서 수혜를 보고 있다고 전했다. 두 곳은 채권 투자자(디벨트 파이낸서) 역할을 강화하면서 새로운 금융 질서에서 수익성 있는 자리를 지키고 있다.",
+      "original": "Apollo and Thrive capitalise on private equity’s generational shift",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/95480c09-5018-4400-b9c1-f2d53373a47c?syn-25a6b1a6=1",
+      "published": "2026-10-31T02:24+09:00"
+    },
+    {
+      "id": "w52",
+      "region": "글로벌",
+      "title": "주요 중앙은행, 10월 회의서 동결…추가 인상 준비",
+      "summary": "10월 회의에서 주요 중앙은행들은 대체로 기존 방침을 유지하며 금리를 동결했다. 다만 이 과정에서 향후 금리 인상을 위한 기반을 다지고 있다는 평가가 나온다. 당장 금리를 올리지는 않았지만 추가 인상 가능성을 열어 두는 기조로 읽힌다.",
+      "original": "Stick or treat",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/db8bd441-431c-4f2f-8b98-0876b234c7bf",
+      "published": "2026-10-31T02:30+09:00"
+    },
+    {
+      "id": "w40",
+      "region": "글로벌",
+      "title": "AI가 은행 감독을 바꿀 수 있다",
+      "summary": "FT 기고는 AI가 은행 감독에 활용될 수 있다고 본다. 실리콘밸리은행(SVB) 붕괴에 영향을 준 조직 문화 문제를 해결하는 데 도움이 될 수 있다는 주장이다.",
+      "original": "How AI might be deployed for better bank supervision",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/be6723d6-ab63-41ab-ac46-dc870c449da0?syn-25a6b1a6=1",
+      "published": "2026-10-31T03:00+09:00"
+    },
+    {
+      "id": "w8",
+      "region": "글로벌",
+      "title": "이란 공격 격화에도 유조선, 호르무즈 통과 계속",
+      "summary": "이란은 미국·이스라엘과 전쟁을 시작한 직후 호르무즈 해협의 상선을 공격해 원유 수송을 크게 위축시켰다. 3월 원유 수출은 2월 하루 1600만 배럴에서 180만 배럴로 약 90% 급감했다. 이후 미군이 유조선을 호송하면서 원유 흐름은 지난 8개월간 회복됐다. 다만 이란은 최근 몇 주간 공격을 더 강화했고, 10월에도 상선 공격이 늘었다. 해운 운임이 크게 오른 것도 유조선들이 위험을 무릅쓰고 통과하는 유인이 되고 있다.",
+      "original": "Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/30/tanker-attack-strait-hormuz-iran-war-oil.html",
+      "published": "2026-10-31T03:28+09:00",
+      "also": [
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/30/iran-trump-hormuz-oil-middle-east-.html",
+          "original": "Iran claims four tankers struck mines in Hormuz as strike fears grow after U.S. midterms"
+        }
+      ]
+    },
+    {
+      "id": "w3",
+      "region": "글로벌",
+      "title": "바이낸스 63억 달러 해킹…자금 회수 나서",
+      "summary": "세계 최대 가상자산 거래소 바이낸스는 해킹으로 63억 달러 규모의 디지털 자산이 빠져나갔다고 밝혔다. 회사는 그중 절반가량을 동결했고, 약 30억 달러 상당은 확보했다고 밝혔다. 하지만 많은 자금은 아직 해커 손에 남아 있다. 처음에는 엔지니어의 노트북이 털린 것으로 보였지만 이후 공격 범위가 더 넓었다고 밝혔다. 분석 업체들은 이번 사고를 북한 해킹 조직과 연결 짓고 있다. 2025년 Bybit의 15억 달러 해킹을 넘어 역대 최대 규모라는 평가다.",
+      "original": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T06:13+09:00",
+      "also": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+          "original": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history"
+        },
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+          "original": "What we know about Binance's $6.3bn hack"
+        },
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/30/billions-in-crypto-frozen-in-binance-hack-heres-what-happens-next-.html",
+          "original": "Binance's $6.3 billion hack: What we know and what comes next"
+        },
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/30/binance-hack-stolen-crypto-recovery.html",
+          "original": "Binance hack: Investigators in a 'cat and mouse game' to recover $6.3 billion in stolen funds"
+        },
+        {
+          "source": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/spotlight/cryptocurrencies/binance-suspends-withdrawals-and-freezes-funds-after-6.3bn-hack",
+          "original": "Binance suspends withdrawals and freezes funds after $6.3bn hack"
+        },
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/business/2026/oct/30/crypto-heist-binance-who-did-it-are-investments-safe",
+          "original": "How big a deal is the $6.3bn Binance crypto heist, who did it, and are investments safe?"
+        },
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/make-it/2026/10/30/binance-crypto-hack-customer-funds.html",
+          "original": "Binance loses $6.3 billion in crypto heist—what happens to your money when an exchange gets hacked"
+        }
+      ]
+    }
+  ]
+}

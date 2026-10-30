@@ -11,23 +11,27 @@
       "headlines": [
         {
           "title": "10월 D램 가격 5.7% 상승…낸드는 보합 전환",
-          "source": "KIS 뉴스",
-          "date": "2026-10-30"
+          "source": "지디넷코리아",
+          "date": "2026-10-30",
+          "url": "https://n.news.naver.com/mnews/article/092/0002443245"
         },
         {
           "title": "\"하닉 8%·삼전 4%대 급락\"…키옥시아 쇼크에 애프터마켓 출렁",
-          "source": "KIS 뉴스",
-          "date": "2026-10-30"
+          "source": "이데일리",
+          "date": "2026-10-30",
+          "url": "https://n.news.naver.com/mnews/article/018/0006400195"
         },
         {
           "title": "'검은 금요일' 큰손 연기금 등판…삼전닉스 5270억 순매수",
-          "source": "KIS 뉴스",
-          "date": "2026-10-30"
+          "source": "뉴스핌",
+          "date": "2026-10-30",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Ubmg2Xzg0VUFEVTcxMXRIN3dxN3BwR25lZkktZDl4R3YwbWNmSU1PRWhvXzBfcURpaXVkaUlTdHBkRnc4cTEtSkszWDJzVU5qclp6aXEzcjBhdUlu?oc=5"
         },
         {
           "title": "‘AI 수익성 공포’에 묻힌 호실적…4분기도 삼전닉스만 본다",
-          "source": "KIS 뉴스",
-          "date": "2026-10-30"
+          "source": "서울경제",
+          "date": "2026-10-30",
+          "url": "https://n.news.naver.com/mnews/article/011/0004677172"
         }
       ]
     },
@@ -39,18 +43,21 @@
       "headlines": [
         {
           "title": "[집중취재] 반도체 투톱, 주주환원…배분 시점과 시장의 평가는?",
-          "source": "KIS 뉴스",
-          "date": "2026-10-30"
+          "source": "매일경제 마켓",
+          "date": "2026-10-30",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43UEZKOXVHUzlnRW1WUVEtWnBUNnM1Qjh0aFVjSnhzSHV0Rm4zb3FSTXJDT0ZHbm1HTm0wS1RuQndRYWx3dnUxSkxXS0taVGJvb2c?oc=5"
         },
         {
           "title": "\"하닉 8%·삼전 4%대 급락\"…키옥시아 쇼크에 애프터마켓 출렁",
-          "source": "KIS 뉴스",
-          "date": "2026-10-30"
+          "source": "이데일리",
+          "date": "2026-10-30",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ3FPaUs0U2drMTlpZnZ6eTc4bGFnc0tybkMwa3FsUHBPMnlNYzN3SVptVWJXR3hEVEVCeVhrdzFMaUpsVzhZN3dESmc5YWVHb1UySVVXVEluTjF5VjVNbXRSdDRaeEgyay1uRGV5X1hyMF93N1JtMWVDT0hETHFSRQ?oc=5"
         },
         {
           "title": "10월 D램 가격 5.7% 상승…낸드는 보합 전환",
-          "source": "KIS 뉴스",
-          "date": "2026-10-30"
+          "source": "지디넷코리아",
+          "date": "2026-10-30",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rQ19aUnk5YXdoVnNEY085bU13ZFJhYkgwRTBGZGg3TlVReU5aR3hIeGhxWEtYZUVhR0IxVm5Zcmc4RHBKbVlMS251c3UyTDFTUXFERExR?oc=5"
         }
       ]
     },
@@ -63,17 +70,20 @@
         {
           "title": "JW중외제약, '엠파가드' 발매 앞두고 마케팅 본격화",
           "source": "KIS 뉴스",
-          "date": "2026-10-29"
+          "date": "2026-10-29",
+          "urlChecked": true
         },
         {
           "title": "JW중외제약 '엠파가드', 임상 3상서 혈당 조절 효과 확인",
-          "source": "KIS 뉴스",
-          "date": "2026-10-29"
+          "source": "메디컬투데이",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oVllVQzRVVTZlcUZPVXdZMHpkN1hnMFZIdDJmTk9DdEp5UDA3WGlUbkwxWWlPSXgxZUVWenAtZ2dNU092YWdHMmVNbWlIMHprMmhXcERIUFBQUzZPb3BqVFpnOTNZbGtiY0ZoaQ?oc=5"
         },
         {
           "title": "JW중외 이어 한미도 보신티 특허전 철수...공동판매 촉각",
           "source": "KIS 뉴스",
-          "date": "2026-10-30"
+          "date": "2026-10-30",
+          "urlChecked": true
         }
       ]
     },
@@ -85,13 +95,15 @@
       "headlines": [
         {
           "title": "한화그룹 최대 관심사 떠오른 美 중간선거…갈림길 선 '주력' 방산",
-          "source": "KIS 뉴스",
-          "date": "2026-10-30"
+          "source": "인베스트조선",
+          "date": "2026-10-30",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb2dBbnk3TmE4U0xNMGZTalU1LTF3emp4VklpUmZfaVZHdEY3QjRoRW03NEpaRjVKSVdHLVhsb1dGbFJNZmZDNzV1bC15N0dPOE9UNjd6Y191VVU2Ui15MnpjUEY3eFp5NVUxNnNCZGFhN19EZnMta25aOTNEc3RRTUZIcw?oc=5"
         },
         {
           "title": "한화, 美해군 상륙함 건조 도전장",
-          "source": "KIS 뉴스",
-          "date": "2026-10-29"
+          "source": "서울경제",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZSThMZUtlSXY3Q1dlc2FvdUw4dUJ0MmhNT3JKWFRqUHI1Z0ZDQTN2UVIxd2RUTEVKZlMyOFUtbE16X2RmanZCbmFBb2VqNjQtSEHSAVNBVV95cUxQOV9MVDRGTzBleEYybmtjVXowZkhINjRoeVFqTWZSSWkxdHdqQzNMYkpIX3ZiUm1SMi1FaHhRRW0xUThSOWRMUFZGOWI2ZS1EbEpubw?oc=5"
         }
       ]
     },
@@ -104,12 +116,14 @@
         {
           "title": "제이에스코퍼레이션, 26년3분기 연결 영업이익 539.46억원, 컨센서스 추정치 부합",
           "source": "KIS 뉴스",
-          "date": "2026-10-29"
+          "date": "2026-10-29",
+          "urlChecked": true
         },
         {
           "title": "(주)제이에스코퍼레이션 연결재무제표기준영업(잠정)실적(공정공시)",
           "source": "DART 공시",
-          "date": "2026-10-29"
+          "date": "2026-10-29",
+          "urlChecked": true
         }
       ]
     },
@@ -122,17 +136,20 @@
         {
           "title": "메리츠금융지주, 임원ㆍ주요주주 특정증권등 소유주식수 변동",
           "source": "KIS 뉴스",
-          "date": "2026-10-29"
+          "date": "2026-10-29",
+          "urlChecked": true
         },
         {
           "title": "[장중수급포착] 메리츠금융지주, 외국인 5일 연속 순매수행진... 주가 +3.32%",
-          "source": "KIS 뉴스",
-          "date": "2026-10-29"
+          "source": "뉴스핌",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIWHRhRGlwM3VGUV9QZkZGU3JsOHR6YzlwSmhxRW9wajlkOF9YbXE1b2tIWWtRekxTVjhmWWt6RmRKelBrU1pHSkpURU02SVlQSWE1d1JiRXRGclln?oc=5"
         },
         {
           "title": "\"정보가 쏟아진다\"…국세청 수시 세무조사에 금융권 긴장",
-          "source": "KIS 뉴스",
-          "date": "2026-10-29"
+          "source": "뉴스톱",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94YVdvbWFvdFBPMXlvQjktaWZFb2E3MkdpRkZLU0Rmb0V6VWh4Y1c0eWlCWnBtVHdaWGsyNk9Zc2ZYRVV3dHBoSlgzSG16X0hWUkRBZ0ZTT2d6bU04MlQtakF5YllRR001TDJ0b3lVaw?oc=5"
         }
       ]
     },
@@ -144,13 +161,15 @@
       "headlines": [
         {
           "title": "SK이노, 3분기 영업익 3.7조 ‘역대 최대’",
-          "source": "KIS 뉴스",
-          "date": "2026-10-29"
+          "source": "동아일보",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BQlJ1Qmc4S3pDMjVXTm8zeVBRU3RUXzVBM2tFeDBSTlJkaUZHYkJTNk1zSTVhUk91Vkd1RjRyMnFHcWFHcE1UZ1RLOThmS3RuTkY3bndOeDdZUnRKRkc0X2ZycW9PczZaSjdNVnoydkJBY1ZBbWfSAWZBVV95cUxNVFg4WE9UOC1MUXRyVS1GakNrbm1zb1RFcl9pU0hZSUE3NUktM0xGc0VYaEh0dVpDOVBnWWlWNzNPeDdpYzhOaHNHWVJDajE5TFhtcWlCdTc5WG85dVRGZXFYTTJxSVE?oc=5"
         },
         {
           "title": "SK이노베이션(096770)  -5.37%, S-Oil -3.42%, GS -2.92%",
           "source": "KIS 뉴스",
-          "date": "2026-10-29"
+          "date": "2026-10-29",
+          "urlChecked": true
         }
       ]
     },
@@ -162,13 +181,15 @@
       "headlines": [
         {
           "title": "정은경 “‘납 배출’ 킬레이션 주사제 비급여 파악…과다 공급기관 행정조사”",
-          "source": "KIS 뉴스",
-          "date": "2026-10-27"
+          "source": "헤럴드경제",
+          "date": "2026-10-27",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nXzhvWnNFb3FkRlJ3alVtZU9QMDFhelhsRjdFbEJRc3RzQnJsay1aQk54N3R2dlNuRzI4TVVndzNybGthYVJESjBQYWNmMzZBdGxESENn?oc=5"
         },
         {
           "title": "[장중수급포착] DN오토모티브, 외국인 9일 연속 순매수행진... 주가 +1.90%",
-          "source": "KIS 뉴스",
-          "date": "2026-10-27"
+          "source": "뉴스핌",
+          "date": "2026-10-27",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5qcWZoZDkxa1JiYU1SM0R4cVNrdWJFU0JFOWJBclE1WGFUUzh3NXJsT2pSNkk2eFBZSmFsbEw1dnF1aHMzUndQN3hueXdYcTdSRFdFeUp2M1lndm11?oc=5"
         }
       ]
     },
@@ -180,13 +201,15 @@
       "headlines": [
         {
           "title": "에프엔에스테크, IT OLED 투자 지연에 목표가 22% 하향-SK",
-          "source": "KIS 뉴스",
-          "date": "2026-10-29"
+          "source": "이데일리",
+          "date": "2026-10-29",
+          "url": "https://n.news.naver.com/mnews/article/018/0006398452"
         },
         {
           "title": "[리포트 브리핑]에프엔에스테크, '이익 체력 강화 전망' 목표가 23,500원 - SK증권",
-          "source": "KIS 뉴스",
-          "date": "2026-10-29"
+          "source": "뉴스핌",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRUW0tSmNxaXM3QjIteXc4c2V4aXgzREVUVzZhMGc1R1JIOE1Hbjd2UXI0UzVWR2RYcFB4bE9XNkNseW0ycnptQ04tQ0NoT1N3RG5ObkgzMlFBdVpP?oc=5"
         }
       ]
     },
@@ -198,18 +221,21 @@
       "headlines": [
         {
           "title": "휴메딕스, 서울뷰티글로벌과 글로벌 마케팅 '맞손'",
-          "source": "KIS 뉴스",
-          "date": "2026-10-30"
+          "source": "아시아경제",
+          "date": "2026-10-30",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MZGR6TEVhSDY3OU8yUkVZcm1Ud1p6LW9uV3hHQzJ0RmNWbFlRSGtGVUtFZmwzc3JUN01xM0ZKUTRYNVJCRWtjQ0hWNXg0a3N5SkJ3YXNfMUdGbG1FWmhJWA?oc=5"
         },
         {
           "title": "[리포트 브리핑]휴메딕스, '매출 성장은 지속될 전망' 목표가 36,000원 - 상상인증권",
-          "source": "KIS 뉴스",
-          "date": "2026-10-26"
+          "source": "뉴스핌",
+          "date": "2026-10-26",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50UTRsOWZjd3A1and6dGE2NGJoNVJVSU05QUd6eEl3cVZCN2hlOWt2aFFNRkpCbE5tRVpoMkl6QjRnT2tWSlJvdk9WOUFGZzV1ZHFmc2FuOXhrdWFD?oc=5"
         },
         {
           "title": "휴메딕스, 中 북경경지社와 필러 ‘엘라비에’ 유통 계약 연장",
-          "source": "KIS 뉴스",
-          "date": "2026-10-25"
+          "source": "중앙일보",
+          "date": "2026-10-25",
+          "url": "https://n.news.naver.com/mnews/article/025/0003560069"
         }
       ]
     },
@@ -221,8 +247,9 @@
       "headlines": [
         {
           "title": "와이엠씨, 중국 JDC와 반도체·디스플레이 소재 사업 전략적 협력 기본합의서 체결",
-          "source": "KIS 뉴스",
-          "date": "2026-10-28"
+          "source": "한국경제",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hWlR4UnpaWUxmVFJXSlZVS0FkVnVlaWxKbF9oQTZWVlRtMXZBVVpKYjNSX1NLNlRwR0x4VWtWS016aGRoNmV0NThPZF9zSWRRZWlyZTAya2gzdw?oc=5"
         }
       ]
     },
@@ -234,18 +261,21 @@
       "headlines": [
         {
           "title": "휴젤·휴온스 이어 3번째…이니바이오 ‘이니보’, 中 톡신 시장 뚫었다",
-          "source": "KIS 뉴스",
-          "date": "2026-10-29"
+          "source": "헤럴드경제",
+          "date": "2026-10-29",
+          "url": "https://n.news.naver.com/mnews/article/016/0002715830"
         },
         {
           "title": "[IR일정] 휴젤, 2026년 3분기 경영실적 발표",
           "source": "KIS 뉴스",
-          "date": "2026-10-28"
+          "date": "2026-10-28",
+          "urlChecked": true
         },
         {
           "title": "[장중수급포착] 휴젤, 외국인 11일 연속 순매수행진... 주가 +1.17%",
           "source": "KIS 뉴스",
-          "date": "2026-10-28"
+          "date": "2026-10-28",
+          "urlChecked": true
         }
       ]
     },
@@ -258,12 +288,14 @@
         {
           "title": "(주)위드텍 단일판매ㆍ공급계약체결",
           "source": "DART 공시",
-          "date": "2026-10-30"
+          "date": "2026-10-30",
+          "urlChecked": true
         },
         {
           "title": "위드텍, 130.43억원 규모 공급계약(TMS(산업배출가스측정)유지보수업무 위탁계약의 건) 체결",
           "source": "KIS 뉴스",
-          "date": "2026-10-30"
+          "date": "2026-10-30",
+          "urlChecked": true
         }
       ]
     },
@@ -276,12 +308,14 @@
         {
           "title": "(주)뉴파워프라즈마 교환청구권행사",
           "source": "DART 공시",
-          "date": "2026-10-29"
+          "date": "2026-10-29",
+          "urlChecked": true
         },
         {
           "title": "뉴파워프라즈마, 주식등의 대량보유자 소유주식수 변동",
           "source": "KIS 뉴스",
-          "date": "2026-10-30"
+          "date": "2026-10-30",
+          "urlChecked": true
         }
       ]
     }

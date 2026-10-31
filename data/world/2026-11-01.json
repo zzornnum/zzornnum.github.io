@@ -1,0 +1,368 @@
+{
+  "date": "2026-11-01",
+  "generatedAt": "2026-11-01T07:53+09:00",
+  "items": [
+    {
+      "id": "w72",
+      "region": "미국",
+      "title": "기술주 매도세에 미국 증시 1조 달러 증발…AI 수익성 우려 재점화",
+      "summary": "이달 초부터 시작된 기술주 매도세가 실망스러운 빅테크 실적을 계기로 탄력을 받으며 미국 증시를 끌어내렸다. 금요일 나스닥 종합지수는 3% 넘게 하락했고 S&P 500도 1% 넘게 빠졌다. 일주일 사이 나스닥에서만 약 1조 달러가 사라졌고, 한 달로 보면 약 2조 달러가 증발했다. S&P 500은 이달 사상 최고치를 찍었지만 10월 상승분을 모두 반납할 기세다. 투자자들은 AI에 쏟아붓는 수십억 달러가 과연 빠르게 수익을 낼 수 있을지 의문을 품고 있다. 다우지수는 이보다 덜 떨어졌다.",
+      "original": "Tech sell-off drives US markets down by nearly $1tn after subpar earnings reports",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/oct/30/tech-stocks-drop-earnings-report",
+      "published": "2026-10-31T03:27+09:00",
+      "also": [
+        {
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/56b0d5fa-829c-47b1-b07b-b4be18f60151?syn-25a6b1a6=1",
+          "original": "Investors trim growth bets over fears of US economy’s AI exposure"
+        }
+      ]
+    },
+    {
+      "id": "w50",
+      "region": "미국",
+      "title": "S&P, 메타 신용전망 부정적으로 하향…잉여현금흐름 우려",
+      "summary": "S&P 글로벌 레이팅스는 메타의 신용등급 전망을 '부정적'으로 낮췄다. 등급 자체는 AA-로 유지됐다. 이번 조정은 메타의 막대한 자본지출과 마이너스인 잉여현금흐름에 대한 '불확실성'을 반영한다. S&P는 메타가 경쟁사보다 AI 투자를 수익으로 연결할 능력에 의문을 제기했다. 경쟁사들도 데이터센터 구축에 큰돈을 쏟아붓고 있어 현금흐름이 마이너스로 돌아서고 있다고 기사는 전한다.",
+      "original": "Meta outlook revised downward by S&P on cash flow and capex concerns",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html",
+      "published": "2026-10-31T07:42+09:00"
+    },
+    {
+      "id": "w67",
+      "region": "미국",
+      "title": "중간선거 앞둔 투자자들 예민해져…당분간 신중함 필요",
+      "summary": "FT는 중간선거를 앞두고 투자자들이 예민해져 있다고 전했다. 기사는 앞으로 몇 주간 신중함이 확실히 필요해 보인다고 평가한다.",
+      "original": "US midterms loom over jittery investors",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/6c099dc6-1fb3-44fc-b011-70229e3755cb?syn-25a6b1a6=1",
+      "published": "2026-10-31T14:00+09:00"
+    },
+    {
+      "id": "w42",
+      "region": "미국",
+      "title": "채권 투자자들, 중간선거 뒤 정치적 교착을 반길 수도",
+      "summary": "FT의 주간 차트 기사는 채권 투자자들이 의회 교착 상태를 오히려 반길 수 있다는 관점을 다룬다. 중간선거가 채권시장에 더 큰 판돈이 걸린 선거라는 것이 요지다. 원문 요약에는 구체적인 수치가 없다.",
+      "original": "Chart of the Week: Bond investors may cheer gridlock",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/9570b122-5418-41e6-b91b-b95af96ec881?syn-25a6b1a6=1",
+      "published": "2026-10-31T19:30+09:00"
+    },
+    {
+      "id": "w27",
+      "region": "미국",
+      "title": "트럼프의 '휘발유 2달러' 약속 무색…휘발유·디젤 가격 급등",
+      "summary": "트럼프 대통령은 물가에 분노한 유권자들에게 취임 1년 안에 휘발유 가격을 갤런당 2달러 아래로 낮추겠다고 약속했다. 2024년 9월 뉴욕경제클럽 연설에서는 12개월 안에 에너지 가격을 절반 이상 낮추겠다고도 말했다. 그러나 화요일 중간선거일에도 에너지 가격은 여전히 골칫거리다. 개솔린버디의 패트릭 드 한은 휘발유와 디젤 가격이 선거일 기준 역대 최고치가 될 것으로 전망했다. 금요일 전국 평균 휘발유 가격은 갤런당 4.20달러로 작년 같은 시기보다 40% 가까이 높다.",
+      "original": "Trump promised to slash energy costs — but gasoline, diesel and jet fuel all soared instead",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/31/trump-gas-diesel-price-midterm-election.html",
+      "published": "2026-10-31T21:49+09:00"
+    },
+    {
+      "id": "w39",
+      "region": "미국",
+      "title": "트럼프 행정부, 석탄발전소 절반 넘게 지원…대기오염 면제도",
+      "summary": "환경방위기금(EDF) 분석에 따르면 트럼프 행정부는 미국 석탄발전소의 거의 절반에 지원을 제공했다. 분석 대상인 전력망에 연결된 가동 석탄발전소 184곳 중 90곳이 현금 지원, 오염 면제, 퇴역 시한 이후 가동 요구 중 하나 이상을 받았다. 24곳에는 납세자 돈 9억 5,000만 달러가 지원됐고, 70곳은 유해물질 배출 기준에 대한 대기청정법 면제를 받았다. Surbhi Sarang EDF 디렉터는 이것이 석탄발전소의 수명을 연장하는 조치라고 말했다. 경제적·규제적 역풍 속에서도 석탄발전소가 계속 돌아가도록 돕는 셈이다.",
+      "original": "Trump boosted half of US coal plants with taxpayer dollars and ‘free passes to pollute’, report says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/oct/31/trump-coal-plants-taxpayer-dollars",
+      "published": "2026-10-31T22:00+09:00"
+    },
+    {
+      "id": "w38",
+      "region": "미국",
+      "title": "메디케어, AI 사전승인 도입 뒤 의료 서비스 급감",
+      "summary": "메디케어는 낭비되는 의료 지출을 겨냥해 AI로 사전승인(prior authorization)을 시험하고 있다. 기사 제목은 이 시험 도입 직후 의료 서비스 이용이 크게 줄었다고 전한다. 원문 요약은 이 시범 사업의 목표가 낭비성 의료비를 줄이는 것이라고만 설명한다.",
+      "original": "Medicare used AI to pre-approve patient care, and it immediately led to a large drop in medical services",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/medicare-used-ai-to-pre-approve-patient-care-and-it-immediately-led-to-a-large-drop-in-medical-services-dc38a210?mod=mw_rss_topstories",
+      "published": "2026-11-01T02:26+09:00"
+    },
+    {
+      "id": "w31",
+      "region": "미국",
+      "title": "오픈AI, 펀딩 목표 축소…최대 200억 달러 모집",
+      "summary": "CNBC는 오픈AI가 새 펀딩 라운드에서 최대 200억 달러를 모집하려 한다고 토요일 확인했다. 앞서 목표였던 최대 300억 달러에서 줄어든 규모다. 라운드는 아직 진행 중이라 수치는 바뀔 수 있다. FT는 목표액이 100억 달러 줄었고, 사후 기업가치 1.25조 달러를 추진한다고 보도했다. 투자자 약정 마감은 금요일이었으며 일부 투자자는 배정 규모를 줄였다. 아랍에미리트 투자자들이 코튜(Coatue)와 함께 라운드를 이끌고 있다.",
+      "original": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html",
+      "published": "2026-11-01T04:56+09:00"
+    },
+    {
+      "id": "w58",
+      "region": "유럽",
+      "title": "노동당 재정 분권, 지방정부 재원 확대의 시험대",
+      "summary": "가디언 사설은 재무장관 토르스텐 벨이 예산안의 재정 분권 로드맵을 '큰 변화'라고 옹호했다고 전했다. 사설은 정부 보조금을 세수로 바꾸는 것만으로는 지역 불평등이 줄지 않지만, 정치적 함의는 급진적이라고 평가한다. 2028년부터 광역 전략 당국이 처음으로 소득세 수입의 일부를 받고, 내년부터는 기업 과세(business rates) 세수의 20%를 배분받는다. 벨 장관은 대처 정부 시절 지방정부가 크게 약화됐던 점을 지적하며 이번 조치의 의미를 강조했다.",
+      "original": "The Guardian view on Labour’s fiscal devolution: the future of Burnhamism will play out in municipal England | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/30/the-guardian-view-on-labours-fiscal-devolution-the-future-of-burnhamism-will-play-out-in-municipal-england",
+      "published": "2026-10-31T02:56+09:00",
+      "also": [
+        {
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/14a8ce6c-ef84-478a-993f-47db30a41d1d?syn-25a6b1a6=1",
+          "original": "Budget frees London to go on £10bn borrowing spree, says Sadiq Khan"
+        },
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/oct/31/spending-plan-long-term-focus-uk-government",
+          "original": "A world-first focus on long-term outcomes could transform UK government – or create new spending fights"
+        }
+      ]
+    },
+    {
+      "id": "w61",
+      "region": "유럽",
+      "title": "영국 지분 대출 제도, 구매자가 원하는 집 공급은 어려울 듯",
+      "summary": "영국의 지분 대출 제도 '유어 퍼스트 홈(Your First Home)'은 가격 상한 때문에 대부분 아파트만 해당될 것이라는 지적이다. 많은 생애 첫 구매자는 방 3개짜리 주택을 원하지만, 상한 탓에 전국 대부분 지역에서 조건을 충족하는 것은 주로 플랫이다.",
+      "original": "Equity loan scheme will struggle to deliver ‘the homes buyers want’",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/a6cac59f-7344-4717-8164-a4cbfdd26db5?syn-25a6b1a6=1",
+      "published": "2026-10-31T14:00+09:00"
+    },
+    {
+      "id": "w63",
+      "region": "유럽",
+      "title": "프랑스 은행 실적 호조에도 정치 불안에 매도세 지속",
+      "summary": "BNP파리바, 소시에테제네랄, 크레디트아그리콜은 3분기에 강한 실적을 냈지만 주가는 정치·경제 불확실성에 대한 투자자 불안으로 하락세를 되돌리지 못했다. 실적이 좋았는데도 주가 매도세가 이어지고 있다는 것이 원문의 핵심이다. 기사는 투자자들에게 앞으로 험난한 여정이 남아 있다고 평가한다.",
+      "original": "French banks’ rising profits fail to reverse sell-off as political fears bite",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/d1c2c34b-7bfb-470a-a51d-bbada1c6ccef?syn-25a6b1a6=1",
+      "published": "2026-10-31T14:00+09:00",
+      "also": [
+        {
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/5719a0b6-80cb-415c-b349-c1e07dd46c36?syn-25a6b1a6=1",
+          "original": "French protests show BNP Paribas what’s in a name"
+        }
+      ]
+    },
+    {
+      "id": "w65",
+      "region": "유럽",
+      "title": "영국 창업자 세제 혜택, 스타트업 지원 목적과 어긋난다는 비판",
+      "summary": "스타트업과 스케일업을 키우는 것은 좋은 목표지만, 존 힐리 재무장관이 새로 도입한 '창업자 경감(Founders’ Relief)'이 그 목적에 가장 맞는 방법은 아니라는 FT 칼럼의 지적이다. 칼럼은 이 세제 혜택의 설계를 황당하다고 꼬집으며 기업가 지원 방식 자체를 되돌아볼 것을 요구한다.",
+      "original": "The bonkers business of tax breaks for entrepreneurs",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/636fd85e-2f5f-4b98-91ff-75300df69908",
+      "published": "2026-10-31T14:00+09:00",
+      "also": [
+        {
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/8a26c5ed-820b-4653-8bf0-d9ee4f20bdcd",
+          "original": "Entrepreneurs question Budget rhetoric on relief and red tape"
+        }
+      ]
+    },
+    {
+      "id": "w73",
+      "region": "유럽",
+      "title": "영란은행, 고위험 주택담보대출 규제 완화 검토",
+      "summary": "영란은행(BoE)이 고위험 주택담보대출을 제한하는 기준선을 올리는 방안을 검토하고 있다. 정부와 업계가 주택 소유를 늘리기 위해 요청해 온 데 따른 것이다.",
+      "original": "Bank of England explores easing key limit on riskier mortgage lending",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/78363dc1-90fa-4a10-b84a-69be3d749f42?syn-25a6b1a6=1",
+      "published": "2026-10-31T14:00+09:00"
+    },
+    {
+      "id": "w54",
+      "region": "유럽",
+      "title": "동결된 세금 기준선에 영국 납세자 더 많이 '10만 파운드 함정'으로",
+      "summary": "FT는 동결된 세금 기준선과 높아진 물가 전망 때문에 영국 예산안의 효과가 기대에 못 미친다고 분석했다. 기준선이 묶인 탓에 소득 10만 파운드 세금 함정(£100,000 tax trap)에 걸리는 사람이 이전 예상보다 수천 명 더 늘 수 있다는 것이다. 원문 요약은 이번 예산안이 대다수 납세자의 형편을 나아지게 하지 않는다는 결론을 담고 있다.",
+      "original": "Fiscal drifting: why the Budget won’t leave you better off",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/2d7ef638-2efb-42ec-a433-bef55f61d2e1?syn-25a6b1a6=1",
+      "published": "2026-10-31T14:12+09:00",
+      "also": [
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/business/2026/oct/31/housing-crisis-fix-britain-tax-landscape",
+          "original": "Britain’s housing crisis won’t be fixed without a new tax landscape"
+        },
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/30/this-budget-fails-to-live-up-to-andy-burnhams-grand-rhetoric",
+          "original": "This budget fails to live up to Andy Burnham’s grand rhetoric | Letters"
+        }
+      ]
+    },
+    {
+      "id": "w15",
+      "region": "유럽",
+      "title": "런던 최고급 주택 10곳 중 8곳, 호가보다 낮게 팔려",
+      "summary": "쿠츠(Coutts) 조사에 따르면 메이페어, 벨그레이비아, 나이츠브리지 등 런던 최고급 지역 주택의 10곳 중 8곳이 호가보다 낮은 가격에 팔리고 있다. 런던 중심부 최고가 지역인 '프라임 센트럴 런던'의 집값은 2026년 3분기에 5% 떨어졌다. 매물은 평균적으로 호가보다 10% 낮은 가격에 거래되고 있다. 이 지역 집값은 2014년 정점보다 14% 낮은 수준이다. 쿠츠는 브렉시트, 코로나19 팬데믹, 높아진 재산세와 대출 금리 급등이 타격을 줬다고 분석했다. 영국 부동산 침체로 가장 부유한 집주인들도 수십만에서 수백만 파운드의 손실을 보고 있다는 것이다.",
+      "original": "Eight in 10 homes in London’s poshest postcodes now sell below asking price, Coutts finds",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/oct/31/homes-london-poshest-neighbourhoods-sell-below-asking-price-coutts",
+      "published": "2026-10-31T15:00+09:00"
+    },
+    {
+      "id": "w47",
+      "region": "유럽",
+      "title": "피치, 프랑스 신용전망 비정기 하향…3분기 역성장 직후",
+      "summary": "신용평가사 피치가 프랑스의 신용등급 전망을 예정에 없이 하향 조정했다. 이 발표는 프랑스의 3분기 경제 생산이 예상치 못하게 위축됐다는 지표가 나온 지 몇 시간 뒤에 나왔다.",
+      "original": "Rating agency Fitch hits France with unscheduled outlook downgrade",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/852b05a1-4090-4aee-afc6-4d4c353ef3cf?syn-25a6b1a6=1",
+      "published": "2026-10-31T18:36+09:00"
+    },
+    {
+      "id": "w2",
+      "region": "유럽",
+      "title": "영국 자선상점 수익 급감…중고 의류 플랫폼에 밀려",
+      "summary": "영국 주요 자선상점들의 수익이 급감하고 있다. 파이낸셜타임스가 입수한 미공개 회계자료에 따르면 옥스팜의 소매 이익은 지난 회계연도에 23% 줄어 490만 파운드가 됐고, 전년도에는 640만 파운드였다. 영국심장재단(BHF)은 330만 파운드 손실을 낸 뒤 매장 150곳을 폐쇄할 계획이다. 암연구소와 스코프도 일부 매장을 닫았거나 닫는 중이다. 업계는 온라인 중고 의류 플랫폼, 특히 Vinted 같은 서비스의 확산을 주요 압박 요인으로 꼽는다. 그럼에도 영국의 중고 의류 지출은 지난 10년간 4배로 늘어 연 88억 파운드에 이른다는 점이 대조적이다.",
+      "original": "UK charity shop profits plummet amid shift in secondhand clothes market",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/oct/31/profits-uk-charity-shops-oxfam-shift-secondhand-clothes-market",
+      "published": "2026-11-01T00:10+09:00"
+    },
+    {
+      "id": "w20",
+      "region": "유럽",
+      "title": "하이스트리트 브랜드, 럭셔리 전략으로 패션 재도약 노려",
+      "summary": "2000년대 호황을 누렸던 영국 하이스트리트 브랜드들이 다시 살아나려 하고 있다. 지속가능성을 중시하는 소비자와 초저가 온라인 브랜드의 부상으로 위축됐던 이들은 트렌드 중심의 저가 디자인에서 벗어나 럭셔리 전략을 차용하고 있다. 갭은 빅토리아 베컴과 새 컬렉션을 내놨고, M&S는 런던패션위크에서 유명인이 참석한 런웨이 컬렉션을 선보인 뒤 즉시 구매를 가능하게 했다. 이 가운데 절반 이상의 제품이 50파운드 미만이다. 토프숍은 작년 재출범 후 존루이스 매장 30곳과 고급 백화점 리버티에 입점해 있다. 강화된 서비스와 AI 스타일링 같은 시도도 소비자 참여를 높이려는 수단으로 제시된다.",
+      "original": "A-listers and AI stylists: how high-street brands are staging a fashion comeback",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/fashion/2026/oct/31/a-listers-ai-stylists-high-street-brands-fashion-comeback",
+      "published": "2026-11-01T01:00+09:00"
+    },
+    {
+      "id": "w9",
+      "region": "중국",
+      "title": "선전 물가 부담에…홍콩 사람들 본토 소비로 눈돌려",
+      "summary": "홍콩 은퇴자 량칭은 몇 년 전 4명이 약 300위안(45달러)이면 먹던 선전 식사가 지금은 500~600위안으로 올랐다고 말했다. 같은 식사는 홍콩에서는 약 1,000홍콩달러(127.5달러), 광저우에서는 300위안, 중산에서는 200위안이면 가능하다고 한다. 선전시 통계국에 따르면 지난해 선전의 소비자물가는 전년 대비 0.2% 올랐다. 식품·담배·주류는 0.2%, 의류는 1%, 의료비는 2.8% 상승했다. 원문은 이런 물가 차이로 비용에 민감한 홍콩 사람들이 본토 도시로 소비 범위를 넓히는 흐름을 짚는다.",
+      "original": "Shenzhen too pricey? Cost-conscious Hongkongers dig deeper into mainland China",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/china-economy/article/3372740/shenzhen-too-pricey-cost-conscious-hongkongers-dig-deeper-mainland-china",
+      "published": "2026-10-31T13:00+09:00"
+    },
+    {
+      "id": "w3",
+      "region": "중국",
+      "title": "중국 농장 체험, 외국인 관광객 새 인기 코스로",
+      "summary": "여행사 차이나 하이라이츠는 외국인 관광객 버스 투어 중 '농장에 갈 수 있느냐'는 요청이 반복된다고 밝혔다. 이 수요가 흔해지면서 가이드들은 황산과 장자제 같은 명승지에서 돌아오는 길에 하루나 이틀짜리 농장 투어를 따로 짜고 있다. 관광객들은 농부를 만나고, 단층 벽돌집에서 점심을 먹고, 수확에 참여하기를 원하는 경우도 많다고 회사 CEO 스티븐 자오는 전했다. 이 흐름은 여행객들이 유명 도시 랜드마크와 산악 명승지에서 벗어나려는 중국 관광시장의 더 큰 변화의 일부다. 셀피 관광의 부상이 이런 변화를 부분적으로 이끌고 있다.",
+      "original": "How China’s ‘enchanting’ farms became a draw for foreign tourists",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/china-economy/article/3372763/how-chinas-enchanting-farms-became-draw-foreign-tourists",
+      "published": "2026-10-31T20:00+09:00"
+    },
+    {
+      "id": "w5",
+      "region": "아시아",
+      "title": "일본은 콘텐츠를 해외에 파는 인재를 키워야",
+      "summary": "일본이 콘텐츠를 판매할 수 있는 인재를 길러야 한다는 오피니언 기사다. 필자는 글로벌 커넥츠 미디어의 CEO이자 템플대 일본캠퍼스 겸임교수인 더글러스 몽고메리다. 원문 본문이 짧아 구체적인 근거와 수치는 확인할 수 없다.",
+      "original": "Time for Japan to develop people who can sell content",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/opinion/time-for-japan-to-develop-people-who-can-sell-content",
+      "published": null
+    },
+    {
+      "id": "w11",
+      "region": "아시아",
+      "title": "해외 기업 엔화 채권 사상 최대 160억 달러…AI 자금 경쟁이 일본으로",
+      "summary": "AI 하이퍼스케일러가 촉발한 글로벌 자금 조달 열풍이 일본에도 번지면서 해외 기업과 기관이 일본 투자자의 돈을 끌어들이고 있다. 4~9월 반기 동안 외국 기업이 발행한 엔화 표시 채권 규모가 사상 최고치인 160억 달러를 기록했다.",
+      "original": "Yen bond offerings hit record $16bn as AI funding race reaches Japan",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/bonds/yen-bond-offerings-hit-record-16bn-as-ai-funding-race-reaches-japan",
+      "published": null
+    },
+    {
+      "id": "w17",
+      "region": "아시아",
+      "title": "일본, 해외 거주 부동산 임대업자에 과세 검토",
+      "summary": "일본 정부는 일본 내에서 부동산 임대업이나 주차장 사업을 운영하는 해외 거주자의 소득에 세금을 부과하는 방안을 검토하고 있다. 외국인의 일본 부동산 보유가 늘면서 생긴 과세 형평성 문제를 해결하려는 취지다.",
+      "original": "Japan weighs taxing real estate rental operators living overseas",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/property/japan-weighs-taxing-real-estate-rental-operators-living-overseas",
+      "published": null
+    },
+    {
+      "id": "w22",
+      "region": "아시아",
+      "title": "일본 외국인 간병인, 자격시험 문턱에 막혀",
+      "summary": "일본 정부는 간병인 자격을 얻으려는 외국인을 돕기 위해 시험 준비 앱을 만들 계획이다. 국가시험 합격률은 30%대 초반에 머물러 있다. 유예 기간이 끝나가는 가운데 이미 일손이 부족한 간병 분야가 더 큰 타격을 받을 수 있다는 우려가 나온다.",
+      "original": "Japan's foreign caregivers face exam hurdle as grace period ends",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/health-care/japan-s-foreign-caregivers-face-exam-hurdle-as-grace-period-ends",
+      "published": null
+    },
+    {
+      "id": "w36",
+      "region": "아시아",
+      "title": "태국, 30년 끈 다웨이 사업에 서쪽으로 눈돌려",
+      "summary": "국제통화기금(IMF)과 세계은행 회의가 이달 초 방콕에서 열렸지만 다소 맥이 빠진 채 끝났다. 미국 재무장관 스콧 베선트가 G20 재무장관·중앙은행총재 회의에 불참한 것이 대표적이다. 원문은 30년간 난항을 겪어 온 다웨이 사업을 두고 태국이 서쪽으로 방향을 틀고 있다는 흐름을 다룬다.",
+      "original": "Thailand looks west after 30 years of struggles over Dawei",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/comment/thailand-looks-west-after-30-years-of-struggles-over-dawei",
+      "published": null
+    },
+    {
+      "id": "w70",
+      "region": "글로벌",
+      "title": "캐나다·EU, 새 '미래를 위한 동맹' 출범…뜻 같은 나라에 개방",
+      "summary": "캐나다와 유럽연합이 몬트리올 정상회담에서 '미래를 위한 동맹(Alliance for the Future)'을 발표했다. 마크 카니 캐나다 총리와 우르줄라 폰 데어 라이엔 집행위원장은 이 동맹을 시민이 번영할 수 있는 '보호막'이라고 부르며, 뜻을 같이하는 다른 나라의 참여도 환영했다. 카니 총리는 기후 위기의 피해, 민주주의 규범의 침식, 무역의 무기화를 우리 사회를 흔드는 새로운 폭풍으로 꼽았다. 두 사람은 캐나다와 27개국 블록 사이의 깊은 파트너십이 전례 없는 안정과 기회를 줄 수 있다고 밝혔다.",
+      "original": "Canada and EU announce new alliance open to like-minded countries",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance",
+      "published": "2026-10-31T04:42+09:00"
+    },
+    {
+      "id": "w56",
+      "region": "글로벌",
+      "title": "건설현장 AI 안전관리, 부상 감소 효과는 아직 근거 부족",
+      "summary": "AI가 건설 현장의 위험 요소를 찾아내고 있지만, 실제로 부상을 줄인다는 근거는 아직 제한적이라고 연구자들은 말한다. 온타리오교원연금(OTPP)에서 기술 투자를 맡았던 셸리 코프시는 현재 런던에 본사를 둔 소프트웨어 회사 FYLD의 CEO로서 현장 노동자를 돕는 AI를 만들고 있다. 도로·철도 유지보수처럼 몸을 많이 쓰는 일에서도 AI의 역할이 커지고 있다. 코프시는 현장 작업이 어긋나면 흔히 예산과 현금흐름부터 살피지만, 문제는 현장에서 시작된다고 말했다.",
+      "original": "AI is coming to construction sites. But does it make workers safer?",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/31/ai-construction-worker-safety.html",
+      "published": "2026-10-31T15:00+09:00"
+    },
+    {
+      "id": "w51",
+      "region": "글로벌",
+      "title": "미국, 우크라이나에 패트리엇 요격미사일 21억 달러 판매 승인",
+      "summary": "미국 정부가 우크라이나에 패트리엇 요격미사일 판매를 21억 달러 규모로 승인했다. 젤렌스키 우크라이나 대통령은 '강력한 결정'이라고 환영하면서도 미사일을 즉시 제공해야 한다고 요구했다.",
+      "original": "US approves $2.1bn sale of Patriot interceptors to Ukraine",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/321cf4f9-d236-4b50-a52c-c2a21f7c447b?syn-25a6b1a6=1",
+      "published": "2026-10-31T16:04+09:00"
+    },
+    {
+      "id": "w40",
+      "region": "글로벌",
+      "title": "예산이 빠듯해도 시작하는 미술품 컬렉션 입문법",
+      "summary": "CNBC의 안내 기사는 적은 예산으로 미술품 컬렉션을 시작하는 방법을 다룬다. 작가 조사, 구매 대상 고르기, 갤러리·아트페어·경매사를 통해 접점 찾기 등이 소개된다. 기사는 미술품 투자가 호기심과 애정에서 출발해야 한다고 강조한다. 2024년까지 데이터를 담은 10년 연환산 수익률 분석에서 주식시장이 미술품을 크게 앞질렀다. 미술 시장은 최근 70년 가운데 가장 나쁜 10년 수익률 중 일부를 기록했다. 다만 2025년에는 다소 회복됐고 2026년은 연초 이후 더 나은 해로 평가되며, 젊은 구매자가 대거 들어오고 있다.",
+      "original": "How to start an art collection on any budget",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/31/how-to-invest-in-art-collecting.html",
+      "published": "2026-10-31T21:58+09:00"
+    },
+    {
+      "id": "w4",
+      "region": "글로벌",
+      "title": "바이낸스, 63억 달러 해킹 손실 90% 보전…출금 재개 준비",
+      "summary": "바이낸스는 핫월렛에서 도난당한 약 63억 달러 규모 토큰 자산의 최대 90%를 보전했다고 토요일 밝혔다. 회사는 나머지 관련 토큰을 시장과 장외(OTC) 채널에서 계속 매입해 보전율을 100%까지 채우겠다고 했다. 주요 토큰인 BTC, ETH, USDT, BNB, SOL, USDC, XRP 등은 전액 보전됐다고 덧붙였다. 보안 점검을 거쳐 출금을 재개할 계획이다. 같은 날 FBI는 이번 도난을 북한 소행으로 판단했다고 발표했다. 리서치업체 TRM랩스는 북한 해킹 조직 트레이더트레이터(라자루스 그룹)를 지목했지만, 연결고리는 아직 입증되지 않았다.",
+      "original": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
+      "published": "2026-11-01T07:27+09:00",
+      "also": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/videos/c6m2dpz0yxn8o?at_medium=RSS&at_campaign=rss",
+          "original": "Binance's $6.3bn crypto hack biggest in history"
+        },
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/30/binance-hack-elon-musk-tesla-spacex.html",
+          "original": "'Bad time to troll': Binance co-founder Zhao asks Musk for support after hack"
+        },
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme",
+          "original": "How crypto hacking funds isolated North Korea’s nuclear programme"
+        }
+      ]
+    }
+  ]
+}

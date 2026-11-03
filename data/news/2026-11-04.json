@@ -11,18 +11,21 @@
       "headlines": [
         {
           "title": "[R&D 가라사대] JW중외제약, 통풍신약 이어 비만·탈모도 성과 낼까",
-          "source": "한국경제",
-          "date": "2026-11-02"
+          "source": "톱데일리",
+          "date": "2026-11-02",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJSmdIRDZLanExYlJ2RElvMk5RTGRaYjJIekkwYy1XTFRueW9Od2RTQWlPWFZvYjlrZDJhTm1vakt3RnpfTTd5d3VSc3hNSWF0?oc=5"
         },
         {
           "title": "JW중외제약, '엠파가드' 발매 앞두고 마케팅 본격화",
           "source": "한국경제",
-          "date": "2026-10-29"
+          "date": "2026-10-29",
+          "urlChecked": true
         },
         {
           "title": "JW중외 이어 한미도 보신티 특허전 철수...공동판매 촉각",
           "source": "한국경제",
-          "date": "2026-10-30"
+          "date": "2026-10-30",
+          "urlChecked": true
         }
       ]
     },
@@ -34,13 +37,15 @@
       "headlines": [
         {
           "title": "1년도 안 돼 꺼진 증권사 '불장 특수'…말뿐인 '체질 개선'에 투심 악화",
-          "source": "언론 보도",
-          "date": "2026-11-02"
+          "source": "인베스트조선",
+          "date": "2026-11-02",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTHB6MndVRWhLYkwwWk1qbjVrbHd1S2V5dDBoS2swQmY0VGh0Wl9mX1BpTUN2bE1MbHE3YWNNLTB2YTMtS0ZFM2ZqNnktM3lQMDlpM3pObkpNY2dLZ3RSdmtJRkxpTXlUVjBLSFU0akVpQ0ZWZm5MNHNyLWNJVlpKSHR5WQ?oc=5"
         },
         {
           "title": "자본 쌓아둔 KB證, 충당금에 막힌 우리證…은행계 증권사 2.7조 증자 무색",
-          "source": "언론 보도",
-          "date": "2026-11-04"
+          "source": "인베스트조선",
+          "date": "2026-11-04",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNjdIaFlKcHphdkxpSjF4SW4zRU5yMnNvTHdsdUFEMV9wTlNYaWNQTjBoc0dCdHVBeDdrXzNwWG8ta3pkNnpyeWJaWHV2aTlOSVprcVFjWXFmT0JEei1ra0VqbzFYbXFUY3JrNmdnanJudHJ1MTJuYklBbHFFeW00U3dmOA?oc=5"
         }
       ]
     },
@@ -52,18 +57,21 @@
       "headlines": [
         {
           "title": "한화필리조선소 새 사장에 김혁 선임…美 군함 건조 사업 확대",
-          "source": "언론 보도",
-          "date": "2026-11-03"
+          "source": "뉴스핌",
+          "date": "2026-11-03",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5OSlNJLWNGYkh3Mk9Za3ZYcW54eWNlenN4ZVNUZVR2LVFqZnB2YkJha0JiOEM3YzB1WmVvYkJCVVpaeXdLNFVpdkxJUlJTTmxvTmpLOC12ZWpLQklf?oc=5"
         },
         {
           "title": "한화, 美필리조선소 수장 교체…상선?군함 ‘복합조선소’ 속도",
-          "source": "언론 보도",
-          "date": "2026-11-03"
+          "source": "서울경제",
+          "date": "2026-11-03",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1UFhtVGJFR2k4NFh0cVRWYXNtQnM3U2swZHpzZzhsakVaVlVGTnFnMklyclJuY1d5RDh5cF9sYl9KczJ3Vkw0ZzNmNXJBV3ZIaEHSAVNBVV95cUxNdFY3S2FiSTVjc3l5akpKNC14ZUZSTFhNQjlESlFicGxONERYM3d6STA2dUNKSGF1cXJZanlCZzFoQ2g1cDhNU253UmpLcnh4NVZsNA?oc=5"
         },
         {
           "title": "[헤럴드pic] KAI노조 ‘한화 인수 반대한다’",
           "source": "헤럴드경제",
-          "date": "2026-11-03"
+          "date": "2026-11-03",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pU2tmRDlad3lWT3dUUlBQb01fZlhTcTJqX2JYZ0lWYS1xTlgzS3IzQ1dGMW5PUlFtc01mclg2Unk1MnFVSWNoMUp6SmtSMXNuNHdMbVlR?oc=5"
         }
       ]
     },
@@ -76,12 +84,14 @@
         {
           "title": "제이에스코퍼레이션, 26년3분기 연결 영업이익 539.46억원, 컨센서스 추정치 부합",
           "source": "언론 보도",
-          "date": "2026-10-29"
+          "date": "2026-10-29",
+          "urlChecked": true
         },
         {
           "title": "(주)제이에스코퍼레이션 연결재무제표기준영업(잠정)실적(공정공시)",
           "source": "DART 공시",
-          "date": "2026-10-29"
+          "date": "2026-10-29",
+          "urlChecked": true
         }
       ]
     },
@@ -94,7 +104,8 @@
         {
           "title": "아바코, 슈미드의 엔비디아·인텔·AMD 공급망 협력 소식에 유리기판 합작법인 주목",
           "source": "언론 보도",
-          "date": "2026-10-27"
+          "date": "2026-10-27",
+          "urlChecked": true
         }
       ]
     },
@@ -106,13 +117,15 @@
       "headlines": [
         {
           "title": "[특징주] 국제유가 7% 급락에 정유주 더 큰 폭 하락 마감(종합)",
-          "source": "언론 보도",
-          "date": "2026-11-03"
+          "source": "연합뉴스",
+          "date": "2026-11-03",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyRUxaMHNWM1BLTVdOLXdOUFpvdVpyX29lb1RIY09SdGJlSHlxLXBkM1lELW54bElFclFZTjl4LVFiMDdEX3FBc1NVTFVWRHRzWi0ybWRha0pYSVHSAWBBVV95cUxQSU8tV29OQ0FHQ3VvLXdGWTlRMExwXzVwY0h1TVBJZHRiRFhqSFdFdlFUOFFvOEV4el8wbHIxY2ItMzNpQkhoOWlBZkVDWTV0QUNnaHdnWU1QNkVPU0J0Zm0?oc=5"
         },
         {
           "title": "\"영업익 500% 뛰었는데 왜 이래\"…12% 급락에 개미들 '당혹' [분석+]",
-          "source": "언론 보도",
-          "date": "2026-11-03"
+          "source": "한국경제",
+          "date": "2026-11-03",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GWlBnanhoZDM4UUpJZGdDWjMtUURKN2RLd0xRempRNzNVN3JzdExSd2NPTUIxZmV3am5VdExvOEhuVnlMMHN3Ymk0UlFiNk5oRzBvZzFpZHNvZw?oc=5"
         }
       ]
     },
@@ -124,13 +137,15 @@
       "headlines": [
         {
           "title": "에프엔에스테크, IT OLED 투자 지연에 목표가 22% 하향-SK",
-          "source": "언론 보도",
-          "date": "2026-10-29"
+          "source": "이데일리",
+          "date": "2026-10-29",
+          "url": "https://n.news.naver.com/mnews/article/018/0006398452"
         },
         {
           "title": "[리포트 브리핑]에프엔에스테크, '이익 체력 강화 전망' 목표가 23,500원 - SK증권",
-          "source": "언론 보도",
-          "date": "2026-10-29"
+          "source": "뉴스핌",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRUW0tSmNxaXM3QjIteXc4c2V4aXgzREVUVzZhMGc1R1JIOE1Hbjd2UXI0UzVWR2RYcFB4bE9XNkNseW0ycnptQ04tQ0NoT1N3RG5ObkgzMlFBdVpP?oc=5"
         }
       ]
     },
@@ -142,8 +157,9 @@
       "headlines": [
         {
           "title": "“이마트·한화생명도?”…저평가 딱지 붙는 151곳",
-          "source": "언론 보도",
-          "date": "2026-11-01"
+          "source": "이데일리",
+          "date": "2026-11-01",
+          "url": "https://n.news.naver.com/mnews/article/018/0006401214"
         }
       ]
     },
@@ -155,13 +171,15 @@
       "headlines": [
         {
           "title": "정은경 “‘납 배출’ 킬레이션 주사제 비급여 파악…과다 공급기관 행정조사”",
-          "source": "언론 보도",
-          "date": "2026-10-27"
+          "source": "헤럴드경제",
+          "date": "2026-10-27",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nXzhvWnNFb3FkRlJ3alVtZU9QMDFhelhsRjdFbEJRc3RzQnJsay1aQk54N3R2dlNuRzI4TVVndzNybGthYVJESjBQYWNmMzZBdGxESENn?oc=5"
         },
         {
           "title": "'납 배출 주사'로 급락한 DN오토 주식…與박상혁 \"ESG공시 법정화 필요\"",
-          "source": "언론 보도",
-          "date": "2026-10-20"
+          "source": "머니투데이",
+          "date": "2026-10-20",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aS1psZ3BlYXFEWVgzS1lTcThaMnJyU0Z0NlpSRGdsMTVBY3dGZUptdU9TNEY5SWVsZUl4YmI3VksxamYxbDdyWXZCQTVkVUl0VFhUcHNzU1NBcFlCZmNGUWhVcDIzUHJweGlOdtIBckFVX3lxTE5zLWVhUnBJMjFPelRDSGtTSm1zWkZ5U2FNY1lMNENWcDVsaGFHVGpESU1acWJlSGRmVGlSTU5lUDIyZnh2Q0EtZzdHN1VzMWQ3V0tMX2xkcWpWWDk0bmFFbTIwMWhJaS01Ykx3VzBZOHBpQQ?oc=5"
         }
       ]
     },
@@ -173,23 +191,27 @@
       "headlines": [
         {
           "title": "\"美상무부, SK하닉 中공장에 장비 반입 허가 보류\"",
-          "source": "언론 보도",
-          "date": "2026-11-04"
+          "source": "이데일리",
+          "date": "2026-11-04",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeVdQT1ZXU2FHd2pnVVpaQUJOVVlMQmM4U1JSR1hnNUR6TDhCMGNfbkRoNnZONnhzRTh6VkYzSFE3enlUUEhSeUt0QzJvclhzYzU3UG0wSlJjdkZ1QzVuVWVla0hiQk1LZ21TZXBaaTZOMDNkUVBvQXNYWGZoel9pcQ?oc=5"
         },
         {
           "title": "로이터 \"SK하이닉스 450억 달러 뉴욕 투자, 美 대중규제 복병\"",
-          "source": "언론 보도",
-          "date": "2026-11-04"
+          "source": "뉴스핌",
+          "date": "2026-11-04",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pU3ZpaWpZUDZGaDlIS3B5YkU3NFVvX0tDMjFxM01GUDVtOEo5dDF4cTU4YzVGSVNaX25MZzR5QXA3SHJMemNreWZqWGc3TzN0SklLVkJ2ZUtBOWM1?oc=5"
         },
         {
           "title": "메가 히트 예상 빗나갔다…12→8단 낮아지는 HBM 단수",
-          "source": "언론 보도",
-          "date": "2026-11-04"
+          "source": "이투데이",
+          "date": "2026-11-04",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kWkszSGU0Ri1NRFBJQk5ndmNQN1lVUjBuXy04TF9oSzBLSklHMUg2MTNFMnd5RjVzcElJS1lSWnh2YWxTaHlCNlhOVjJRLThjc2NVLQ?oc=5"
         },
         {
           "title": "\"삼전·닉스, 내년 영업익 1110조 전망…AI 우려 넘는다\"-KB",
-          "source": "언론 보도",
-          "date": "2026-11-04"
+          "source": "한국경제",
+          "date": "2026-11-04",
+          "url": "https://n.news.naver.com/mnews/article/015/0005349973"
         }
       ]
     },
@@ -201,8 +223,9 @@
       "headlines": [
         {
           "title": "美·이란 협상 기대에 국제유가 7%↓…WTI 100달러 밑으로",
-          "source": "언론 보도",
-          "date": "2026-11-03"
+          "source": "헤럴드경제",
+          "date": "2026-11-03",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IZWNxNkdqUW13aFdSaFJld0pNVnBFU3o2MkN1aXJSVWJURng4NV9mbklFMXRRRzNjcVNraF9rSGs5M2VxaFltcWJmOTNHZXl4bUJrczhB?oc=5"
         }
       ]
     },
@@ -214,13 +237,15 @@
       "headlines": [
         {
           "title": "휴메딕스, 의료진 핸즈온 세미나서 ‘에스테필’ 복합 시술 전략 공유",
-          "source": "언론 보도",
-          "date": "2026-11-02"
+          "source": "한국경제",
+          "date": "2026-11-02",
+          "url": "https://n.news.naver.com/mnews/article/015/0005349186"
         },
         {
           "title": "휴메딕스, 서울뷰티글로벌과 손잡고 글로벌 미용의료 시장 공략",
-          "source": "언론 보도",
-          "date": "2026-10-30"
+          "source": "서울경제",
+          "date": "2026-10-30",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfX3dKVkozTFdvNjdGTzZ6VkpDTEJkckxvbEFfNXpwa3l2R3lxanRDYU5Dcm1LRlM0blFZUDQ0UDlocUJBVzZnUzkzT2lCcURURkHSAVNBVV95cUxNckd4N2lhTkxBa1NMZy1MNU9PSHYwQkJVMmpnZExwS21LcWRocUNOVkFzT2Rra21IdEc0UHRMRXltcUVxOE1mWW5nelZRY2RWNS1wSQ?oc=5"
         }
       ]
     },
@@ -233,7 +258,8 @@
         {
           "title": "[장중수급포착] 한솔아이원스, 외국인 6일 연속 순매수행진... 주가 +1.00%",
           "source": "언론 보도",
-          "date": "2026-11-02"
+          "date": "2026-11-02",
+          "urlChecked": true
         }
       ]
     },
@@ -245,8 +271,9 @@
       "headlines": [
         {
           "title": "와이엠씨, 中 JDC와 반도체·디스플레이 소재 사업 전략적 협력 기본합의서 체결",
-          "source": "언론 보도",
-          "date": "2026-10-28"
+          "source": "아시아경제",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tY1BpOW9yM3NCdjhOYjNJYWZvN2I4bFcxcG01UE9RZmYzaTFBRkk2UEFibE0yVEZlZU85cUs2SE5RTkh6MHhEVHdkT0xhdTdENkxXczJkaFNNTnhmdElJQ0NB?oc=5"
         }
       ]
     },
@@ -259,17 +286,20 @@
         {
           "title": "디엘이앤씨 주식회사 (정정)단일판매ㆍ공급계약체결",
           "source": "DART 공시",
-          "date": "2026-11-03"
+          "date": "2026-11-03",
+          "urlChecked": true
         },
         {
           "title": "매출 감소에도…현대?대우 웃고, GS?DL 울고",
-          "source": "언론 보도",
-          "date": "2026-11-02"
+          "source": "서울경제",
+          "date": "2026-11-02",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PSVBWZHBXWXRHRmh1cVVpZFhSRU5ZYjVpMmlFazdWU0hGNGFxUTVnZF9SSzU0TFJ0NDNjbUR3Tk5PSkNTTDFETVVuNVg1ejNXenfSAVNBVV95cUxPdW5RbFdkS05BNGlGa0o3OVJMRzNYMElNU2hEaUhaS1lxYWMzakVjYnd1Nms2LWNXOGdyZkJUcXZrdWVBSHVpSnZsUWV1a1M1Z2hkZw?oc=5"
         },
         {
           "title": "\"이익 두 배 늘었는데 매출은\"… 외형성장 날개 꺾인 건설사들",
-          "source": "언론 보도",
-          "date": "2026-11-03"
+          "source": "머니투데이",
+          "date": "2026-11-03",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjR1k4elRXU1dLd3NNX3lTaE5pS2RGV1pMamdpWnRSZnBtQ3VuTWtROWZTS1VSSGhNalRMSDRLTHBpUGVTaXJMc0RUazZQYkZtdFYwNnduRVE4emdGSFR1YVllMXg2bFV5SVZ0Z1Zoc9IBb0FVX3lxTFBjR1k4elRXU1dLd3NNX3lTaE5pS2RGV1pMamdpWnRSZnBtQ3VuTWtROWZTS1VSSGhNalRMSDRLTHBpUGVTaXJMc0RUazZQYkZtdFYwNnduRVE4emdGSFR1YVllMXg2bFV5SVZ0Z1Zocw?oc=5"
         }
       ]
     },
@@ -281,13 +311,15 @@
       "headlines": [
         {
           "title": "\"삼전·닉스, 내년 영업익 1110조 전망…AI 우려 넘는다\"-KB",
-          "source": "언론 보도",
-          "date": "2026-11-04"
+          "source": "한국경제",
+          "date": "2026-11-04",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqeDZqaEpDSE9NaFhIQ1Z2Qmw5QnpSZ09HcEdEYjVYeU5CdW9YeWtxVFZJVmFzVTFrY0pvTnM0bGJKVTlrYU91V3BSR2VTOHRMNjRWT2xGVFE3Zw?oc=5"
         },
         {
           "title": "메가 히트 예상 빗나갔다…12→8단 낮아지는 HBM 단수",
-          "source": "언론 보도",
-          "date": "2026-11-04"
+          "source": "이투데이",
+          "date": "2026-11-04",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kWkszSGU0Ri1NRFBJQk5ndmNQN1lVUjBuXy04TF9oSzBLSklHMUg2MTNFMnd5RjVzcElJS1lSWnh2YWxTaHlCNlhOVjJRLThjc2NVLQ?oc=5"
         }
       ]
     },
@@ -299,13 +331,15 @@
       "headlines": [
         {
           "title": "[글로벌 승부수] [휴젤] 차세대 톡신·필러에 신소재까지…다변화 속도",
-          "source": "언론 보도",
-          "date": "2026-11-03"
+          "source": "톱데일리",
+          "date": "2026-11-03",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LQi1yNE0yYnB3MDFtUmY4Zk9FdDlLMU9NOGJIU0JoaXF6aVFiNE5QYWVYbDFyTFpCMlcwRWFNdDhqNHR6RzNqRUF2RjhEdUhz?oc=5"
         },
         {
           "title": "‘이니보’ 中 보톡스 시장 뚫었다…국내 3호",
-          "source": "언론 보도",
-          "date": "2026-10-30"
+          "source": "헤럴드경제",
+          "date": "2026-10-30",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Ob01GSkZPVkVoc29qUUZSNFZsa254OEdNR1Y2RzRIMk1ZT3ZWQVNGRTRMcFJLek5rV2lNd0FaWVhvYU5iRXpURmZwaTdmd3B3RE16a2ln?oc=5"
         }
       ]
     },
@@ -318,12 +352,14 @@
         {
           "title": "(주)위드텍 단일판매ㆍ공급계약체결",
           "source": "DART 공시",
-          "date": "2026-10-30"
+          "date": "2026-10-30",
+          "urlChecked": true
         },
         {
           "title": "위드텍, SK하이닉스와 39억 규모 장비 공급계약",
-          "source": "언론 보도",
-          "date": "2026-10-16"
+          "source": "이데일리",
+          "date": "2026-10-16",
+          "url": "https://n.news.naver.com/mnews/article/018/0006389343"
         }
       ]
     },
@@ -336,12 +372,14 @@
         {
           "title": "(주)뉴파워프라즈마 교환청구권행사",
           "source": "DART 공시",
-          "date": "2026-10-29"
+          "date": "2026-10-29",
+          "urlChecked": true
         },
         {
           "title": "뉴파워프라즈마, 주식등의 대량보유자 소유주식수 변동",
           "source": "언론 보도",
-          "date": "2026-10-30"
+          "date": "2026-10-30",
+          "urlChecked": true
         }
       ]
     }

@@ -1,0 +1,701 @@
+{
+  "date": "2026-11-05",
+  "generatedAt": "2026-11-05T07:55+09:00",
+  "items": [
+    {
+      "id": "w37",
+      "region": "미국",
+      "title": "9월 구인 752만 건 급증…노동시장에 긍정 신호",
+      "summary": "미 노동통계국(BLS)에 따르면 9월 구인 건수가 752만 건으로 전월보다 33만 3000건 늘었다. 다우존스 컨센서스 예상치인 715만 건을 크게 웃도는 수치다. 구인율은 전월보다 0.2%포인트 오른 4.5%였다. 퇴사자와 채용이 늘었고 해고는 줄어, 고용보고서를 앞둔 긍정적 신호로 받아들여졌다.",
+      "original": "Job openings posted big September gain in positive sign for labor market ahead of payrolls report",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/03/job-openings-posted-big-september-gain-in-positive-sign-for-labor-market-ahead-of-payrolls-report.html",
+      "published": "2026-11-04T04:15+09:00"
+    },
+    {
+      "id": "w2",
+      "region": "미국",
+      "title": "바이낸스 63억 달러 해킹, 커스터디가 핵심 쟁점으로",
+      "summary": "바이낸스가 겪은 63억 달러 규모 해킹은 암호화폐 인프라 투자 흐름을 바꿀 수 있다는 분석이다. 투자자들이 암호화폐 기업을 평가할 때 자산 보관(커스터디) 업체와 보안 인프라에 더 높은 프리미엄을 줄 가능성이 커졌다. 업계는 거래량과 수수료 의존에서 벗어나 전통 금융과 이어지는 인프라 구축으로 옮겨가는 중인데, 이번 사건으로 사이버보안·컴플라이언스·재무 건전성이 더 중요해졌다. 바이낸스는 영향을 받은 63.4억 달러 자산의 98%를 이미 보전했다고 밝혔다.",
+      "original": "Binance breach puts custody at center of crypto infrastructure trade",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/03/binance-breach-puts-custody-at-center-of-crypto-infrastructure-trade.html",
+      "published": "2026-11-04T05:13+09:00",
+      "also": [
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
+          "original": "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto"
+        }
+      ]
+    },
+    {
+      "id": "w13",
+      "region": "미국",
+      "title": "패니메이·프레디맥 급등, 애크먼 '관리 체제 탈출 전환점'",
+      "summary": "빌 애크먼은 중간선거가 패니메이와 프레디맥의 정부 관리 체제 해제에 전환점이 될 수 있다고 주장했다. 이에 두 주택금융기관 주가가 급등했다. 두 회사 주가는 10월 14일부터 월요일 종가까지 각각 60% 넘게 올랐고, 화요일에도 각각 3% 안팎 상승했다. 애크먼은 두 회사를 연방 관리에서 풀어줘야 한다고 오랫동안 주장해 왔다.",
+      "original": "Fannie Mae, Freddie Mac rally as Ackman presses for conservatorship exit",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/03/ackman-fannie-mae-freddie-mac-conservatorship.html",
+      "published": "2026-11-04T05:52+09:00"
+    },
+    {
+      "id": "w21",
+      "region": "미국",
+      "title": "10월 민간 고용 8만 6000명…예상 소폭 웃돌아",
+      "summary": "ADP에 따르면 10월 민간 부문 일자리가 8만 6000명 늘었다. 시장 예상치 7만 5000명을 소폭 웃돌았고, 9월 하향 수정치와 같은 수준이다. 무역·운송·유틸리티가 3만 9000명으로 가장 많이 늘었고, 교육·보건 서비스 2만 8000명, 레저·숙박 1만 9000명이 뒤를 이었다. 노동시장이 다시 안정을 찾는 신호라는 평가다.",
+      "original": "Private companies added 86,000 jobs in October, slightly higher than expected, ADP says",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/04/private-companies-added-86000-jobs-in-october-slightly-higher-than-expected-adp-says.html",
+      "published": "2026-11-04T22:49+09:00"
+    },
+    {
+      "id": "w81",
+      "region": "미국",
+      "title": "AI 데이터센터주 하락…텍사스 주지사 선거가 변수로",
+      "summary": "민주당은 데이터센터 건설 중단(모라토리엄)을 주장하는 쪽으로 여겨지는데, 중간선거에서 크게 이기면서 AI 데이터센터 관련주가 압박을 받았다. 특히 텍사스 주지사 선거에서 민주당 후보 Gina Hinojosa가 현직 공화당 그렉 애벗 주지사를 꺾은 것이 큰 충격이었다고 애널리스트들은 말했다. Hinojosa는 주 내 데이터센터에 즉각적인 모라토리엄을 도입하겠다고 공약했다. Wells Fargo에 따르면 계획된 데이터센터 기가와트의 27%가 텍사스에 있다.",
+      "original": "AI data center stocks and Musk's SpaceX decline as Texas governor result raises risks of a slowdown",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html",
+      "published": "2026-11-04T23:43+09:00",
+      "also": [
+        {
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-slip-as-election-results-strike-at-the-core-of-data-center-optimism-b55d19b3?mod=mw_rss_topstories",
+          "original": "Micron and other chip stocks slip as election results strike at the core of data-center optimism"
+        }
+      ]
+    },
+    {
+      "id": "w6",
+      "region": "미국",
+      "title": "민주당 승리가 미국 경제와 트럼프에 주는 의미",
+      "summary": "유권자들이 가장 중요하게 꼽은 쟁점은 경제였다. 높은 유가, 데이터센터 투자, 관세, 누적된 부채 같은 경제 문제가 공화당 참패에 큰 역할을 했다. 민주당이 상·하원을 모두 차지하면서 트럼프 대통령은 임기 2년을 남기고 정책에 대한 견제를 받게 됐다. 글로벌 증시는 민주당 승리에 안도하며 반등했다. 관건은 민주당이 실제로 경제 정책을 바꿀 수 있느냐는 점이다.",
+      "original": "What the Democrats' midterms win means for the US economy and Trump",
+      "source": "DW",
+      "url": "https://www.dw.com/en/what-the-democrats-midterms-win-means-for-the-us-economy-and-trump/a-79853716?maca=en-rss-en-bus-2091-rdf",
+      "published": "2026-11-05T00:09+09:00"
+    },
+    {
+      "id": "w62",
+      "region": "미국",
+      "title": "머스크 기록적 선거 베팅 역풍…텍사스 사업 흔들",
+      "summary": "일론 머스크는 중간선거에 최소 4억 7400만 달러를 쏟아부어 역대 최대 지출 기록을 세웠다. 이 중 2억 2400만 달러, 거의 절반이 텍사스에 투입됐다. 그러나 그가 지지한 켄 팩스턴 상원 후보와 그렉 애벗 주지사가 민주당 물결에 크게 패했다. 이번 결과는 머스크와 AI 산업 전반에 대한 반감으로 해석되며, 부채로 추진되는 데이터센터 투자도 더 엄격한 감시를 받게 됐다. CNBC가 선거 자금 기록을 분석해 보도했다.",
+      "original": "Elon Musk’s record election bet backfired. The backlash may reach beyond one billionaire",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/04/elon-musk-midterms-ai-data-centers.html",
+      "published": "2026-11-05T00:29+09:00"
+    },
+    {
+      "id": "w72",
+      "region": "미국",
+      "title": "트럼프 레임덕 시대, 세계 경제에 미칠 영향",
+      "summary": "트럼프가 하원과 상원을 모두 잃으면서 마지막 2년의 임기에 대한 불확실성이 세계 경제에 제기됐다. 금융시장, 성장률, 물가, 정부 차입비용, 생활수준 등 여러 영역에 영향이 미칠 것이라는 분석이다. 아시아 장에서는 초반 하락했다가 반등했다.",
+      "original": "After the US midterms, what will a lame duck Trump mean for the global economy?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/04/explainer-midterms-trump-us-global-economy-markets",
+      "published": "2026-11-05T00:56+09:00"
+    },
+    {
+      "id": "w64",
+      "region": "미국",
+      "title": "트럼프 러시아산 경유 거래 차질…미 연료 공급 20년 만에 최저",
+      "summary": "트럼프 행정부가 연료 가격을 낮추고 정치적 지지 기반을 다지려고 추진한 러시아산 경유 거래가 흔들리고 있다. 두 척의 유조선이 항로를 바꾸면서 계획에 차질이 생겼다. 같은 시기 미국의 연료 공급은 20년 만에 최저 수준으로 떨어졌다.",
+      "original": "Trump diesel deal with Russia falters as US fuel supplies hit 20-year low",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/f66ebf48-6d09-4a91-9af5-8bf7adca65ba?syn-25a6b1a6=1",
+      "published": "2026-11-05T03:54+09:00"
+    },
+    {
+      "id": "w68",
+      "region": "미국",
+      "title": "중간선거 후 금·은 급등, 달러는 약세",
+      "summary": "민주당의 의회 장악 소식에 귀금속이 강세를 보였다. 현물 금은 3.4% 오른 온스당 4061.30달러, 현물 은은 5.1% 오른 온스당 52.29달러에 거래됐다. 달러 가치는 하락했고, 정치 리스크가 완화되며 미 증시는 상승하고 국채 금리는 낮아졌다. 개표가 이어지는 가운데 민주당의 하원 승리가 확실시되던 상황이었다.",
+      "original": "Gold and silver prices jump, dollar dips as Democrats take control of Congress",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/04/gold-silver-platinum-dollar-midterms.html",
+      "published": "2026-11-05T04:11+09:00"
+    },
+    {
+      "id": "w26",
+      "region": "미국",
+      "title": "애플·빅테크 급등…중간선거 불확실성 해소",
+      "summary": "선거 결과로 불확실성이 걷히면서 애플, 아마존, 구글, 메타, 마이크로소프트 주가가 일제히 올랐다. 이날 아마존은 8%, 구글은 6% 넘게, 마이크로소프트는 4%, 메타는 3% 올랐고 애플은 7% 가까이 뛰었다. JP모건 자산운용의 데이비드 켈리는 분할 정부가 성장과 물가 상승세를 모두 완만하게 만들 것이라고 말했다. 반면 머스크 관련주와 데이터센터 관련주는 하락했다.",
+      "original": "Hyperscalers and Apple surge after election results remove investor uncertainty",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/04/apple-and-other-big-tech-stocks-surge-after-2026-midterm-elections.html",
+      "published": "2026-11-05T04:37+09:00",
+      "also": [
+        {
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/microsoft-and-amazon-combine-for-a-400-billion-market-cap-boost-and-these-factors-show-why-6655d1a9?mod=mw_rss_topstories",
+          "original": "Microsoft and Amazon combined to see a $424 billion market-cap boost — and these factors show why"
+        }
+      ]
+    },
+    {
+      "id": "w42",
+      "region": "미국",
+      "title": "CVS, 약국 사업 분리…2028년 상반기 두 회사로",
+      "summary": "CVS 헬스는 2028년 상반기까지 두 개의 상장사로 나뉘겠다는 계획을 발표했다. 약국 사업(매장 약 9000곳 포함)을 보험 사업인 애트나와 약품급여관리업체 캐어마크에서 떼어내는 구조다. 회사는 2년 전 분할을 검토하다 철회한 바 있다. 분석가들은 약 2년간의 실적 회복 이후 소매 약국 사업이 독립할 만큼 강해졌다고 평가한다. 약국 체인 분사를 두고는 약품급여관리업체와 건강보험사에 대한 정치권 압박도 커지는 중이다.",
+      "original": "CVS Health plans to split itself up. Here's why a breakup could make sense now",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/04/cvs-health-pharmacy-aetna-split.html",
+      "published": "2026-11-05T04:58+09:00",
+      "also": [
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/04/cvs-health-pharmacy-insurance",
+          "original": "CVS Health to split pharmacy chain from health insurance"
+        },
+        {
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/2478a5ea-263a-4f4f-ac96-7d619fb39bb8?syn-25a6b1a6=1",
+          "original": "CVS Health to break up $102bn healthcare empire"
+        }
+      ]
+    },
+    {
+      "id": "w12",
+      "region": "미국",
+      "title": "부채한도 협상 재점화…시장에는 변동성 위험",
+      "summary": "민주당의 선거 압승으로 다음 부채한도 협상의 정치 구도가 뒤집힐 수 있다. 과거 공화당이 예산 삭감을 요구했던 것과 달리, 이제는 민주당이 지출 양보를 얻어낼 가능성이 커졌다. 그러나 협상이 길어지면 채권시장의 변동성이 커지고 최악의 경우 채무불이행 위험까지 불거질 수 있다는 분석이다. 이 협상은 내년 금융시장에 가장 큰 정치적 위험으로 꼽힌다.",
+      "original": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
+      "published": "2026-11-05T05:28+09:00"
+    },
+    {
+      "id": "w96",
+      "region": "미국",
+      "title": "중간선거 후 국채 금리 하락…10년물 4.88%",
+      "summary": "민주당의 중간선거 승리를 저울질하면서 10년물 국채 금리가 하락했다. 10년물 금리는 6bp 넘게 내린 4.884%, 30년물은 5.273%, 2년물은 4.573%를 기록했다. 유가 하락도 금리 하락에 영향을 줬다. 금리와 채권 가격은 반대로 움직이므로 금리 하락은 채권 가격 상승을 뜻한다.",
+      "original": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
+      "published": "2026-11-05T06:18+09:00"
+    },
+    {
+      "id": "w1",
+      "region": "미국",
+      "title": "경제가 트럼프를 집권시켰고, 이제 경제가 그를 흔든다",
+      "summary": "CNBC 유권자 조사에서 응답자들은 민주주의나 이민보다 경제를 국가가 직면한 가장 중요한 쟁점으로 꼽았다. 2024년 대선에서 트럼프는 물가와 생활비 불안을 내세워 경합주와 전국 득표에서 모두 이겼다. 그러나 2년 뒤 같은 생활비 문제가 표심을 돌려세워 공화당은 워싱턴과 주 단위에서 권력을 상당 부분 잃었다. 기사는 이 경제 문제가 이제 트럼프의 발목을 잡고 있다고 진단한다.",
+      "original": "The economy brought Trump back to power. Now it's his downfall",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/04/2026-midterms-trump-economy-iran-war.html",
+      "published": "2026-11-05T06:24+09:00"
+    },
+    {
+      "id": "w28",
+      "region": "미국",
+      "title": "미 증시 8월 이후 최고 상승…민주당 압승에 안도 랠리",
+      "summary": "민주당의 중간선거 압승 이후 미국 증시가 8월 이후 가장 좋은 하루를 보냈다. 하이퍼스케일러(대형 클라우드 기업)는 급등한 반면 반도체주는 하락했다. 투자자들이 AI 붐에 대한 반발이 예상되는 가운데 승자와 패자를 가르는 베팅에 나섰다는 분석이다.",
+      "original": "US stocks post best day since August after Democrats sweep midterms",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1",
+      "published": "2026-11-05T06:33+09:00",
+      "also": [
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears",
+          "original": "US stocks rise, dollar slides as investors digest Democrats’ midterm victories"
+        },
+        {
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/dow-scores-its-best-day-in-18-months-in-a-broad-relief-rally-after-democrats-sweep-to-power-in-congress-d7348fc0?mod=mw_rss_topstories",
+          "original": "Dow scores its best day in 18 months in a broad relief rally after Democrats sweep to power in Congress"
+        },
+        {
+          "source": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/politics/u.s.-midterm-elections/us-midterms-live-wall-street-rallies-as-trump-signals-cooperation",
+          "original": "US midterms live: Wall Street rallies as Trump signals cooperation"
+        }
+      ]
+    },
+    {
+      "id": "w59",
+      "region": "미국",
+      "title": "빅테크가 가른 S&P500…역사적 괴리에 주목",
+      "summary": "S&P500 지수는 과매도 구간까지 떨어졌지만, 구성 종목의 거의 절반은 여전히 과매수 상태다. 빅테크 주도로 미 증시가 역사적으로 드문 방향으로 갈라지고 있다. 투자자들이 이 괴리에 주목해야 한다는 분석이다.",
+      "original": "Big Tech is driving a historic divide in the S&P 500. Why investors need to take notice.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/wall-street-veteran-says-these-are-some-of-the-most-unbelievable-charts-he-has-ever-seen-2c78e677?mod=mw_rss_topstories",
+      "published": "2026-11-05T06:33+09:00"
+    },
+    {
+      "id": "w45",
+      "region": "미국",
+      "title": "피그마 주가 하락…AI 기능 비용 부담 우려",
+      "summary": "피그마는 AI 모델과 에이전트에 대한 투자로 사용량이 늘고 있다. 그러나 이 기능을 제공하는 데 드는 비용이 크게 늘어 투자자들이 우려하고 있다. 이 때문에 주가가 하락했다.",
+      "original": "Figma’s stock falls as investors worry that AI momentum is coming at a high price",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/figmas-stock-falls-as-investors-worry-that-ai-momentum-is-coming-at-a-high-price-1aa2134d?mod=mw_rss_topstories",
+      "published": "2026-11-05T06:48+09:00"
+    },
+    {
+      "id": "w9",
+      "region": "미국",
+      "title": "공화당 참패가 트럼프에 던지는 과제, 관세와 이란 전쟁",
+      "summary": "민주당이 하원과 상원에서 다수를 확보하면서 트럼프 대통령의 관세, 이란 전쟁, 워싱턴 지역 건설 사업 등이 거센 견제에 직면하게 됐다. 이번 결과로 트럼프가 임기 후반에 당파적 법안을 통과시킬 가능성은 사실상 사라졌다. 특히 의회 없이도 추진할 수 있었던 관세 정책과 대외 정책이 새 쟁점으로 떠올랐다.",
+      "original": "What Republicans' huge loss means for Trump",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/04/trump-midterm-election-results-congress.html",
+      "published": "2026-11-05T06:50+09:00"
+    },
+    {
+      "id": "w38",
+      "region": "미국",
+      "title": "민주당 압승 날 상승 1위 모자이크…기술주는 급락",
+      "summary": "중간선거 결과가 나온 날 S&P500 종목 가운데 화학업체 모자이크(Mosaic)가 가장 강한 상승세를 보였다. 반면 여러 기술주와 이들과 연결된 전력 공급업체들은 급락했다.",
+      "original": "These stocks soared the most today after the Democrats trounced Trump",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/these-stocks-have-soared-the-most-today-after-the-democrats-trounced-trump-9d785314?mod=mw_rss_topstories",
+      "published": "2026-11-05T06:55+09:00"
+    },
+    {
+      "id": "w22",
+      "region": "미국",
+      "title": "퀄컴 주가 하락…애플 상실과 메모리 가격 압박",
+      "summary": "퀄컴 주가가 두 가지 악재에 밀려 하락했다. 애플 사업을 잃게 된 것이 첫 번째 요인이다. 높은 메모리 가격이 스마트폰 수요 전반을 짓누르고 있는 것이 두 번째 요인이다. 이 때문에 매출 전망에 부담이 될 수 있다는 평가다.",
+      "original": "Qualcomm’s stock falls as twin forces pressure sales",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/qualcomms-stock-falls-as-twin-forces-pressure-sales-fa161159?mod=mw_rss_topstories",
+      "published": "2026-11-05T07:03+09:00"
+    },
+    {
+      "id": "w95",
+      "region": "유럽",
+      "title": "프라이마크 분리 앞두고 '활기 부족'…이익 감소",
+      "summary": "프라이마크는 연말까지 모회사 Associated British Foods(ABF)의 식품 사업에서 분리될 예정이다. 이익이 줄어든 가운데 분리 자체는 논리적으로 맞지만 큰 가치를 드러내지는 못할 것이라는 평가다. 지배 가문인 웨스턴 가문이 20년이나 걸려 이 구상을 받아들였다는 지적도 있다. 회사는 가정 배송 계획을 2년 앞당기는 등 이익 감소에 대응하고 있다.",
+      "original": "Primark lacks fizz as it approaches its go-it-alone moment",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/03/primark-lacks-fizz-approaches-go-it-alone-moment-nils-pratley",
+      "published": "2026-11-04T02:58+09:00"
+    },
+    {
+      "id": "w99",
+      "region": "유럽",
+      "title": "사설 '영국의 성장 집착'…다른 경제학은 가능하다",
+      "summary": "영국 정치권은 오랫동안 경제 성장에 집착해 왔다. 2024년 총선 전 키어 스타머는 '성장은 노동당의 집착이 돼야 한다'고 말했고, 앤디 번햄 정부 역시 '모든 우편번호에 성장을'을 내세우고 있다. 사설은 재무부가 낡은 정설에 얽매여 있다고 비판하며, 다른 경제학이 가능하다고 주장한다. 최근 Guardian의 팟캐스트 'Radical Thinking'을 필청 콘텐츠로 추천했다.",
+      "original": "The Guardian view on Labour’s growth obsession: a different economics is possible | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/03/the-guardian-view-on-labours-growth-obsession-a-different-economics-is-possible",
+      "published": "2026-11-04T03:30+09:00"
+    },
+    {
+      "id": "w31",
+      "region": "유럽",
+      "title": "영국·EU, 식품 수출 검역 걷어내는 초안 합의",
+      "summary": "영국과 EU가 브렉시트 이후 식품·농산물 수출에 붙은 검역 절차를 없애는 초안에 합의했다. 200쪽 분량의 SPS(동식물 위생 검역) 합의안 초안이 EU 회원국에 회람됐다. 이 식품 합의는 브렉시트 재조정 과정에서 지금까지 나온 가장 중요한 성과로 꼽힌다. 이달 말 열리는 영국·EU 정상회의를 앞두고 있으며, 배출권거래와 청년 취업 제도에 관한 초안도 함께 회람됐다.",
+      "original": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T05:53+09:00",
+      "also": [
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/nov/03/andy-burnham-to-unveil-eu-trade-deals-brexit",
+          "original": "Andy Burnham to unveil EU trade deals worth billions of pounds"
+        }
+      ]
+    },
+    {
+      "id": "w7",
+      "region": "유럽",
+      "title": "ECB 임금 추적지표, 2027년 임금 상승률 소폭 상승",
+      "summary": "ECB 임금 추적지표에 따르면 단체협약에 따른 협상 임금 상승률은 2026년 2.3%다. 2026년 하반기에는 2.7%, 2027년 상반기에는 2.8%로 높아지고, 2027년 3분기에는 2.4%로 다시 낮아질 전망이다. 다만 2027년 구간은 집계 대상 근로자 비중이 23~32% 수준으로 낮아 해석에 주의가 필요하다.",
+      "original": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026",
+      "source": "ECB",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html",
+      "published": "2026-11-04T09:00+09:00"
+    },
+    {
+      "id": "w54",
+      "region": "유럽",
+      "title": "새빌스 '영국 집값 2028년에야 회복'",
+      "summary": "새빌스는 영국 주택시장이 2028년이 돼야 회복될 것으로 내다봤다. 중동 전쟁과 연결된 높은 모기지 금리가 구매를 억누르고 집값을 떨어뜨리고 있다. 2026년 남은 기간 평균 집값은 완만히 하락하고, 2027년에는 1.5% 떨어질 것으로 예상했다. 2031년까지 5년간은 집값이 15.8%, 평균 5만 6500파운드 오를 것으로 전망했다.",
+      "original": "Britain’s housing market unlikely to recover until 2028, says Savills",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/04/britains-housing-market-unlikely-to-recover-until-2028-says-savills",
+      "published": "2026-11-04T14:00+09:00"
+    },
+    {
+      "id": "w61",
+      "region": "유럽",
+      "title": "영국 에너지 중개업체 불완전판매 단속…보너스 제한",
+      "summary": "영국 에너지 공급사와 중개업체가 규정을 어기면 경영진 보너스가 줄어든다. 이 방안은 에너지 독립법안을 통해 도입된다. 이 법으로 Ofgem(영국 에너지 규제기관)은 보상 명령, 과징금, 불량 사업자 퇴출 권한을 얻는다. 기업용 에너지 계약에서 중개인의 역할이 큰데도 이들은 대부분 규제를 받지 않아 왔다는 지적이다.",
+      "original": "Rogue UK energy bosses and brokers face crackdown on mis-selling",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/04/rogue-energy-bosses-and-brokers-face-crackdown-on-mis-selling",
+      "published": "2026-11-04T15:00+09:00"
+    },
+    {
+      "id": "w100",
+      "region": "유럽",
+      "title": "노보 노르디스크, 웨고비 알약 호조에 전망 상향",
+      "summary": "노보 노르디스크가 예상보다 일찍 3분기 실적을 발표했고, 웨고비 알약 판매가 추정치를 크게 웃돌았다. 3분기 매출은 792억 덴마크 크로네(119억 달러)로 환율을 제외하고 전년 대비 4% 늘었다. 이에 따라 연간 매출과 영업이익 증가율 전망을 -2%~2%(고정환율 기준)로 올렸다. 종전 전망치는 -6%~0%였다. 주가는 장 초반 최대 6%까지 올랐다.",
+      "original": "Novo shares jump as Wegovy pill sales impress, drugmaker hikes outlook",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/04/novo-q3-earnings-wegovy-sales.html",
+      "published": "2026-11-04T19:40+09:00"
+    },
+    {
+      "id": "w29",
+      "region": "유럽",
+      "title": "유로존 10월 물가 4%…3년 만에 최고, 금리 인상 우려",
+      "summary": "유로존의 10월 물가 상승률 속보치가 4%로 3년 만에 처음 4%대에 올라섰다. 9월의 3.8%에서 가속된 것으로, 경제학자들의 예상과 일치했다. 에너지 물가 상승률이 9월 18.9%에서 20.8%로 높아져 상승을 이끌었다. 순에너지 수입국인 유럽은 이란 전쟁 이후 에너지 충격에 취약해 물가가 꾸준히 올라 왔다.",
+      "original": "Euro zone inflation hits 4% for first time in three years as interest rate hike looms",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/04/euro-zone-cpi-inflation-october-ecb-rate-hike.html",
+      "published": "2026-11-04T19:47+09:00"
+    },
+    {
+      "id": "w47",
+      "region": "유럽",
+      "title": "BMW 이익률 전망 하향…8000명 감원 비용 반영",
+      "summary": "BMW가 올해 이익률을 -0.5%에서 0.5% 사이로 낮추며 1년 만의 두 번째 이익 경고를 냈다. 구조조정 비용과 중국 업체와의 경쟁이 원인으로 꼽혔다. 구조조정에는 대규모 일자리 감축, 약 8000명 규모가 포함된다. 메르세데스-벤츠도 지난주 이익 전망을 낮췄고, 서구 자동차업체들은 저가 중국 업체에 밀려 중국 판매가 줄고 있다.",
+      "original": "BMW warns on profits as it counts cost of plan for 8,000 job cuts",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/04/bmw-warns-on-profits-counts-cost-plan-for-8000-job-cuts",
+      "published": "2026-11-04T20:58+09:00",
+      "also": [
+        {
+          "source": "DW",
+          "url": "https://www.dw.com/en/bmw-reports-lower-q3-earnings-as-china-woes-mount/a-79850847?maca=en-rss-en-bus-2091-rdf",
+          "original": "BMW reports lower Q3 earnings as China woes mount"
+        }
+      ]
+    },
+    {
+      "id": "w40",
+      "region": "유럽",
+      "title": "M&S CEO '예산안은 아무것도 없는 것' 혹평",
+      "summary": "마크스앤스펜서(M&S)의 스튜어트 머친 CEO는 존 힐리 재무장관의 첫 예산안을 '아무것도 없는 것(whole lot of nothing)'이라고 비판했다. 그는 노동당 정부의 과도한 세금과 규제, 성장 지원 부족을 지적했다. 사업용 부동산세(business rates)를 실질 동결하는 방안으로 M&S는 기존 1억 7000만 파운드 세금에 1000만 파운드를 더 내야 한다고 밝혔다. 반면 EU와의 국경 검역 합의에는 환영 뜻을 밝혔고, 회사는 반기 실적도 함께 발표했다.",
+      "original": "M&S boss bemoans last week’s budget as ‘whole lot of nothing’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/04/m-and-s-recover-from-cyber-attack-profits-bounce-back",
+      "published": "2026-11-04T21:34+09:00"
+    },
+    {
+      "id": "w24",
+      "region": "유럽",
+      "title": "영란은행 금리 인상 유력…서비스업 PMI 8개월 만에 최고",
+      "summary": "영국 서비스업 PMI가 10월 8개월 만의 최고치로 뛰면서 영란은행이 목요일 금리를 올릴 것으로 예상된다. AI 투자 확대가 서비스업 성장을 뒷받침했고, 기업들은 이란 전쟁 이후 잃었던 상승 동력을 일부 회복했다. 다만 투입 물가 상승률이 5개월 만의 최고치로 올라 물가 부담도 커졌다. 영란은행 관계자들은 소비자물가 상승률이 높아진 점을 특히 우려해 왔다.",
+      "original": "UK interest rates increase expected after services sector activity accelerates",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/04/uk-interest-rates-increase-expected-service-sector-activity-accelerates-pmi",
+      "published": "2026-11-04T22:53+09:00",
+      "also": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
+          "original": "What's happening to UK interest rates and what does it mean for mortgages?"
+        }
+      ]
+    },
+    {
+      "id": "w106",
+      "region": "유럽",
+      "title": "세쿼이아, 런던 사무소 폐쇄…실리콘밸리 집중",
+      "summary": "벤처캐피털 세쿼이아가 런던 사무소를 닫고 실리콘밸리에 집중하기로 했다. 유명 투자사의 철수는 영국이 AI 산업의 선도국으로 자리 잡으려는 희망에 차질로 평가된다.",
+      "original": "Sequoia shuts London office as VC firm refocuses on Silicon Valley",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/a55bf156-1c61-4ff6-8c3c-5b8db837abd0?syn-25a6b1a6=1",
+      "published": "2026-11-04T23:43+09:00"
+    },
+    {
+      "id": "w32",
+      "region": "유럽",
+      "title": "영국 상점가 공실과 저가 매장…되살릴 수 있을까",
+      "summary": "영국 로더럼의 시내 상권은 주차가 편한 외곽 리테일파크로 손님이 떠나면서 쇠퇴했다. 주민 일부는 20년째 시내에서 물건을 사지 않는다고 말한다. 전자담배 가게, 네일숍, 자선 중고상점이 빈자리를 채우고 있다. 이 기사는 영국의 고가로(하이스트리트)를 무엇이 되살릴 수 있을지 묻는다.",
+      "original": "‘It’s just vape shops, nail shops, charity shops’: can anything save the British high street?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham",
+      "published": "2026-11-05T00:18+09:00"
+    },
+    {
+      "id": "w16",
+      "region": "유럽",
+      "title": "파운드랜드 붕괴 위기…미국 소유주 책임론 확산",
+      "summary": "영국 저가 잡화 체인 파운드랜드가 붕괴 위기에 몰렸다. 미국 기업 고든 브라더스가 지난해 여름 1파운드에 인수한 뒤 600개 매장과 직원 1만 2000명의 고용이 불안해졌다. 회사는 지난 목요일 고등법원에 관리인 선임 의향서를 제출했고, 고든 브라더스는 최소 두 곳의 잠재 인수자와 협상 중이다. 협력사 약 2000곳은 체인이 무너지면 수백만 파운드의 손실을 볼 수 있다며 소유주가 자신들의 손해 위에서 이익을 챙겨서는 안 된다고 주장했다.",
+      "original": "Don’t let Poundland owner maximise its return at our expense, suppliers say",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/04/poundland-suppliers-facing-losses-gordon-brothers",
+      "published": "2026-11-05T00:31+09:00",
+      "also": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
+          "original": "Poundland owner in crunch talks as retailer's collapse looms"
+        }
+      ]
+    },
+    {
+      "id": "w76",
+      "region": "유럽",
+      "title": "EU '유럽산 제품' 규칙, 영국 단일시장 이탈 실책 부각",
+      "summary": "사설은 EU의 '유럽산 제품(Made in Europe)' 규칙 변화가 영국의 단일시장 이탈이 경제적 실책이었다는 점을 더 부인하기 어렵게 만든다고 평가했다. EU 규칙은 계속 바뀌고, 지리적으로 가까운 영국은 긴밀한 경제 관계를 원할 수밖에 없어 협상이 이어진다. 이달 말 앤디 번햄 총리가 폰데어라이엔 집행위원장과 만나 긴밀한 협력을 담은 조약을 마무리할 것으로 예상된다.",
+      "original": "The Guardian view on EU ‘Made in Europe’ rules: a fatal blow to Brexiter delusions | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/04/the-guardian-view-on-eu-made-in-europe-rules-a-fatal-blow-to-brexiter-delusions",
+      "published": "2026-11-05T03:30+09:00"
+    },
+    {
+      "id": "w39",
+      "region": "유럽",
+      "title": "켈로그 '바삭 소리 약해질 수도'…레시피 변경 반발",
+      "summary": "켈로그는 시리얼 라이스 크리스피와 코코 팝스의 레시피를 바꾼 뒤 온라인 반발이 커지자 소리가 예전보다 약하고 덜 즉각적일 수 있다고 인정했다. 두 제품은 이제 통곡물 쌀 대신 옥수수 가루와 쌀가루로 만든다. 회사는 새 레시피를 설계하며 'snap, crackle, pop' 특유의 소리를 지키는 데 큰 공을 들였다고 밝혔다. 온라인에서 불만이 이어진 데 따른 대응이다.",
+      "original": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T04:38+09:00"
+    },
+    {
+      "id": "w4",
+      "region": "유럽",
+      "title": "파운드화, 브렉시트 국민투표 이후 최고 수준",
+      "summary": "파운드화 가치가 18개 주요 통화 바스켓 기준으로 2016년 6월 브렉시트 국민투표 이후 가장 높은 수준에 도달했다. 영란은행(BoE) 집계에서 지수는 86.4(2005년=100)를 기록했다. 최근 몇 주간 파운드는 유로와 달러 대비 뚜렷하게 강세를 보였고, 금리 인상 기대가 배경으로 꼽힌다. 영란은행은 목요일 이 계산을 공식 확정할 예정이다.",
+      "original": "Pound rises to its highest level since the Brexit referendum",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T06:35+09:00"
+    },
+    {
+      "id": "w97",
+      "region": "중국",
+      "title": "텐센트 새 AI 모델 Hy4, 오픈소스 상위권 진입 주장",
+      "summary": "텐센트가 새 대형언어모델(LLM) Hy4를 공개하며 오픈소스 AI 모델의 최상위권에 처음 진입했다고 주장했다. 중국 기업들의 AI 모델 경쟁이 가속되고 있음을 보여준다.",
+      "original": "Tencent says its Hy4 joins 'top-tier' of open-source AI models",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/tencent-says-its-hy4-joins-top-tier-of-open-source-ai-models",
+      "published": null
+    },
+    {
+      "id": "w105",
+      "region": "중국",
+      "title": "중국 3대 국영항공사, 해외 수요에 기대",
+      "summary": "중국의 3대 국영 항공사들은 실적 부진에서 벗어나기 위해 해외 수요 확대에 기대고 있다. 국내 치열한 경쟁과 침체된 경기에 대응하려는 다른 중국 기업들의 움직임과 같은 흐름이다.",
+      "original": "China's slumping state airlines pin hopes on overseas demand like exporters",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/transportation/china-s-slumping-state-airlines-pin-hopes-on-overseas-demand-like-exporters",
+      "published": null
+    },
+    {
+      "id": "w55",
+      "region": "중국",
+      "title": "중국 폐품 시장 호황…재활용품 가격 급등",
+      "summary": "상하이의 폐품 수집상 Li Jie는 골판지와 플라스틱 같은 일반 재활용품을 구하기 어려워졌다고 말한다. 가격이 크게 오르면서 기업을 포함한 수집업체가 몰려들었기 때문이다. 구리와 알루미늄 같은 금속 자원 확보도 더 어려워졌다. 그럼에도 소량 수거만으로 사업이 수익성을 유지해 떠날 생각이 없다고 말했다.",
+      "original": "China’s scrap dealers are scrambling for waste. So why is the recycling sector booming?",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/china-economy/article/3373130/chinas-scrap-dealers-are-scrambling-waste-so-why-recycling-sector-booming",
+      "published": "2026-11-04T07:00+09:00"
+    },
+    {
+      "id": "w48",
+      "region": "중국",
+      "title": "중국 국영기업 채무 우려에 채권시장 흔들",
+      "summary": "주하이의 최대 지방정부 소유 기업인 주하이화파그룹(Zhuhai Huafa Group)의 재무 건전성 우려가 지난주 중국 채권시장을 흔들었다. 핵심 사업은 부동산 개발이지만 기술과 도시 운영 등으로 사업을 넓혀 왔다. 분석가들은 이번 문제가 장기화된 부동산 위기의 후유증이라고 보고 있다. 지방정부가 부동산을 대체할 지속 가능한 성장 수단을 찾기 어려운 현실이 드러났다.",
+      "original": "Debt fears swirling around state giant shine a light on China’s post-property reality",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/china-economy/article/3373162/debt-fears-swirling-around-state-giant-shine-light-chinas-post-property-reality",
+      "published": "2026-11-04T10:00+09:00"
+    },
+    {
+      "id": "w41",
+      "region": "중국",
+      "title": "중국 수입박람회 개막…EU 기업들, 시장 개방 약속 시험대",
+      "summary": "상하이에서 열리는 중국 최대 수입박람회(CIIE)에 유럽 기업들이 새로운 무역 기회를 찾아 대거 참가한다. 많은 기업이 이번 행사를 중국이 시장을 열겠다는 약속을 확인하는 시험대로 보고 있다. 중국과 브뤼셀 사이의 마찰이 이어지고 있고, EU의 대중국 무역적자는 계속 커지는 추세다. 프랑스 기업 지원기관 Business France는 상호주의와 공정한 경쟁 조건 위에서 대중국 교역을 심화하겠다는 입장을 밝혔다.",
+      "original": "At China’s annual import fair, EU firms test Beijing’s promise to open up its markets",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/global-economy/article/3373246/chinas-annual-import-fair-eu-firms-test-beijings-promise-open-its-markets",
+      "published": "2026-11-04T18:00+09:00"
+    },
+    {
+      "id": "w25",
+      "region": "중국",
+      "title": "광둥성, 관광·돌봄으로 소비 살리기 나서",
+      "summary": "중국 인구가 가장 많은 광둥성이 소비 회복을 위한 광범위한 계획을 발표했다. 가계 구매를 장려하고, 해외 관광객을 유치하며, AI 기반 제품을 확산하는 방안이 담겼다. 이 계획은 화요일 성 발전개혁위원회가 발표했다. 광둥성 경제 규모는 11.11조 위안(1.66조 달러)으로, 중국의 가장 큰 경제 과제인 소비 부진을 겨냥한다. 한 베테랑 애널리스트는 일자리와 임금이 늘지 않으면 효과가 작을 것이라고 경고했다.",
+      "original": "Guangdong pins consumption revival hopes on tourism, health, care for children and elderly",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/china-economy/article/3373265/guangdong-pins-consumption-revival-hopes-tourism-health-care-children-and-elderly",
+      "published": "2026-11-04T18:41+09:00"
+    },
+    {
+      "id": "w18",
+      "region": "중국",
+      "title": "위안화 강세 제동…중국 수출기업에 숨통",
+      "summary": "중국인민은행(PBOC)이 외환 지급준비율을 올려 위안화 강세를 억제했다. 위안화 급등세가 이어지자 나온 조치로, 수출업계에는 숨통이 트일 것으로 기대된다. 1~9월 중국의 상품 무역흑자는 9381억 달러로 사상 최대를 기록했으며, 전년 같은 기간 7262억 달러에서 크게 늘었다. 연간 흑자는 작년 기록인 1.2조 달러를 넘을 것으로 전망된다. 이 조치는 흑자 확대에 따른 위안화 상승 압력을 일부 완화할 것으로 분석된다.",
+      "original": "Chinese exporters see respite as Beijing curbs yuan rise amid looming record surplus",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/policy/article/3373263/chinese-exporters-see-respite-beijing-curbs-yuan-rise-amid-looming-record-surplus",
+      "published": "2026-11-04T20:00+09:00"
+    },
+    {
+      "id": "w92",
+      "region": "중국",
+      "title": "중국, 해외 광산 지분 확대…핵심 광물 장악력 강화",
+      "summary": "중국이 필요한 금속을 더 많이 확보하려고 정부 기관과 국영 투자기구를 동원해 해외 광산 지분을 늘리고 있다. 올 4월에는 중앙 국유기업의 해외 투자를 감독하는 전담 해외국이 설립됐다. 여러 부처와 정책금융기관이 해외 광산 거래를 이끌도록 동원되고 있다. 분석가들은 기업 단위 결정 대신 국가가 조율하는 글로벌 광산 전략이라고 평가한다. 이는 중국이 세계 핵심 광물 공급과 접근 권한에 더 큰 영향력을 가질 수 있음을 뜻한다.",
+      "original": "China expands overseas mining stakes, tightening grip on critical minerals",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/04/china-critical-minerals-rare-earths-trump-japan-export-control-.html",
+      "published": "2026-11-04T22:00+09:00"
+    },
+    {
+      "id": "w8",
+      "region": "중국",
+      "title": "중간선거 후 대중 무역 정책은 어떻게 될까",
+      "summary": "민주당의 압승으로 의회가 무역 정책에 대한 권한을 더 강하게 행사할 수 있다는 분석이 나온다. 의회가 트럼프 대통령이 중국과 맺은 무역 합의를 면밀히 검토할 가능성이 커졌다. 다만 관세에 대한 대통령의 광범위한 행정 재량은 여전해 워싱턴의 무역 정책이 급변할 가능성은 낮다는 평가다. 전 미국 무역협상가 Stephen Olson은 친자유무역 성향의 공화당 의원들이 의회 권한을 되찾으려 할 수 있다고 말했다.",
+      "original": "What will the US midterms mean for trade policy on China?",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/china-economy/article/3373285/what-will-us-midterms-mean-trade-policy-china",
+      "published": "2026-11-04T23:00+09:00"
+    },
+    {
+      "id": "w10",
+      "region": "아시아",
+      "title": "일본 물류 스타트업, 동남아 냉장 유통망 확대",
+      "summary": "일본 관련 스타트업들이 말레이시아와 베트남에서 신선식품 냉장 유통망을 넓히고 있다. 생산자에게서 제품을 직접 받아 배송함으로써 수익성을 높이려는 전략이다. 대형 물류·종합상사들이 이들 기업과의 제휴에 관심을 보이고 있다.",
+      "original": "Japan logistics startups expand cold food networks in Malaysia, Vietnam",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/food-beverage/japan-logistics-startups-expand-cold-food-networks-in-malaysia-vietnam",
+      "published": null
+    },
+    {
+      "id": "w19",
+      "region": "아시아",
+      "title": "마루베니 '인도를 10년 안에 지금의 10배로'",
+      "summary": "일본 종합상사 마루베니의 오모토 마사유키 사장 겸 CEO는 인도 사업을 10년 안에 현재의 10배 규모로 키워야 한다고 말했다. 그는 인도를 마루베니에게 북미와 같은 다음 성장 시장으로 보고 있다. 인도의 성장을 온전히 누리려면 현지 사업 확대가 필수라는 입장이다.",
+      "original": "Fast-growing India is the next North America for Japan's Marubeni: CEO",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/editor-s-picks/interview/fast-growing-india-is-the-next-north-america-for-japan-s-marubeni-ceo",
+      "published": null
+    },
+    {
+      "id": "w43",
+      "region": "아시아",
+      "title": "U.S. Steel, 닛폰제철 이익의 40% 차지",
+      "summary": "닛폰제철의 7~9월 이익 가운데 U.S. Steel이 40% 넘게 차지할 전망이다. 미국산 철강 제품 가격이 급등한 덕분이다. 다만 민주당이 장악한 의회가 AI 산업을 규제하려 들면 리스크가 될 수 있다는 지적이 나온다.",
+      "original": "U.S. Steel grows to 40% of Nippon Steel profit as prices surge",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/materials/u.s.-steel-grows-to-40-of-nippon-steel-profit-as-prices-surge",
+      "published": null
+    },
+    {
+      "id": "w57",
+      "region": "아시아",
+      "title": "맥도날드, 일본서 치킨 샌드위치로 KFC에 도전",
+      "summary": "맥도날드는 KFC와 경쟁하기 위해 일본 시장용 새 치킨 샌드위치를 개발하는 데 약 5년을 들였다. 햄버거 중심이던 일본 패스트푸드 시장이 치킨 등으로 다변화하고 있다는 판단이다. 소비자들의 치킨 수요를 잡으려는 전략이다.",
+      "original": "McDonald's wages war on KFC in Japan as consumers crave chicken",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/food-beverage/mcdonald-s-wages-war-on-kfc-in-japan-as-consumers-crave-chicken",
+      "published": null
+    },
+    {
+      "id": "w63",
+      "region": "아시아",
+      "title": "코이토, 스마트 자동차 램프로 시장 지위 지키기",
+      "summary": "일본 코이토 제작소는 자동차 램프 분야의 세계 선두 기업이다. 도로를 비추는 기능에서 나아가 보행자와 다른 운전자에게 정보를 전달하는 제품으로 진화시켜 시장 지위를 지키려 한다.",
+      "original": "Japan's Koito looks to keep lighting way with smart automotive lamps",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/automobiles/japan-s-koito-looks-to-keep-lighting-way-with-smart-automotive-lamps",
+      "published": null
+    },
+    {
+      "id": "w74",
+      "region": "아시아",
+      "title": "JBIC, 페트로나스 탄소 감축에 6억 달러 신용한도 주도",
+      "summary": "일본국제협력은행(JBIC)이 말레이시아 국영 에너지기업 페트로나스의 이산화탄소 감축 프로젝트를 지원하기 위해 최대 6억 달러 규모의 신디케이트 신용한도를 주도한다. 닛케이가 입수한 소식이다.",
+      "original": "Japan lender leads $600m credit line to help Malaysia's Petronas cut CO2",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/energy/japan-lender-leads-600m-credit-line-to-help-malaysia-s-petronas-cut-co2",
+      "published": null
+    },
+    {
+      "id": "w78",
+      "region": "아시아",
+      "title": "도요타 계열 부품사, 닛산 계열 고무업체 인수",
+      "summary": "도요타와 깊은 관계가 있는 자동차 부품사 도카이코교홀딩스가 닛산 계열의 기누가와고무공업홀딩스를 인수했다. 중국 업체와의 경쟁이 심해지면서 부품사들이 기존의 긴밀한 공급망을 넘어 재편에 나서고 있다. 자동차 부품업계 재편의 신호로 해석된다.",
+      "original": "Toyota supplier buys Nissan-linked peer amid China competition",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/business-deals/toyota-supplier-buys-nissan-linked-peer-amid-china-competition",
+      "published": null
+    },
+    {
+      "id": "w82",
+      "region": "아시아",
+      "title": "니덱, 회계 스캔들 뒤 38억 달러 신용한도 갱신",
+      "summary": "MUFG Bank와 스미토모미쓰이은행(SMBC)이 니덱(Nidec)과 6000억 엔(약 38억 달러) 규모의 약정 신용한도를 갱신하기로 했다. 회계 스캔들 이후 전동기 제조사의 현금흐름을 안정시키기 위한 조치다. 닛케이가 입수한 소식이다.",
+      "original": "Japan's scandal-hit Nidec to have $3.8bn in credit lines renewed",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/companies/japan-s-scandal-hit-nidec-to-have-3.8bn-in-credit-lines-renewed",
+      "published": null
+    },
+    {
+      "id": "w89",
+      "region": "아시아",
+      "title": "일본 종합상사 수장들, 미 중간선거 후 불확실성 경고",
+      "summary": "일본 최대 종합상사들은 민주당의 의회 장악 이후 에너지, 통화, 미국 투자 분야에서 새로운 변동성에 대비하고 있다. 종합상사 경영진들은 이번 선거 결과가 세계 경제의 불확실성을 키운다고 경고했다.",
+      "original": "Japan's trading house chiefs warn of uncertainty after US midterms",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/companies/japan-s-trading-house-chiefs-warn-of-uncertainty-after-us-midterms",
+      "published": null
+    },
+    {
+      "id": "w101",
+      "region": "아시아",
+      "title": "민주당 의회 장악에 아시아 증시 혼조",
+      "summary": "아시아 증시는 민주당의 미 의회 장악이 뜻하는 바를 가늠하며 혼조세로 마감했다. 투자자들은 변동성이 큰 장세 속에서 결과의 함의를 따졌다.",
+      "original": "Asian stocks face volatility as Democratic blue wave sweeps US",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/asian-stocks-face-volatility-as-democratic-blue-wave-sweeps-us",
+      "published": null
+    },
+    {
+      "id": "w53",
+      "region": "글로벌",
+      "title": "캔바, 직원 22% 감원·재배치…'가장 힘든 한 해'",
+      "summary": "호주 스타트업 캔바(Canva)가 직원의 22%에 해당하는 1271명을 해고하거나 재배치·직무 변경하기로 했다. 공동창업자 겸 CEO 멜라니 퍼킨스는 13년 회사 역사에서 가장 힘든 순간이라고 말했다. 회사 가치는 AI가 사업에 미칠 영향과 기술 도입 비용에 대한 우려로 지난 1년간 떨어졌다고 전해졌다.",
+      "original": "Canva announces major job cuts after 'our hardest year yet'",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T09:09+09:00"
+    },
+    {
+      "id": "w103",
+      "region": "글로벌",
+      "title": "기후 적응 자금 2022년 이후 정체…UN 보고서",
+      "summary": "UN 보고서에 따르면 가난한 나라의 기후위기 적응을 돕는 자금 흐름이 2022년 이후 정체되거나 줄고 있다. 극단적 기후 피해가 늘고 있음에도 적응 지원은 필요한 수준에 크게 못 미친다. 2021년 부유한 나라들이 약속했던 수준에도 한참 뒤처져 있다. 적응 조치에는 인프라 강화, 조기경보 시스템, 홍수 방지, 가뭄 대응 관개 등이 포함된다.",
+      "original": "Funding to help poorer countries cope with climate crisis has stalled, says UN",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/global-development/2026/nov/04/funding-poorer-countries-climate-crisis-adaptation-un-report",
+      "published": "2026-11-04T20:00+09:00"
+    },
+    {
+      "id": "w110",
+      "region": "글로벌",
+      "title": "'파란 물결'이 시장을 정상화하나",
+      "summary": "FT는 미국 중간선거 결과가 트럼프 행정부에 대한 더 많은 제약으로 이어질 수 있다고 보도했다. 선거 충격에서 벗어난 시장이 점차 정상 궤도로 돌아가고 있다는 진단이다.",
+      "original": "Blue wave sweeps markets back towards normality",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/fc404189-8dde-4dfe-8da7-0df8e92effd2?syn-25a6b1a6=1",
+      "published": "2026-11-04T23:03+09:00"
+    },
+    {
+      "id": "w44",
+      "region": "글로벌",
+      "title": "유가 100달러 아래로…선거 후 중동 평화 기대",
+      "summary": "중간선거 이후 평화 기대가 커지면서 국제유가가 배럴당 100달러 아래로 떨어졌다. 이날 JD 밴스 부통령은 공화당의 중간선거 참패 원인으로 이란 전쟁에 대한 유권자들의 분노를 꼽았다. 민주당의 압승은 트럼프 대통령에게 중동 분쟁을 끝내라는 압박을 키우고 있다.",
+      "original": "Oil tumbles below $100 on post-election peace hopes",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/b526f876-810a-4e74-8b8d-4ffca04b29c7?syn-25a6b1a6=1",
+      "published": "2026-11-05T05:18+09:00",
+      "also": [
+        {
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/6bc8be51-5bd8-468c-bd3c-82bbc2866ba1?syn-25a6b1a6=1",
+          "original": "Vance blames Iran war for crushing Republican midterms defeat"
+        }
+      ]
+    }
+  ]
+}

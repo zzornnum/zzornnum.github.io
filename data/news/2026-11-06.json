@@ -11,18 +11,21 @@
       "headlines": [
         {
           "title": "외국인 매도 속도 두 배로…삼전닉스 20조 던졌다[엑소더스 외국인, 언제까지③]",
-          "source": "머니투데이",
-          "date": "2026-11-06"
+          "source": "이투데이",
+          "date": "2026-11-06",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsRzdSTkxWYTlISExhS1pWX3hoVEFmYi1qV0pBZzRfaF82cDdieS1xMkNRMjhSc1F0VUM3ZG9icDkzc1Z2SW8xZkNxWDVBREpuWE14dg?oc=5"
         },
         {
           "title": "[트럼프 스톡커] ‘블루 싹쓸이’에 모두가 웃었다, 반도체만 빼고",
           "source": "언론",
-          "date": "2026-11-06"
+          "date": "2026-11-06",
+          "urlChecked": true
         },
         {
           "title": "최태원 SK그룹 회장 \"중간선거에도 와장창…롤러코스터 계속\"",
-          "source": "언론",
-          "date": "2026-11-05"
+          "source": "파이낸셜포스트",
+          "date": "2026-11-05",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aMEdWM2pndTYtMUxiU0JRaUFCTXE3ZndiclJvNlRmUG5NYTlkTUE2aXY4NWFQMWgySzNpbTZtQld3SkMtdFlzQnhBSk11bjJaenFaMzJ1ajdFUVY2ZzJXekhodlc2ZUZTT0ZKUVFNU3I1ZW9U?oc=5"
         }
       ]
     },
@@ -34,18 +37,21 @@
       "headlines": [
         {
           "title": "외국인 매도 속도 두 배로…삼전닉스 20조 던졌다[엑소더스 외국인, 언제까지③]",
-          "source": "머니투데이",
-          "date": "2026-11-06"
+          "source": "이투데이",
+          "date": "2026-11-06",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsRzdSTkxWYTlISExhS1pWX3hoVEFmYi1qV0pBZzRfaF82cDdieS1xMkNRMjhSc1F0VUM3ZG9icDkzc1Z2SW8xZkNxWDVBREpuWE14dg?oc=5"
         },
         {
           "title": "AI 반도체 '삼전닉스' , 中 수입박람회서 메모리 신 성장판 과시",
-          "source": "언론",
-          "date": "2026-11-06"
+          "source": "뉴스핌",
+          "date": "2026-11-06",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGdHQwcnJRM0JpeU9LcHpsSXNsOGdOSm80UDFmMG5iMkZCMUtiQ1VLbkNwdmNtUHBHaUFaQ0RORjMxREZvVGZtcW5qd2J4RjFzb3p3RTBxR05HTElU?oc=5"
         },
         {
           "title": "美 데이터센터 절반 제동 위기…복병 만난 K칩",
-          "source": "언론",
-          "date": "2026-11-05"
+          "source": "이데일리",
+          "date": "2026-11-05",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOXQtWXhFdjFmVXpxODdzSzhieWlOSWprVEYzcDY2Q01Sc0hVRUttZGNPUlVzdFVWcks5dmMtaTlleGxaQjV0VXVXcU5jekJUN045dEU5Qkd3ZldzRzlSYTUxYWc1aGwxdXdyWEJwM2wwUzhPejYyUE1FYkl5cDc3NA?oc=5"
         }
       ]
     },
@@ -57,13 +63,15 @@
       "headlines": [
         {
           "title": "한화필리 vs HD키윗 첫무대는 8조 군수지원함..관건은 캐파",
-          "source": "언론",
-          "date": "2026-11-06"
+          "source": "파이낸셜뉴스",
+          "date": "2026-11-06",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QekdXbmRCaWxOZ25iTi1yelYyQVd3enpIRzcyLW5DcTZkUk1XWklvX3VkTVZSRlYwQUFOclBybWZmUzlOMlVEcU5vYmhvblF5dFBqM1FMOElSQQ?oc=5"
         },
         {
           "title": "[리포트 브리핑]한화, '자체 사업 부진 속 할인율 축소에 주목' 목표가 135,000원 - 미래에셋증권",
-          "source": "언론",
-          "date": "2026-11-05"
+          "source": "뉴스핌",
+          "date": "2026-11-05",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rWTBwWWIyVzRiSklHMDBsWTJGUUh3Z1hkWUNiWnYyOEp3YWY0MS1DRS1nMmZKbGtuM281NE5JQnEtN3NXcHA3MmRsd1d2bGlWa3VRcVFLVnBDRl9a?oc=5"
         }
       ]
     },
@@ -75,13 +83,15 @@
       "headlines": [
         {
           "title": "[분석] 한화M&S 새 주인 김동선…지분 32.99% 확보 '거버넌스 완성'",
-          "source": "언론",
-          "date": "2026-11-05"
+          "source": "파이낸셜포스트",
+          "date": "2026-11-05",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tUERCWFFjSERlQmNkTUUtVHJmdE9hdUc5azg2dWZDakRWSEdmMjItbkx1NjFnWXRyanYtRDRJSk5lSXVkOGYwWk1mRlYyaVpKWFNXMXZJNkJRS1JpVlFDOWU3TFktWHg0WDFDWW9wRzRyT2Vm?oc=5"
         },
         {
           "title": "아르노도 감동한 ‘벤슨’의 맛…김동선표 브랜드 경영 통했다",
-          "source": "언론",
-          "date": "2026-11-06"
+          "source": "이투데이",
+          "date": "2026-11-06",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBac0FabmFGeG5uWUwxVHpJaV9PeUlMTFQ5cXM5T2hzdjJyNC1ZLTNMZ044eDNOQWNGbktwZXJCb3hRQkNXMm43cnVSMng0Zjg5cVp5cg?oc=5"
         }
       ]
     },
@@ -93,18 +103,21 @@
       "headlines": [
         {
           "title": "GS, 3분기 영업익 46.4%↑…높은 정제마진 유지(종합)",
-          "source": "언론",
-          "date": "2026-11-05"
+          "source": "아시아경제",
+          "date": "2026-11-05",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GWTFzSXg0eVRCT1NLbm1FMXJ6VURrbWRIMW9vX0lUWmh3REYweERSUTVkUHFoUHFZNDlwQWw5aENVbHNWOWxKczRmdkFqX05ucUsyUEZhVXd6andmUzNyX3dtMzk?oc=5"
         },
         {
           "title": "GS, 칼텍스 정제마진 타고 3분기 영업익 46% 뛰었다",
-          "source": "언론",
-          "date": "2026-11-05"
+          "source": "서울경제",
+          "date": "2026-11-05",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kMmhMWGdHOWZyOWZWN1gya0g0ZWk1N0tQQUVOSVZzbEx1YnNWM0ZheVZnSmtsNHVsRS0ydWh6eVdIRkxtazBTck9XZkg0Y05XSmfSAVNBVV95cUxOcDhqMHlvWDhVUUVrUzVQV01PeDZubmRvd3VFdEFUS3UwUzhIU1FLWDI1WUxQUG1lNnUtR1NsRUdsVmRubVhGRjJGVGljTVpKd3BrZw?oc=5"
         },
         {
           "title": "[특징주] 유가 급락에 항공주 줄상승…정유주는 약세(종합)",
-          "source": "언론",
-          "date": "2026-11-05"
+          "source": "연합뉴스",
+          "date": "2026-11-05",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JdXJjT0hzdVdYZ2dHYzE2VkYwbkZfRVpHV2d2bGZReTVPVHAzMkZEVmtaeWNXWFJ1U2xtQXFNTHZCekFZdVRnc1BwWW5PQi1hRnVzcndrT0YwWW_SAWBBVV95cUxNZ1JUQW03U25oeDRFWkxJUktGdFhMamprV0g3SlJ4TnZYSm8tUzBxT0QxbXcxNUlNQ2ZQV2g2N1ZYQV9pcEFEVkZOZUNxbzF6aC1ZYl8wdUNPMUZkbFZtMks?oc=5"
         }
       ]
     },
@@ -116,8 +129,9 @@
       "headlines": [
         {
           "title": "E1 주식 받은 세 살 손자, 증여세만 110억원…LS 일가 5명 총 260억원대 분납",
-          "source": "언론",
-          "date": "2026-11-05"
+          "source": "아시아경제",
+          "date": "2026-11-05",
+          "url": "https://n.news.naver.com/mnews/article/277/0005838491"
         }
       ]
     },
@@ -130,7 +144,8 @@
         {
           "title": "뉴파워프라즈마(144960) -11.36%, 메가터치 -10.31%, 한양디지텍 -10.03%, 케이씨텍 -9.24%, 티이엠씨 -8.53%",
           "source": "언론",
-          "date": "2026-11-05"
+          "date": "2026-11-05",
+          "urlChecked": true
         }
       ]
     },
@@ -143,7 +158,8 @@
         {
           "title": "(주)지오엘리먼트 [투자주의]소수계좌 거래집중 종목",
           "source": "언론",
-          "date": "2026-11-05"
+          "date": "2026-11-05",
+          "urlChecked": true
         }
       ]
     }

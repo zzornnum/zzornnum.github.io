@@ -1,0 +1,676 @@
+{
+  "date": "2026-11-07",
+  "generatedAt": "2026-11-07T07:55+09:00",
+  "items": [
+    {
+      "id": "w56",
+      "region": "미국",
+      "title": "민주당, 주지사 5곳 탈환…데이터센터·일본 투자 악재",
+      "summary": "민주당은 화요일 선거에서 주지사 자리 5곳을 뒤집었다. 이 결과는 데이터센터 건설을 늦추고, 일본의 미국 투자 프로젝트에 역풍이 될 수 있다는 분석이다. 닛케이아시아는 데이터센터에 대한 반대 여론이 미국에서 커지고 있다고 짚었다. 이 흐름이 도쿄 증시에도 영향을 주며 도쿄증권거래소는 크게 하락했다. 트럼프 행정부의 이란 공격과 관세가 물가 부담을 키운 것도 민주당 승리의 배경으로 지목됐다.",
+      "original": "Democrats' midterm gains hang over data centers, Japanese US investment",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/u.s.-midterm-elections/democrats-midterm-gains-hang-over-data-centers-japanese-us-investment",
+      "published": null,
+      "also": [
+        {
+          "source": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-us-anti-data-center-sentiment-spreads-hitting-asian-markets",
+          "original": "Editor's Choice: US anti-data center sentiment spreads, hitting Asian markets"
+        }
+      ]
+    },
+    {
+      "id": "w106",
+      "region": "미국",
+      "title": "크레이머 “AI 매도 더 갈 수 있지만 닷컴 버블은 아니다”",
+      "summary": "CNBC의 짐 크레이머는 AI 주식 매도가 아직 더 진행될 수 있다고 경고했다. 그는 ‘오늘의 하락이 바닥이었기를 바란다’고 말했다. 그러나 현재 AI 기업은 닷컴 버블 때 무너진 투기적 사업과 근본적으로 다르다고 주장했다. 데이터센터 반대 여론이 커지며 관련 기업 주가가 목요일 크게 떨어졌다. 마이크론 17%, GE Vernova 7%, 샌디스크 22% 하락을 예로 들었다.",
+      "original": "Jim Cramer says the AI sell-off isn't over, but it isn't another dot-com crash",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/05/jim-cramer-ai-stocks-sell-off.html",
+      "published": "2026-11-06T08:17+09:00"
+    },
+    {
+      "id": "w99",
+      "region": "미국",
+      "title": "에퀴닉스, 소형 데이터센터 강조…미국 규제 우회 전략",
+      "summary": "에퀴닉스는 자사 데이터센터(30~60메가와트)가 미국 제안이 노리는 약 100메가와트 기준보다 작아 노출이 적다고 밝혔다. 아시아태평양 사장 사이러스 아다그라는 규제가 주로 대형 시설을 겨냥한다고 말했다. 중간선거 결과로 데이터센터 건설 규제 우려가 커졌다. BMI(Fitch Solutions 계열)에 따르면 미국 하이퍼스케일러 개발 파이프라인 성장분의 약 53%가 새로 선출된 주지사들이 제한을 가할 수 있는 주에 몰려 있다.",
+      "original": "Equinix points to smaller facilities as scrutiny of U.S. data center construction grows",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/06/equinix-us-data-center-growth-asia.html",
+      "published": "2026-11-06T16:23+09:00"
+    },
+    {
+      "id": "w71",
+      "region": "미국",
+      "title": "ING, AI 데이터센터 대출 약 5억 달러 매각 입찰",
+      "summary": "ING가 데이터센터 대출 12건, 약 5억 달러 규모의 포트폴리오를 매각하려 한다고 블룸버그가 전했다. 여기에는 오픈AI·소프트뱅크·오라클이 참여한 뉴멕시코 스타게이트 사이트 관련 2500만 달러 대출이 포함된다. Vantage Data Centers, CyrusOne 관련 자산도 포함됐다. 입찰은 1000만 달러 이상 조건으로 11월 19일까지 제출받는다. 은행들이 AI 인프라 대출의 위험을 분산하기 위해 채권을 넘기는 움직임이 커지고 있다.",
+      "original": "AI debt concerns grow as ING reportedly seeks buyers for $500 million of data center loans",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/06/ing-ai-data-center-loans-debt.html",
+      "published": "2026-11-06T20:24+09:00"
+    },
+    {
+      "id": "w40",
+      "region": "미국",
+      "title": "스코티시 모기지, 테슬라 전량 매각…스페이스X 비중 축소",
+      "summary": "런던 상장 투자신탁 스코티시 모기지(Scottish Mortgage)는 보유 중이던 테슬라 지분을 4월에 모두 팔았다고 밝혔다. 2013년부터 이어온 투자를 마무리한 셈이다. 같은 기간 스페이스X 비중은 자산의 11.1%로 9월 말 15%에서 낮아졌다. 이 펀드는 2018년 12월 스페이스X 기업가치 약 310억 달러 시점에 투자해 2021년까지 약 2억 달러를 집행했다. 스페이스X 투자 덕분에 반기 순자산가치는 31.5% 올랐다. 머스크 관련 주식의 이익 실현 흐름이 이어지고 있다는 신호로 볼 수 있다.",
+      "original": "A long-term Elon Musk backer is cashing out of Tesla — and cutting its SpaceX exposure",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/06/scottish-mortgage-tesla-spacex.html",
+      "published": "2026-11-06T22:51+09:00"
+    },
+    {
+      "id": "w12",
+      "region": "미국",
+      "title": "10월 고용 16만 5000명 증가…예상 크게 웃돌아",
+      "summary": "미 노동통계국(BLS)은 10월 비농업 고용이 계절 조정 기준으로 16만 5000명 늘었다고 발표했다. 다우존스 예상치인 5만 9000명을 크게 웃도는 수치다. 실업률은 4.2% 전망과 달리 4.1%로 소폭 낮아졌다. 노동 저활용을 보여주는 확장 실업률은 7.9%로 0.3%포인트 올랐고, 경제활동인구는 42만 1000명 늘었다. 8월과 9월 고용도 각각 5만 3000명, 3만 1000명씩 상향 수정됐다. FT는 이번 고용 반등이 연준의 금리 인상 기대를 더 키운다고 분석했다.",
+      "original": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+      "published": "2026-11-07T01:06+09:00",
+      "also": [
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html",
+          "original": "A disturbing employment trend is hiding beneath the latest strong job numbers"
+        },
+        {
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/f84c722c-99a9-4628-84dc-c42a192cb35c?syn-25a6b1a6=1",
+          "original": "US economy outstrips forecasts to add 165,000 jobs in October"
+        }
+      ]
+    },
+    {
+      "id": "w2",
+      "region": "미국",
+      "title": "AI 데이터센터 회사채 금리 16% 돌파…신용 경고등",
+      "summary": "AI 데이터센터 구축 기업에 대한 채권 시장의 경고가 커지고 있다. neocloud 기업 CoreWeave의 2032년 만기 채권(표면금리 9.625%) 수익률은 16%를 넘어섰다. CoreWeave의 5년물 신용부도스와프(CDS)는 목요일 1289bp까지 치솟아 10월 고점을 넘어섰다고 도이체방크가 전했다. Jefferies의 크리스토퍼 우드는 AI 설비투자 경쟁이 ‘신용카드를 빼앗기는’ 방식으로 끝날 가능성이 가장 크다고 메모에 썼다. 투자자들은 민주당이 주요 주에서 데이터센터 건설 장애물을 키울 수 있다고 우려하고 있다. AI 인프라 자금 조달 비용이 오를 수 있다는 점을 짚어둘 만하다.",
+      "original": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "published": "2026-11-07T02:09+09:00"
+    },
+    {
+      "id": "w6",
+      "region": "미국",
+      "title": "테슬라 사이버트럭 생산 감축…사이버캡에 공장 공간 양보",
+      "summary": "일론 머스크는 금요일 테슬라가 내년 중반쯤 텍사스 기가팩토리의 사이버트럭 생산을 축소한다고 밝혔다. 자율주행 택시 ‘사이버캡’ 생산을 늘리기 위해서라고 설명했다. 생산을 완전히 중단할지, 다른 공장으로 옮길지는 구체적으로 밝히지 않았다. 프로젝트 책임 엔지니어 웨스 모릴은 X에 ‘사이버트럭은 사이버캡을 통해 살아남는다’고 적어 단종 해석이 나왔다. 사이버트럭은 2023년 출시 후 판매가 부진했고 리콜도 여러 차례 있었다. 이 발표는 머스크 관련 기업들의 시가총액이 크게 줄어든 한 주 뒤에 나왔다.",
+      "original": "Tesla to 'wind down' production of flop Cybertruck",
+      "source": "DW",
+      "url": "https://www.dw.com/en/tesla-to-wind-down-production-of-flop-cybertruck/a-79877759?maca=en-rss-en-bus-2091-rdf",
+      "published": "2026-11-07T02:10+09:00",
+      "also": [
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html",
+          "original": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says"
+        },
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+          "original": "Elon Musk appears to signal the end of the road for Cybertruck"
+        },
+        {
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories",
+          "original": "Cybertruck’s run comes to an end as Musk kills off pricey pet project"
+        }
+      ]
+    },
+    {
+      "id": "w85",
+      "region": "미국",
+      "title": "머스크 자녀 주식 증여 계획…FT “방식은 아쉽다”",
+      "summary": "FT는 머스크의 자녀 대상 주식 증여 계획이 관대하지만, 다른 방식으로 했다면 더 나았을 이유가 있다고 짚었다. 이 칼럼은 증여 방식에 대한 비판적 시각을 담고 있다.",
+      "original": "Musk wants to give stock to kids. What’s the problem?",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/6c9d92ac-eba0-47c0-b4db-d9d5226e9891",
+      "published": "2026-11-07T03:00+09:00"
+    },
+    {
+      "id": "w78",
+      "region": "미국",
+      "title": "기술주 조정 새 국면…AI 성장 가속 기대 후퇴",
+      "summary": "FT는 투자자들이 AI 성장이 가속할 것이라는 기대를 더 이상 주가에 반영하지 않고 있다고 보도했다. 기술주 조정이 새로운 단계에 들어섰다는 분석이다.",
+      "original": "A new phase in the tech market correction",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/a91d70f1-d335-4d58-a6d8-1052658211ba?syn-25a6b1a6=1",
+      "published": "2026-11-07T03:24+09:00"
+    },
+    {
+      "id": "w73",
+      "region": "미국",
+      "title": "미국 정치 지형 변화, 금리 전망에 불확실성 더해",
+      "summary": "FT는 미국 정치 지형의 변화가 금리 경로에 또 다른 복잡성을 더했다고 전했다. 민주당의 의회 장악으로 재정과 정책 방향이 바뀔 수 있어 금리 예측이 더 어려워졌다는 해석이다.",
+      "original": "Wave of uncertainty",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/117c1690-2928-4652-b4d9-33c0be02b129",
+      "published": "2026-11-07T03:30+09:00"
+    },
+    {
+      "id": "w14",
+      "region": "미국",
+      "title": "중간선거 후 AI 증시 급락…데이터센터 규제 우려",
+      "summary": "목요일 미국 나스닥이 가장 크게 떨어졌고, 알파벳·엔비디아·메타·애플 등 빅테크가 큰 타격을 받았다. 민주당이 중간선거에서 압승해 의회 전체를 장악하면서 촉발된 매도다. 민주당 일부 후보들은 AI 확산의 기반인 데이터센터의 무분별한 확장에 반대해 왔다. 투자자들은 이것이 AI 규제 강화로 이어질 것을 우려하고 있다. 다만 AI 산업 전망에 대한 우려는 선거 이전부터 쌓여 왔다는 평가도 있다. 가디언은 뉴욕 증시가 반등했지만 잃어버린 땅을 모두 되찾지는 못했다고 전했다. 애플·테슬라·엔비디아 등 주요 기술 기업은 하루 만에 약 1조 달러를 잃었다.",
+      "original": "Why the US midterms sparked an AI stock selloff",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T03:32+09:00",
+      "also": [
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/technology/2026/nov/06/us-tech-stock-ai-bubble-bursting-market-meltdown-explainer",
+          "original": "US tech stock rout: is the AI bubble bursting?"
+        },
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/news/video/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest",
+          "original": "Could the AI bubble burst after Democrats' midterms sweep? - The Latest"
+        }
+      ]
+    },
+    {
+      "id": "w33",
+      "region": "미국",
+      "title": "마이크로소프트, 네오클라우드 협력사 축소…자체 데이터센터 확대",
+      "summary": "마이크로소프트가 협력하는 네오클라우드 업체 수를 줄이고 핵심 공급사에 집중한다고 CNBC가 소식통을 인용해 전했다. 현재는 평가 단계이며 어떤 업체와 거래를 끊을지는 아직 정하지 않았다. 협력사에는 CoreWeave, Nebius, IREN, Lambda, Nscale 등이 있다. 금리 상승과 과도한 부채, 인프라 확장 둔화 우려 속에서 네오클라우드 업계에 또 다른 도전이 될 수 있다.",
+      "original": "Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/06/microsoft-moves-to-consolidate-its-relationships-with-neoclouds-in-ai.html",
+      "published": "2026-11-07T03:40+09:00"
+    },
+    {
+      "id": "w60",
+      "region": "미국",
+      "title": "데이터센터 ‘소모전’…엔비디아 9.3%·AMD 17.3% 급락",
+      "summary": "민주당의 중간선거 압승은 트럼프 대통령에 대한 질책이자 AI 데이터센터 대규모 건설 계획의 걸림돌이 될 수 있다는 분석이다. 선거 결과가 나온 뒤 기술·AI 주식은 큰 변동성에 휘말렸다. 목요일 미국과 유럽의 가장 가치 있는 기술 기업들이 대규모 매도를 맞았다. 엔비디아 9.3%, AMD 17.3%, 마이크론 17.5%, 브로드컴 10.4%, 테슬라 10.8%, 스페이스X 9.1% 하락했고 마이크로소프트는 3.6% 떨어졌다. 데이터센터 프로젝트에 깊이 연결된 네오클라우드 기업들도 특히 심하게 타격을 입었다.",
+      "original": "AI stocks hammered by midterm shock as data center buildout becomes a 'war of attrition'",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/06/ai-data-center-midterms-selloff.html",
+      "published": "2026-11-07T05:44+09:00"
+    },
+    {
+      "id": "w49",
+      "region": "미국",
+      "title": "마이크론 ‘헐값’ 논쟁…실적 지속성 두고 엇갈린 평가",
+      "summary": "마이크론 주가가 싸다는 평가가 온라인에서 격렬한 논쟁을 낳고 있다. 가치평가를 중시하는 투자자들은 주가가 터무니없이 저렴하다고 보는 반면, 일부 반도체 투자자들은 마이크론의 수익 창출력이 지속되지 않을 것이라고 반박한다. 이번 논쟁은 AI 매도 국면에서 반도체주 가격을 어떻게 볼지의 쟁점을 보여준다.",
+      "original": "Micron’s stock is dirt cheap — and that’s igniting a fierce online debate",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/microns-stock-is-dirt-cheap-and-thats-igniting-a-fierce-online-debate-0626791d?mod=mw_rss_topstories",
+      "published": "2026-11-07T05:58+09:00"
+    },
+    {
+      "id": "w48",
+      "region": "미국",
+      "title": "앤스로픽, 1.5조 달러 가치로 상장 강행…추수감사절 전 목표",
+      "summary": "AI 기업 앤스로픽(Claude 개발사)은 기술주 급락에도 1.5조 달러 기업가치를 목표로 IPO를 추진한다고 FT가 전했다. 추수감사절 이전 상장을 목표로 하고 있다. 그러나 CNBC에 따르면 투자자들은 1.5조 달러도 ‘무리한 수준’이라고 보고 있으며, 한 투자자는 이를 ‘stretch’라고 불렀다. 앞서 기대됐던 2조 달러 가치에서 낮아질 수 있다는 분석이다. 영국 개인투자자 대상 공모 준비도 진행 중이지만, 애널리스트들은 스페이스X 주가 하락으로 수요가 줄 수 있다고 경고했다.",
+      "original": "Anthropic to press ahead with IPO targeting $1.5tn valuation",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452?syn-25a6b1a6=1",
+      "published": "2026-11-07T06:00+09:00",
+      "also": [
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/06/investors-brace-for-anthropic-valuation-1point5-trillion-a-stretch.html",
+          "original": "Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch'"
+        },
+        {
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/d0be1646-7d2a-4d9d-8412-7488f3c8b203?syn-25a6b1a6=1",
+          "original": "Anthropic lines up UK retail offer as AI stocks wobble"
+        }
+      ]
+    },
+    {
+      "id": "w29",
+      "region": "미국",
+      "title": "엔비디아·AMD 등 반도체주 반등…안도는 일시적일까",
+      "summary": "엔비디아와 AMD 등 칩 관련 주식이 반등했지만, 애널리스트들은 추가 변동성을 경고했다. 다만 AI 거래에 유리한 새로운 요인도 여럿 있다고 MarketWatch는 전했다. 급락 뒤 반등이 지속될지는 아직 불투명하다.",
+      "original": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
+      "published": "2026-11-07T06:24+09:00"
+    },
+    {
+      "id": "w21",
+      "region": "미국",
+      "title": "데이터센터는 빚으로 돈다…채권 시장 부담 가중",
+      "summary": "올해 AI 관련 부채 발행이 투자자 포트폴리오를 압도했고, 수익률 측면에서도 실망스러웠다고 MarketWatch가 전했다. 데이터센터 구축이 빚에 의존하는 구조가 채권 시장의 부담으로 이어지고 있다. 민주당이 의회를 장악하면서 자금 수요가 나아지기는 어려울 것이라는 전망이다.",
+      "original": "Data centers run on debt. That was a problem for bonds this year — and it’s only going to get worse.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/data-centers-run-on-debt-that-was-a-problem-for-bonds-this-year-and-its-only-going-to-get-worse-09c03be6?mod=mw_rss_topstories",
+      "published": "2026-11-07T06:37+09:00"
+    },
+    {
+      "id": "w13",
+      "region": "미국",
+      "title": "머스크, 스페이스X 대형 인수 시사…통신업계 겨냥",
+      "summary": "일론 머스크가 대형 인수합병(M&A)의 문을 열어뒀다는 보도다. 로켓·위성 인터넷 기업 스페이스X가 통신 거인들에 도전하려 한다는 내용이다.",
+      "original": "Elon Musk opens the door for a big SpaceX acquisition",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/elon-musk-opens-the-door-for-a-big-spacex-acquisition-4f62bcad?mod=mw_rss_topstories",
+      "published": "2026-11-07T06:45+09:00"
+    },
+    {
+      "id": "w79",
+      "region": "유럽",
+      "title": "영국, 에너지 기업에 미납 요금 대응 압박…25억 파운드 부채 탕감",
+      "summary": "영국 에너지 장관은 대형 에너지 공급사 경영진에게 이번 겨울 가계의 미납 에너지 요금 해결을 더 도우라고 촉구했다. 정부는 최대 25억 파운드를 투입해 기록적인 가계 에너지 부채를 줄일 계획이다. 대상은 약 240만 가구다. 가계 에너지 부채는 연말까지 70억 파운드에 이를 수 있다는 전망이다. 이는 재무장관이 지난달 연간 예산안에서 밝힌 ‘서킷브레이커’ 전략의 일부다.",
+      "original": "Minister tells energy suppliers to do more to help households tackle unpaid bills this winter",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/06/minister-energy-suppliers-help-households-unpaid-bills-debt-relief",
+      "published": "2026-11-06T15:00+09:00"
+    },
+    {
+      "id": "w75",
+      "region": "유럽",
+      "title": "영국, 구인광고에 연봉 표기 의무화 추진",
+      "summary": "앤디 버넘 총리는 기업이 구인광고에 급여를 공개하도록 법으로 의무화하겠다고 발표했다. 지원 전 연봉을 몰라 답답했던 구직자의 불편을 덜기 위한 조치다. 캠페이너들은 청년과 여성이 더 평등한 임금을 받는 데 특히 도움이 될 것이라고 평가했다. 재직자도 자신의 임금이 다른 사람과 비교해 공정한지 판단할 수 있다는 점이 강조됐다.",
+      "original": "Employers to be forced to put salaries on job ads, Andy Burnham announces",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/law/2026/nov/06/uk-employers-forced-put-salaries-job-adverts-andy-burnham",
+      "published": "2026-11-06T17:54+09:00"
+    },
+    {
+      "id": "w7",
+      "region": "유럽",
+      "title": "ECB, 2026년 6월 말 기준 은행 연결 재무 데이터 공개",
+      "summary": "유럽중앙은행(ECB)이 2026년 6월 말 기준 EU 은행 부문의 연결 기준 분기 데이터를 공표했다. 336개 은행 그룹과 2283개 독립 신용기관, EU 내 비EU계 자회사·지점이 포함되며, 이는 EU 은행 대차대조표의 거의 100%에 해당한다. 수익성과 효율성, 자산 구성, 유동성, 자산 건전성, 자기자본비율 등 폭넓은 지표를 담았다. 이 데이터는 연말 데이터의 부분 집합이다.",
+      "original": "ECB publishes consolidated banking data for end-June 2026",
+      "source": "ECB",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261106~356f2fc73a.en.html",
+      "published": "2026-11-06T18:00+09:00"
+    },
+    {
+      "id": "w55",
+      "region": "유럽",
+      "title": "영국 집값 10월 0.6% 급락…4개월 연속 하락",
+      "summary": "영국 주택 가격이 10월 전월 대비 0.6% 떨어지며 2023년 8월 이후 가장 가파른 월간 하락을 기록했다. 4개월 연속 하락이다. 로이즈(Lloyds)에 따르면 평균 주택 가격은 29만 6285파운드였다. 애널리스트들은 0.1% 상승을 예상했는데, 이는 6월 이후 첫 월간 상승이 될 뻔했다. 전년 동월 대비로도 1.2% 떨어져 2023년 10월 이후 가장 큰 연간 하락이다. 로이즈의 앤드루 아삼 모기지 담당 이사는 주택 수요가 어려운 경제 여건 속에서 시험대에 올라 있다고 말했다.",
+      "original": "UK house prices fall at steepest rate in more than three years",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/06/uk-house-prices-fall-at-steepest-rate-in-more-than-three-years",
+      "published": "2026-11-06T21:54+09:00"
+    },
+    {
+      "id": "w38",
+      "region": "유럽",
+      "title": "런던 지하철 기관사 파업 예고…연말 쇼핑 시즌 차질 우려",
+      "summary": "RMT 노조 소속 기관사들이 주 4일제 도입 계획에 반대해 16일에 걸쳐 24시간 파업 8차례를 예고했다. 그중 6차례는 크리스마스 직전에 몰려 있다. 첫 파업은 11월 26일 정오에 시작되며, 12월 17일 목요일과 19일 토요일에도 파업이 잡혀 있다. 반면 Aslef 소속 런던 지하철 기관사 대다수는 주 4일제 계획을 환영하고 있다. 연말 쇼핑 마지막 주말에는 지하철 운행이 크게 줄 수 있다는 우려가 나온다.",
+      "original": "Commuters and shoppers face disruption from tube driver strikes in run-up to Christmas",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/06/commuters-and-shoppers-face-disruption-from-tube-driver-strikes-in-run-up-to-christmas",
+      "published": "2026-11-06T22:45+09:00"
+    },
+    {
+      "id": "w16",
+      "region": "유럽",
+      "title": "프랑스 부채 부담 가중…시위 속 교육 투자 재원 난관",
+      "summary": "프랑스 정부는 전국적 시위에 대응해 학교 개보수에 2030년까지 40억 유로(약 44.8억 달러)를 저리 대출로 공급하고, 대학에는 2029년까지 10억 유로를 추가로 배정할 계획이다. 그러나 공공부채가 쌓이고 이자 부담이 커지는 상황이라 재정 여력이 빠듯하다는 지적이다. 프랑스 공공부채는 국내총생산(GDP)의 약 120% 수준이다. 독일은 약 65%이며, 6000억 유로 규모 인프라·국방 투자 패키지가 있음에도 최고 신용등급 AAA를 유지하고 있다. 프랑스 신용등급은 평가사에 따라 AA, A+, Aa3 수준이다.",
+      "original": "Protests and reforms: France's rising debt costs threaten stability",
+      "source": "DW",
+      "url": "https://www.dw.com/en/protests-and-reforms-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-bus-2091-rdf",
+      "published": "2026-11-06T23:37+09:00"
+    },
+    {
+      "id": "w86",
+      "region": "유럽",
+      "title": "저지 경제장관 “노동자 권리, 성장 다음 순위 될 수도”",
+      "summary": "저지(Jersey) 경제개발장관은 BBC와의 인터뷰에서 노동자 권리가 경제성장보다 ‘두 번째 자리’로 밀릴 수 있다고 말했다. 발언은 짧게 보도됐다.",
+      "original": "Workers' rights 'second place' to economic growth",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/videos/cq369l9r634ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T23:52+09:00"
+    },
+    {
+      "id": "w45",
+      "region": "유럽",
+      "title": "EU, 틱톡에 정신건강 보호 소홀 혐의…알고리즘 문제 지적",
+      "summary": "유럽연합 집행위원회는 틱톡이 이용자의 정신건강을 보호하지 못했다는 예비 판단을 내렸다. 알고리즘이 ‘해로울 수 있으며’ 젊고 취약한 이용자를 ‘빠져나오기 어려운 토끼굴’로 이끈다고 지적했다. 틱톡은 EU에서 1억 8900만 명의 이용자를 보유하고 있다. 체형이나 고립 같은 주제의 반복 콘텐츠를 막지 못했다는 판단이다. 이 사안은 틱톡의 사업 모델을 겨냥한 사건이라는 평가다.",
+      "original": "EU charges TikTok with failing to protect users’ mental health",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health",
+      "published": "2026-11-07T00:17+09:00"
+    },
+    {
+      "id": "w15",
+      "region": "유럽",
+      "title": "영국 우유 수매가 인하…Freshways, 리터당 7펜스 삭감",
+      "summary": "영국 대형 유가공업체 Freshways가 12월 1일부터 농가에서 사들이는 우유 가격을 리터당 7펜스 낮춰 29.4펜스로 조정한다고 밝혔다. 다른 대형 업체도 최근 가격을 내렸다. 농가들은 우유를 손해 보고 팔고 있다며 업계 신뢰가 ‘바닥’이라고 말한다. 여름 가뭄과 이란 분쟁에 따른 연료·비료 가격 급등으로 이미 생산비가 수매가를 웃도는 상황이었다. 유제품 시장 약세와 가공업체의 낮은 수익성이 가격 인하의 이유로 제시됐다.",
+      "original": "UK dairy farmers face further pressure as milk processor cuts prices",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/nov/06/uk-dairy-farmers-face-squeeze-as-milk-processor-cuts-prices",
+      "published": "2026-11-07T01:27+09:00"
+    },
+    {
+      "id": "w30",
+      "region": "유럽",
+      "title": "영국-EU 식품 기준 협상…‘스모키 베이컨’ 명칭 논란 재점화",
+      "summary": "영국 정부는 대EU 교역 비용을 줄이기 위해 식품 기준 협상을 진행 중이며, 이달 말 정상회담에서 발표될 수 있다. 그러나 영국이 EU 식품 규칙을 폭넓게 받아들여야 한다는 조건이 브렉시트 시기의 주권 논쟁을 다시 불러일으키고 있다. 그 사례로 ‘스모키 베이컨’ 맛 감자칩의 명칭이 논란이 되고 있다. 노동당 장관들은 경제적 이익을 강조하는 데 집중하고 있다.",
+      "original": "Why smoky bacon crisps threaten to reignite rows over EU rules",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T02:19+09:00"
+    },
+    {
+      "id": "w90",
+      "region": "유럽",
+      "title": "EU, 스페인 고속철 ‘사기’ 의혹 조사…올해 115명 사망",
+      "summary": "유럽연합(EU)이 마드리드~세비야 고속철 노선의 ‘사기’ 의혹을 조사하고 있다. FT에 따르면 이 노선에서 올해 사고로 115명이 숨졌다. 사업 관리와 안전에 대한 책임 논란이 커질 수 있다.",
+      "original": "EU probes ‘fraud’ on Spain’s lethal high-speed rail line",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/888d77c4-c771-4390-95ef-efcee413ef32?syn-25a6b1a6=1",
+      "published": "2026-11-07T02:47+09:00"
+    },
+    {
+      "id": "w82",
+      "region": "유럽",
+      "title": "옥스퍼드 스트리트 차량 통행 금지 후 웨스트엔드 카드 결제 13%↑",
+      "summary": "옥스퍼드 스트리트가 차량과 버스를 막은 뒤 웨스트엔드 상권의 카드 결제가 늘었다. 바클레이스 체크·신용카드 거래는 10월 26일~31일 사이 전년 동기 대비 13% 증가했다. 보행 중심 정책이 소비에 긍정적인 영향을 줬다는 평가다.",
+      "original": "West End reports spending boost after Oxford Street bans cars and buses",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/d3d05f60-951d-4135-9342-c62c9f1f5839?syn-25a6b1a6=1",
+      "published": "2026-11-07T03:15+09:00"
+    },
+    {
+      "id": "w10",
+      "region": "중국",
+      "title": "중국 전기차, 유럽 진출 가속…세리스·리오토 2027년 데뷔",
+      "summary": "중국 내 자동차 수요가 약해지면서 중국 전기차 업체들이 유럽으로 몰리고 있다. Seres Group과 Li Auto가 2027년 유럽 시장 데뷔를 준비 중이라고 닛케이아시아가 파리발로 전했다.",
+      "original": "Seres, Li Auto join Chinese EVs' charge into Europe",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/seres-li-auto-join-chinese-evs-charge-into-europe",
+      "published": null
+    },
+    {
+      "id": "w39",
+      "region": "중국",
+      "title": "중국 증시 주간 상승분 반납…10년물 국채 금리 사상 최저",
+      "summary": "중국 증시는 주간 상승분 일부를 반납했고, 기준 10년물 국채 금리는 사상 최저치를 기록했다. 미국 민주당의 압승 이후 글로벌 AI 주식 거품이 꺼졌다는 평가가 나온다. CSI 300 지수는 1.4% 떨어졌고, AI 관련 종목이 하락을 이끌었다. 같은 날 중국은 제5차 전체회의(플레넘) 결의와 광군절(싱글스데이) 소식도 함께 다뤘다.",
+      "original": "AI bubble bursts, fifth plenum resolution, Singles’ Day",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/plus/business/markets/article/3373548/ai-bubble-bursts-fifth-plenum-resolution-singles-day",
+      "published": "2026-11-06T18:05+09:00"
+    },
+    {
+      "id": "w25",
+      "region": "중국",
+      "title": "미 상무부, 중국 기업 ‘50% 자회사 규칙’ 적용 1월 10일까지 유예",
+      "summary": "미 산업안보국(BIS)은 목요일 최종 규칙을 발표해 ‘50% 자회사 규칙’의 적용 유예를 내년 1월 10일까지 연장했다. 이 규칙은 미국 제재 명단에 오른 기업이 50% 이상 지분을 가진 자회사까지 제한을 넓히는 내용이다. 작년 말 한국에서 열린 미·중 정상회담에서 합의된 중단 조치다. 유예는 월요일 만료 예정이었다. 선전에서 열릴 새 무역협상을 앞두고 발표됐으며, 미·중 무역 휴전도 1월 10일 만료된다.",
+      "original": "Ahead of Shenzhen trade talks, US holds off blacklist rule that angered Beijing",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/policy/article/3373520/ahead-shenzhen-trade-talks-us-holds-blacklist-rule-angered-beijing",
+      "published": "2026-11-06T22:00+09:00"
+    },
+    {
+      "id": "w8",
+      "region": "중국",
+      "title": "중국 국무원, 증시 안정 대책 약속…CSI 300 1.4%↓",
+      "summary": "중국 국무원은 침체된 증시를 안정시키기 위해 정책 메커니즘을 개선하겠다고 밝혔다. 리창 총리가 주재한 국무원 상무회의에서 나온 발언으로, 자본시장의 안정성과 건전한 발전을 강화하겠다는 내용이다. 금요일 상하이·선전 주요 기업을 추종하는 CSI 300 지수는 1.4% 하락했다. 미국 증시 폭락 뒤 중국 증시도 다시 밀렸다. 과학기술주가 하락을 주도했고, AI 반도체 기업 비중이 큰 상하이 STAR 50 지수는 2.6% 떨어졌다.",
+      "original": "Beijing calls for more efforts to stabilise stock market after renewed sell-off",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/business/markets/article/3373602/beijing-calls-more-efforts-stabilise-stock-market-after-renewed-sell",
+      "published": "2026-11-06T23:00+09:00"
+    },
+    {
+      "id": "w17",
+      "region": "중국",
+      "title": "미·중 교역 안정 촉구…미 농업 수출업계 합의 이행 요구",
+      "summary": "중간선거 결과로 미·중 관계가 더 복잡해질 수 있다는 우려 속에 미국 농산물 수출업계가 워싱턴에 기존 합의 이행을 요구하고 있다. 대두처럼 주요 품목은 몇 달에서 1년 전부터 선적 계획을 세워야 해 정책 불확실성이 큰 부담이다. 작년 무역전쟁 이후 농민들은 안정을 원하고 있다. 카길 중국법인의 프랭크 저우 총괄책임자는 농업은 생산 주기가 길어 미리 계획해야 한다고 말했다.",
+      "original": "After midterms upheaval, US ag exporters call for stability in China trade",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/china-economy/article/3373595/after-midterms-upheaval-us-ag-exporters-call-stability-china-trade",
+      "published": "2026-11-06T23:00+09:00"
+    },
+    {
+      "id": "w101",
+      "region": "중국",
+      "title": "미국, 중국에 부산 무역합의 즉시 이행 촉구…희토류 공급 미흡",
+      "summary": "미국은 중국이 희토류 등 핵심 소재 공급을 늘리겠다는 약속을 지키지 않고 있다며 부산 무역합의 조건을 즉시 이행하라고 요구했다. 공급 부족이 이어지면 미·중 무역 긴장이 커질 수 있다는 분석이다. FT가 보도했다.",
+      "original": "US warns China it must ‘immediately’ meet terms of Busan trade deal",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/391bb785-0247-4c39-b53b-35007187d603?syn-25a6b1a6=1",
+      "published": "2026-11-07T02:20+09:00"
+    },
+    {
+      "id": "w89",
+      "region": "아시아",
+      "title": "싱가포르 대형 은행, 채권 금리 상승에 수익성 고민",
+      "summary": "싱가포르 최대 은행들은 채권 금리 상승과 금리 방향의 불확실성 속에서 수익을 늘리기 어려운 상황이다. 불투명한 전망에 투자자들이 은행 주식을 팔고 있다고 닛케이아시아가 보도했다.",
+      "original": "Singapore banks struggle with bond yield and interest rate tensions",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/finance/singapore-banks-struggle-with-bond-yield-and-interest-rate-tensions",
+      "published": null
+    },
+    {
+      "id": "w93",
+      "region": "아시아",
+      "title": "말레이시아 팜유 기업, 농장 일부 태양광 사업으로 전환",
+      "summary": "말레이시아 대형 팜유 생산업체가 약 1700제곱킬로미터의 농장 일부를 태양광 발전 사업에 쓸 계획이다. 안정적인 수입을 확보하고 늘어나는 재생에너지 수요를 잡기 위해서다. 닛케이아시아가 쿠알라룸푸르발로 전했다.",
+      "original": "Malaysian palm oil producer turns to solar for steadier income",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/commodities/malaysian-palm-oil-producer-turns-to-solar-for-steadier-income",
+      "published": null
+    },
+    {
+      "id": "w41",
+      "region": "아시아",
+      "title": "일본 편의점 로손, 인도 첫 매장 준비…7-Eleven 철수 뒤",
+      "summary": "일본 편의점 운영사 로손이 인도 첫 매장 개점 계획을 구체화하고 있다. 치열한 인도 시장에서 경쟁사 세븐일레븐이 철수한 뒤 나온 움직임이다. 닛케이아시아가 도쿄발로 전했다.",
+      "original": "Japan convenience store chain Lawson details first India store in Mumbai",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/retail/japan-convenience-store-chain-lawson-details-first-india-store-in-mumbai",
+      "published": null
+    },
+    {
+      "id": "w81",
+      "region": "아시아",
+      "title": "그랩, 베트남 차량호출 최대 수수료율 40%→32%로 인하",
+      "summary": "싱가포르 기반 차량호출 업체 그랩이 베트남에서 최대 수수료율(테이크율)을 요금의 32%로 낮춘다. 기존에는 약 40%였다. 베트남 공정거래 당국이 운전자들의 불만을 계기로 한 검토 끝에 밝혔다.",
+      "original": "Grab to cut maximum take on Vietnam rides to 32% from 40%",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/startups/grab-to-cut-maximum-take-on-vietnam-rides-to-32-from-40",
+      "published": null
+    },
+    {
+      "id": "w100",
+      "region": "아시아",
+      "title": "돈키호테 운영사, 토이저러스 재정비…상품 3배 확대",
+      "summary": "돈키호테를 운영하는 PPIH(Pan Pacific International Holdings)가 인수한 토이저러스를 재정비하고 있다. 취급 상품 수를 세 배로 늘리고 매장 내 체험 공간도 추가할 계획이다. 닛케이아시아가 전했다.",
+      "original": "Japan's Don Quijote owner reshapes Toys R Us, tripling product lineup",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/retail/japan-s-don-quijote-owner-reshapes-toys-r-us-tripling-product-lineup",
+      "published": null
+    },
+    {
+      "id": "w27",
+      "region": "아시아",
+      "title": "중일 관계 냉각 1년…일본 기업, 중국 사업 딜레마",
+      "summary": "일본과 중국의 사업 관계는 다카이치 사나에 총리의 대만 발언으로 빚어진 외교 갈등 1년이 지나도 얼어붙어 있다. 일본 기업들은 중국에 남거나 떠나거나 모두 위험을 떠안고 있다. 닛케이아시아가 도쿄·베이징발로 전했다.",
+      "original": "Japanese companies caught in crossfire of Beijing-Tokyo rift",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/international-relations/japanese-companies-caught-in-crossfire-of-beijing-tokyo-rift",
+      "published": null
+    },
+    {
+      "id": "w47",
+      "region": "아시아",
+      "title": "푸틴, 다카이치 외교 공백 틈타 일본담배 자산 장악",
+      "summary": "러시아가 일본담배(JT)의 러시아 자회사 4곳을 자국 통제 아래 두었다. 닛케이아시아는 푸틴 대통령이 다카이치 총리의 외교적 유화 제스처를 약점으로 보고 있을 수 있다고 분석했다. 이번 조치로 JT의 러시아 사업 운영에 불확실성이 커졌다.",
+      "original": "Putin exploits Takaichi's diplomatic opening with Japan Tobacco grab",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/international-relations/putin-exploits-takaichi-s-diplomatic-opening-with-japan-tobacco-grab",
+      "published": null
+    },
+    {
+      "id": "w19",
+      "region": "아시아",
+      "title": "미 재무부, 캄보디아 프린스그룹 3차 제재…온라인 사기 겨냥",
+      "summary": "미 재무부가 캄보디아 대기업 프린스그룹(Prince Group)에 세 번째 제재를 부과했다. 온라인 사기에 관여한 개인 4명과 법인 41곳이 대상이다. 닛케이아시아가 하노이발로 전했다.",
+      "original": "US slaps sanctions on Cambodia's Prince Group over online scams",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/society/crime/us-slaps-sanctions-on-cambodia-s-prince-group-over-online-scams",
+      "published": null
+    },
+    {
+      "id": "w92",
+      "region": "아시아",
+      "title": "AI 매도 속 인도 증시 ‘대체처’로 부상…외국인 자금 기대",
+      "summary": "AI 매도가 이어지면서 인도 증시가 안전한 대안으로 떠오르고 있다. 인도 Nifty 50 지수는 최근 한 달간 약 9% 올랐다. 반면 미국·일본·한국·대만처럼 AI 비중이 큰 시장은 크게 밀렸다. JP모건의 라지브 바트라는 외국인 투자자들이 인도 비중을 중립으로 맞추면 약 1150억 달러의 순유입이 생길 수 있다고 추정했다. 유가 하락 등 여러 요인이 인도에 유리하게 작용하고 있다는 분석이다.",
+      "original": "India as an AI hedge? The country's stocks could see robust inflows as markets globally tank",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/06/india-ai-tech-hedge-nifty50.html",
+      "published": "2026-11-06T15:02+09:00"
+    },
+    {
+      "id": "w66",
+      "region": "아시아",
+      "title": "싱가포르항공, 20억 싱가포르달러 객실 개선…더블베드 도입",
+      "summary": "싱가포르항공이 20억 싱가포르달러(약 16억 달러) 이상을 투자해 장거리 노선의 좌석과 기내 서비스를 개선한다. 신형 프리미엄 좌석은 2027년 중반부터 A350 장거리·초장거리 기종에 순차 도입된다. 퍼스트 클래스에는 32인치 4K 화면과 노이즈캔슬링 헤드폰이 제공되고, 승객은 더블베드나 마주 보는 식사 배치를 예약할 수 있다. 비즈니스 클래스에는 22인치 4K 화면과 무선 충전이 들어간다. 가디언은 두 사람이 누울 수 있는 ‘항공기 최대 더블베드’(203cm×152cm)가 포함됐다고 전했다.",
+      "original": "The 'World's Best Airline' is updating its business and first-class experience",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/06/singapore-airlines-new-first-business-class-a350-starlink.html",
+      "published": "2026-11-06T16:32+09:00",
+      "also": [
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/business/2026/nov/06/dream-ticket-super-rich-singapore-airlines-largest-double-bed",
+          "original": "Dream ticket? Super-rich can sleep pretty with Singapore Airlines ‘largest double bed in the sky’"
+        }
+      ]
+    },
+    {
+      "id": "w83",
+      "region": "아시아",
+      "title": "나스닥 급락에 아시아 칩주 폭락…SK하이닉스 10%대↓",
+      "summary": "나스닥 종합지수가 조정 국면에 들어가면서 아시아 기술주가 금요일 일제히 떨어졌다. SK하이닉스는 10.44% 급락했고 삼성전자는 6.35% 내렸다. LG이노텍과 LG디스플레이도 각각 7.02%, 4.45% 하락하며 한국 기술업종 전반으로 매도가 번졌다. 일본에서는 어드반테스트가 4.99%, 도쿄일렉트론이 5% 넘게, 소프트뱅크그룹이 10.83% 떨어졌다. 투자자들은 민주당 승리로 데이터센터 개발이 규제받으면 AI 칩 수요가 줄 수 있다고 걱정하고 있다.",
+      "original": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
+      "published": "2026-11-06T20:06+09:00",
+      "also": [
+        {
+          "source": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/markets/taiwan-south-korea-japan-stock-markets-hit-hard-by-ai-sell-off",
+          "original": "Taiwan, South Korea, Japan stock markets hit hard by AI sell-off"
+        }
+      ]
+    },
+    {
+      "id": "w44",
+      "region": "글로벌",
+      "title": "엔진 터빈 블레이드 투자 급증…‘단결정’으로 키운다",
+      "summary": "항공기 엔진 속 터빈 블레이드는 1500℃를 넘는 온도와 큰 기계적 응력을 견뎌야 한다. 이 부품은 깎거나 잘라서 만드는 것이 아니라 합금을 주조해 ‘키우는’ 방식으로 만든다. 1960년대 엔지니어들은 용융 합금을 날개 모양으로 부은 뒤 한쪽 끝부터 천천히 식히는 방법을 개발했다. 이 과정에서 하나의 결정(단결정)이 만들어진다. 이처럼 제조가 어려운 부품 분야로 최근 투자가 크게 몰리고 있다고 BBC가 전했다.",
+      "original": "The engine parts that 'fight the laws of the universe'",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T09:06+09:00"
+    },
+    {
+      "id": "w87",
+      "region": "글로벌",
+      "title": "파라과이 대통령 사임…우에노은행 사태로 예금 동결",
+      "summary": "파라과이의 산타아고 페냐 대통령이 목요일 사임했다. 정치·금융 위기로 남미 국가의 은행 시스템이 무너진 데 따른 결과다. 중앙은행은 지난 월요일 우에노은행에 지급불능에 따른 정리 절차를 명령했고, 예금 300만 명의 자금이 동결됐다. 수십만 가구가 식비 등 생활비를 찾지 못하는 상황이 됐다. 은행 임원들이 체포됐고 대규모 시위가 이어졌다. 우에노은행은 페냐 정부 아래 급성장해 성인 인구의 약 60%를 고객으로 확보했다고 주장해 왔다.",
+      "original": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
+      "published": "2026-11-06T15:16+09:00"
+    },
+    {
+      "id": "w80",
+      "region": "글로벌",
+      "title": "드론 시대에도 방산 대기업 수익은 재래식 무기가 견인",
+      "summary": "드론과 AI가 전쟁 방식을 바꾸고 있지만, 세계 최대 방산 기업들은 전차·전투기 같은 재래식 무기 수요에 힘입어 수익을 늘리고 있다. 미국과 유럽 방산 기업들의 최근 실적에서도 전통 무기가 전년 대비 성장을 이끌었다. 센서, 자율 시스템, 대드론 기술 수요도 빠르게 늘고 있다. 드론과 자율전 확산은 기존 방산 기업을 밀어내기보다 같은 기업에 새 사업을 만들어주고 있다.",
+      "original": "Drones are changing warfare. But defense giants are still making billions from old-school weapons",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/06/defense-military-tech-earnings.html",
+      "published": "2026-11-06T19:39+09:00"
+    },
+    {
+      "id": "w46",
+      "region": "글로벌",
+      "title": "민주당 압승에 내년 금리 인상 억제 기대…각국 긴축 기조",
+      "summary": "민주당의 중간선거 압승이 내년 세계 금리 인상을 억제할 수 있다는 시장 분석이 나온다. 연준, 영란은행, 유럽중앙은행, 일본은행 모두 최근 금리를 올리며 다시 긴축 모드에 들어섰다. 이런 긴축의 배경에는 미국·이스라엘의 대이란 전쟁으로 인한 유가와 가스 가격 상승이 있다. 정제 설비 부족이 겹치며 디젤·휘발유·항공유 가격도 크게 뛰었다. 다만 유가 흐름, 미국 성장 둔화, 재정정책이 변수로 남아 있어 결론은 나지 않았다.",
+      "original": "Democratic sweep gives markets a reason to rethink path of interest rates",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/06/oil-prices-interest-rates-midterms.html",
+      "published": "2026-11-06T21:30+09:00"
+    },
+    {
+      "id": "w91",
+      "region": "글로벌",
+      "title": "AI 불안에 화이트칼라 퇴사 증가…대량 해고 증거는 없어",
+      "summary": "가디언은 AI가 직장 생활을 바꾸면서 화이트칼라 노동자들이 자발적으로 이직하고 있다고 보도했다. 앤스로픽 연구원 Mrinank Sharma가 ‘세상이 위험에 처해 있다’는 사직서를 올려 화제가 된 사례도 있다. 기술, 홍보, 컨설팅 등 여러 업종에서 AI가 일의 실질과 안정성을 하룻밤 사이 바꿨다는 목소리가 나온다. 다만 AI로 인한 대규모 해고를 보여주는 증거는 아직 없다고 가디언은 덧붙였다.",
+      "original": "Fearing AI disruption, white-collar workers are quitting their jobs",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/nov/06/ai-disruption-job-quitting",
+      "published": "2026-11-06T23:00+09:00"
+    },
+    {
+      "id": "w108",
+      "region": "글로벌",
+      "title": "AI 반발 우려에 구리 가격 하락…수요 전망 흔들",
+      "summary": "구리 가격이 AI 반발 우려에 하락했다. 구리는 올해 AI 데이터센터 수요 급증 전망에 힘입어 크게 올랐지만, 민주당의 중간선거 압승 이후 그 수요가 위험해졌다는 평가다. FT가 전했다.",
+      "original": "Copper prices fall on fears of AI backlash",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/0a4e2a58-f83f-4445-8f32-892657cf8c27?syn-25a6b1a6=1",
+      "published": "2026-11-07T01:31+09:00"
+    },
+    {
+      "id": "w76",
+      "region": "글로벌",
+      "title": "국제유가 주간 급락…이란 재충돌 우려에 브렌트 16%↓",
+      "summary": "국제유가는 금요일 주간 큰 폭 하락세로 마감했다. 중간선거 이후 미국과 이란 간 군사 충돌이 재개될 위험이 평가되는 가운데 나온 흐름이다. 브렌트유는 3센트 오른 배럴당 98.32달러로 마감했지만 주간으로는 16% 넘게 떨어졌다. 미국산 WTI는 31센트 오른 90.83달러로, 주간 13% 가까이 하락했다. 레이피던 에너지그룹의 밥 맥널리는 군사 충돌 재개 확률을 80%로 보며, 두 유가가 배럴당 100달러를 넘을 수 있다고 전망했다.",
+      "original": "Oil prices tumble for the week as investors weigh Iran conflict risk after midterm elections",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html",
+      "published": "2026-11-07T04:54+09:00",
+      "also": [
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/06/us-iran-war-trump-hormuz-oil-midterms.html",
+          "original": "Renewed U.S.-Iran tension could push oil past $100: Rapidan Energy"
+        }
+      ]
+    },
+    {
+      "id": "w4",
+      "region": "글로벌",
+      "title": "기술주 반등…AI주 수조 달러 손실 뒤 소폭 회복",
+      "summary": "AI·기술 기업 주가가 대규모 매도 이후 소폭 회복했다. 나스닥 종합지수는 목요일 미국 증시 급락 이후 금요일 플러스로 마감했다. 목요일 매도는 민주당의 중간선거 승리가 AI 발전 속도를 늦출 것이라는 우려에서 비롯됐다. 금요일에는 예상보다 강한 고용지표(16만 5000명 증가)가 나오며 미국 증시에 엇갈린 신호를 줬다. 목요일에는 칩과 반도체 기업이 특히 크게 흔들렸다. 나스닥100은 1.4% 올랐지만, FT는 이번 반등이 과거 급락 후 회복에 비해 미약하다고 평가했다.",
+      "original": "AI stocks climb after trillions wiped from market values",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T06:06+09:00",
+      "also": [
+        {
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/642b32dc-e3a1-4df8-ae91-5c84bdeb89e0?syn-25a6b1a6=1",
+          "original": "US stocks recover after tech rout"
+        },
+        {
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/088ed252-ea9c-4b61-b2d1-37295fd0f7c2?syn-25a6b1a6=1",
+          "original": "US stocks stage tepid recovery after $3.2tn rout fuelled by AI fears"
+        }
+      ]
+    },
+    {
+      "id": "w5",
+      "region": "글로벌",
+      "title": "미국발 기술주 폭락에 유럽·아시아 증시 동반 하락",
+      "summary": "유럽과 아시아 증시가 금요일 미국 기술주 폭락의 여파로 크게 떨어졌다. 런던 FTSE 100은 장중 한때 2.35%(254포인트) 떨어졌지만 마감 때는 1% 하락으로 낙폭을 줄였다. 독일 DAX는 2%, 프랑스 CAC 40은 0.8%, 스페인 IBEX는 0.6% 내렸다. 민주당의 중간선거 압승 이후 AI 데이터센터 투자 제한 우려가 시장을 흔들었다. 많은 애널리스트는 매도가 한동안 더 이어질 것으로 본다. 유럽 STOXX 600은 장초반 1.6% 하락해 주간 상승분을 모두 지웠다.",
+      "original": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
+      "published": "2026-11-07T06:23+09:00",
+      "also": [
+        {
+          "source": "DW",
+          "url": "https://www.dw.com/en/european-shares-join-a-global-sell-off-as-ai-spending-fears-rattle-wall-street-and-asian-markets/a-79871504?maca=en-rss-en-bus-2091-rdf",
+          "original": "European shares join a global sell-off as AI spending fears rattle Wall Street and Asian markets"
+        }
+      ]
+    }
+  ]
+}

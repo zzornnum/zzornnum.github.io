@@ -1,0 +1,393 @@
+{
+  "date": "2026-11-08",
+  "generatedAt": "2026-11-08T07:56+09:00",
+  "items": [
+    {
+      "id": "w48",
+      "region": "미국",
+      "title": "S&P500, AI 쏠림 위험…분산 대안은",
+      "summary": "마켓워치는 S&P500이 AI 관련 기업에 과도하게 노출돼 있을 수 있다고 경고했습니다. 대형주 중심의 이 지수는 생각보다 분산이 잘 되어 있지 않다는 지적입니다. 기사는 이를 피하기 위한 간단한 대안들을 소개합니다. 국내 투자자의 미국 지수 투자 비중을 점검할 때 참고할 만한 내용입니다.",
+      "original": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
+      "published": "2026-11-08T01:40+09:00"
+    },
+    {
+      "id": "w38",
+      "region": "미국",
+      "title": "상위 10% 부자, 하위층과 격차 더 벌어져",
+      "summary": "마켓워치는 미국 상위 10%의 부가 나머지 계층보다 훨씬 빠르게 늘어나고 있다고 보도했습니다. 상위 10%의 중간 순자산은 3년 전보다 80만 달러 더 많아졌습니다. 기사 원문이 짧아 자산 구성이나 원인에 대한 구체적 분석은 확인되지 않습니다. 자산 불평등 확대가 소비와 정책 논의에 영향을 줄 수 있는 지표입니다.",
+      "original": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what’s making them richer.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-wealthiest-10-of-americans-are-pulling-ahead-of-everyone-else-this-is-whats-making-them-richer-bd83c2f6?mod=mw_rss_topstories",
+      "published": "2026-11-08T02:04+09:00"
+    },
+    {
+      "id": "w25",
+      "region": "미국",
+      "title": "민주당 승리에 사회보장제도 재원 논쟁 재점화",
+      "summary": "마켓워치는 민주당의 선거 승리로 사회보장제도(Social Security) 재원을 누가 부담할지에 대한 문제가 다시 떠올랐다고 전했습니다. 사회보장제도를 지키기 위한 방안은 많지만, 모든 방안이 누군가에게 부담을 준다는 것이 기사의 핵심입니다. 원문이 짧아 구체적인 개혁안은 확인되지 않습니다. 재정 건전성과 정책 방향에 대한 논의가 본격화될 수 있는 사안입니다.",
+      "original": "Democrats’ big election win revives a difficult Social Security question: Who pays?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/democrats-big-election-win-revives-a-difficult-social-security-question-who-pays-17ba9448?mod=mw_rss_topstories",
+      "published": "2026-11-08T02:43+09:00"
+    },
+    {
+      "id": "w20",
+      "region": "미국",
+      "title": "2027년 처방약 비용 50% 급등 예고…공개 등록 기간 필요",
+      "summary": "마켓워치는 2027년 처방약 비용이 50% 오를 것이라고 전했습니다. 기사는 공개 등록 기간(open enrollment)에 손을 놓고 있으면 비용 부담이 커질 수 있다고 조언합니다. 원문이 짧아 세부 정책이나 적용 대상은 확인되지 않습니다. 고령층 의료비와 보험 상품 선택에 영향을 주는 정책 변화입니다.",
+      "original": "Medicare prescription drug costs will jump 50% in 2027. Doing nothing could cost you.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/medicare-prescription-drug-costs-will-jump-50-in-2027-doing-nothing-could-cost-you-b701dfb7?mod=mw_rss_topstories",
+      "published": "2026-11-08T04:20+09:00"
+    },
+    {
+      "id": "w14",
+      "region": "미국",
+      "title": "2027년 자본이득세율, 소득 구간별 정리",
+      "summary": "마켓워치는 2027년 자본이득세율이 소득 구간별로 어떻게 적용되는지 정리했습니다. 국세청(IRS)이 관련 정보를 막 발표했다는 내용입니다. 기사 원문이 짧아 구체적인 세율 수치는 확인되지 않습니다. 주식·부동산 등 자산 매도 차익에 대한 세 부담을 따져볼 때 참고할 만한 세제 정보입니다.",
+      "original": "Here are the 2027 capital-gains tax rates for each income level",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
+      "published": "2026-11-08T04:48+09:00"
+    },
+    {
+      "id": "w61",
+      "region": "유럽",
+      "title": "AI 호황에 대한 정치적 청구서…기술주 3.2조 달러 증발",
+      "summary": "이번 중간선거는 AI 호황에 대한 정치적 대가가 돌아왔음을 보여줬다는 가디언 사설입니다. 민주당의 압승으로 과도한 지출, 불어나는 부채, 데이터센터에 대한 반발이 커지며 기술주가 흔들렸습니다. 목요일 월가는 팬데믹 이후 최악의 하루를 보내며 3.2조 달러가 증발했습니다. 엔비디아 시가총액은 4000억 달러 넘게 폭락했고, 세계 최고 부자 머스크의 재산은 이틀 만에 1130억 달러 줄었습니다. 앤스로픽은 1.5조 달러 기업가치로 상장을 준비 중이었으나 1조 달러도 못 받을 수 있다는 전망이 나옵니다. 사설은 이번 조정이 AI 업계의 비현실적인 지출·밸류에이션을 바로잡는 계기가 될 수 있다고 봤습니다.",
+      "original": "The Guardian view on the AI backlash: American voters want a say in their future | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/06/the-guardian-view-on-the-ai-backlash-american-voters-want-a-say-in-their-future",
+      "published": "2026-11-07T08:45+09:00"
+    },
+    {
+      "id": "w33",
+      "region": "유럽",
+      "title": "영국 기준금리 인상…대출·카드 금리 부담 확대",
+      "summary": "영국 중앙은행이 3년 넘게 이어진 동결 끝에 처음으로 기준금리를 올렸습니다. 이란 전쟁으로 식품·연료·에너지 가격이 오르며 물가가 치솟은 데 따른 조치입니다. 전문가들은 향후 18개월 안에 추가 인상이 있을 수 있다고 봅니다. 변동금리 주택담보대출자는 약 130만 명으로, 대출과 카드, 개인대출 금리가 함께 오를 전망입니다. 예금 금리는 개선되지만 가계 부담은 커지고 있습니다.",
+      "original": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T10:41+09:00"
+    },
+    {
+      "id": "w49",
+      "region": "유럽",
+      "title": "네이션와이드, 기준금리 인상 직후 연 5.3% 정기 예금 출시",
+      "summary": "영국 주택금융조합 Nationwide가 '시장 최고 수준'이라는 연 5.3% 이자의 저축 상품을 내놨습니다. 가입 대상은 회원 1900만 명 이상으로 자사 회원에 한정됩니다. 이 상품은 영국 중앙은행이 기준금리를 4%로 올리기 직전에 출시됐습니다. 30개월 만기 고정금리 상품으로, 1만 파운드를 예치하면 만기에 1381파운드의 이자를 받게 됩니다. 금리 인상 국면에서 예금 금리 경쟁이 다시 붙고 있는 신호입니다.",
+      "original": "Nationwide launches savings account with ‘market leading’ 5.3% interest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/nov/07/nationwide-savings-account-market-leading-interest-rate",
+      "published": "2026-11-07T16:00+09:00"
+    },
+    {
+      "id": "w2",
+      "region": "유럽",
+      "title": "AI 데이터센터, 재생에너지 약속 뒤집고 국가 전력망 의존",
+      "summary": "영국 AI 전략의 핵심 사업으로 꼽히는 DataVita는 글래스고 인근 채플홀 AI 개발 단지를 1GW 재생에너지로 운영하겠다고 약속했습니다. 그러나 이 단지는 전력을 전적으로 국가 전력망(National Grid)에서 공급받게 됐다고 회사가 인정했습니다. 가디언이 약속에 의문을 제기하자 회사는 '최종 상업 계약과 인허가, 전력망 절차에 따른다'는 단서를 달았고, 이후 계획을 조용히 수정했습니다. 수정안은 데이터센터가 '전적으로 전력망을 통해 공급'되며 태양광·풍력은 '향후 연결될 수 있다'고만 밝혔습니다. 데이터센터 전력 수요가 커지는 가운데 재생에너지 조달 약속의 실효성을 따져봐야 한다는 사례입니다.",
+      "original": "Lanarkshire AI datacentre to fully rely on National Grid despite renewables claim",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/07/lanarkshire-ai-datacentre-datavita-chapelhall-national-grid-renewable-energy",
+      "published": "2026-11-07T19:00+09:00"
+    },
+    {
+      "id": "w15",
+      "region": "유럽",
+      "title": "버진미디어O2, 감원·고객 이탈·220억 파운드 부채 압박",
+      "summary": "버진미디어O2는 최근 2년간 브로드밴드 고객 18만 2000명과 모바일 고객 64만 4000명을 잃었습니다. 회사는 8억 파운드 규모의 비용 절감 계획을 발표했으며, 전체 직원의 4분의 1까지 감원할 수 있다고 밝혔습니다. 여기에 220억 파운드에 달하는 부채가 내년 재융자 문제와 맞물려 있습니다. 모회사인 리버티 글로벌의 CEO는 현 상황이 '위기가 아니다'라고 말하며 추가 설명은 거부했습니다. 경쟁이 치열해진 영국 통신시장의 구조조정 흐름을 보여주는 사례입니다.",
+      "original": "Job cuts, lost customers and a £22bn debt pile: what has gone wrong at Virgin Media O2?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/07/job-cuts-lost-customers-and-a-22bn-debt-pile-what-has-gone-wrong-at-virgin-media-o2",
+      "published": "2026-11-07T20:00+09:00"
+    },
+    {
+      "id": "w53",
+      "region": "유럽",
+      "title": "트럼프는 졌지만…민주당이 경제를 고치기는 어렵다",
+      "summary": "가디언 칼럼은 이번 선거가 결국 경제 문제였다고 짚었습니다. 생활비 상승에 대한 유권자의 불만이 민주당의 역대급 승리를 이끌었다는 분석입니다. 민주당은 하원에서 거의 40년 만에 최대 다수당이 됐고, 상원에서도 2008년 이후 가장 큰 우위를 얻었습니다. 그러나 칼럼니스트는 향후 몇 년간 민주당이 휘발유·식료품 가격, 주택 대출, 의료비 부담을 빠르게 줄이기 어렵다고 봅니다. 물가 부담이 다시 정치적 역풍이 될 수 있다는 경고입니다.",
+      "original": "Trump may have lost but don’t bet Democrats can fix the economy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/07/democrats-economy-affordability-crisis",
+      "published": "2026-11-07T20:00+09:00"
+    },
+    {
+      "id": "w3",
+      "region": "유럽",
+      "title": "라가르드 ECB 총재 인터뷰…여성 리더십과 소수자로서의 도전",
+      "summary": "크리스틴 라가르드 ECB(유럽중앙은행) 총재가 요미우리신문과 인터뷰하며 일본 여성의 경력 문제를 다뤘습니다. 그는 아베 총리와 여러 차례 이 문제를 논의했다고 밝혔습니다. 아베 총리가 추진한 '백만 명의 여성' 프로그램으로 100만 명의 여성이 일터에 들어왔다고 설명했습니다. 그는 지방자치단체의 보육시설 설립 자율성 확대 같은 정책이 효과적이었다고 평가했습니다. ECB 최초의 여성 총재로서 소수자 위치에서 겪은 어려움에 대해서는 '늘 도전적'이었다고 답했습니다.",
+      "original": "Christine Lagarde: Interview with Yomiuri Shimbun",
+      "source": "ECB",
+      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html",
+      "published": "2026-11-07T23:00+09:00"
+    },
+    {
+      "id": "w45",
+      "region": "유럽",
+      "title": "내셔널 트러스트, 바클레이즈 대신 환경 기준 맞는 은행 찾는다",
+      "summary": "영국 내셔널 트러스트 연차총회에서 회원들이 새 거래 은행을 찾기로 압도적으로 결정했습니다. 찬성 5만 3256표, 반대 4094표였습니다. 기존 거래 은행 바클레이즈의 화석연료 투자에 대한 비판이 배경입니다. 앞으로 입찰 절차에서 은행이 생물다양성 보호와 기후위기 대응에 적극적이어야 한다는 조건이 처음으로 붙습니다. 자선단체도 투자처와 마찬가지로 금융 거래에서 환경 기준을 적용해야 한다는 메시지가 담겼습니다.",
+      "original": "National Trust votes to seek banking partner more in tune with its environmental policies",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/07/national-trust-agm-barclays-environment-policies",
+      "published": "2026-11-08T00:06+09:00"
+    },
+    {
+      "id": "w27",
+      "region": "유럽",
+      "title": "독일 등 5개국, 영국과 EU 관계 강화 촉구…11월 정상회담 앞두고",
+      "summary": "독일, 벨기에, 네덜란드, 룩셈부르크, 덴마크 등 5개국 지도자들이 영국과의 관계를 더 긴밀하게 하자고 촉구했습니다. 이들은 유럽집행위원회 위원장과 유럽이사회 의장에게 보낸 서한에서 청정에너지 협력이 양측에 모두 이익이 된다고 밝혔습니다. 양측 정상회담은 11월 20일 브뤼셀에서 열리며, 식품·음료, 탄소 배출, 청년 교류 분야 협정 서명이 목표입니다. 5개국은 영국의 EU 내부 전력시장 복귀 협상도 가속화하자고 요구했습니다. 전력·에너지 시장 연계는 유럽 시장 통합 흐름에 영향을 줄 수 있는 사안입니다.",
+      "original": "Five European leaders call for closer EU-UK ties ahead of Brussels summit",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/07/europe-leaders-call-closer-eu-uk-ties-brussels-summit",
+      "published": "2026-11-08T00:30+09:00"
+    },
+    {
+      "id": "w40",
+      "region": "유럽",
+      "title": "파라과이 은행 붕괴…대통령 탄핵·가택연금, 주민 300만 명 계좌 동결",
+      "summary": "파라과이의 디지털 은행 Ueno Bank가 지급 불능으로 중앙은행의 정리 절차에 들어가면서 약 300만 명, 성인 인구의 약 60%의 계좌가 하룻밤 사이 동결됐습니다. 은행은 공격적으로 확장하던 디지털 대출 기관이었습니다. 이 사태는 정치·경제 위기로 번져 산티아고 페냐 대통령이 탄핵되고 가택연금 상태에 놓였습니다. 검찰은 그의 구금을 요청했으며, 파라과이 은행 시스템이 붕괴 직전까지 몰린 상황입니다. 신흥국 디지털 은행의 건전성 리스크를 보여주는 사례입니다.",
+      "original": "‘Very strange, very sad’: Paraguay bank collapse fells a presidency and leaves millions broke",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/07/paraguay-ueno-bank-collapse-santiago-pena",
+      "published": "2026-11-08T04:00+09:00"
+    },
+    {
+      "id": "w28",
+      "region": "중국",
+      "title": "에버그란데 전 이코노미스트, 위챗 계정 차단…'저점 매수' 발언 뒤",
+      "summary": "약세장에 접어든 중국 증시에서, 'A주 강세장'을 정확히 예측했던 독립 이코노미스트 Ren Zeping의 위챗 계정이 차단됐습니다. 해당 계정은 10월 24일부터 검색되지 않았고 신규 구독도 받지 않게 됐습니다. 플랫폼 측은 '규정 위반'으로 계정이 차단됐다는 메시지를 띄웠지만, 구체적인 이유는 알려지지 않았습니다. 업계에서는 플랫폼의 이 같은 조치가 예상 밖은 아니라는 반응입니다. 중국 증시 투자 심리와 시장 발언에 대한 규제 강도를 보여주는 사안입니다.",
+      "original": "Former Evergrande economist faces WeChat gag order after ‘buy the dip’ call",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/china-economy/article/3373565/former-evergrande-economist-faces-wechat-gag-order-after-buy-dip-call",
+      "published": "2026-11-07T12:00+09:00"
+    },
+    {
+      "id": "w22",
+      "region": "중국",
+      "title": "중국인 관광객, 10월 태국 13.6% 감소…대사관 경고 영향",
+      "summary": "태국 관광청에 따르면 10월 중국 관광객은 30만 8942명으로 전년 동월보다 13.6% 줄었습니다. 중국 대사관이 10월 16일 안전 경고를 발령해 여행객들에게 주의를 촉구했고, 이것이 감소의 원인 중 하나로 꼽혔습니다. 대사관은 사기 조직에 연루될 위험과 중국인 대상 납치 사건이 잇따른 점을 들었습니다. 국경절 연휴 여행 수요가 있었음에도 관광 수요가 꺾인 것입니다. 태국 관광·소비 업종 실적에 영향을 줄 수 있는 지표입니다.",
+      "original": "Chinese tourist arrivals in Thailand fall 13.6% in October after embassy safety warning",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/china-economy/article/3373566/chinese-tourist-arrivals-thailand-fall-136-october-after-embassy-safety-warning",
+      "published": "2026-11-07T15:00+09:00"
+    },
+    {
+      "id": "w16",
+      "region": "중국",
+      "title": "중국 EV 안전 규제 강화…테슬라·GM 등 외국 브랜드에 기회",
+      "summary": "중국 정부가 이른바 '급속 개발' 차량에 대한 단속을 강화하면서, 외국 브랜드가 뜻밖의 수혜를 보고 있습니다. 테슬라와 GM 등 약 10개 외국 자동차 기업이 중국국제수입박람회(CIIE)에서 최신 전기차 기술을 선보였습니다. 이들은 중국 시장 점유율을 잃고 있는 상황에서 품질과 신뢰성을 강조하고 있습니다. 중국 시장에서 외국 브랜드의 입지가 다시 회복될 수 있는지 주목됩니다.",
+      "original": "China’s EV safety push gives foreign brands from Tesla to GM an opening for a comeback",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/business/china-business/article/3373588/chinas-ev-safety-push-gives-foreign-brands-tesla-gm-opening-comeback",
+      "published": "2026-11-07T17:00+09:00"
+    },
+    {
+      "id": "w10",
+      "region": "중국",
+      "title": "캔턴 페어 미국·유럽 바이어 급증…계약액은 4.1%↑에 그쳐",
+      "summary": "중국 최대 무역박람회인 캔턴 페어에서 유럽·미국 바이어 수가 크게 늘었습니다. 주최 측에 따르면 EU 바이어는 직전 4월 행사 대비 38.2%, 미국 바이어는 22.2% 증가했습니다. 전체 바이어 증가율 12.2%를 크게 웃도는 수치로, 9월 시진핑 주석의 미국 방문 이후 무역 긴장이 완화됐다는 분석이 나옵니다. 다만 행사에서 체결된 수출 계약액은 267.5억 달러로 4월보다 4.1% 증가하는 데 그쳤습니다. 서방 경기 둔화가 여전히 거래 성사를 막고 있다는 현장 목소리도 나왔습니다.",
+      "original": "US buyers at China’s largest trade fair soar over 20% after Xi-Trump meeting",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/china-economy/article/3373554/us-buyers-chinas-largest-trade-fair-soar-over-20-after-xi-trump-meeting",
+      "published": "2026-11-07T19:00+09:00"
+    },
+    {
+      "id": "w4",
+      "region": "중국",
+      "title": "중국-스위스 무역 협력, 불안한 EU 관계 속 모범 사례로",
+      "summary": "중국은 스위스와의 관계를 실용적이고 상호 이익이 되는 협력의 모범으로 내세우고 있습니다. 이는 유럽연합(EU)과의 관계가 정치적으로 복잡해진 상황과 대비됩니다. 중국 외교부는 2026년이 중국-스위스 혁신 전략 동반자 관계 10주년이며, 자유무역 준수가 핵심 성과라고 강조했습니다. 스위스는 유럽 대륙 국가 중 처음으로 중국과 자유무역협정(FTA)을 체결했고, 지난달에는 이를 유럽 국가 중 처음으로 공식 업그레이드했습니다. 중국이 유럽 개별 국가와의 통상 협력을 확대하는 흐름으로 볼 수 있습니다.",
+      "original": "China-Switzerland trade partnership offers a model amid fraught EU ties",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/opinion/china-opinion/article/3373312/china-switzerland-trade-partnership-offers-model-amid-fraught-eu-ties",
+      "published": "2026-11-07T21:30+09:00"
+    },
+    {
+      "id": "w12",
+      "region": "아시아",
+      "title": "일본 제조업체 실적 전망 상향…엔저 수혜",
+      "summary": "일본 상장 제조업체들의 실적 증가세가 강하며, 약 절반이 2027년 3월 종료 회계연도 순이익 전망을 올렸다고 니케이아시아가 보도했습니다. 가격 인상과 약세 엔화가 이익 개선을 뒷받침했습니다. 이익 전망이 상향된 기업이 많다는 점에서 일본 수출 기업의 실적 모멘텀이 살아 있다는 신호입니다. 국내 경쟁 업종인 일본 제조업의 가격 경쟁력과 환율 흐름을 함께 볼 필요가 있습니다.",
+      "original": "Japan manufacturers lift profit outlooks on price hikes, weak yen",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/business-trends/japan-manufacturers-lift-profit-outlooks-on-price-hikes-weak-yen",
+      "published": null
+    },
+    {
+      "id": "w24",
+      "region": "아시아",
+      "title": "크레디트 세종·ADB, 아시아 중소기업 대출 확대 협력",
+      "summary": "일본 금융사 Credit Saison은 아시아개발은행(ADB)과 손잡고 아시아 전역의 중소기업 대출을 확대하기로 했습니다. 이 협력은 회사가 인도에서 쌓은 모델과 경험을 활용해 다른 신흥국에서도 수익원을 만드는 것이 목표입니다. 원문이 짧아 대출 규모와 세부 계획은 확인되지 않습니다. 신흥국 중소기업 금융 시장이 커지는 흐름을 보여줍니다.",
+      "original": "Credit Saison, ADB to partner on loans for Asia's small businesses",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/finance/credit-saison-adb-to-partner-on-loans-for-asia-s-small-businesses",
+      "published": null
+    },
+    {
+      "id": "w30",
+      "region": "아시아",
+      "title": "미국 스포츠 투자사 레드버드, 일본 진출 제휴처 물색",
+      "summary": "스포츠 중심 투자회사 RedBird Capital Partners가 일본 시장에 진출할 계획이라고 니케이아시아가 보도했습니다. 회사는 지식재산(IP) 수익화와 데이터 기반 팬 참여 기술을 활용해 일본 스포츠 산업의 수익성을 높이겠다는 목표입니다. 이를 위해 현지 기업과의 제휴처를 찾고 있는 것으로 알려졌습니다. 국내 스포츠·엔터 산업의 해외 자본 유입 흐름과 함께 볼 수 있는 소식입니다.",
+      "original": "US sports investment fund RedBird hunts for tie-ups in Japan",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/sports/us-sports-investment-fund-redbird-hunts-for-tie-ups-in-japan",
+      "published": null
+    },
+    {
+      "id": "w55",
+      "region": "아시아",
+      "title": "일본 예금자보호 밖 가계 예금 8870억 달러…상속이 키웠다",
+      "summary": "일본에서 예금보험으로 보호되지 않는 가계 예금이 최근 5년간 40% 늘어 140조 엔(약 8870억 달러)을 넘었습니다. 잔고가 큰 예금 계좌가 늘어난 것이 주요 원인입니다. 상속이 이어지면서 계좌 잔액이 커지는 흐름도 함께 나타납니다. 예금 보호 한도를 넘는 자금이 많아지는 만큼 은행 건전성과 자산 배분에 대한 관심이 커질 수 있습니다.",
+      "original": "Japan's unprotected deposits hit $890bn as inheritances inflate accounts",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/finance/japan-s-unprotected-deposits-hit-890bn-as-inheritances-inflate-accounts",
+      "published": null
+    },
+    {
+      "id": "w74",
+      "region": "아시아",
+      "title": "일본 위스키, 수출 효자 될까…200년 사케 양조장의 도전",
+      "summary": "니케이아시아는 200년 넘은 사케 양조장을 이끄는 기우치 도시유키가 위스키를 새로운 주력 제품으로 키우고 있다고 보도했습니다. 그의 위스키는 국제 시상식에서 잇따라 상을 받으며 세계 시장에서 주목받고 있습니다. 원문이 짧아 수출 규모와 가격 등 세부 수치는 확인되지 않습니다. 일본 주류 수출이 전통 산업의 신사업 전략으로 이어지는 사례입니다.",
+      "original": "Japan's new whisky breed chases export elixir",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/big-in-asia/japan-s-new-whisky-breed-chases-export-elixir",
+      "published": null
+    },
+    {
+      "id": "w80",
+      "region": "아시아",
+      "title": "다카이치 총리, 사이버보안법 강화 지시…공격 급증 대응",
+      "summary": "다카이치 사나에 일본 총리는 장관들에게 최근 개정된 사이버보안법을 강화하라고 지시했습니다. 목표는 정부가 사이버 공격을 더 잘 탐지하고 분석해 예방과 피해 확산 차단 능력을 높이는 것입니다. 일본에서 사이버 공격이 급증하고 있다는 배경이 있습니다. 금융·제조 기업의 보안 투자와 규제 부담이 커질 수 있는 정책 방향입니다.",
+      "original": "Japan's Takaichi pushes for tougher cybersecurity laws as attacks surge",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/cybersecurity/japan-s-takaichi-pushes-for-tougher-cybersecurity-laws-as-attacks-surge",
+      "published": null
+    },
+    {
+      "id": "w54",
+      "region": "아시아",
+      "title": "PSA 등급평가 사실상 독점…포켓몬 카드 가격 좌우",
+      "summary": "CNBC는 PSA의 등급평가(그레이딩)가 포켓몬 카드 가격을 좌우하는 구조를 분석했습니다. 수집가들이 카드를 대체투자 수단으로 보면서 등급 평가 수요가 크게 늘었습니다. PSA의 적체 물량은 10월 20일 기준 720만 건으로, 7월의 1240만 건에서 줄었습니다. 회사는 6월 저가 서비스를 중단했다가 10월 29일 Value 서비스를 재개했습니다. 일부 판매자는 경쟁사에 보내기보다 PSA 라벨을 기다리는 쪽을 택한다고 딜러들이 전했습니다.",
+      "original": "Inside the card-grading empire shaping the price of Pokémon cards",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/06/card-pokemon-grading-psa-collectors-price.html",
+      "published": "2026-11-07T11:00+09:00"
+    },
+    {
+      "id": "w62",
+      "region": "아시아",
+      "title": "프록시마 퓨전, 일본 기업과 핵융합 발전 협력 MOU",
+      "summary": "독일 뮌헨의 프록시마 퓨전이 10월 28일 도쿄에서 일본 기업 후지쿠라, 교토 퓨전니어링과 양해각서(MOU)를 체결했습니다. 이 자리에는 다카이치 사나에 일본 총리와 메르츠 독일 총리가 참석했습니다. 세계 최초의 상업용 핵융합 발전소를 짓기 위한 경쟁이 치열해지는 가운데, 유럽이 일본의 기술과 산업 역량을 활용하려는 움직임입니다. 브뤼셀 싱크탱크는 자원이 부족한 유럽이 중국 의존도를 낮추려면 핵융합 기술이 전략적 과제라고 주장했습니다.",
+      "original": "The race is on to build the first fusion power plant — and Europe is looking to Japan for help",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/07/proxima-fusion-power-japan-supply-chain.html",
+      "published": "2026-11-07T15:00+09:00"
+    },
+    {
+      "id": "w5",
+      "region": "아시아",
+      "title": "앤스로픽 IPO 임박…AI 반감 속 밸류에이션 하향",
+      "summary": "앤스로픽은 이르면 11월 중순 나스닥 상장을 목표로 하며, 순수 AI 기업으로는 처음으로 공개 시장에 나서는 사례가 될 전망입니다. CNBC에 따르면 투자자들은 기업가치를 1조~1.5조 달러로 보고 있으며, 최근 거론되던 2조 달러 목표에서 낮아진 수준입니다. 중간선거에서 데이터센터와 빅테크에 대한 반감이 드러난 뒤 시장 분위기도 나빠졌습니다. 나스닥은 목요일 19개월 만에 가장 큰 폭으로 하락했고, 10월은 2025년 3월 이후 최악의 달이었습니다. 특히 AI 인프라와 가장 밀접한 반도체·네오클라우드 기업들이 가장 크게 타격을 받고 있습니다. 국내 AI 반도체·데이터센터 관련 업종에도 투자 심리 변화가 영향을 줄 수 있습니다.",
+      "original": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
+      "published": "2026-11-07T22:00+09:00"
+    },
+    {
+      "id": "w58",
+      "region": "아시아",
+      "title": "시네마 프리미엄 열풍 속 코즘, 상영관·콘텐츠 확대",
+      "summary": "몰입형 엔터테인먼트 기업 Cosm은 플라네타리움에서 출발해 돔형 대형 스크린으로 스포츠 경기장 좌석이나 할리우드 세트를 재현하고 있습니다. 극장 산업에서 대형 포맷(PLF) 티켓 판매가 가장 빠르게 성장하고 있는 가운데, 회사는 발권 가격을 마티네 18달러에서 프라임 좌석 약 70달러로 책정하고 있습니다. 2024년 이후 로스앤젤레스, 댈러스, 애틀랜타, 디트로이트에 상영관 4곳을 열었고, 2027년 클리블랜드 거점을 준비 중입니다. 상영관과 콘텐츠 라이브러리를 함께 늘리며 공격적으로 사업을 확장하고 있습니다.",
+      "original": "Cosm rides premium moviegoing wave with more immersive screenings and a wider library",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/07/cosm-immersive-movie-screenings.html",
+      "published": "2026-11-07T22:00+09:00"
+    },
+    {
+      "id": "w29",
+      "region": "아시아",
+      "title": "버크셔 해서웨이, 3분기 자사주 매입 두 배 이상…순이익 감소",
+      "summary": "버크셔 해서웨이는 3분기 자사주 매입 규모를 96억 달러로 늘려 직전 분기 45억 달러의 두 배를 넘겼습니다. 올해 누적 자사주 매입액은 약 144억 달러입니다. 반면 자회사 기준 영업이익은 127억 달러로 전년보다 5.8% 줄었고, 보험 인수이익은 43% 급감했습니다. 보험 투자소득도 14% 줄었으며, 철도·에너지·제조 사업은 이익이 늘었습니다. 그렉 에이블 체제에서 현금을 자사주 매입에 활용하는 흐름이 뚜렷해졌습니다.",
+      "original": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
+      "published": "2026-11-08T00:23+09:00",
+      "also": [
+        {
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/1f153350-2377-4e48-a073-0539376eab4c?syn-25a6b1a6=1",
+          "original": "Berkshire Hathaway steps up share buybacks with $9.6bn of purchases"
+        }
+      ]
+    },
+    {
+      "id": "w41",
+      "region": "아시아",
+      "title": "민주당 의회 장악 앞두고 헬스케어주 전망 불투명",
+      "summary": "CNBC는 민주당이 의회를 장악할 준비를 하면서 헬스케어주가 상승 동력을 찾기 어려울 수 있다고 전했습니다. 미즈호의 제러드 홀츠는 입법 교착으로 향후 몇 년간 큰 변화를 기대하기 어렵다고 봤습니다. 그는 제약 업종이 20년 만에 처음으로 기술주보다 비싸게 거래된다며 제약 비중을 줄이고 의료기기(medtech)를 보라고 조언했습니다. 한편 선거 다음 날 헬스케어 ETF(XLV)는 3% 올랐습니다.",
+      "original": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
+      "published": "2026-11-08T01:02+09:00"
+    },
+    {
+      "id": "w11",
+      "region": "아시아",
+      "title": "미국-이란 전쟁 재발 우려…유가는 급락",
+      "summary": "CNBC는 미국과 이란이 다시 전쟁으로 치달을 위험이 여전히 높다고 분석했습니다. 중간선거에서 민주당이 승리하며 전쟁 종식 기대가 커졌지만, 긴장은 해소되지 않았다는 평가입니다. 원유 가격은 JD 밴스 부통령이 공화당의 패배 원인으로 전쟁을 지목한 뒤 최근 5거래일 동안 16% 넘게 떨어졌습니다. 민주당은 의회에서 전쟁권한결의안을 추진할 계획이지만, 새 의회는 내년 1월에야 출범합니다. 유가 변동성이 다시 커질 수 있어 에너지 비용과 물가에 영향을 줄 수 있는 리스크입니다.",
+      "original": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
+      "published": "2026-11-08T07:17+09:00"
+    },
+    {
+      "id": "w79",
+      "region": "글로벌",
+      "title": "월가의 AI 올인 베팅, 중간선거 후 탈출 러시",
+      "summary": "FT는 미국 중간선거 이후 헤지펀드와 개인투자자들이 주식시장을 휩쓸었던 AI 관련 거래에서 대거 빠져나오고 있다고 보도했습니다. 한때 주식시장 전체를 장악했던 이 거래가 흔들리면서 관련 종목의 매도 압력이 커졌습니다. 본문 원문이 짧아 구체적인 규모와 수치는 확인되지 않습니다. 국내 AI 관련 주식 비중이 높은 투자자라면 수급 변화를 함께 살펴볼 필요가 있습니다.",
+      "original": "How Wall Street’s all-in bet on AI blew up",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/5a6806f0-e82e-4b34-b761-f9877e2b511c?syn-25a6b1a6=1",
+      "published": "2026-11-07T14:00+09:00"
+    },
+    {
+      "id": "w60",
+      "region": "글로벌",
+      "title": "영국 \"AI 투자 속도 늦추지 않겠다\"…미국 반발에도",
+      "summary": "영국 성장 담당 장관 댄 톰린슨은 미국에서 AI에 대한 반발이 커지고 있지만 영국은 속도를 늦추지 않겠다고 밝혔습니다. 그는 현재 투자 속도가 '최전선을 유지하기에는 너무 낮다'고 주장했습니다. 영국이 AI 기술 발전의 선두에 서려면 더 많은 투자가 필요하다는 입장입니다. 원문이 짧아 구체적인 투자 규모는 확인되지 않습니다. 국내 AI 인프라 수출·해외 투자 전략에 참고할 만한 정책 신호입니다.",
+      "original": "UK will not slow down on AI despite backlash in US, says growth minister",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/47dba9d2-4c82-4e17-969d-f1728ef13a5a?syn-25a6b1a6=1",
+      "published": "2026-11-07T14:00+09:00"
+    },
+    {
+      "id": "w56",
+      "region": "글로벌",
+      "title": "데이터센터 반발, 자본지출 정치적 시험대",
+      "summary": "FT는 데이터센터 투자가 유권자의 반발을 받고 있다는 점을 짚었습니다. 기사 제목 'Capex, meet the electorate'는 대규모 설비투자(자본지출)가 선거의 심판을 받기 시작했다는 뜻입니다. 이번 미국 중간선거 결과 이후 데이터센터에 대한 우려가 커졌습니다. 해당 기사는 원문 본문이 짧아 세부 수치는 확인되지 않습니다. 국내 데이터센터·AI 인프라 투자 계획에도 정책 리스크로 참고할 만한 흐름입니다.",
+      "original": "Data centres rebuked",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/9d40f40a-cbf2-46f5-b3d0-cee554e35298?syn-25a6b1a6=1",
+      "published": "2026-11-07T19:30+09:00"
+    },
+    {
+      "id": "w47",
+      "region": "글로벌",
+      "title": "미국 항공교통관제 현대화 425억 달러 계획…3년 안에 압축 추진 논란",
+      "summary": "FT는 미 교통장관이 추진하는 425억 달러 규모의 항공교통관제 시스템 개편안을 다뤘습니다. 수십 년 동안 밀린 업그레이드를 3년 안에 몰아서 하려는 계획입니다. 전문가들은 이를 두고 '70마일 속도로 달리며 타이어를 가는 것'에 비유하며 위험하다고 지적합니다. 대형 인프라 예산 집행의 실행 리스크를 보여주는 사례입니다.",
+      "original": "US plan to overhaul air traffic control system like ‘changing a tyre at 70mph’",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/1cbee3e3-b4cf-4831-bd4e-ac1653c7c7c7?syn-25a6b1a6=1",
+      "published": "2026-11-07T21:00+09:00"
+    },
+    {
+      "id": "w13",
+      "region": "글로벌",
+      "title": "미 정보당국 \"엔비디아 황, 중국 간첩 혐의자와 연애 관계\"",
+      "summary": "FT는 미국 정보당국이 엔비디아의 황 CEO가 중국이 정보 수집을 위해 포섭한 임원과 연애 관계였다고 판단한 것으로 보도했습니다. 정보당국은 이 임원이 미국 기업 그룹에 대한 정보를 수집하도록 중국이 채용한 인물이라고 경고했습니다. 기사 원문이 짧아 이후 대응이나 공식 입장은 확인되지 않습니다. 반도체 기업의 경영진 리스크가 미·중 기술 경쟁 속에서 부각되는 사안입니다.",
+      "original": "US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?syn-25a6b1a6=1",
+      "published": "2026-11-08T06:41+09:00"
+    }
+  ]
+}

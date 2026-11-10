@@ -12,17 +12,20 @@
         {
           "title": "\"드디어 주가 바닥 찍었나\"…삼전닉스 반등 가를 핵심 변수 [분석+]",
           "source": "한국경제",
-          "date": "2026-11-11"
+          "date": "2026-11-11",
+          "url": "https://n.news.naver.com/mnews/article/015/0005352545"
         },
         {
           "title": "AMD \"서버 D램 사용량 최대 75% 줄인다\"…삼전닉스 영향은 [IT썰]",
-          "source": "IT썰",
-          "date": "2026-11-11"
+          "source": "머니투데이",
+          "date": "2026-11-11",
+          "url": "https://n.news.naver.com/mnews/article/008/0005439349"
         },
         {
           "title": "\"반도체 돈잔치 끝이 보인다\"…삼전닉스에 날아든 경고장 [분석+]",
           "source": "한국경제",
-          "date": "2026-11-10"
+          "date": "2026-11-10",
+          "url": "https://n.news.naver.com/mnews/article/015/0005352504"
         }
       ]
     },
@@ -34,18 +37,21 @@
       "headlines": [
         {
           "title": "삼성·현대차 동맹, 전고체 배터리 '공동 설계'로 확대",
-          "source": "뉴스",
-          "date": "2026-11-11"
+          "source": "파이낸셜뉴스",
+          "date": "2026-11-11",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96Zm4tcGlsQjhYeVl3R3hfYjlaZHI2ZU9HR3VFYkJzODJ2Ynl2cFNnajE5dDRQMC02bjdvZk8ta0J2a2poMjFjeThQaUY2RTJCbFdiMDVOZFFNQQ?oc=5"
         },
         {
           "title": "\"드디어 주가 바닥 찍었나\"…삼전닉스 반등 가를 핵심 변수 [분석+]",
           "source": "한국경제",
-          "date": "2026-11-11"
+          "date": "2026-11-11",
+          "urlChecked": true
         },
         {
           "title": "OLED 시장 역성장에도 폴더블은 질주…삼성디스플레이 1위 독주",
           "source": "뉴스",
-          "date": "2026-11-11"
+          "date": "2026-11-11",
+          "urlChecked": true
         }
       ]
     },
@@ -57,18 +63,21 @@
       "headlines": [
         {
           "title": "[리포트 브리핑]JW중외제약, '실적은 견조, 신약은 순항' 목표가 30,000원 - 상상인증권",
-          "source": "리포트 브리핑",
-          "date": "2026-11-10"
+          "source": "뉴스핌",
+          "date": "2026-11-10",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00VzAwNTkxeXRqQ0VzUF9SQnFZa211VjVqalFKalFKTjJPQ2JtVXR4OGRfQ1JvY0p5NnpKcmd3dzhwT1JvaDVsQ2g4eXBxaTBNcmdjNmU0RnFLNmM1?oc=5"
         },
         {
           "title": "리바로젯 LDL-C 50% 이상 감소…스타틴 단독요법 한계 극복",
           "source": "의약 매체",
-          "date": "2026-11-10"
+          "date": "2026-11-10",
+          "urlChecked": true
         },
         {
           "title": "JW중외제약, 3분기 매출 2111억원…영업이익은 10.7% 감소",
-          "source": "뉴스",
-          "date": "2026-11-06"
+          "source": "메디컬투데이",
+          "date": "2026-11-06",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hcWxaZ2tZd3pQWTAzdWZ3dFhjMGZsM0dscWJMY2NCdi1yMHJ2ejUxdHctVHFoWm53cHJWYy1MczhsaFdBUVlMNkhGRHdDblNqNkdzODJmeGE0cDJ0RDg5WGxrelZFOXZtcmJQZA?oc=5"
         }
       ]
     },
@@ -81,12 +90,14 @@
         {
           "title": "메리츠금융지주, 자회사 메리츠증권㈜, 주당 475원 현금배당 결정",
           "source": "공시 뉴스",
-          "date": "2026-11-06"
+          "date": "2026-11-06",
+          "urlChecked": true
         },
         {
           "title": "브로커리지 무너진 증권사들, '이자 장사'로 연명…모험자본 뒷전에 당국 제동까지",
-          "source": "뉴스",
-          "date": "2026-11-11"
+          "source": "인베스트조선",
+          "date": "2026-11-11",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRnRoMXhmdng3Mk5aVzZDTFlkRkdJQW1sOE55UVB1Qm9pUk0wMEc0VHBRLWU4UElpblZuUVNDaDZwVi11YlUyYlBnbUp2OGlleUViaE9xaE9kbUwxeC03V281UlpfYS1CM1NVYy1PYWd4VnNUQmNhMjRGNHF2a2I2MDFRSQ?oc=5"
         }
       ]
     },
@@ -98,8 +109,9 @@
       "headlines": [
         {
           "title": "한화에어로스페이스, 국내 최초 선박용 수소연료전지 형식승인 획득",
-          "source": "뉴스",
-          "date": "2026-11-10"
+          "source": "스타뉴스",
+          "date": "2026-11-10",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nRmtjNUZKaXhDS3hVWmRVb0dQYVpxTVI4UGYxcnFteTZvMF9GQmNuWURZTU9hdUFORjd4dTV6ajVHaS1uZXF2dUQzdXBqVjZPdG9BWlQzdlN4VjRMMkQxcVdjUVpwWkRVM0RCZ09ZUDJoZmgtU2lGMlRfX1l3ZDg?oc=5"
         }
       ]
     },
@@ -111,8 +123,9 @@
       "headlines": [
         {
           "title": "한화M&S홀딩스, 3.8억원 규모 자사주 소각 결정",
-          "source": "공시 뉴스",
-          "date": "2026-11-10"
+          "source": "이데일리",
+          "date": "2026-11-10",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcGlkdnl6S0NKSEhXTkk5UGJmWFpPaXBwWDUxMWpCdmNHaHc5dWZ4eVpoOU82VUhsMi1VemNTTHlZZWJIUlhfZDVFcjNXRDFQdlo2bFJmSnp0bHA5LU84WmpSZmtyTEI5NzRCc3hHb0JEVHZQZ1ZkSldyTGRrMlVoTQ?oc=5"
         }
       ]
     },
@@ -124,18 +137,21 @@
       "headlines": [
         {
           "title": "[단독] 석유 최고가격제 결국 '소송전'으로…도로공사 알뜰 주유소, GS칼텍스 대상 반환 청구",
-          "source": "뉴스",
-          "date": "2026-11-10"
+          "source": "헤럴드경제",
+          "date": "2026-11-10",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85di1NOE1Xa0xsZXpKc2hSZmdrZk1IOUc3MEtLbVRoRHBHX3AtMzQ4NTVzUDVLTnhNRk5ILWNYSXBDeXJvOGJuMWdEUlhYanlKMGVMM0V0Zw?oc=5"
         },
         {
           "title": "[분석] \"원가 보상\" vs \"기회비용\"…석유 최고가격제 첫 정산 '진통'",
-          "source": "뉴스",
-          "date": "2026-11-10"
+          "source": "파이낸셜포스트",
+          "date": "2026-11-10",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9wLWhhMnZENFhUUmd3XzZ5SHFNYmM5MldHOXNHanJ5cF95T2xtdlBOUlIyclBOWko3bDNGS05xbzEyWDZLblkyNmV4dUlNTEUwVnhkeHIzYUVCRFkteWVON0JLQzVzS3Jyd1dQOUthdzY0NFRB?oc=5"
         },
         {
           "title": "GS, 사모 사채 1천억 발행…차입 만기 장기화 추진",
-          "source": "공시 뉴스",
-          "date": "2026-11-10"
+          "source": "연합인포맥스",
+          "date": "2026-11-10",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xSmVFQVppNnNKTlpLR3JpOU1XUDE3cVpldVNmQ1BWa2phSlR2R043eW5sUzFyeW1kaHJHMXhYNzZ0cjVHMzI0Y2xCT3lJOXB4elhNR1Q3Rm9wbjJVbzd2b3FhSWRCd1RZalVsR01JWHA?oc=5"
         }
       ]
     },
@@ -147,13 +163,15 @@
       "headlines": [
         {
           "title": "아바코, 3분기 영업손실 46억원…\"4분기 실적 개선 기대\"",
-          "source": "뉴스",
-          "date": "2026-11-06"
+          "source": "전자신문",
+          "date": "2026-11-06",
+          "url": "https://n.news.naver.com/mnews/article/030/0003483209"
         },
         {
           "title": "(주)아바코 영업(잠정)실적(공정공시)",
           "source": "공정공시",
-          "date": "2026-11-06"
+          "date": "2026-11-06",
+          "urlChecked": true
         }
       ]
     },
@@ -165,8 +183,9 @@
       "headlines": [
         {
           "title": "반도체 호황에 증설 나섰는데… 피크아웃 우려에 자금 조달 ‘발목’",
-          "source": "뉴스",
-          "date": "2026-11-09"
+          "source": "조선비즈",
+          "date": "2026-11-09",
+          "url": "https://n.news.naver.com/mnews/article/366/0001203560"
         }
       ]
     },
@@ -178,8 +197,9 @@
       "headlines": [
         {
           "title": "휴메딕스, 태국 의료진 초청…엘라비에 경쟁력 소개",
-          "source": "뉴스",
-          "date": "2026-11-10"
+          "source": "아시아타임즈",
+          "date": "2026-11-10",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Bbk84T1BTZUlKX2U1Y3I0cW5VOVZOTko0ZmduSlMweFBLQUZHYlRleDB4RnJadEo0RGZDSmxBaWpWZnlmT0NQNlNjOWo4MWpDMHk3eTNmSG1TUklWRWc?oc=5"
         }
       ]
     },
@@ -191,8 +211,9 @@
       "headlines": [
         {
           "title": "DL이앤씨, 성수2지구 수주 목전…‘아크로 성수’ 홍보관 개관",
-          "source": "뉴스",
-          "date": "2026-11-10"
+          "source": "헤럴드경제",
+          "date": "2026-11-10",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lUWI2NjZhVWhtb0c4Nkh0R2c0dk9hT3UtVWlfMVR4OUJSaGNqdkdHSDZpMjZwUENqV3BYa2tGVmZRWHVpcVoxTUxGZk16RnotR3NvOFZB?oc=5"
         }
       ]
     },
@@ -205,12 +226,14 @@
         {
           "title": "[리포트 브리핑]휴젤, '3Q26 Review: 바닥 확인' 목표가 270,000원 - 유진투자증권",
           "source": "리포트 브리핑",
-          "date": "2026-11-06"
+          "date": "2026-11-06",
+          "urlChecked": true
         },
         {
           "title": "K톡신 첫 美 직판 승부수…휴젤, 이익 줄었지만 핵심 거래처 절반 뚫어",
-          "source": "뉴스",
-          "date": "2026-11-06"
+          "source": "아시아경제",
+          "date": "2026-11-06",
+          "url": "https://n.news.naver.com/mnews/article/277/0005838980"
         }
       ]
     },
@@ -222,8 +245,9 @@
       "headlines": [
         {
           "title": "[리포트 브리핑]지오엘리먼트, '3Q26 Review: 본업 일부 이연, 자회사 부진' Not Rated - BNK투자증권",
-          "source": "리포트 브리핑",
-          "date": "2026-11-06"
+          "source": "뉴스핌",
+          "date": "2026-11-06",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83eHdudG5EOHNLWGctUVFEVVpCN2owTjhHd3lGRFgxTlRKWktISGx2WUkwUVlIaThVWEdVNl9zemhobl9EZUpXM3NnRkUyZHJmc2ZKTmhGVzNyT3dG?oc=5"
         }
       ]
     }

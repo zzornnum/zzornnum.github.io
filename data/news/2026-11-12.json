@@ -11,23 +11,27 @@
       "headlines": [
         {
           "title": "메리츠금융, 3분기 누적 순익 1조9천621억원…3.2%↓(종합2보)",
-          "source": "KIS 뉴스",
-          "date": "2026-11-11"
+          "source": "세계일보",
+          "date": "2026-11-11",
+          "url": "https://n.news.naver.com/mnews/article/022/0004174450"
         },
         {
           "title": "메리츠화재, 3분기 순익 29.2%↓…투자 부진 '발목'",
           "source": "KIS 뉴스",
-          "date": "2026-11-11"
+          "date": "2026-11-11",
+          "urlChecked": true
         },
         {
           "title": "메리츠금융 \"국고채 담합 인정 못해\"…공정위 과징금에 행정소송 예고",
-          "source": "KIS 뉴스",
-          "date": "2026-11-11"
+          "source": "뉴스핌",
+          "date": "2026-11-11",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBveE51VFpyTUNEU2UzVF9XNm13ajd3SXphNGR1dF9XTXBKd3gxRHFxVGNyQUtvTzNhdmNrcWRLSl9HT2Q3bWZ4WGJPSWVhWXBLZmtpZlFfUElFVXN3?oc=5"
         },
         {
           "title": "키움證, “메리츠금융, 본업 선방에도 투자손실에 발목?목표가 유지”",
           "source": "KIS 뉴스",
-          "date": "2026-11-12"
+          "date": "2026-11-12",
+          "urlChecked": true
         }
       ]
     },
@@ -39,23 +43,27 @@
       "headlines": [
         {
           "title": "[리포트 브리핑]JW중외제약, '실적은 견조, 신약은 순항' 목표가 30,000원 - 상상인증권",
-          "source": "KIS 뉴스",
-          "date": "2026-11-10"
+          "source": "뉴스핌",
+          "date": "2026-11-10",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00VzAwNTkxeXRqQ0VzUF9SQnFZa211VjVqalFKalFKTjJPQ2JtVXR4OGRfQ1JvY0p5NnpKcmd3dzhwT1JvaDVsQ2g4eXBxaTBNcmdjNmU0RnFLNmM1?oc=5"
         },
         {
           "title": "JW중외제약, R&D 비용 증가 탓 3분기 수익 후퇴",
-          "source": "KIS 뉴스",
-          "date": "2026-11-04"
+          "source": "딜사이트",
+          "date": "2026-11-04",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KUTctZ2QzZ05FajFkeENQM3JGNjBQZTVycU90OGJVUEtIXzBxbUlnVTdPUEozdHVVdXFGMzBZZkx2d1VVdFJRYzhTaWIyNkk?oc=5"
         },
         {
           "title": "JW중외제약, 3Q 매출 6%↑...ETC·수액제가 견인",
-          "source": "KIS 뉴스",
-          "date": "2026-11-04"
+          "source": "머니투데이",
+          "date": "2026-11-04",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsSnN6VnV3Z3hPcXlIOTRCckRWOXlxbVptQVQzQ0VEODBmWkllSXBoN1RhSU9CVkZ0WXRoOGFIc1U4R3VyRFVMRVRpVnprY2FNNi16ZUNxc1hzekg1dFRhZkM3a2lZQWlCSmfSAW9BVV95cUxNT3gtbXJSWVAzc2p2d2hYbkFoSWk2ZGtQbFRGR3htQ0dMVXJrWDltX1VodUdRNHFvcE1OWUd4dUFlN1REN3diV3NEMzh2dG9rQTFYdXNicWtiOGxnT3VKX1BKTDdBaHZ3Q3A1Z3ctRDA?oc=5"
         },
         {
           "title": "리바로젯 LDL-C 50% 이상 감소…스타틴 단독요법 한계 극복",
           "source": "KIS 뉴스",
-          "date": "2026-11-10"
+          "date": "2026-11-10",
+          "urlChecked": true
         }
       ]
     },
@@ -67,18 +75,21 @@
       "headlines": [
         {
           "title": "[마켓뷰] 이틀연속 반등한 코스피, 코어위브 호재에 더 달리나",
-          "source": "KIS 뉴스",
-          "date": "2026-11-12"
+          "source": "연합뉴스",
+          "date": "2026-11-12",
+          "url": "https://n.news.naver.com/mnews/article/001/0016437186"
         },
         {
           "title": "블룸버그 “中 YMTC 상장 추진 계속…내년 1분기 목표”",
-          "source": "KIS 뉴스",
-          "date": "2026-11-11"
+          "source": "Chosunbiz",
+          "date": "2026-11-11",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVG9DdXJSSGpBeWxnTi00b1k4bEoxRXcyVnB4ZHZYOER6aGZ5SnNsQmxQdGlJNUxEVTlGeHk5alFONlV0M0p6UFZlZjhhSU1hdF9nNE9yalR4MmczWEJrdUdLRGcwSFprczJrbmNUV2FMallFSFAtZzFpdWJGcW95cUtB0gGWAUFVX3lxTFA5bVBVWEFYbTFpRnZPVFhKaF9sRXRSdUIwOTNfNWFzbU9MM3p2dmlJcHBhb213U0s2bTZNUDN6NWVXZTgwNnQ3MExuY3FHMFZkN1N5bDNjbDF3aEdVMC1iNTYxOTVBZmNnLU9mYWNqWnRXYzFnclZKSkJ2TkdHSE5pcks4VUhjcnNuN29PLTFRUHZiN0pvQQ?oc=5"
         },
         {
           "title": "K-반도체의 사각지대…車 메모리 점유율 19.8%, 美 마이크론은 51.7% [AI 골드러시의 그늘]",
-          "source": "KIS 뉴스",
-          "date": "2026-11-12"
+          "source": "이투데이",
+          "date": "2026-11-12",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85ZUdVOWUzd0Q2cTNveGhfcVphWkNhc0pPN0ZPMWFCZ3pKOU91Yk9FbTlJUUpUNG5vLTE4aWd3c0xfajdDNEtqNDl4S0pXaFJjcWl2RA?oc=5"
         }
       ]
     },
@@ -90,13 +101,15 @@
       "headlines": [
         {
           "title": "삼성전자, 국내기업 최초 15년 연속 동반성장 평가 '최우수'(종합)",
-          "source": "KIS 뉴스",
-          "date": "2026-11-11"
+          "source": "이데일리",
+          "date": "2026-11-11",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSERMSnM4WkN2VEJWWDZPZnpWd0tDS1djZXprZTM3V3RKSnJzbVdMa0s4WWNVeVFPQVoxQVR4c2FGVFdlaUhiR3ZMS0ZUS2hPUGxKbUNleGJ0OWloNXVtUzBUWHI3T3FEZEFsWHBPRzQ2NG5zdlAyaDZwRzB3bVBkaQ?oc=5"
         },
         {
           "title": "외국인이 담은 종목, 급락장서 덜 빠졌다…10월 매수 톱10 코스피보다 선방",
-          "source": "KIS 뉴스",
-          "date": "2026-11-12"
+          "source": "이투데이",
+          "date": "2026-11-12",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxcllDV09mVWVUUG9kYXVTTkpqTDFrWmp5bEgwQndlU3FUY3RET3pKbmlzWm5TcUtfMXJZQVNfbmxoaDVNR2ZKbThUdXdHV0ozNjEwUg?oc=5"
         }
       ]
     },
@@ -108,13 +121,15 @@
       "headlines": [
         {
           "title": "“이젠 폴란드가 아닌 중동” 한화에어로 L-SAM, UAE발 수주 가시화 [비즈360]",
-          "source": "KIS 뉴스",
-          "date": "2026-11-11"
+          "source": "헤럴드경제",
+          "date": "2026-11-11",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50S1FoNU80bXZJdW1rclFxRkl0ZDR3OWJxV3FqbWFUNDBlLVhoLWRSRXByX2NtdlhqTmNPU1lLb0lqS2swNHlZbDdKNEQxR0pfOWFnQmh3?oc=5"
         },
         {
           "title": "한화3사, 동반성장지수 첫 최우수…삼전 최장 15년 연속 선정",
-          "source": "KIS 뉴스",
-          "date": "2026-11-11"
+          "source": "서울경제",
+          "date": "2026-11-11",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtXy1Gbm43VFhlSWh4VHFtR21mQ3VSdm13T1FOSG1CMmQyNkc2SFpWWjZvdmYwNXhydVRSdDRYaE13SXg3SE1ZUDFxWlpwckpNNlHSAVNBVV95cUxOb0FVVXBpTXc2S1pZc3Y2T0pQNXFYQ3Q3bG9OcG8tbU1wTGFpbTVGOXJKRUlJXy1CbktiNWlkenloM1hLWVlVSHFPV3pHZjFMR3RmOA?oc=5"
         }
       ]
     },
@@ -126,13 +141,15 @@
       "headlines": [
         {
           "title": "GS·포스코, 'AI 데이터센터' 동맹…북미·아시아 시장 공략",
-          "source": "KIS 뉴스",
-          "date": "2026-11-11"
+          "source": "아시아경제",
+          "date": "2026-11-11",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JbTZyQVh6UVc3NU5VUE1yTnZGUXZNQ0JYek02aEJ5NUxES01OZllYdVFIN25lM0ZPT1k3Wk1ZQU1KQzZWODNBdGtBNmhrelRvOUFURThxb3ZHblpKV1loWg?oc=5"
         },
         {
           "title": "250억 쏟았는데…GS건설, 용인 데이터센터 '좌초 위기'",
-          "source": "KIS 뉴스",
-          "date": "2026-11-11"
+          "source": "메디컬투데이",
+          "date": "2026-11-11",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HNDlZTnBzNEdHUk5JQUlZWjZPblZIRG1UQ0Zpa0c3TUhYdnAxZGNWRXQ0T1UyWFRab215MXk3QTQ2RkpIdjAtNVh1Yy11VkxNSElJLUh5VGNmZ3pCSDF1cFpjNzJzRmZCcVFVeA?oc=5"
         }
       ]
     },
@@ -144,13 +161,15 @@
       "headlines": [
         {
           "title": "[장중수급포착] 에프엔에스테크, 외국인/기관 동시 순매수… 주가 +20.00%",
-          "source": "KIS 뉴스",
-          "date": "2026-11-11"
+          "source": "뉴스핌",
+          "date": "2026-11-11",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RQ2t4eDlMc0xyemxwTGJ1TlVYMG9qd1VVNHpnVVlsN2JpWEZCdHpNLVZfMkZubGhkVmg0em40azhvYzVYRTlRejNHNzJ2UmttNXFIMTg2THpMYzRh?oc=5"
         },
         {
           "title": "에프엔에스테크, IT OLED 투자 지연에 목표가 22% 하향-SK",
-          "source": "KIS 뉴스",
-          "date": "2026-10-29"
+          "source": "이데일리",
+          "date": "2026-10-29",
+          "url": "https://n.news.naver.com/mnews/article/018/0006398452"
         }
       ]
     },
@@ -163,12 +182,14 @@
         {
           "title": "[장중수급포착] 한솔아이원스, 외국인/기관 동시 순매수… 주가 +7.04%",
           "source": "KIS 뉴스",
-          "date": "2026-11-11"
+          "date": "2026-11-11",
+          "urlChecked": true
         },
         {
           "title": "반도체 호황에 증설 나섰는데… 피크아웃 우려에 자금 조달 ‘발목’",
-          "source": "KIS 뉴스",
-          "date": "2026-11-09"
+          "source": "조선비즈",
+          "date": "2026-11-09",
+          "url": "https://n.news.naver.com/mnews/article/366/0001203560"
         }
       ]
     },
@@ -180,13 +201,15 @@
       "headlines": [
         {
           "title": "[장중수급포착] 제이에스코퍼레이션, 외국인 5일 연속 순매수행진... 주가 +2.55%",
-          "source": "KIS 뉴스",
-          "date": "2026-11-11"
+          "source": "뉴스핌",
+          "date": "2026-11-11",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0ybG5WV1Y5VWxBM0t5MGplRmtLUWlpVDZ3ZUYycG1JbFhlQmNpRUlyZ0ZiYWxNbmY5dzVlR1RoblNGTjV0YkNIM2lxRnlZQ2plV19mNnJlbnFMUFUx?oc=5"
         },
         {
           "title": "제이에스코퍼레이션, 26년3분기 연결 영업이익 539.46억원, 컨센서스 추정치 부합",
           "source": "KIS 뉴스",
-          "date": "2026-10-29"
+          "date": "2026-10-29",
+          "urlChecked": true
         }
       ]
     },
@@ -199,12 +222,14 @@
         {
           "title": "[장중수급포착] 휴메딕스, 외국인 5일 연속 순매수행진... 주가 +1.55%",
           "source": "KIS 뉴스",
-          "date": "2026-11-11"
+          "date": "2026-11-11",
+          "urlChecked": true
         },
         {
           "title": "휴메딕스, 태국 의료진 초청…엘라비에 경쟁력 소개",
-          "source": "KIS 뉴스",
-          "date": "2026-11-10"
+          "source": "아시아타임즈",
+          "date": "2026-11-10",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Bbk84T1BTZUlKX2U1Y3I0cW5VOVZOTko0ZmduSlMweFBLQUZHYlRleDB4RnJadEo0RGZDSmxBaWpWZnlmT0NQNlNjOWo4MWpDMHk3eTNmSG1TUklWRWc?oc=5"
         }
       ]
     },
@@ -216,13 +241,15 @@
       "headlines": [
         {
           "title": "아바코, 3분기 영업손실 46억원…\"4분기 실적 개선 기대\"",
-          "source": "KIS 뉴스",
-          "date": "2026-11-06"
+          "source": "전자신문",
+          "date": "2026-11-06",
+          "url": "https://n.news.naver.com/mnews/article/030/0003483209"
         },
         {
           "title": "아바코, 슈미드의 엔비디아·인텔·AMD 공급망 협력 소식에 유리기판 합작법인 주목",
-          "source": "KIS 뉴스",
-          "date": "2026-10-27"
+          "source": "마켓잉크",
+          "date": "2026-10-27",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLZ3E5bzlRamY1bFV3TjB4a3dMN0JJT0I2dnV1Sm8wVzhRT0tMN1FkSm4yNUM0QzdKazdYRU9NMXhVempPQjhEUFp6cjNxYXpjU0pvUG1pS3p3Y2lBOTZIaW9XWHdNY1ViNV9MUF9Baw?oc=5"
         }
       ]
     },
@@ -235,7 +262,8 @@
         {
           "title": "[장중수급포착] 뉴파워프라즈마, 외국인/기관 동시 순매수… 주가 +16.39%",
           "source": "KIS 뉴스",
-          "date": "2026-11-11"
+          "date": "2026-11-11",
+          "urlChecked": true
         }
       ]
     },
@@ -248,12 +276,14 @@
         {
           "title": "[리포트 브리핑]휴젤, '영업실적 점진적 회복 전망' 목표가 290,000원 - 상상인증권",
           "source": "KIS 뉴스",
-          "date": "2026-11-11"
+          "date": "2026-11-11",
+          "urlChecked": true
         },
         {
           "title": "휴젤(주) 풍문 또는 보도에 대한 해명(미확정)",
           "source": "KIS 뉴스",
-          "date": "2026-11-06"
+          "date": "2026-11-06",
+          "urlChecked": true
         }
       ]
     }

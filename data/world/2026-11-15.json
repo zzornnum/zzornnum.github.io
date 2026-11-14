@@ -1,0 +1,363 @@
+{
+  "date": "2026-11-15",
+  "generatedAt": "2026-11-15T07:53+09:00",
+  "items": [
+    {
+      "id": "w70",
+      "region": "미국",
+      "title": "엔비디아 시총 4조 달러 아래로…젠슨 황 사임 여파",
+      "summary": "엔비디아 주가는 금요일 2.01% 더 하락해 2025년 7월 이후 처음으로 시가총액 4조 달러 아래에서 마감했다. 회사는 CFO 콜레트 크레스가 임시 CEO를 맡는다고 발표했다. 젠슨 황은 외도 의혹에 대한 조사가 이어지던 가운데 사임했고, 이사회도 이 문제에 대한 조사에 착수했다. 엔비디아는 이번 주 12.75% 하락해 6주 연속 주간 하락을 기록했으며, 이는 2012년 이후 가장 긴 연속 하락이다.",
+      "original": "Nvidia closes below $4T market cap for first time since July 2025 in Huang fallout",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html",
+      "published": "2026-11-14T06:18+09:00",
+      "also": [
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
+          "original": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors"
+        },
+        {
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/4aba8386-35cc-463b-a79c-a0c85c362c89?syn-25a6b1a6=1",
+          "original": "Nvidia exposed to possible lawsuits after Jensen Huang’s downfall"
+        },
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/14/nvidia-jensen-huang-ceo-succession-risk.html",
+          "original": "Analysis: Companies love a ‘rockstar’ CEO. Until they depend on one"
+        },
+        {
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/546ec5eb-fbc2-4600-9794-12b1749c1a04",
+          "original": "Nvidia’s cult of personality was bound to end badly"
+        },
+        {
+          "source": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/tech/semiconductors/china-sees-nvidia-chief-huang-s-swift-downfall-as-political-hit",
+          "original": "China sees Nvidia chief Huang's swift downfall as political hit"
+        },
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
+          "original": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts"
+        }
+      ]
+    },
+    {
+      "id": "w54",
+      "region": "미국",
+      "title": "연준, 12월 더 큰 폭 금리 인상 거론",
+      "summary": "FT에 따르면 연준(Fed) 정책위원들이 강한 고용·성장·물가 지표가 나온 뒤 12월에 금리를 더 큰 폭으로 올리는 방안을 거론하고 있다. 원문은 이 방안이 아직 확정되지 않은 검토 단계임을 보여준다.",
+      "original": "Hawkward timing",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/8c2639dc-e5d5-430d-a641-11776ac26f9c",
+      "published": "2026-11-14T19:05+09:00"
+    },
+    {
+      "id": "w63",
+      "region": "미국",
+      "title": "예측시장, 홍역 등 공중보건 사건에까지 베팅 확대",
+      "summary": "예측시장 폴리마켓이 백신과 주(州)의 백신 시장 전망 등 공중보건 질문에 베팅을 받는 광고를 학교 인근에 내걸었다. 칼시도 여름부터 건강 관련 예측 상품을 내놓고 있다. 전문가들은 백신 의무화나 임상시험 같은 공중보건 문제에 베팅이 붙으면 위험이 따른다고 경고한다.",
+      "original": "Health is wealth? Polymarket and Kalshi now host bets on measles and other US health crises",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/14/measles-kalshi-polymarket-betting",
+      "published": "2026-11-14T21:00+09:00"
+    },
+    {
+      "id": "w52",
+      "region": "미국",
+      "title": "에릭 트럼프 지원 로봇 기업, 급여 미지급…창업자 대출 논란",
+      "summary": "에릭 트럼프가 자문하고 투자한 군용 휴머노이드 로봇 제조사 Foundation Future Industries가 10월 30일 직원 급여를 지급하지 못했다. 현금이 바닥난 가운데, CEO 샌캣 파택(Sankaet Pathak)이 작년 회사에서 460만 달러를 빌려 소살리토의 주택을 샀다는 사실이 직원들의 반발을 샀다. 이 대출금이 직원 급여로 쓰일 수 있었다는 지적이 나온다.",
+      "original": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
+      "published": "2026-11-14T21:00+09:00"
+    },
+    {
+      "id": "w64",
+      "region": "미국",
+      "title": "갭, 엔터테인먼트 임원 영입…리테일과 콘텐츠 결합 가속",
+      "summary": "의류 체인 갭은 올해 초 최고엔터테인먼트책임자(chief entertainment officer)라는 새 직책을 만들었다. 전 파라마운트 임원 Pam Kaufman이 엔터테인먼트·콘텐츠·라이선싱 플랫폼을 맡았다. 갭은 리테일과 엔터테인먼트를 섞는 ‘패션테인먼트’ 전략을 추진하고 있으며, 밴드와 협업한 캠페인 등을 펼치고 있다.",
+      "original": "Retailers are turning to entertainment to win shoppers’ attention",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/14/retailers-invest-entertainment.html",
+      "published": "2026-11-14T22:00+09:00"
+    },
+    {
+      "id": "w8",
+      "region": "미국",
+      "title": "버크셔 해서웨이, 4분기 랠리로 사상 최고가 행진",
+      "summary": "버크셔 해서웨이 주가가 4차례 연속 사상 최고 종가를 기록하며 이번 주를 마감했다. 10월 1일 4분기 시작 이후 A주와 B주는 각각 19.1% 올랐다. 같은 기간 S&P 500은 1.2% 하락해 대조를 이뤘는데, 투자자들이 AI 주식과 투자 확대에 대한 우려 속에서 버크셔를 상대적 안전자산으로 여기는 것으로 보인다. 이번 주 버크셔는 3.9% 올랐고 S&P 500은 2.5% 올라 8월 초 이후 가장 좋은 주간 성적을 냈다.",
+      "original": "Berkshire breaks out to record high with fourth-quarter rally reaching 19%",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/14/berkshire-breaks-out-to-record-high-with-fourth-quarter-rally-reaching-19percent.html",
+      "published": "2026-11-14T23:02+09:00"
+    },
+    {
+      "id": "w37",
+      "region": "미국",
+      "title": "GTA VI 11월 19일 출시…역대급 게임 시장 기대",
+      "summary": "GTA VI가 11월 19일 출시되며, 분석가들은 역대 최대 규모의 게임 출시가 될 수 있다고 본다. Sensor Tower는 11월 13일까지 사전 예약이 1,200만 건 넘는다고 추정했고, 모건스탠리는 2027년 3월까지 4,000만 장이 팔릴 수 있다고 전망했다. 개발비는 10억 달러 이상으로 추정된다. 게임을 넘어 스트리밍, 음식 배달, 관광 등 여러 산업에도 파급 효과가 미칠 수 있다고 CNBC는 전했다.",
+      "original": "How Rockstar's 'GTA VI' release could reshape gaming, streaming and even paid time off",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html",
+      "published": "2026-11-14T23:54+09:00"
+    },
+    {
+      "id": "w40",
+      "region": "미국",
+      "title": "샌더스, 사회보장제도 장기 지속 방안 제시",
+      "summary": "버몬트주 상원의원 버니 샌더스는 사회보장제도를 “여러 세대에 걸쳐” 지속 가능하게 만들겠다는 방안을 내놨다. 핵심은 과세 상한을 없애 부유층이 세금을 더 내도록 하는 것이다.",
+      "original": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
+      "published": "2026-11-15T02:50+09:00"
+    },
+    {
+      "id": "w50",
+      "region": "미국",
+      "title": "중간선거 이후 은퇴자 수혜 전망…사회보장·메디케어 변화 주목",
+      "summary": "MarketWatch는 이번 중간선거 이후 민주당이 노령과 공공정책에 관한 핵심 권한을 대부분 쥐게 됐다고 전했다. 사회보장제도, 메디케어, 장기요양 분야에서 무엇이 바뀔지 살펴본다.",
+      "original": "Retirees should be big beneficiaries of the midterms: ‘Democrats will hold every gavel that matters for aging and public policy’",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/retirees-should-be-big-beneficiaries-of-the-midterms-democrats-will-hold-every-gavel-that-matters-for-aging-and-public-policy-71e966f0?mod=mw_rss_topstories",
+      "published": "2026-11-15T02:50+09:00"
+    },
+    {
+      "id": "w12",
+      "region": "미국",
+      "title": "미 전국 항공 운항 중단…통신 장비 교체 작업이 원인",
+      "summary": "미 연방항공청(FAA)이 금요일 약 4시간 동안 전국 공항의 항공기 이착륙을 전면 중단시켰다. 숀 더피 교통장관은 L3Harris가 만든 통신 시스템을 업데이트하는 과정에서 문제가 시작됐다고 밝혔다. 구리선을 광케이블로 바꾸는 작업 중 한 라우터가 다른 라우터들에 약 5초마다 1,000회가 넘는 연결 시도를 보내 항공 통신과 레이더 신호에 문제가 생겼다는 설명이다. FAA의 브라이언 베드퍼드는 AI나 외부 공격과 관련된 증거는 “전혀 없다”고 말했다. 1만 편 넘는 항공편이 영향을 받았고, 9·11 이후 가장 긴 항공편 출발 중단으로 기록됐다.",
+      "original": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+      "published": "2026-11-15T03:32+09:00",
+      "also": [
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos",
+          "original": "US officials say flight stoppage stemmed from ‘routine maintenance’ as travel chaos continues"
+        },
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
+          "original": "FAA lifts ground stop after more than four hours, but flight cancellations will stretch into the weekend"
+        },
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/video/2026/nov/14/rare-nationwide-ground-stop-halts-us-air-traffic-video",
+          "original": "Rare nationwide ground stop halts US air traffic – video"
+        }
+      ]
+    },
+    {
+      "id": "w18",
+      "region": "미국",
+      "title": "스페이스X 스타십 상단 포획 성공…역사적 첫 사례",
+      "summary": "스페이스X는 금요일 부스터가 폭발한 뒤 토요일 스타십 우주선 상단을 궤도에서 회수하는 데 성공했다. 발사탑의 기계 팔인 ‘젓가락(chopsticks)’으로 상단을 잡았다. 이번 15차 시험비행은 부스터와 상단을 모두 포획하려 한 첫 시도였다. 부스터는 회수에 실패해 멕시코만 해상에서 폭발했고, 상단은 지구를 14바퀴 돈 뒤 발사탑에 착륙했다. FT는 상단 착륙 성공이 재사용 유인 로켓을 화성에 보내려는 머스크의 목표에 핵심이라고 전했다.",
+      "original": "SpaceX catches upper stage of Starship rocket in historic first",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
+      "published": "2026-11-15T06:52+09:00",
+      "also": [
+        {
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/ce7c8ab1-8337-4c32-8494-5142ec1697dd?syn-25a6b1a6=1",
+          "original": "SpaceX catches returning Starship rocket in breakthrough for Musk"
+        }
+      ]
+    },
+    {
+      "id": "w60",
+      "region": "유럽",
+      "title": "기후 대응이냐 성장이냐…버넘 총리의 딜레마",
+      "summary": "가디언 칼럼니스트 Jonathan Freedland는 중도좌파 지도자들이 기후 위기 대응과 경제 성장, 생활비 부담 완화 사이에서 고심하고 있다고 짚는다. 버넘 총리는 이번 주 안탈리아 COP 회의에서 “영국 리더십의 새 시대”를 약속했다. 칼럼은 버넘이 대담한 계획으로 두 목표를 함께 달성한다면 전 세계 지도자들에게 모범이 될 수 있다고 주장한다.",
+      "original": "Fight the climate crisis or go for growth? There is a way Burnham can do both | Jonathan Freedland",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/13/fight-climate-crisis-growth-andy-burnham-economic-leaders",
+      "published": "2026-11-14T02:10+09:00"
+    },
+    {
+      "id": "w62",
+      "region": "유럽",
+      "title": "밀번 검토위, 청년 교육 자리 수만 개 확충 권고 전망",
+      "summary": "밀번(Milburn) 검토 보고서는 고용·교육·훈련 어느 쪽에도 속하지 않는 25세 미만 청년을 대상으로 교육 자리를 수만 개 더 늘리라고 권고할 것으로 알려졌다. 이 계획은 연간 10억 파운드 이상이 들 수 있다. 영국에서는 약 100만 명의 청년(8명 중 1명)이 학교를 떠난 뒤 안정적인 일자리에 정착하지 못하고 있다. AI가 채용 시장을 흔드는 가운데 청년 취업 문제가 영국의 큰 과제로 떠올랐다.",
+      "original": "Milburn review to call for tens of thousands of further education places",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/5f2242d2-4fb3-4d9c-aa23-ed0c1253f7ab?syn-25a6b1a6=1",
+      "published": "2026-11-14T14:00+09:00",
+      "also": [
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/business/2026/nov/14/guardian-young-people-search-for-work",
+          "original": "Guardian to follow lives of eight young people in their search for work"
+        }
+      ]
+    },
+    {
+      "id": "w77",
+      "region": "유럽",
+      "title": "영국산 유기농 연어, 20년 만에 유기농 인증 취소",
+      "summary": "영국 유기농 협회(Soil Association)가 20년간 유지해 온 양식 연어의 유기농 인증을 취소했다. 영국 양식 연어 산업은 1971년 스코틀랜드 서해안에서 첫 수확을 한 뒤 성장해 왔다. 현재 연간 약 10억 파운드 규모이며, 연간 약 20만 5,000톤을 생산하고 스코틀랜드에서 2,500명을 고용한다.",
+      "original": "‘An environmental and welfare disaster’: British salmon loses its organic status",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/nov/14/salmon-organic-british-farmed-environmental-welfare",
+      "published": "2026-11-14T15:00+09:00"
+    },
+    {
+      "id": "w69",
+      "region": "유럽",
+      "title": "유로터널, 영국·프랑스 국경에 공항식 생체인식 검사 도입",
+      "summary": "유로터널 운영사 Getlink가 폴크스톤과 칼레에서 공항 수준의 여권·지문 검사를 도입한다. 유럽위원회는 로마와 파리 공항에서 쓰이는 카메라 시스템을 영국과 프랑스 국경에 적용하는 새 체계에 합의했다. 승객들은 차에서 내리지 않고 전용 드라이브스루 단말기에서 검사를 받게 된다. 회사는 혼잡과 장기 혼란을 막기 위해 “공항 수준의 경험”을 재현하려 한다고 밝혔다.",
+      "original": "UK-EU breakthrough will allow airport-style checks at Eurotunnel to avoid border ‘chaos’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/travel/2026/nov/14/eurotunnel-drive-in-fingerprint-trial-folkestone-calais-border",
+      "published": "2026-11-14T16:00+09:00"
+    },
+    {
+      "id": "w44",
+      "region": "유럽",
+      "title": "독일, 영국·일본·이탈리아 차세대 전투기 사업 참여 난항",
+      "summary": "FT에 따르면 이탈리아 정부는 독일을 영국·일본·이탈리아의 차세대 항공기 사업에 동등한 파트너로 초청하는 방안을 거부했다. 독일은 이 사업 참여에서 차질을 빚게 됐다.",
+      "original": "Germany suffers setback in joining fighter jet project",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/3ba2bcd1-b80c-48a2-91c7-35f25366f8aa?syn-25a6b1a6=1",
+      "published": "2026-11-14T19:52+09:00"
+    },
+    {
+      "id": "w16",
+      "region": "유럽",
+      "title": "그린피스 바위 투하로 영국 해상풍력 건설 차질 우려",
+      "summary": "그린피스 활동가들이 저인망 어업에 반대하는 캠페인의 일환으로 노퍽 해안에 약 15톤의 바위를 투하했다. 바위들이 대부분 Norfolk Vanguard 프로젝트 부지에 떨어져, 영국 최대 규모의 해상풍력 계획 중 하나에 추가 장애물이 될 수 있다. 이번 프로젝트는 Andy Burnham이 지지해 온 사업으로, 원문 제목 기준 약 120억 파운드 규모의 해상풍력 사업이다. 바위 장벽은 항구돌고래를 보호하기 위해 설치됐으며 개당 최대 2톤이다.",
+      "original": "Greenpeace boulders may delay building of £12bn windfarms in North Sea",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/nov/14/greenpeace-boulders-norfolk-vanguard-windfarms",
+      "published": "2026-11-14T20:00+09:00"
+    },
+    {
+      "id": "w3",
+      "region": "유럽",
+      "title": "영국 중앙은행 “다음 달 금리 또 올릴 가능성”",
+      "summary": "영국 중앙은행(BoE)의 수석 이코노미스트 Huw Pill은 이달 기준금리를 3.75%에서 4%로 올린 것을 “중요한 한 걸음”이라고 평가했지만 “갈 길이 더 남았다”고 말했다. 그는 다음 달과 2027년 초에 추가 인상이 필요할 수 있다고 봤고, 물가를 시간이 지나 2%로 되돌리기 위해 “필요한 일을 하겠다”고 FT에 밝혔다. 내년에 대출을 차환해야 하는 약 230만 명의 주택 소유자는 대출 상환액이 크게 늘어날 전망이다. 일부 정책위원들은 영국 경제가 지난 1년간 강해져 근로자들이 임금을 올릴 힘을 얻었다고 본다. 관련 기사들은 중앙은행 전망에서 물가 상승률이 내년 봄 5%까지 오를 수 있다고 전하며 12월 17일 회의에서 추가 인상 가능성이 크다고 분석했다. Pill은 인상이 한 차례 이상 더 있을 가능성이 “거의 확실하다”고도 말했다.",
+      "original": "Interest rate rises likely in coming months, Bank of England’s chief economist says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist",
+      "published": "2026-11-14T23:42+09:00",
+      "also": [
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rise-phillip-inman-inflation-economy",
+          "original": "A rapid interest rate rise seems inevitable – and households are expected to pick up the tab"
+        },
+        {
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/806b0158-41c5-4db2-ac33-93621f72297b?syn-25a6b1a6=1",
+          "original": "BoE chief economist says further rate rises needed to combat inflation"
+        },
+        {
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/014fae08-ab39-4fa2-b9d3-f0c961a6710f",
+          "original": "Transcript of an interview with Huw Pill"
+        }
+      ]
+    },
+    {
+      "id": "w36",
+      "region": "유럽",
+      "title": "버넘 총리 “브렉시트 후 영국이 얻은 것보다 잃은 게 많다”",
+      "summary": "앤디 버넘 총리는 브렉시트 이후 영국이 얻은 것보다 잃은 것이 많다고 말했다. 그는 보수당이 EU와의 다리를 모두 불태웠다고 비판하면서, 다음 주 EU와 맺으려는 새 합의가 식품 가격을 낮추고 수출 기업에 더 많은 수익을 줄 것이라고 밝혔다. 정상회의 합의가 이뤄지면 GDP를 0.4%, 약 170억 파운드 늘릴 수 있다고 한다. 합의 범위에는 식품·농업, 배출권 거래, 청년 이동 제도가 포함된다. 버넘은 장기적으로 EU와 다른 관계를 모색하는 방안도 검토하겠다고 밝혔다.",
+      "original": "Andy Burnham says UK has ‘lost more than we gained’ through Brexit",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit",
+      "published": "2026-11-15T00:34+09:00",
+      "also": [
+        {
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/d8dec32d-0110-49c8-8ab0-9f711a9c79f1",
+          "original": "Burnham thinks Britain should talk about Brexit — but are his constituents keen?"
+        }
+      ]
+    },
+    {
+      "id": "w71",
+      "region": "중국",
+      "title": "낙폭 컸던 중국 기술주, AI 인프라 기업에 기회",
+      "summary": "FT는 많이 떨어진 중국 기술주가 AI 공급망의 ‘곡괭이와 삽’ 역할을 하는 기업에서 기회를 찾을 수 있다고 전했다.",
+      "original": "China’s beaten-down tech stocks could offer AI with a little less drama",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/1505df5d-14e0-4095-8a88-fd23a165a821?syn-25a6b1a6=1",
+      "published": "2026-11-14T14:00+09:00"
+    },
+    {
+      "id": "w24",
+      "region": "중국",
+      "title": "중국 기관, 오만 국부펀드와 수십억 달러 투자 계약",
+      "summary": "중국 기관들이 오만 국부펀드와 수십억 달러 규모의 투자 계약을 줄줄이 맺었다. 분쟁이 잦은 중동에서 오만을 비교적 안전한 관문으로 보고 중국 기업들이 방향을 돌리면서, 양국 경제 관계가 한 단계 격상되는 모습이다.",
+      "original": "Chinese entities sign multibillion-dollar deals with Oman in Middle East investment pivot",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/china-economy/article/3374433/chinese-entities-sign-multibillion-dollar-deals-oman-middle-east-investment-pivot",
+      "published": "2026-11-14T16:48+09:00"
+    },
+    {
+      "id": "w17",
+      "region": "중국",
+      "title": "중국, 재생에너지 법 개정…전문성 공유 요구",
+      "summary": "중국은 산업 전환을 뒷받침해 온 에너지 법을 개정하고 있다. 20년 가까이 재생에너지가 빠르게 발전한 뒤 그 규칙을 다시 쓰려는 것이다. 칼럼은 중국이 쌓은 재생에너지 전문성을 다른 나라와 나눠야 한다고 주장한다.",
+      "original": "China should share its renewable energy expertise",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/opinion/china-opinion/article/3374104/china-should-share-its-renewable-energy-expertise",
+      "published": "2026-11-14T17:30+09:00"
+    },
+    {
+      "id": "w13",
+      "region": "아시아",
+      "title": "디지털리얼티, 일본 데이터센터에 10년간 100억 달러 투자",
+      "summary": "미국 데이터센터 운영사 디지털리얼티(Digital Realty Trust)는 아시아에서 가장 큰 투자처인 일본에 향후 10년간 100억 달러를 투입할 계획이다. 회사의 앤디 파워 CEO는 컴퓨팅 수요가 계속 늘어날 것으로 보고 이 베팅에 나선다고 밝혔다.",
+      "original": "Digital Realty Trust to spend $10bn more on Japan data centers: CEO",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/digital-realty-trust-to-spend-10bn-more-on-japan-data-centers-ceo",
+      "published": null
+    },
+    {
+      "id": "w26",
+      "region": "아시아",
+      "title": "필리핀·인니·태국 기업, 비상시 석유 확보 협약 검토",
+      "summary": "필리핀, 인도네시아, 태국 기업들이 토요일 비상 상황에서 석유 제품 비축분을 활용하는 방안을 검토하는 계약을 맺었다. 역내 에너지 공급 안정을 위한 움직임이다.",
+      "original": "Philippines moves to secure emergency access to oil in Indonesia, Thailand",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/energy/philippines-moves-to-secure-emergency-access-to-oil-in-indonesia-thailand",
+      "published": null
+    },
+    {
+      "id": "w5",
+      "region": "아시아",
+      "title": "트럼프, 방중 때 엔비디아·간첩 문제 꺼내지 않을 듯",
+      "summary": "미국 관리들은 트럼프 대통령이 시진핑 주석과의 회담에서 전 엔비디아 CEO 젠슨 황을 둘러싼 중국 정보기관 작전 의혹을 거론하지 않을 것으로 예상된다고 밝혔다. 황과 관계가 있다는 간첩 의혹 인물 Alice Huang은 싱가포르 기업의 임원이었고, 이 기업이 제한된 엔비디아 칩을 중국으로 빼돌렸다는 우려가 제기돼 왔다. 일론 머스크도 11월 18~19일 선전에서 열리는 APEC 정상회의에 트럼프와 동행할 예정이다. 백악관은 트럼프가 현지에서 시진핑, 푸틴과 3자 정상회담을 가질 계획이라고 밝혔다.",
+      "original": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
+      "published": "2026-11-15T00:36+09:00"
+    },
+    {
+      "id": "w47",
+      "region": "글로벌",
+      "title": "에콰도르, 생물다양성 수익화 추진…석유 채굴과 충돌",
+      "summary": "에콰도르는 갈라파고스와 아마존 등 생물다양성을 보호하면서 동시에 자원에서 수익을 얻으려 한다. 이를 위해 ‘부채-자연 교환(debt-for-nature swap)’과 첫 주권 녹색채권 같은 금융 수단을 활용할 계획이다. 하지만 핵심 광물 개발과 아마존 일부의 석유 채굴을 계속하려 해 원주민·환경단체의 반발을 사고 있다. 에콰도르는 2028년 유엔 생물다양성 총회(COP18)를 개최할 예정이다.",
+      "original": "Ecuador wants to monetize its biodiversity — while still drilling for oil",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/14/ecuador-biodiversity-green-finance-oil.html",
+      "published": "2026-11-14T15:00+09:00"
+    },
+    {
+      "id": "w49",
+      "region": "글로벌",
+      "title": "차트로 본 주간: 방어주가 새 주도주로 부상",
+      "summary": "FT의 주간 차트 칼럼은 시장에서 방어적 섹터가 새로운 승자로 떠올랐다고 짚었다. 주도주가 바뀌는 시장 순환매 흐름을 보여준다는 진단이다.",
+      "original": "Chart of the Week: The great market rotation",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/936376d1-4a69-4a3c-8975-3c55e9cb9d42?syn-25a6b1a6=1",
+      "published": "2026-11-14T19:30+09:00"
+    }
+  ]
+}

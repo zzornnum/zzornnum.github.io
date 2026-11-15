@@ -11,23 +11,27 @@
       "headlines": [
         {
           "title": "메리츠화재, 주식 손실 700억에도 투자 확대… '장기투자' 셈법",
-          "source": "KIS 뉴스",
-          "date": "2026-11-13"
+          "source": "톱데일리",
+          "date": "2026-11-13",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxMWZmWFFXRHR5WVB1REhFSTVsOXI2NDNWZFljMEY2LXphWFNxcFhsNzI2Ym4tN3Y1UFFaaWNMMEVPdzllMGg0VF9admJFbVdf?oc=5"
         },
         {
           "title": "메리츠금융지주, 기업가치제고계획",
           "source": "DART 공시",
-          "date": "2026-11-12"
+          "date": "2026-11-12",
+          "urlChecked": true
         },
         {
           "title": "[리포트 브리핑]메리츠금융지주, '소외되었던 26년보다 27년이 기대되는 회사' 목표가 149,000원 - iM증권",
-          "source": "KIS 뉴스",
-          "date": "2026-11-12"
+          "source": "뉴스핌",
+          "date": "2026-11-12",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DMmI2UTY4UDlLU0ZRbkxmQ1AyRzdJQWJCY3dQcno0N0hBZkZZXzdqM2I3dHMxOU9wQVR1RWtCMTNGaDFTV01xeGJScTdxZFF6YlphQ25XelhneDJJ?oc=5"
         },
         {
           "title": "[리포트 브리핑]메리츠금융지주, '주식시장 변동성에 노출' 목표가 142,000원 - 신한투자증권",
           "source": "KIS 뉴스",
-          "date": "2026-11-12"
+          "date": "2026-11-12",
+          "urlChecked": true
         }
       ]
     },
@@ -39,23 +43,27 @@
       "headlines": [
         {
           "title": "[리포트 브리핑]한화, '3Q26 Review: 한화생명 배당 재개 가능성에 주목' 목표가 105,000원 - 한화투자증권",
-          "source": "KIS 뉴스",
-          "date": "2026-11-13"
+          "source": "뉴스핌",
+          "date": "2026-11-13",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBRXNIN2MwbnVIajdKVmhQaHJpMXdNd3pkUE1HdlZRWTVZR2t2VnRfcFdlR0RVMVZPZUx1RHZEdC1qLS1oMVlDM3pmVkt2b3hCa3JhVmhnd1dsRTh1?oc=5"
         },
         {
           "title": "한화생명, 3분기 누적 순익 8656억…전년比 12.6%↑",
-          "source": "KIS 뉴스",
-          "date": "2026-11-13"
+          "source": "글로벌이코노믹",
+          "date": "2026-11-13",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYS1Uazd1eHF3Q2I3MnlKU0RQdHhLN3BITXo1LWY1dkZrV0JncVRBWmpYTktVRjZVcGRvRWRGQWJFdGU0V1hxWHVjcTl2VDRqY1A0RF9ENXRqRjRMQ24zOWFCQ2hGNjNmTnpDeXFiMTlDZk9PQ1RVeXN3bjBXRHJCUlVqZXo?oc=5"
         },
         {
           "title": "한화에어로, 1만파운드급 엔진 개발 나선다…독자 기술 확보 속도",
-          "source": "KIS 뉴스",
-          "date": "2026-11-13"
+          "source": "뉴스핌",
+          "date": "2026-11-13",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE01eG5IZjVHekdBNHRQNllkQi1yUVJHd3pQZ3N5ZlFJNmUzSnVVemE3Ui1rN2NMWnhMVUJKWmx0WVA5emYwVEMzU1NWUUJycHhiQWxFTk5lQmNOR1ZJ?oc=5"
         },
         {
           "title": "한화엔진, 두둑한 수주 잔고에 '활짝'…中경쟁사 증설도 \"걱정無\" [비즈360]",
-          "source": "KIS 뉴스",
-          "date": "2026-11-14"
+          "source": "헤럴드경제",
+          "date": "2026-11-14",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GOVh5aUE4bks4Zk4zbUE0cG54ZXVQTDJWUE03MGZGWjBtakJ3a3JReEYtNzNLdXBwRGVLMWJzSC1GcGFLM3IzMlNQSDBHcG8wMUtVMHBn?oc=5"
         }
       ]
     },
@@ -67,18 +75,21 @@
       "headlines": [
         {
           "title": "한화갤러리아, 3Q 영업익 60억에도 부채비율 192% 급등",
-          "source": "KIS 뉴스",
-          "date": "2026-11-12"
+          "source": "뉴스핌",
+          "date": "2026-11-12",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4QkgzbGt6WVdGZ0g2UlVySG9kWXU3UlNGX3JwazNmZUExTm16SEZhSV9MZEVtSUlJYTJZTk9tNDh6blBEcHROemlFOUJkZkN0SHRZN3phMTFFUmtC?oc=5"
         },
         {
           "title": "한화호텔앤드리조트, 3Q 영업익 4.4% 감소…신규사업 부담",
-          "source": "KIS 뉴스",
-          "date": "2026-11-11"
+          "source": "뉴스핌",
+          "date": "2026-11-11",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GX2E4YVJ2X0hHWHBVVWxHSWdFWXdVWnFSLWx3STJlU0trWlREQlhvZzF0NV9VOUQtd19hdHl3ZnUtWHVhQ0ZfbTlzajBOR0ZLQTNMSjU2WUNkQ1l1?oc=5"
         },
         {
           "title": "'공정 가치' 내걸고 빗발치는 공개매수…대주주 만을 위한 거래로 전락 우려",
-          "source": "KIS 뉴스",
-          "date": "2026-11-12"
+          "source": "인베스트조선",
+          "date": "2026-11-12",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYzRLN2VYWVRFOW11Z1Q0VzBra3kzdnVCckRGbWRIeFlLM3RhYVdBRHB1SUhQTFd4Y0plWHdjRl9CTXZrdmRiSkV3WVBkdmIwSGNEczgzRkhZckJJdHpsalhnWG9UbUNjcFl5S0tCQkhBenVTS2NHX1RjLUJMS2UzSUZ4cw?oc=5"
         }
       ]
     },
@@ -90,18 +101,21 @@
       "headlines": [
         {
           "title": "김정관 \"석유최고가 연장 불가피…물가상승률 월평균 0.6p 낮춰\"",
-          "source": "KIS 뉴스",
-          "date": "2026-11-15"
+          "source": "뉴스핌",
+          "date": "2026-11-15",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mWGtlcC1EYmh1V0tNUnJPVzNlOXBqWVF0V1hxWHM3SE12b0I4RGdkQ0h1WkgyM3MtOTNFcW4zSlY5MW9jUHZRcGVLYmtVS09WU3FVekVSMi0xd1dt?oc=5"
         },
         {
           "title": "정부, 정유사 손실 12월 초 첫 정산…\"원가기준 적용 변함 없다\"",
-          "source": "KIS 뉴스",
-          "date": "2026-11-13"
+          "source": "뉴스핌",
+          "date": "2026-11-13",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4a2UzN3JaaFhpUUpTVmhuRENORWFPeDlMenA5dDBmZWNaSUJYa18wVjAyWXFaRVJfQnY4NXQ4OUx3R2NvdVFIZ01VTkxHenVnNmtVTG1jM0NQRHE5?oc=5"
         },
         {
           "title": "산업부, 석유 최고가격 4주간 동결…\"국제유가 여전히 높다\"",
-          "source": "KIS 뉴스",
-          "date": "2026-11-13"
+          "source": "뉴스핌",
+          "date": "2026-11-13",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pVzBUSTZkZWtfbmRkSFRpTjd0VHBDcFM3cW1WeHNreG56UkVJMHNtSWpfd05MZmNlT0c5a1J3UVN2ZFdnS0RuXzJaSU43ZzZpYUFVOVZqTDItUTVy?oc=5"
         }
       ]
     },
@@ -114,12 +128,14 @@
         {
           "title": "[리포트 브리핑]에프엔에스테크, '3Q26 Review: 소재/부품 기업으로의 성공적인 전환 중' 목표가 19,500원 - 현대차증권",
           "source": "KIS 뉴스",
-          "date": "2026-11-13"
+          "date": "2026-11-13",
+          "urlChecked": true
         },
         {
           "title": "[장중수급포착] 에프엔에스테크, 외국인/기관 동시 순매수… 주가 +20.00%",
-          "source": "KIS 뉴스",
-          "date": "2026-11-11"
+          "source": "뉴스핌",
+          "date": "2026-11-11",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RQ2t4eDlMc0xyemxwTGJ1TlVYMG9qd1VVNHpnVVlsN2JpWEZCdHpNLVZfMkZubGhkVmg0em40azhvYzVYRTlRejNHNzJ2UmttNXFIMTg2THpMYzRh?oc=5"
         }
       ]
     },
@@ -131,23 +147,27 @@
       "headlines": [
         {
           "title": "LS證 \"SK하이닉스, HBM4 공급 확대에 사상 최대 실적 행진… 목표가 240만원 유지\"",
-          "source": "KIS 뉴스",
-          "date": "2026-11-16"
+          "source": "조선비즈",
+          "date": "2026-11-16",
+          "url": "https://n.news.naver.com/mnews/article/366/0001204928"
         },
         {
           "title": "SK하이닉스, 100조 주주환원에 쏠린 눈 \"시간은 매수자의 편\"",
-          "source": "KIS 뉴스",
-          "date": "2026-11-16"
+          "source": "파이낸셜뉴스",
+          "date": "2026-11-16",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XOWNDX3ZZRjVqVTFKeHVNMXJsUW0tWkM2MnJaNDAwUjdGT3Izbmp4dmI0a09mQzQ4N0t2Mmo2UHBXOEtJY09RN1ZrWDZXR3dTMWFYdXBrWlhQdw?oc=5"
         },
         {
           "title": "코스피 한 달간 12% 급락, AI·美 FOMC·엔비디아 실적? '운명의 한주'",
-          "source": "KIS 뉴스",
-          "date": "2026-11-16"
+          "source": "이투데이",
+          "date": "2026-11-16",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yQy1JY245Z3ZzXzhfazY5YkNnMmlRLTEtMmc2UXdoM1JMSnlfNE56WjQyNUROM3pIZGxvT3h4RXg4YWpINVBBSmVZVnRWd3U0U1p3aWItODBFdF9WMEVSNEJZc0tJb1JoakdQVjB3?oc=5"
         },
         {
           "title": "MSCI 11월 정기 리뷰… SK하이닉스, ADR 반영에 비중 '쑥'",
-          "source": "KIS 뉴스",
-          "date": "2026-11-14"
+          "source": "머니투데이",
+          "date": "2026-11-14",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13Y011d1BpOW9fdHFmRmRwaV9VdTl3TDdRV2I1RlYtZGc4RDlTbUk5eGJQUFV4NkN2Y2NueHR2SExDSU1mb2lSZUs3aVR5Y1E1T0xEOENhM1NkYzFOeG9pNDVOLXdGcTBN0gFuQVVfeXFMTm1oemo4cmsxdlVfWjNhWmVFSy15ck5MSDB5a2Iya0VhZjlqQlFva0xlek1fMGFVaUt2UllwQWRqSjhkTy05eWU1LXBfUlFjbEJXTjJ4VWtZd0ZMNUxyNWxBWEZvc3lUU2E4VTFRcXc?oc=5"
         }
       ]
     },
@@ -160,17 +180,20 @@
         {
           "title": "(주)휴메딕스 현금ㆍ현물배당 결정(분기배당)",
           "source": "DART 공시",
-          "date": "2026-11-12"
+          "date": "2026-11-12",
+          "urlChecked": true
         },
         {
           "title": "휴메딕스, 주당 200원 현금배당 결정",
-          "source": "KIS 뉴스",
-          "date": "2026-11-12"
+          "source": "헤럴드경제",
+          "date": "2026-11-12",
+          "url": "https://n.news.naver.com/mnews/article/016/0002682267"
         },
         {
           "title": "휴메딕스, 홍콩 뷰티 박람회서 '엘라비에' 선보여…동남아·중동 수출 추진",
-          "source": "KIS 뉴스",
-          "date": "2026-11-12"
+          "source": "메디컬투데이",
+          "date": "2026-11-12",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ob2VBTVo4OTc3MXRTNENjOG9ieWlCTE00VEJob2FvU1gxMVJEMU1fT25zUVlaZjRyX1lWb2tXQVFubVVxRkhFQTV3UUtaLWxNUGFWdXp1V3dVVjFUeGRMSk5iYklNQl9SbWEyTw?oc=5"
         }
       ]
     },
@@ -183,12 +206,14 @@
         {
           "title": "[장중수급포착] 한솔아이원스, 외국인 6일 연속 순매수행진... 주가 +3.87%",
           "source": "KIS 뉴스",
-          "date": "2026-11-13"
+          "date": "2026-11-13",
+          "urlChecked": true
         },
         {
           "title": "반도체 호황에 증설 나섰는데… 피크아웃 우려에 자금 조달 '발목'",
-          "source": "KIS 뉴스",
-          "date": "2026-11-09"
+          "source": "조선비즈",
+          "date": "2026-11-09",
+          "url": "https://n.news.naver.com/mnews/article/366/0001203560"
         }
       ]
     },
@@ -201,12 +226,14 @@
         {
           "title": "디엘이앤씨 주식회사 단일판매ㆍ공급계약체결",
           "source": "DART 공시",
-          "date": "2026-11-13"
+          "date": "2026-11-13",
+          "urlChecked": true
         },
         {
           "title": "DL이앤씨, 수원 영통 신성신안쌍용진흥 리모델링 수주…4062억원 규모",
-          "source": "KIS 뉴스",
-          "date": "2026-11-13"
+          "source": "서플 뉴스",
+          "date": "2026-11-13",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wQ0ZibkwwV1pjUWtYQTVsQm5Lc2NSZEYwZTI2NU0xX1M5YkZjLUtDZVBsbFNCQWRmanEwTElFd2xqdk1EeWZBXzlEanZPY0lZbFhtQ3pGS21uQ0li?oc=5"
         }
       ]
     },
@@ -218,18 +245,21 @@
       "headlines": [
         {
           "title": "\"삼성전자, '연산하는 메모리'가 주가 재평가 열쇠\"-LS",
-          "source": "KIS 뉴스",
-          "date": "2026-11-16"
+          "source": "한국경제",
+          "date": "2026-11-16",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWQlJEdkNMdGlVVUNMYXJLck54V0FBYnVRMEVIRmJzU0hNcDFUQVdjZHhGZndicVpHcmFGUEp6S2VLQmdJYS1ZUGo5UEdFOHI3aGxHWU1rbDFzUQ?oc=5"
         },
         {
           "title": "삼성 파운드리 영토 확장, 스타링크 위성칩 美서 만든다[biz-플러스]",
-          "source": "KIS 뉴스",
-          "date": "2026-11-16"
+          "source": "서울경제",
+          "date": "2026-11-16",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5henFMYUZJOXdqdm9QSzJxbXhrQ3BPci1BVlVWazcza2dtOXR1N3VYcnNRa200b0p0OTEzUUdoOVU1ZTVWSlBnVDZDVVZEMjBaSEHSAVNBVV95cUxNLXZ5Zlg3OXUzeUt4UDFCRHV3cHFSR3NfMkFLYU1hUTRrZjFRZkVWc1YwOFZxMWFHNjhwNmlSSDVTQ3U0UlgxdWhtcU5RU0pkYlJUWQ?oc=5"
         },
         {
           "title": "[주간수급리포트] 개인은 '삼전닉스' 팔고?외인은 삼성전자, 기관은 SK하이닉스 샀다",
-          "source": "KIS 뉴스",
-          "date": "2026-11-16"
+          "source": "이투데이",
+          "date": "2026-11-16",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42Z1VaMVl0Uk9MM3pOUXRBV3NsTGFwbkl3bHF1X3lQTk94U2V0czdNLUpCSXVpaVFqSEU0ZlFtOEFnWHU2ZXZObXpFcFRYWmF3RnBDSQ?oc=5"
         }
       ]
     },
@@ -242,12 +272,14 @@
         {
           "title": "휴젤(주) 변경상장(주식소각)",
           "source": "DART 공시",
-          "date": "2026-11-13"
+          "date": "2026-11-13",
+          "urlChecked": true
         },
         {
           "title": "[리포트 브리핑]휴젤, '영업실적 점진적 회복 전망' 목표가 290,000원 - 상상인증권",
           "source": "KIS 뉴스",
-          "date": "2026-11-11"
+          "date": "2026-11-11",
+          "urlChecked": true
         }
       ]
     }

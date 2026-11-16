@@ -11,13 +11,15 @@
       "headlines": [
         {
           "title": "JW중외제약, 3분기 매출 6%↑ 영업이익 11%↓…R&D 비용 부담",
-          "source": "뉴스",
-          "date": "2026-11-16"
+          "source": "데일리팜",
+          "date": "2026-11-16",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXMkZiZktTXy04NlpGYzNNcmwzUS1OX0h2ODc3Wk9aeXFkTWYwRzIyOGZSS1V5SVF5LTROU1E4N0RHeXFOOWhsWHBHMFYtRzVxWHVoZDFn?oc=5"
         },
         {
           "title": "[리포트 브리핑]JW중외제약, '실적은 견조, 신약은 순항' 목표가 30,000원 - 상상인증권",
-          "source": "리포트 브리핑",
-          "date": "2026-11-10"
+          "source": "뉴스핌",
+          "date": "2026-11-10",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00VzAwNTkxeXRqQ0VzUF9SQnFZa211VjVqalFKalFKTjJPQ2JtVXR4OGRfQ1JvY0p5NnpKcmd3dzhwT1JvaDVsQ2g4eXBxaTBNcmdjNmU0RnFLNmM1?oc=5"
         }
       ]
     },
@@ -29,18 +31,21 @@
       "headlines": [
         {
           "title": "메리츠화재, 1.35조 벌고도 배당여력 '압박'…대손준비금 93% 급증",
-          "source": "뉴스",
-          "date": "2026-11-16"
+          "source": "딜사이트",
+          "date": "2026-11-16",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WbnpyZFljdWhDdGVhWkh4NHBGNTRuTWcxS3hNeDJQSDJIT3NhYWJPWW5LOElEU2ltN0I0WmJuVzliMGExbE1OZ0xMLXBxU0k?oc=5"
         },
         {
           "title": "'사법 리스크' 벗은 삼성·한화·메리츠화재…신사업 확장 길 열렸다",
           "source": "뉴스",
-          "date": "2026-11-16"
+          "date": "2026-11-16",
+          "urlChecked": true
         },
         {
           "title": "메리츠화재, 주식 손실 700억에도 투자 확대… '장기투자' 셈법",
           "source": "뉴스",
-          "date": "2026-11-13"
+          "date": "2026-11-13",
+          "urlChecked": true
         }
       ]
     },
@@ -52,13 +57,15 @@
       "headlines": [
         {
           "title": "한화임팩트 지분 매각 불발된 한화솔루션, PRS 활용 검토",
-          "source": "뉴스",
-          "date": "2026-11-17"
+          "source": "인베스트조선",
+          "date": "2026-11-17",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWjFTdFNyQTktbmtSUXRBZktJYl9OaHhYQVVaTG5sT0Fwd3BkclZqRkJBODZiSkNDSHZtcmFrUHVLRnlGZzRFQXRjVk5XdDgza0lVOUplNDBOcUxKYmxzbGh4V2Z3UXMyaGRfRGljQzlYQVA5U19iempUaUg5QXRibWNMOA?oc=5"
         },
         {
           "title": "한화파워, 글로벌 기업과 LNG 운반선 FSRU 개조 계약 체결",
-          "source": "뉴스",
-          "date": "2026-11-16"
+          "source": "뉴스핌",
+          "date": "2026-11-16",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5McHdVd3lHMFdUeXpxaE4tYlluTDZxNVZKMjYtMk45Mk11eGhRQ1FCeGRqS3NRWVFHMDVGbEt3eno1ZldzcnZKd3JXVkhoQWd1Wi0xdjQ1Vkk0RzhQ?oc=5"
         }
       ]
     },
@@ -70,13 +77,15 @@
       "headlines": [
         {
           "title": "아바코, 3분기 영업손실 46억원…\"4분기 실적 개선 기대\"",
-          "source": "뉴스",
-          "date": "2026-11-06"
+          "source": "전자신문",
+          "date": "2026-11-06",
+          "url": "https://n.news.naver.com/mnews/article/030/0003483209"
         },
         {
           "title": "아바코, 슈미드의 엔비디아·인텔·AMD 공급망 협력 소식에 유리기판 합작법인 주목",
-          "source": "뉴스",
-          "date": "2026-10-27"
+          "source": "마켓잉크",
+          "date": "2026-10-27",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLZ3E5bzlRamY1bFV3TjB4a3dMN0JJT0I2dnV1Sm8wVzhRT0tMN1FkSm4yNUM0QzdKazdYRU9NMXhVempPQjhEUFp6cjNxYXpjU0pvUG1pS3p3Y2lBOTZIaW9XWHdNY1ViNV9MUF9Baw?oc=5"
         }
       ]
     },
@@ -88,13 +97,15 @@
       "headlines": [
         {
           "title": "한화M&S 최대주주 김동선, '갤러리아 부동산·아워홈 확장' 첫 숙제",
-          "source": "뉴스",
-          "date": "2026-11-16"
+          "source": "연합인포맥스",
+          "date": "2026-11-16",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05T0ZMLVhKRjJBdVhLMHhtWUZld2lBUy1GdVl6dlFRVUpQVHcycVJQTnZTV1NSb2tpdXZWdjAwTm5BZS1fQmd5NjFUbE8xaGkwQnQ4Tk1sY3BXMHJrSk83aFM4NENfVkp3V1VsU0dYZDQ?oc=5"
         },
         {
           "title": "한화갤러리아, 3Q 영업익 60억에도 부채비율 192% 급등",
-          "source": "뉴스",
-          "date": "2026-11-12"
+          "source": "뉴스핌",
+          "date": "2026-11-12",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4QkgzbGt6WVdGZ0g2UlVySG9kWXU3UlNGX3JwazNmZUExTm16SEZhSV9MZEVtSUlJYTJZTk9tNDh6blBEcHROemlFOUJkZkN0SHRZN3phMTFFUmtC?oc=5"
         }
       ]
     },
@@ -106,13 +117,15 @@
       "headlines": [
         {
           "title": "SGC·GS, 발전소옆에 데이터센터 짓는다… 전력규제 변수",
-          "source": "뉴스",
-          "date": "2026-11-16"
+          "source": "뉴스핌",
+          "date": "2026-11-16",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HV0lPS3hiRk51ZU53RVBaelF1RHVPdWJ6Y09TNGhweFhyN1ZNWW1JWkRPdzVIT2RZNktDRlpEQ2d2OTF5MFp3U2RmeE1VMzJqQXgydDdoX3Vmd0Vw?oc=5"
         },
         {
           "title": "김정관 \"석유최고가 연장 불가피…물가상승률 월평균 0.6p 낮춰\"",
-          "source": "뉴스",
-          "date": "2026-11-15"
+          "source": "뉴스핌",
+          "date": "2026-11-15",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mWGtlcC1EYmh1V0tNUnJPVzNlOXBqWVF0V1hxWHM3SE12b0I4RGdkQ0h1WkgyM3MtOTNFcW4zSlY5MW9jUHZRcGVLYmtVS09WU3FVekVSMi0xd1dt?oc=5"
         }
       ]
     },
@@ -125,12 +138,14 @@
         {
           "title": "[리포트 브리핑]에프엔에스테크, '3Q26 Review: 소재/부품 기업으로의 성공적인 전환 중' 목표가 19,500원 - 현대차증권",
           "source": "리포트 브리핑",
-          "date": "2026-11-13"
+          "date": "2026-11-13",
+          "urlChecked": true
         },
         {
           "title": "[리포트 브리핑]에프엔에스테크, '이익 체력 강화 전망' 목표가 23,500원 - SK증권",
-          "source": "리포트 브리핑",
-          "date": "2026-10-29"
+          "source": "뉴스핌",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRUW0tSmNxaXM3QjIteXc4c2V4aXgzREVUVzZhMGc1R1JIOE1Hbjd2UXI0UzVWR2RYcFB4bE9XNkNseW0ycnptQ04tQ0NoT1N3RG5ObkgzMlFBdVpP?oc=5"
         }
       ]
     },
@@ -143,7 +158,8 @@
         {
           "title": "(주)디엔오토모티브 기업설명회(IR) 개최(안내공시)",
           "source": "DART 공시",
-          "date": "2026-11-16"
+          "date": "2026-11-16",
+          "urlChecked": true
         }
       ]
     },
@@ -155,18 +171,21 @@
       "headlines": [
         {
           "title": "SK하이닉스, 올해 엔비디아 누적 매출 35조…HBM4 확대에 전년比 2배↑",
-          "source": "뉴스",
-          "date": "2026-11-17"
+          "source": "서울경제",
+          "date": "2026-11-17",
+          "url": "https://n.news.naver.com/mnews/article/011/0004682922"
         },
         {
           "title": "불안한 AI 호황…낸드값은 왜 한달새 20% 급락했나 [biz-플러스]",
-          "source": "뉴스",
-          "date": "2026-11-17"
+          "source": "서울경제",
+          "date": "2026-11-17",
+          "url": "https://n.news.naver.com/mnews/article/011/0004682904"
         },
         {
           "title": "금융당국 제도 방치에 SK하이닉스 본주-ADR 괴리율 더 커졌다",
-          "source": "뉴스",
-          "date": "2026-11-17"
+          "source": "인베스트조선",
+          "date": "2026-11-17",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOWlKOF9UVm1iNHRIODJCcDRTWk5na0NrV2Y3WVhmVEx6RTU3UnA1OXBDRGtQaTNyWTZxRHp6cnpjS2xmV2g1OWNQODNTTWZXQkhYWExnOF84eDQ0Z2d1dVhMYlMzOHdNeGVobTZkTTdmQ0dfNW9EWjF3QzNBTUNxRlpLbw?oc=5"
         }
       ]
     },
@@ -179,17 +198,20 @@
         {
           "title": "휴메딕스, 3분기 매출 502억…에스테틱·점안제 호조에 23%↑",
           "source": "뉴스",
-          "date": "2026-11-16"
+          "date": "2026-11-16",
+          "urlChecked": true
         },
         {
           "title": "휴메딕스, 3분기 영업익 전년比 11% 증가…에스테틱 제품 판매 확대",
-          "source": "뉴스",
-          "date": "2026-11-16"
+          "source": "머니투데이",
+          "date": "2026-11-16",
+          "url": "https://n.news.naver.com/mnews/article/008/0005441748"
         },
         {
           "title": "휴메딕스, 주당 200원 현금배당 결정",
-          "source": "뉴스",
-          "date": "2026-11-12"
+          "source": "헤럴드경제",
+          "date": "2026-11-12",
+          "url": "https://n.news.naver.com/mnews/article/016/0002682267"
         }
       ]
     },
@@ -201,13 +223,15 @@
       "headlines": [
         {
           "title": "반도체 호황에 증설 나섰는데… 피크아웃 우려에 자금 조달 ‘발목’",
-          "source": "뉴스",
-          "date": "2026-11-09"
+          "source": "조선비즈",
+          "date": "2026-11-09",
+          "url": "https://n.news.naver.com/mnews/article/366/0001203560"
         },
         {
           "title": "[장중수급포착] 한솔아이원스, 외국인 6일 연속 순매수행진... 주가 +3.87%",
           "source": "뉴스",
-          "date": "2026-11-13"
+          "date": "2026-11-13",
+          "urlChecked": true
         }
       ]
     },
@@ -219,13 +243,15 @@
       "headlines": [
         {
           "title": "와이엠씨, 3분기 누적 영업이익 57억…전년比 29.5%↑",
-          "source": "뉴스",
-          "date": "2026-11-16"
+          "source": "이데일리",
+          "date": "2026-11-16",
+          "url": "https://n.news.naver.com/mnews/article/018/0006410569"
         },
         {
           "title": "와이엠씨, 中 JDC와 반도체·디스플레이 소재 사업 전략적 협력 기본합의서 체결",
-          "source": "뉴스",
-          "date": "2026-10-28"
+          "source": "아시아경제",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LSUdnT1J3SEZQclpsdUxpVUt0SUVCZVZsS25mX3htd1N0b21RNFV1WUJjUU0tXzZqWVM2TlRHN0dLTXEtRXJPNDRSMGdNeG1JVWdSUjdaYlZjUFp1bUZBbg?oc=5"
         }
       ]
     },
@@ -237,13 +263,15 @@
       "headlines": [
         {
           "title": "DL이앤씨, 수원 영통 신성신안쌍용진흥 리모델링 수주…4062억원 규모",
-          "source": "뉴스",
-          "date": "2026-11-13"
+          "source": "서플 뉴스",
+          "date": "2026-11-13",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wQ0ZibkwwV1pjUWtYQTVsQm5Lc2NSZEYwZTI2NU0xX1M5YkZjLUtDZVBsbFNCQWRmanEwTElFd2xqdk1EeWZBXzlEanZPY0lZbFhtQ3pGS21uQ0li?oc=5"
         },
         {
           "title": "유진證 “데이터센터 수주 확대, 글로벌 AI 기업 장기계약이 관건”",
           "source": "뉴스",
-          "date": "2026-11-16"
+          "date": "2026-11-16",
+          "urlChecked": true
         }
       ]
     },
@@ -256,17 +284,20 @@
         {
           "title": "삼성, 모바일 메모리 매입가 263% 급등…AI 반도체 호황에 스마트폰 원가 ‘비상’",
           "source": "뉴스",
-          "date": "2026-11-17"
+          "date": "2026-11-17",
+          "urlChecked": true
         },
         {
           "title": "삼전닉스 목표가 낮추더니…모건스탠리 “코스피 1만 가능” [이런국장 저런주식]",
-          "source": "뉴스",
-          "date": "2026-11-17"
+          "source": "서울경제",
+          "date": "2026-11-17",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NNklNUVdhNmpSd0hPekx6WmVreEZXLWduRXF1akQzclRqNmRxNHZKVnVEMGFwSF9zUFZXYzZZLS1wSzY2bURjLTBBMnBGZ1Exc0HSAVNBVV95cUxNbzhWaTVyaUZwS1IzV0pEcjBoSUZUQXZhbGNyU21FUTlhMEFyd2xlLTJ6M29IZmpTZDhhUnQ3X3p2a2xqcWhvbUp3eEpUYVdCM1I0cw?oc=5"
         },
         {
           "title": "삼전닉스 현금 곳간 329조 돌파…1년새 193조 급증",
           "source": "뉴스",
-          "date": "2026-11-17"
+          "date": "2026-11-17",
+          "urlChecked": true
         }
       ]
     },
@@ -278,18 +309,21 @@
       "headlines": [
         {
           "title": "[리포트 브리핑]바텍, '전세계에서 가장 저평가된 치과기업' 목표가 28,500원 - 미래에셋증권",
-          "source": "리포트 브리핑",
-          "date": "2026-11-12"
+          "source": "뉴스핌",
+          "date": "2026-11-12",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Eam9LcEQxX1pVWWhKQ2NLZ013bFgzU1dVcnVRNUJOTkRPeVRldUlrUTktY1EtQWlBdnRPQzhMY20yV1V5dE9icFZhRWdoMVZFYWk1X1F0MDg0U1lZ?oc=5"
         },
         {
           "title": "[리포트 브리핑]바텍, '3Q26 Review: 영업이익 +25.5% YoY' 목표가 28,000원 - LS증권",
-          "source": "리포트 브리핑",
-          "date": "2026-11-12"
+          "source": "뉴스핌",
+          "date": "2026-11-12",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE43UnM0M0ZoczNxT1piYVBKNThIU1EySVVjR2t1Vlk3Vjd5Sjd4a2F4bFBuU2VlZEtraG1SblJDRUJacnliVG9CY0NCaWpyM0pRdllBYkhhSFM1T1pL?oc=5"
         },
         {
           "title": "바텍, 환율 악재 이겨내고 지속된 마진 개선 '주목'…\"세계에서 가장 저평가된 치과기업\"",
-          "source": "뉴스",
-          "date": "2026-11-12"
+          "source": "프라임경제",
+          "date": "2026-11-12",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJeFJOclZEVy1FejFkS0NKZ0ZDT1VPUDhJbmJqblBHZFlBSl92bkVRM084ZzJJNHY2OUZPY1h3RFYwZy1UemNBVnF1N08wMGxOSDBxLTNtZW9mNTIyU2JZNWx6Zw?oc=5"
         }
       ]
     }

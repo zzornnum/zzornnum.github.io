@@ -12,22 +12,26 @@
         {
           "title": "엔비디아 \"2028회계연도 매출 성장률 70→75% 상향\"",
           "source": "언론 보도(KIS 뉴스)",
-          "date": "2026-11-18"
+          "date": "2026-11-18",
+          "urlChecked": true
         },
         {
           "title": "\"반토막 난 삼전닉스, 'AI 공포' 선반영…실적이 반등 이끌 것\"",
-          "source": "언론 보도(KIS 뉴스)",
-          "date": "2026-11-18"
+          "source": "한국경제",
+          "date": "2026-11-18",
+          "url": "https://n.news.naver.com/mnews/article/015/0005355084"
         },
         {
           "title": "엔비디아, 고객사 보증 최대 157조원…지원 조건은?",
-          "source": "언론 보도(KIS 뉴스)",
-          "date": "2026-11-18"
+          "source": "이데일리",
+          "date": "2026-11-18",
+          "url": "https://n.news.naver.com/mnews/article/018/0006411489"
         },
         {
           "title": "[분석] 엔비디아, 공급약정 3900억달러로 불었다",
-          "source": "언론 보도(KIS 뉴스)",
-          "date": "2026-11-18"
+          "source": "파이낸셜포스트",
+          "date": "2026-11-18",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1MakkwSkQ4M2hpbWZqb3A2Q2dOeW9TRUhYZ3JnbC1oTEFPQmNXYUJ3cUlhRUZVU25EWHEyZnJZQ0l0ZnRkNzRCcGRWX3M5dDNjT2tiR2tzMl9kLUxKa0tfSFMwYjRXNzNqY2tMd0thU0ZQMXpL?oc=5"
         }
       ]
     },
@@ -40,17 +44,20 @@
         {
           "title": "KB證 “삼전·SK하닉, 불확실성 공포 이미 반영?결국 실적이 주가 결정”",
           "source": "언론 보도(KIS 뉴스)",
-          "date": "2026-11-18"
+          "date": "2026-11-18",
+          "urlChecked": true
         },
         {
           "title": "[속보]엔비디아 \"삼성전기와 기판 신규 계약 체결\"",
-          "source": "언론 보도(KIS 뉴스)",
-          "date": "2026-11-18"
+          "source": "아시아경제",
+          "date": "2026-11-18",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PaGdXS2pqTi04eXVWeE1laVFud0FuYmk5ZkgzcjJnWTZRNHZZUjdwZkJiWUhrcTlhWWd3WXVJSTlPalp3dDFNSC1BTWt4QkVlWkR1R1Q2aVlHY1l5WHJYTg?oc=5"
         },
         {
           "title": "다시 4900선…더 짙어진 ‘삼전·하이닉스 쏠림’ [오천피 붕괴]",
-          "source": "언론 보도(KIS 뉴스)",
-          "date": "2026-11-17"
+          "source": "이투데이",
+          "date": "2026-11-17",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA3RTRJcUJ5UXpadk5kcy1uTHV2c3JFdUNZZ3R4UkFmeG5EcE1NeElaWDlTNkRaY080bEwyOE0ydFBwSXpKVGZobWxRREd2cFNCS2hzZg?oc=5"
         }
       ]
     },
@@ -62,13 +69,15 @@
       "headlines": [
         {
           "title": "JW중외제약, 3분기 매출 6%↑ 영업이익 11%↓…R&D 비용 부담",
-          "source": "언론 보도(KIS 뉴스)",
-          "date": "2026-11-16"
+          "source": "데일리팜",
+          "date": "2026-11-16",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXMkZiZktTXy04NlpGYzNNcmwzUS1OX0h2ODc3Wk9aeXFkTWYwRzIyOGZSS1V5SVF5LTROU1E4N0RHeXFOOWhsWHBHMFYtRzVxWHVoZDFn?oc=5"
         },
         {
           "title": "JW중외제약, 대한산부인과학회서 '페린젝트' 런천 심포지엄 개최",
-          "source": "언론 보도(KIS 뉴스)",
-          "date": "2026-11-17"
+          "source": "팜뉴스",
+          "date": "2026-11-17",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXZGNJNUsyTk9BVWN3TVJrTnBxOG9raUJGcGJOQ19od3h0R3Z3Q29IeVNJT2RpYzcwUlNwcGZkbFlMelQ5VVpMOENDX1RxWkxHRWozZVVNdEhoSDgwSFlMYkhybGtzQXUyX1E1TQ?oc=5"
         }
       ]
     },
@@ -80,13 +89,15 @@
       "headlines": [
         {
           "title": "'사법 리스크' 벗은 삼성·한화·메리츠화재…신사업 확장 길 열렸다",
-          "source": "언론 보도(KIS 뉴스)",
-          "date": "2026-11-16"
+          "source": "메디컬투데이",
+          "date": "2026-11-16",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CNzY1b0pJSTFveVBxMlJDZm92cXRjOG1saHBqLTI1MUkzWXpQR0lBT1ZnVUtRUVltMi13OGNHTXNFLTk1d0lscU4tNjhrWHNVaFlQZ1ZSanVRN3pqY2pFQXNIRDQwU1ktdVlsTQ?oc=5"
         },
         {
           "title": "메리츠화재, 1.35조 벌고도 배당여력 '압박'…대손준비금 93% 급증",
-          "source": "언론 보도(KIS 뉴스)",
-          "date": "2026-11-16"
+          "source": "딜사이트",
+          "date": "2026-11-16",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WbnpyZFljdWhDdGVhWkh4NHBGNTRuTWcxS3hNeDJQSDJIT3NhYWJPWW5LOElEU2ltN0I0WmJuVzliMGExbE1OZ0xMLXBxU0k?oc=5"
         }
       ]
     },
@@ -98,18 +109,21 @@
       "headlines": [
         {
           "title": "휴메딕스, 에스테틱 판매 호조에 3분기 매출 23% 증가",
-          "source": "언론 보도(KIS 뉴스)",
-          "date": "2026-11-16"
+          "source": "뉴스핌",
+          "date": "2026-11-16",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE16V2gwbU91OC04YWNBVkRFOVl3OUllTXlvVk1uZnM5LWd4MVpmcHR6cU9ZLU96aEhNdzFJNzgwUkRwcE5sMXpRQjU3RlNHZHA4YzB5WmJWQ3NBajZE?oc=5"
         },
         {
           "title": "휴메딕스, 3분기 영업익 전년比 11% 증가…에스테틱 제품 판매 확대",
-          "source": "언론 보도(KIS 뉴스)",
-          "date": "2026-11-16"
+          "source": "머니투데이",
+          "date": "2026-11-16",
+          "url": "https://n.news.naver.com/mnews/article/008/0005441748"
         },
         {
           "title": "(주)휴메딕스 현금ㆍ현물배당 결정(분기배당)",
           "source": "DART 공시",
-          "date": "2026-11-12"
+          "date": "2026-11-12",
+          "urlChecked": true
         }
       ]
     },
@@ -121,13 +135,15 @@
       "headlines": [
         {
           "title": "와이엠씨, 3분기 누적 영업이익 57억…전년比 29.5%↑",
-          "source": "언론 보도(KIS 뉴스)",
-          "date": "2026-11-16"
+          "source": "이데일리",
+          "date": "2026-11-16",
+          "url": "https://n.news.naver.com/mnews/article/018/0006410569"
         },
         {
           "title": "와이엠씨, 3분기 누적 영업익 29.5%↑…\"실적 성장·수익성 개선\"",
-          "source": "언론 보도(KIS 뉴스)",
-          "date": "2026-11-16"
+          "source": "아시아경제",
+          "date": "2026-11-16",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2Z1dsNzVFTTFsZnZVQXhnTnh6dERlTHJhREt1QjEyLU5VOWRrdElsVFlWN185d0NSaThqMEM2enNlbi1ZMTNiSnQyVjBjNDV4ZVYwMmZRMTF4NVlDWVQtNg?oc=5"
         }
       ]
     },
@@ -139,18 +155,21 @@
       "headlines": [
         {
           "title": "[리포트 브리핑]DL이앤씨, 'SMR과 AIDC를 동시에 공략' 목표가 76,000원 - 상상인증권",
-          "source": "언론 보도(KIS 뉴스)",
-          "date": "2026-11-17"
+          "source": "뉴스핌",
+          "date": "2026-11-17",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFByWFVvcWZkYWhfVDMyNGZQZ2xpRGJ4WFhhdGNVZXpreFo2Qy1WeEFYQVVTaktBY1dSUjlfYnphMVdxaFlRbDZDa3pUUFJoM1ZEalZCY1RjbERQUVFl?oc=5"
         },
         {
           "title": "수주 늘어도 남는 게 없네…대형 건설사 잠재손실 1조",
-          "source": "언론 보도(KIS 뉴스)",
-          "date": "2026-11-17"
+          "source": "서울경제",
+          "date": "2026-11-17",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hX09Va21BczkxZzBXajJ2cFlTem1SdEQxNWpnLVFzZl83dDNHYXI5aW5IQ3c4TmxEZlEtVXN2RlAyVlhvZ0hrWFFHUURPemgybkHSAVNBVV95cUxQd3FNVjFGMlFTT00zN0loWTkydGNIRzlaRXh5dHpDR01WODdhTnF2U2xtWFFfQVYzNk56cHVnUFE4cGwtYlpzRkhOMjU0akJwMm11OA?oc=5"
         },
         {
           "title": "[단독]상대원2 재개발 갈등 점입가경…조합장 직대, DL에 \"공사 재개하라\"",
           "source": "언론 보도(KIS 뉴스)",
-          "date": "2026-11-17"
+          "date": "2026-11-17",
+          "urlChecked": true
         }
       ]
     },
@@ -162,8 +181,9 @@
       "headlines": [
         {
           "title": "[리포트 브리핑]제이에스코퍼레이션, '관세 영향의 정상화' 목표가 19,000원 - 신한투자증권",
-          "source": "언론 보도(KIS 뉴스)",
-          "date": "2026-11-17"
+          "source": "뉴스핌",
+          "date": "2026-11-17",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54ZlJyV09ocVNKbjVOQnBIZjE1RHNCc2JiWWE2TjFtekJDcXpGUTJtSUtwZFhmN0JsZlFxYkZtU0wxaFdsTVRyUlhRbVZ6cVlVcEhwbjdfUFBZMkp3?oc=5"
         }
       ]
     },
@@ -176,12 +196,14 @@
         {
           "title": "DN오토모티브, 2026년 3분기 실적",
           "source": "언론 보도(KIS 뉴스)",
-          "date": "2026-11-17"
+          "date": "2026-11-17",
+          "urlChecked": true
         },
         {
           "title": "(주)디엔오토모티브 기업설명회(IR) 개최(안내공시)",
           "source": "DART 공시",
-          "date": "2026-11-16"
+          "date": "2026-11-16",
+          "urlChecked": true
         }
       ]
     },
@@ -194,12 +216,14 @@
         {
           "title": "한솔아이원스(주) 기업설명회(IR) 개최",
           "source": "DART 공시",
-          "date": "2026-11-17"
+          "date": "2026-11-17",
+          "urlChecked": true
         },
         {
           "title": "[IR일정] 한솔아이원스, 2026년 3분기 경영실적",
           "source": "언론 보도(KIS 뉴스)",
-          "date": "2026-11-17"
+          "date": "2026-11-17",
+          "urlChecked": true
         }
       ]
     },
@@ -211,13 +235,15 @@
       "headlines": [
         {
           "title": "한화M&S 최대주주 김동선, '갤러리아 부동산·아워홈 확장' 첫 숙제",
-          "source": "언론 보도(KIS 뉴스)",
-          "date": "2026-11-16"
+          "source": "연합인포맥스",
+          "date": "2026-11-16",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05T0ZMLVhKRjJBdVhLMHhtWUZld2lBUy1GdVl6dlFRVUpQVHcycVJQTnZTV1NSb2tpdXZWdjAwTm5BZS1fQmd5NjFUbE8xaGkwQnQ4Tk1sY3BXMHJrSk83aFM4NENfVkp3V1VsU0dYZDQ?oc=5"
         },
         {
           "title": "한화갤러리아, 3Q 영업익 60억에도 부채비율 192% 급등",
-          "source": "언론 보도(KIS 뉴스)",
-          "date": "2026-11-12"
+          "source": "뉴스핌",
+          "date": "2026-11-12",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4QkgzbGt6WVdGZ0g2UlVySG9kWXU3UlNGX3JwazNmZUExTm16SEZhSV9MZEVtSUlJYTJZTk9tNDh6blBEcHROemlFOUJkZkN0SHRZN3phMTFFUmtC?oc=5"
         }
       ]
     }

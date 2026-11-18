@@ -1,0 +1,1080 @@
+{
+ "date": "2026-11-19",
+ "fetchedAt": "2026-11-19T07:45+09:00",
+ "items": [
+  {
+   "region": "미국",
+   "source": "CNBC",
+   "title": "Southeast Asia’s data center boom leaned on Chinese demand. New U.S. rules put that pipeline at risk",
+   "summary": "The rules require data centers in Southeast Asia to seek U.S. approval to buy advanced AI chips, threatening to slow a build-out fueled heavily on Chinese demand.",
+   "url": "https://www.cnbc.com/2026/11/18/nvidia-us-ai-chip-export-controls-data-centers-.html",
+   "published": "2026-11-18T23:09+09:00",
+   "id": "w1",
+   "body": "New U.S. export rules could slow Southeast Asia's data center boom by tightening access to advanced AI chips and targeting the region's role in providing computing power to Chinese companies. According to an interim rule released Monday by the Commerce Department, data centers in Singapore, Malaysia, Thailand and Indonesia will need a U.S. government license to purchase advanced AI chips, including those from Nvidia. Facilities already serving large Chinese customers will have 90 days to apply for a license or face future export restrictions, the rule said. The region has seen a surge in data center construction to house the semiconductors needed to train and develop artificial intelligence models. U.S."
+  },
+  {
+   "region": "미국",
+   "source": "MarketWatch",
+   "title": "Nvidia’s booming demand is ‘hard to ignore,’ but these four questions loom over the stock",
+   "summary": "Nvidia investors face uncertainty around CEO succession, the AI ecosystem, export controls and China.",
+   "url": "https://www.marketwatch.com/story/what-wall-street-analysts-are-now-saying-after-nvidias-beat-and-raise-quarter-9311c85d?mod=mw_rss_topstories",
+   "published": "2026-11-19T07:31+09:00",
+   "id": "w2"
+  },
+  {
+   "region": "미국",
+   "source": "Federal Reserve",
+   "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+   "summary": "",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
+   "published": "2026-11-19T04:00+09:00",
+   "id": "w3",
+   "body": "Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( Lock Locked padlock icon ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. For release at 2:00 p.m. EST Share --> --> --> --> --> --> The Federal Reserve on Wednesday released the minutes of the Federal Open Market Committee meeting that was held on October 27–28, 2026. The minutes for each regularly scheduled meeting of the Committee are generally published three weeks after the day of the policy decision. The descriptions of economic and financial conditions contained in these minutes are based solely on the information that was available to the Committee at the time of the meeting."
+  },
+  {
+   "region": "유럽",
+   "source": "BBC",
+   "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
+   "summary": "Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year.",
+   "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-18T22:17+09:00",
+   "id": "w4",
+   "body": "Gas and electricity bills for a typical household are forecast to jump by £443 a year from January as the inflation rate rose to its highest level in a year. A typical annual bill is predicted to rise by 26% in the new year, according to consultancy Cornwall Insight, ahead of the official announcement next week. Some households will get a £100 payment to help with the rising cost of living, a policy which was announced in the Budget. Prices rose 3.6% in the year to October, up from 3.5% in September mainly because of higher petrol and diesel prices, official figures show. Inflation has been driven higher in recent months as the US-Israel war with Iran has driven up the cost of energy and fuel. In response to prices surging, the Bank of England raised interest rates for the first time in three years earlier this month, in a bid to slow inflation to its target of 2%."
+  },
+  {
+   "region": "유럽",
+   "source": "The Guardian",
+   "title": "UK inflation rises to 3.6% after petrol and diesel prices hit record high",
+   "summary": "Increase in October piles pressure on households as Iran war pushes up oil cost and rattles global economy Energy bills in Great Britain forecast to rise by 26% to £2,166 from January Inflation in the UK rose to 3.6% in October after petrol prices increased and diesel hit a…",
+   "url": "https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil",
+   "published": "2026-11-18T19:14+09:00",
+   "id": "w5",
+   "body": "Inflation in the UK rose to 3.6% in October after petrol prices increased and diesel hit a record high amid the fallout from the war in the Middle East. Figures from the Office for National Statistics (ONS) show the headline rate of inflation as measured by the consumer prices index rose from 3.5% in September and was in line with City economists’ forecasts. As households brace for the colder winter months with household gas and electricity costs soaring, the latest figures push the headline inflation rate to the highest level in a year. In a reading underscoring the pressure on the Bank of England to raise interest rates, the ONS said fuel prices were the major contributor. Annual costs of raw materials and goods leaving factories also continued to climb, driven by rising energy and crude oil prices amid the Iran war."
+  },
+  {
+   "region": "유럽",
+   "source": "ECB",
+   "title": "Boris Vujčić: Financial Stability Review - November 2026",
+   "summary": "",
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261118~86f1e8147e.en.pdf",
+   "published": "2026-11-18T18:00+09:00",
+   "id": "w6",
+   "body": ""
+  },
+  {
+   "region": "중국",
+   "source": "SCMP",
+   "title": "Sign of the times? How China is quietly shifting global trade onto yuan payments",
+   "summary": "When accountant Shao Bo visited a branch of Russia’s VTB Bank in Shanghai recently, she was surprised to find the place was packed with representatives of exporters from all over China. “Everyone was there for the same purpose: setting up accounts to accept yuan payments from…",
+   "url": "https://www.scmp.com/economy/china-economy/article/3374919/sign-times-how-china-quietly-shifting-global-trade-yuan-payments",
+   "published": "2026-11-19T07:00+09:00",
+   "id": "w7"
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "Anthropic prices IPO at $83 per share, above expected range, source tells CNBC",
+   "summary": "Anthropic stock is set to begin trading on the Nasdaq under the ticker symbol ANT on Thursday.",
+   "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+   "published": "2026-11-19T06:42+09:00",
+   "id": "w8",
+   "body": "Anthropic priced its IPO at $83 per share on Wednesday, a person familiar told CNBC, above the expected range, setting the stage for the Claude creator's eagerly awaited Nasdaq listing and a historic moment for the artificial intelligence industry. The company previously said it was offering 825 million shares. If that number holds and all of shares are sold at the IPO price, Anthropic would raise roughly $68.5 billion. Elon Musk's SpaceX went public in June in the largest IPO on record, raising $75 billion initially and a total of $85.7 billion after underwriters exercised their overallotment. Anthropic's market cap will depend on total shares outstanding, but the share price would put the valuation above the $1.4 trillion that Anthropic was previously targeting."
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "China using Trump-Xi 'stability' to build strategic edge, US panel warns",
+   "summary": "",
+   "url": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/china-using-trump-xi-stability-to-build-strategic-edge-us-panel-warns",
+   "published": null,
+   "id": "w9",
+   "body": "WASHINGTON -- The \"unusually active\" level of engagement between U.S. President Donald Trump and Chinese counterpart Xi Jinping is masking Beijing's ongoing efforts to outcompete America economically, technologically and militarily, a report to Congress warned on Wednesday."
+  },
+  {
+   "region": "글로벌",
+   "source": "Financial Times",
+   "title": "US tech outages blamed on rush to fix bugs found by AI",
+   "summary": "Experts say race to patch software flaws probably created instability in computer systems at Microsoft, JPMorgan and others",
+   "url": "https://www.ft.com/content/96c565f1-f229-40b6-91e8-7a849ec4b208?syn-25a6b1a6=1",
+   "published": "2026-11-19T06:49+09:00",
+   "id": "w10"
+  },
+  {
+   "region": "미국",
+   "source": "MarketWatch",
+   "title": "Is Social Security a Ponzi scheme? No, but fear is fueling such talk.",
+   "summary": "Wisconsin Republican Sen. Ron Johnson called Social Security a “scam” and urged lawmakers to shut it down.",
+   "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+   "published": "2026-11-19T07:00+09:00",
+   "id": "w11"
+  },
+  {
+   "region": "유럽",
+   "source": "BBC",
+   "title": "Heating bills, chocolate and cat food: What the inflation figures mean for you",
+   "summary": "Prices are rising at their fastest pace for a year in the UK, and higher energy costs are on the way.",
+   "url": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-18T22:10+09:00",
+   "id": "w12",
+   "body": "Nobody will be celebrating the fact that prices in the UK are rising at the fastest pace for a year. Add to that an expectation of higher household energy bills and sharpening price increases and things look grim for everyone. But there are some signs of hope that may take the edge off the rising cost of living. Here's how. That headline is not missing a decimal point. The latest prediction for the increase in domestic energy prices in the new year is, indeed, 26%. Millions of homes in England, Scotland and Wales are on tariffs affected by regulator Ofgem's price cap, which is set every three months. The next change for January will be officially announced next Wednesday, 25 November."
+  },
+  {
+   "region": "유럽",
+   "source": "The Guardian",
+   "title": "Energy bills in Great Britain forecast to rise by 26% to £2,166 from January",
+   "summary": "Government under pressure to help households as increase would add £443 to average annual dual-fuel bill Energy price cap rise: how to switch providers Tell us: are you shopping around for a better deal? UK inflation rises to 3.6% Energy bills across Great Britain are predicted…",
+   "url": "https://www.theguardian.com/money/2026/nov/18/energy-bills-great-britain-forecast-rise",
+   "published": "2026-11-18T17:24+09:00",
+   "id": "w13",
+   "body": "Energy bills across Great Britain are predicted to reach £2,166 a year for the typical household from January as the impact of the Middle East conflict piles pressure on the government to offer more support to hard-hit households. The government’s cap on gas and electricity prices is likely to rise by 26% early next year, equivalent to adding £443 to the average annual dual-fuel bill, in one of the biggest quarterly price rises on record, according to the leading forecaster Cornwall Insight. The dire prediction for millions of hard-pressed households marks the final forecast before the industry regulator for Great Britain, Ofgem , sets electricity and gas rates for the coldest months of the year from January through to March via a new energy price cap next Wednesday."
+  },
+  {
+   "region": "유럽",
+   "source": "ECB",
+   "title": "Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook",
+   "summary": "",
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html",
+   "published": "2026-11-18T18:00+09:00",
+   "id": "w14",
+   "body": "The outlook for euro area financial stability is being shaped by risks stemming from artificial intelligence (AI) valuations, fiscal imbalances and geoeconomic tensions, according to the November 2026 Financial Stability Review , which is published today by the European Central Bank (ECB). “Risks to euro area financial stability remain elevated, given persistent geoeconomic uncertainty and growing exposure to AI,” said ECB Vice-President Boris Vujčić. “Banks are well placed to withstand shocks, while vulnerabilities are more pronounced in certain non-banks where risks are growing and macroprudential safeguards are less developed.” The euro area economy has continued to demonstrate resilience despite an energy shock, trade frictions and extreme weather events. Prolonged energy supply disruptions and persistent trade policy uncertainty could, however, test this resilience."
+  },
+  {
+   "region": "중국",
+   "source": "SCMP",
+   "title": "From Shenzhen to Silicon Valley: Xi Jinping calls for global association of bay areas",
+   "summary": "President Xi Jinping has called for closer economic links between major coastal innovation centres across the globe – a proposal observers said could create new opportunities and exchanges for China and the United States. Speaking at the opening of the Apec CEO Summit in…",
+   "url": "https://www.scmp.com/economy/china-economy/article/3374942/shenzhen-silicon-valley-xi-jinping-calls-global-association-bay-areas",
+   "published": "2026-11-18T22:32+09:00",
+   "id": "w15"
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
+   "summary": "Continued inflation above the Fed's 2% target is pushing central bank officials into a more aggressive stance.",
+   "url": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
+   "published": "2026-11-19T00:13+09:00",
+   "id": "w16",
+   "body": "Federal Reserve Governor Christopher Waller on Wednesday called for aggressive action against inflation , saying the central bank needs to \"shock people\" as prices continue to rise more than he expected. In the near term, the policymaker told CNBC in a live interview that a half percentage point increase in the Fed's benchmark rate is probably necessary at the Dec. 8-9 meeting of the Federal Open Market Committee. He said the central bank needs to reverse the three quarter-point reductions from last year and may need to do more. \"I'm very, very concerned about inflation. It's kind of headed in the wrong direction, and it's spreading out,\" Waller told CNBC's Steve Liesman during a \" Squawk Box \" interview."
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "Global cacao demand rebounds as prices drop from lofty highs",
+   "summary": "",
+   "url": "https://asia.nikkei.com/business/markets/commodities/global-cacao-demand-rebounds-as-prices-drop-from-lofty-highs",
+   "published": null,
+   "id": "w17",
+   "body": "TOKYO -- Global demand for cacao beans has gradually recovered due to an easing of prices that had skyrocketed in recent years."
+  },
+  {
+   "region": "글로벌",
+   "source": "Financial Times",
+   "title": "Russian accused of spying on Palantir over assistance to Ukraine",
+   "summary": "Prosecutors say suspect entered US from Mexico and stalked employees at Silicon Valley tech group",
+   "url": "https://www.ft.com/content/4972f4c7-fe8d-4fdd-b0fd-0db2360cda2a?syn-25a6b1a6=1",
+   "published": "2026-11-19T06:44+09:00",
+   "id": "w18"
+  },
+  {
+   "region": "미국",
+   "source": "CNBC",
+   "title": "Japan exports in October surge 20.5%, beating estimates on robust chip shipments",
+   "summary": "Semiconductor shipments spiked almost 50% year on year.",
+   "url": "https://www.cnbc.com/2026/11/18/japan-exports-october-imports-chips.html",
+   "published": "2026-11-18T09:35+09:00",
+   "id": "w19",
+   "body": "Japan's exports in October surged 20.5% from a year earlier, snapping a two-month slowdown in shipments, official data released Wednesday showed. Exports growth beat expectations of economists polled by Reuters that had pegged it at 20%, and it was sharply higher compared to a revised 16.5% in September. Shipments of semiconductor equipment that have been propping up Tokyo's exports jumped 49.7% by value. Exports of motor vehicles climbed 19.9% year on year. In terms of destinations, shipments to China rose 13.3%, while they climbed 23.9% to the U.S. Exports have been the main driver of Japan's growth, although a surge in the value of imports of petroleum due to the Iran war has offset some the impact of the exports surge on its economy."
+  },
+  {
+   "region": "미국",
+   "source": "MarketWatch",
+   "title": "Has the stock market’s slump hit bottom yet? Here’s what these contrarian indicators say.",
+   "summary": "Contrarian buy signals typically don’t come until sentiment has dropped further than they have so far",
+   "url": "https://www.marketwatch.com/story/has-the-stock-markets-correction-hit-bottom-yet-heres-what-these-contrarian-indicators-say-f9104879?mod=mw_rss_topstories",
+   "published": "2026-11-19T06:58+09:00",
+   "id": "w20"
+  },
+  {
+   "region": "유럽",
+   "source": "BBC",
+   "title": "The seven Anthropic founders who are about to become multi-billionaires",
+   "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+   "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-18T22:55+09:00",
+   "id": "w21",
+   "body": "In the space of just five years, Anthropic has gone from unknown start-up to tech giant, worth more than a trillion dollars. The company behind the AI platform Claude was formed by seven people who left rival OpenAI in 2021 and, in a matter of hours, will become multi-billionaires - on paper at least. Anthropic is floating the business on the US stock exchange and will sell its shares at between $70 - $78 each. If they go for the highest price, the founders' shareholdings will be worth at least $18.5bn each. So, who are these people, all in their thirties and forties, who are about to become incredibly wealthy? In 2020, Dario Amodei was working for OpenAI, the firm that brought generative artificial intelligence to a mainstream audience, when it launched Chat-GPT. He decided he wanted to do things his own way, and left, taking his sister Daniela, and five colleagues with him."
+  },
+  {
+   "region": "유럽",
+   "source": "The Guardian",
+   "title": "Labour faces double blow over UK fossil fuel projects",
+   "summary": "Large North Sea operator EnQuest says it is quitting oil basin, while SSE threatens to close Yorkshire gas storage site Nils Pratley: with more gas storage at risk. What’s the government plan for secure supplies? The energy secretary has been dealt a double blow after two UK…",
+   "url": "https://www.theguardian.com/business/2026/nov/18/sse-threatens-to-close-yorkshire-gas-storage-site-unless-ministers-intervene",
+   "published": "2026-11-19T01:19+09:00",
+   "id": "w22",
+   "body": "Nils Pratley: with more gas storage at risk. What’s the government plan for secure supplies? The energy secretary has been dealt a double blow after two UK companies signalled plans to pull their investment from large fossil fuel projects amid disagreements over government policies. One of the North Sea’s biggest independent companies, EnQuest, said on Wednesday it was quitting the North Sea oil and gas basin to focus on making better returns in Asia, blaming the “uncertain investment environment within the UK”. Separately, the energy company SSE told investors that next summer it would start the process of closing one of the country’s largest gas storage sites, which is on the North Sea coast, unless the government intervened to offer support amid weak market conditions."
+  },
+  {
+   "region": "중국",
+   "source": "SCMP",
+   "title": "As Apec puts Shenzhen in the spotlight, will foreign restaurants benefit?",
+   "summary": "As Shenzhen welcomes political and business leaders from across the Asia-Pacific region for a major international summit, foreign restaurant owners in the southern Chinese tech hub hope the event will bring more customers and new business opportunities. But they continue to…",
+   "url": "https://www.scmp.com/economy/china-economy/article/3374892/apec-puts-shenzhen-spotlight-will-foreign-restaurants-benefit",
+   "published": "2026-11-18T20:30+09:00",
+   "id": "w23"
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "Trump arrives in China for historic meeting with Xi, Putin",
+   "summary": "President Donald Trump in Shenzhen for historic trilateral talks with Chinese leader Xi Jinping and Russia's Vladimir Putin.",
+   "url": "https://www.cnbc.com/2026/11/18/trump-xi-putin-china-apec.html",
+   "published": "2026-11-18T21:24+09:00",
+   "id": "w24",
+   "body": "President Donald Trump arrived in Shenzhen on Wednesday morning ahead of historic trilateral talks with Chinese leader Xi Jinping and Russia's Vladimir Putin. Xi earlier welcomed President Donald Trump on the tarmac, which he said was a sign of reciprocity after Trump personally greeted him at the airport during a visit to the U.S. in September. Trump is attending a welcome banquet alongside Secretary of State Marco Rubio, Treasury Secretary Scott Bessent and Commerce Secretary Howard Lutnick. Trump is in China for the APEC summit, which President Xi opened with calls for free trade and greater cooperation around artificial intelligence. Highly anticipated talks with Xi and Putin are set for Thursday."
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "Japan's Orix to buy Recruit's Study Sapuri online learning service",
+   "summary": "",
+   "url": "https://asia.nikkei.com/business/business-deals/japan-s-orix-to-buy-recruit-s-study-sapuri-online-learning-service",
+   "published": null,
+   "id": "w25",
+   "body": "TOKYO -- Japanese financial services group Orix said Wednesday it will acquire the online learning business of Recruit Holdings through the group's joint private equity fund with Qatar Investment Authority."
+  },
+  {
+   "region": "글로벌",
+   "source": "Financial Times",
+   "title": "US and Venezuela to expand military co-operation to target drug trafficking",
+   "summary": "In surprise trip to Caracas, Pete Hegseth says the two nations would ‘hunt’, ‘find’ and ‘kill’ ‘narcoterrorists’",
+   "url": "https://www.ft.com/content/5144ce59-b928-46ba-b6b6-d7e77eb79d5b?syn-25a6b1a6=1",
+   "published": "2026-11-19T06:16+09:00",
+   "id": "w26"
+  },
+  {
+   "region": "미국",
+   "source": "MarketWatch",
+   "title": "Copper’s plunge could make the AI data-center buildout more painful",
+   "summary": "The world might not be able to mine enough copper to meet AI’s demand for years to come.",
+   "url": "https://www.marketwatch.com/story/coppers-plunge-could-make-the-ai-data-center-buildout-more-painful-7057f41c?mod=mw_rss_topstories",
+   "published": "2026-11-19T06:55+09:00",
+   "id": "w27"
+  },
+  {
+   "region": "유럽",
+   "source": "The Guardian",
+   "title": "US senators urge White House AI chief to fix vulnerabilities after mass outages",
+   "summary": "As Democrats flag AI bank breaches and cyber-attacks in Japan, Jay Clayton says system failures happen US politics live – latest updates A bipartisan pair of US senators are calling on Jay Clayton, the director of national intelligence and AI czar, to identify and fix…",
+   "url": "https://www.theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure",
+   "published": "2026-11-19T02:25+09:00",
+   "id": "w28",
+   "body": "A bipartisan pair of US senators are calling on Jay Clayton, the director of national intelligence and AI czar, to identify and fix vulnerabilities in the US’s infrastructure following nationwide outages at major companies and government agencies. Maria Cantwell, the top Democrat on the Senate commerce, science, and transportation committee, and Mike Rounds, the Republican chair of the Senate subcommittee on cybersecurity, sent a letter to Clayton on Tuesday, outlining concerns sparked by reports of AI accessing major banks, cyber-attacks in Japan and more. “The fundamental problem is that AI can discover software weaknesses and help attackers exploit them faster than many organizations can respond,” Cantwell and Rounds wrote to Clayton, who is also serving as the White House AI czar."
+  },
+  {
+   "region": "중국",
+   "source": "SCMP",
+   "title": "Hormuz crisis adding to ‘almost uninterrupted disruption’ for world shipping, summit told",
+   "summary": "Marine shipping, which handles 90 per cent of world trade, faces its most disruptive time since at least the 1980s due to continuing geopolitical instability, the chairman of a global merchant shipowners’ association said in Hong Kong. Piracy and Covid-19 containment measures,…",
+   "url": "https://www.scmp.com/economy/global-economy/article/3374851/hormuz-crisis-adding-almost-uninterrupted-disruption-world-shipping-summit-told",
+   "published": "2026-11-18T15:08+09:00",
+   "id": "w29"
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "CEO turned informant: How the FDA built a case against executives promising cheap medications",
+   "summary": "The FDA's unprecedented criminal case against an alternative funding program hinged on the cooperation of a peer CEO, according to a court record.",
+   "url": "https://www.cnbc.com/2026/11/18/fda-canarx-case-informant.html",
+   "published": "2026-11-19T06:07+09:00",
+   "id": "w30",
+   "body": "The federal case against an alleged illegal prescription drug operation and its two top leaders earlier this month features a notable informant: the CEO of a peer company that authorities say was committing the same import violations. John Thomas Howard, treasurer and director of a Canadian healthcare company called CANARX, was arrested in the tunnel connecting Detroit and Canada on Nov. 8 and charged with smuggling, conspiracy and importing a misbranded drug for patient use in the United States. His brother and the president of the company, Bob Howard, is wanted on similar charges and was still being sought as of last week, according to court records. The charges mark the first criminal case by U.S."
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "Japan developer Hulic casts wide M&A net, from cram schools to bananas",
+   "summary": "",
+   "url": "https://asia.nikkei.com/business/companies/japan-developer-hulic-casts-wide-m-a-net-from-cram-schools-to-bananas",
+   "published": null,
+   "id": "w31",
+   "body": "TOKYO -- Japanese property developer Hulic has been rapidly purchasing companies in sectors as diverse as education and food, with hundreds of candidates being considered over the past two years."
+  },
+  {
+   "region": "글로벌",
+   "source": "Financial Times",
+   "title": "UK plans to resist EU request to match tariffs on Chinese goods",
+   "summary": "Move reduces chance Britain will be able to access subsidies and contracts under ‘Made in Europe’ rules",
+   "url": "https://www.ft.com/content/6b278daf-6fdf-4951-af8a-227f25c4e0b7?syn-25a6b1a6=1",
+   "published": "2026-11-19T05:53+09:00",
+   "id": "w32"
+  },
+  {
+   "region": "미국",
+   "source": "MarketWatch",
+   "title": "Palo Alto Networks’ stock soars as earnings show AI has upped the stakes for cybersecurity",
+   "summary": "The company boosts its outlook in the face of the “current threat environment and demand we see ahead of us.”",
+   "url": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
+   "published": "2026-11-19T06:55+09:00",
+   "id": "w33"
+  },
+  {
+   "region": "유럽",
+   "source": "BBC",
+   "title": "How important are Nvidia and Jensen Huang to the US economy?",
+   "summary": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+   "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-18T15:04+09:00",
+   "id": "w34",
+   "body": "Nvidia and its co-founder Jensen Huang have been at the centre of the artificial intelligence (AI) spending boom. No company or chief executive has arguably been more consequential to the development of AI in recent years, with the US microchip manufacturer under Huang positioning itself as a critical cog in the development of the world-changing technology. That partnership has now ended following Huang's resignation over revelations of extramarital affairs, one of which is alleged to have been with a Chinese spy. The company has been rocked by the scandal, with hundreds of billions of dollars wiped off its stock market value and questions swirling about the extent of the impact of Huang's departure."
+  },
+  {
+   "region": "유럽",
+   "source": "The Guardian",
+   "title": "Burnham considering cuts to national insurance to create more youth jobs",
+   "summary": "PM hints he is open to suggestion in Milburn report to lower NICs contributions paid by companies for under-25s Who are the Neets? UK youth job crisis in five charts UK firms: what is stopping you hiring young people? Andy Burnham has said he would consider cuts to national…",
+   "url": "https://www.theguardian.com/society/2026/nov/18/burnham-cuts-national-insurance-youth-jobs-milburn-report",
+   "published": "2026-11-19T03:43+09:00",
+   "id": "w35",
+   "body": "Andy Burnham has said he would consider cuts to national insurance for young people “very carefully”. The prime minister also believes his proposed changes to welfare are a “very different proposition” from those of his predecessor, Keir Starmer, and the former chancellor Rachel Reeves in the last government. On Tuesday, a report suggested national insurance contributions (NICs) paid by firms for under-25s should be gradually lowered, starting with retail and hospitality companies, to help create more jobs. The independent report , by the former Labour health secretary Alan Milburn, also proposed doubling the threshold at which businesses start paying NICs for 21- to 24-year-olds from £5,000 to £10,000. Asked if he believed the last government was wrong to increase NICs, Burnham told LBC: “I think it’s something you’ve got to consider very carefully going forward."
+  },
+  {
+   "region": "중국",
+   "source": "SCMP",
+   "title": "As caution grips consumer spending, China’s jewellery sales tumble",
+   "summary": "Tang Fang used to buy herself one or two pieces of jewellery, such as rings or bracelets, every year. But this year, with her third son starting primary school and fewer orders coming in for her sales business, she has put those purchases on hold. “I really wanted to, because I…",
+   "url": "https://www.scmp.com/economy/china-economy/article/3374688/caution-grips-consumer-spending-chinas-jewellery-sales-tumble",
+   "published": "2026-11-18T12:00+09:00",
+   "id": "w36"
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings",
+   "summary": "Palo Alto Networks has been steadily acquiring companies to capitalize on demand for cyber tools to fight AI.",
+   "url": "https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html",
+   "published": "2026-11-19T07:25+09:00",
+   "id": "w37",
+   "body": "Palo Alto Networks shares jumped more than 7% after the cybersecurity firm beat Wall Street's fiscal first quarter estimates and inked a deal for artificial intelligence startup Applied Compute . Fears of AI-powered cyberattacks, heightened by incidents like the Hugging Face breach, are driving demand for cybersecurity vendors like Palo Alto Networks. Amid this backdrop, shares have jumped 85% this year. \"As AI reshapes the threat landscape, we must continually evolve to protect our customers and enable them to adopt AI securely,\" CEO Nikesh Arora said in a release. Palo Alto said annual recurring revenue for its next-generation security business jumped 66% from a year ago to $9.73 billion. Arora said the NGS ARR was one of the highest beats in the company's history. The cybersecurity company bumped up guidance for fiscal year 2027 as business spend more on security in the age of AI."
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "Japan's NTT looks to data center business as next profit driver",
+   "summary": "",
+   "url": "https://asia.nikkei.com/business/technology/japan-s-ntt-looks-to-data-center-business-as-next-profit-driver",
+   "published": null,
+   "id": "w38",
+   "body": "TOKYO -- Japanese telecom NTT plans to make an asset-light approach to data centers its next engine for profit, sacrificing some stable income in order to reduce debt by selling existing facilities to fund the construction of new ones."
+  },
+  {
+   "region": "글로벌",
+   "source": "Financial Times",
+   "title": "Nvidia accelerates pay rises as interim CEO seeks to lift staff morale",
+   "summary": "Colette Kress addresses ‘all-hands’ meeting as departed founder Jensen Huang manoeuvres for a return",
+   "url": "https://www.ft.com/content/9ee78a67-fcab-4e43-bee7-09c9244e76b8?syn-25a6b1a6=1",
+   "published": "2026-11-19T05:40+09:00",
+   "id": "w39"
+  },
+  {
+   "region": "미국",
+   "source": "MarketWatch",
+   "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+   "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
+   "url": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+   "published": "2026-11-19T06:30+09:00",
+   "id": "w40"
+  },
+  {
+   "region": "유럽",
+   "source": "BBC",
+   "title": "Europe plans to catch the next computer chip wave",
+   "summary": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
+   "url": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-18T09:00+09:00",
+   "id": "w41",
+   "body": "\"Photonic chips are on the verge of a breakthrough,\" says Ton van Mol of the Dutch research institute TNO. If van Mol is right – and TNO, the European Union and the Dutch government are backing the idea with millions of euros - then the technology could be a gamechanger. The chips which run today's society, from your phone and TV, to the vast data centres meeting our insatiable desire for AI, are mostly electrical. They process data by shunting electrons around tiny circuits – a single microchip produced today can contain billions of transistors, and sizes are measured in nanometres (one nanometre is a billionth of a metre). Because they use light instead of electricity, photonic chips are faster, use less energy and generate less heat than traditional computer chips. Van Mol hopes for an acceleration in photonics similar to the one seen in electrical chips since the 1970s."
+  },
+  {
+   "region": "유럽",
+   "source": "The Guardian",
+   "title": "Democrats demand answers from Howard Lutnick about Nvidia and his family’s business",
+   "summary": "Democratic lawmakers ask if commerce secretary favored Nvidia to enrich his adult children and Cantor Fitzgerald The US commerce secretary, Howard Lutnick, faces mounting questions over his handling of the Nvidia affair as Democratic lawmakers demand answers over his family…",
+   "url": "https://www.theguardian.com/us-news/2026/nov/18/howard-lutnick-nvidia-cantor-fitzgerald",
+   "published": "2026-11-19T01:48+09:00",
+   "id": "w42",
+   "body": "The US commerce secretary, Howard Lutnick, faces mounting questions over his handling of the Nvidia affair as Democratic lawmakers demand answers over his family firm’s vast stake in the tech company. Cantor Fitzgerald, the investment firm Lutnick ran for decades before joining the Trump administration , held shares in Nvidia worth “hundreds of millions of dollars” while Lutnick made key decisions affecting the tech firm’s ability to operate, according to Democrats on three key congressional committees. “The American people deserve to know: did the secretary of commerce seriously and perhaps irreversibly compromise US national security interests to make money for his adult children and Cantor Fitzgerald?” said Jamie Raskin of Maryland, Gregory Meeks of New York and Sydney Kamlager-Dove of California."
+  },
+  {
+   "region": "중국",
+   "source": "SCMP",
+   "title": "Xi calls for tariff cuts at tech-focused Apec summit: as it happened",
+   "summary": "This live article is freely available to our registered users. Please log in or create an account. President Xi Jinping and other world leaders spoke at the Asia-Pacific Economic Cooperation (Apec) CEO Summit on Wednesday in Shenzhen. China’s first Apec summit since 2014, this…",
+   "url": "https://www.scmp.com/economy/global-economy/article/3374816/chinas-xi-jinping-addresses-global-ceos-apec-summit-shenzhen",
+   "published": "2026-11-18T10:58+09:00",
+   "id": "w43"
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "Big bets against AI debt, from CoreWeave to Oracle and the Mag 7, could soon hit the ETF market",
+   "summary": "Investor fears about AI balance sheets and debt are running high, especially for neoclouds. ETFs targeting the credit default swaps of AI issuers are coming.",
+   "url": "https://www.cnbc.com/2026/11/18/ai-credit-default-swaps-coreweave-debt.html",
+   "published": "2026-11-19T03:37+09:00",
+   "id": "w44",
+   "body": "Concerns about balance sheets and valuations in the artificial intelligence sector have hit the market hard since October, and investors who have shorted publicly traded tech companies in the AI trade have profited. Most investors don't think as much about \"shorting\" debt, but there will be a way through exchange-traded funds to profit from widening credit default swap spreads of top AI companies. Both Tuttle Capital and Defiance ETFs have filed for funds that target the credit default swaps of companies closely linked to the AI trade, from CoreWeave and Oracle to the Magnificent Seven: Alphabet, Amazon, Meta Platforms, Microsoft Corporation, Nvidia, Tesla, and Apple. Credit default swaps are contracts in which investors pay for protection in case the borrower can't repay its debt. Wider spreads indicate investors view the bonds as riskier."
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "From 'APEC blue' to new Yalta: China's rise highlights Japan's isolation",
+   "summary": "",
+   "url": "https://asia.nikkei.com/spotlight/comment/from-apec-blue-to-new-yalta-china-s-rise-highlights-japan-s-isolation",
+   "published": null,
+   "id": "w45",
+   "body": "SHENZHEN, China -- Gatherings of world leaders are often essentially ceremonial affairs, with nothing actually being decided. Yet they reflect the state of the world in detail."
+  },
+  {
+   "region": "글로벌",
+   "source": "Financial Times",
+   "title": "‘Situational Awareness 2.0’: Leopold Aschenbrenner plots comeback",
+   "summary": "The 25-year-old AI trader has held talks about employing leverage again and raising funds after wipeout nearly toppled firm",
+   "url": "https://www.ft.com/content/1fcbc6ea-1be3-44d2-b564-8ebf91181639?syn-25a6b1a6=1",
+   "published": "2026-11-19T05:15+09:00",
+   "id": "w46"
+  },
+  {
+   "region": "미국",
+   "source": "MarketWatch",
+   "title": "What’s next for the AI trade after Nvidia’s blowout results are met with a shrug",
+   "summary": "Nvidia delivered a strong performance, but questions remain amid growing scrutiny of the company and macroeconomic factors",
+   "url": "https://www.marketwatch.com/story/whats-next-for-the-ai-trade-after-nvidias-blowout-results-are-met-with-a-shrug-853c7abe?mod=mw_rss_topstories",
+   "published": "2026-11-19T06:19+09:00",
+   "id": "w47"
+  },
+  {
+   "region": "유럽",
+   "source": "BBC",
+   "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new Bond",
+   "summary": "The Amazon chairman says he was originally \"biased against\" Pattinson \"because he's already so famous\".",
+   "url": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-18T13:00+09:00",
+   "id": "w48",
+   "body": "Jeff Bezos has said he was \"heavily involved\" in casting Robert Pattinson as the new James Bond. Speaking at an event in California, the Amazon chairman said he was originally \"biased against\" Pattinson - who starred in many blockbuster films like Batman and the Twilight series - \"because he's already so famous\". The role of 007 has typically gone to an actor who is not as well known at the time of casting. But Bezos said in screen tests, \"it was so obvious he is James Bond\". This will be the first 007 film in the official series not under the creative control of the Broccoli family, who had overseen the franchise since the first movie in 1962. Amazon purchased MGM, which co-owns the franchise, in 2022. \"There was something special about Rob\", Bezos said at Semafor Silicon Valley & The World Event on Tuesday."
+  },
+  {
+   "region": "유럽",
+   "source": "The Guardian",
+   "title": "Ministers to drop foie gras imports ban to help seal EU food trade deal",
+   "summary": "Animal welfare charities criticise ‘backwards step’ on foie gras, production of which has been banned in UK since 2007 Ministers will drop plans to ban foie gras imports into the UK in order to smooth a trade deal with the EU that will be announced this week. As first reported…",
+   "url": "https://www.theguardian.com/politics/2026/nov/18/labour-drops-foie-gras-import-ban-eu-food-trade-deal",
+   "published": "2026-11-18T22:47+09:00",
+   "id": "w49",
+   "body": "Ministers will drop plans to ban foie gras imports into the UK in order to smooth a trade deal with the EU that will be announced this week. As first reported by the Financial Times, the proposed ban will be officially dropped on Friday when the government announces its sanitary and phytosanitary (SPS) trade deal with the EU to reduce checks and paperwork on imports and exports of food and drink with the bloc. Labour promised before coming to power that it would ban foie gras imports. Before the election, Steve Reed, the then shadow environment secretary, said Labour would “ban the commercial import of foie gras, where ducks and geese are aggressively force-fed”. He labelled the practice “beyond disgusting”."
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "Ford starts U.S. battery cell production using Chinese tech amid geopolitical tensions",
+   "summary": "Ford has started U.S. production and shipments of battery cells for its next-generation EVs using technologies licensed by Chinese battery giant CATL.",
+   "url": "https://www.cnbc.com/2026/11/18/ford-us-battery-cells-catl-tech.html",
+   "published": "2026-11-19T02:02+09:00",
+   "id": "w50",
+   "body": "MARSHALL, Mich. — Ford Motor has started producing battery cells in the U.S. for its next generation of electric vehicles using technologies licensed by Chinese battery giant CATL. The automaker said Wednesday that cell production at a $3 billion plant in Marshall, Michigan — roughly 100 miles west of Detroit — started last month and the cells are now shipping out. They'll be used in prototypes for its Fathom small electric pickup truck , which CEO Jim Farley has touted as rivaling Tesla and Chinese competitors. The production marks a milestone for the Detroit automaker and is the next step toward using lower-cost lithium iron phosphate, or LFP, battery cells in U.S. vehicles. The technology was created in the U.S. but commercialized largely in China."
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "Analysis: The making of new social media darling Alice Huang",
+   "summary": "",
+   "url": "https://asia.nikkei.com/editor-s-picks/china-up-close/analysis-the-making-of-new-social-media-darling-alice-huang",
+   "published": null,
+   "id": "w51",
+   "body": "Katsuji Nakazawa is a Tokyo-based senior staff and editorial writer at Nikkei. He spent seven years in China as a correspondent and later as China bureau chief and was the 2014 recipient of the Vaughn-Ueda International Journalist prize."
+  },
+  {
+   "region": "미국",
+   "source": "MarketWatch",
+   "title": "Google turns to a volcano and rock-melting technology in a wild new bid to power AI",
+   "summary": "Google’s agreement with Quaise is “a bet on a first-of-a-kind technology,” according to a Bernstein analyst.",
+   "url": "https://www.marketwatch.com/story/google-turns-to-a-volcano-and-rock-melting-technology-in-a-wild-new-bid-to-power-ai-fbbe57ef?mod=mw_rss_topstories",
+   "published": "2026-11-19T06:01+09:00",
+   "id": "w52"
+  },
+  {
+   "region": "유럽",
+   "source": "BBC",
+   "title": "Government backs welfare shake-up to prevent 'lost generation'",
+   "summary": "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support.",
+   "url": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-18T03:43+09:00",
+   "id": "w53",
+   "body": "The government has backed plans by former minister Alan Milburn for sweeping reforms to prevent \"losing a generation\" of young people to a life on benefits. Milburn proposes spending billions on tailored support for under 25s not in employment, education or training (Neets), to be part-funded by cuts to some benefits. He claims his plan, which also proposes tax breaks for firms and major education reforms, will get 440,000 young people into jobs by 2036. Prime Minister Andy Burnham said he endorsed the \"principles\" of the Milburn review and was confident he could persuade Labour MPs to back legislation to implement its measures. The PM told Sky News he would set out a full response to the review next month, after he had received a separate report into Personal Independence Payments (Pips) by Social Security Minister Sir Stephen Timms."
+  },
+  {
+   "region": "유럽",
+   "source": "The Guardian",
+   "title": "Republicans could expedite bill to make big oil immune to lawsuits, warn experts",
+   "summary": "GOP lawmakers are rushing through high-priority bills before newly elected Democrats are sworn in Climate groups fear lawmakers could pass a bill by the end of the year that would give fossil fuel companies immunity from lawsuits and legislation that aim to hold them accountable…",
+   "url": "https://www.theguardian.com/us-news/2026/nov/18/big-oil-immunity-bill-climate",
+   "published": "2026-11-18T22:00+09:00",
+   "id": "w54",
+   "body": "Climate groups fear lawmakers could pass a bill by the end of the year that would give fossil fuel companies immunity from lawsuits and legislation that aim to hold them accountable for the climate crisis. After the blue wave election, Republican lawmakers are rushing to pass high-priority bills before newly elected Democrats are sworn in. Hundreds of elected leaders and climate groups sent a letter to congressional Democratic leadership urging them to reject any proposal that would shield fossil fuel companies from liability for the climate crisis. Iyla Shornstein, political director for the Center for Climate Integrity, said the election results showed voters don’t want this type of legislation. “Voters at the polls sent a clear message about how costs are impacting their everyday lives."
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "Two new housing reports point to bleak winter ahead, with record low sales",
+   "summary": "Two new reports on the state of the housing market show things are just getting worse, as high mortgage rates and inflation plague builders and buyers.",
+   "url": "https://www.cnbc.com/2026/11/18/two-new-housing-reports-point-to-bleak-winter-ahead.html",
+   "published": "2026-11-19T00:09+09:00",
+   "id": "w55",
+   "body": "Two new reports on the housing market show activity slowing even more, after a September spike in mortgage rates sent it into a deep freeze. Pending home sales in October dropped 4.7% month-over-month and were down 16.7% from October of last year, according to the National Association of Realtors. This is the lowest level in the index's 25-year history. Analysts had been looking for a much smaller decline, likely because mortgage rates pulled back slightly in October, only to rise sharply again last week. The average rate on the 30-year fixed started October at 7.54% according to Mortgage News Daily and ended the month at 7.27%. The pending count is based on signed contracts — people out shopping and signing deals during the month. It is therefore an indicator of future closed sales."
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "APEC live: Banquet brings Trump and Putin, Xi and Takaichi together",
+   "summary": "",
+   "url": "https://asia.nikkei.com/politics/international-relations/apec/apec-live-banquet-brings-trump-and-putin-xi-and-takaichi-together",
+   "published": null,
+   "id": "w56",
+   "body": "SHENZHEN -- Chinese President Xi Jinping is hosting leaders including U.S. counterpart Donald Trump and Russia's Vladimir Putin at this year's Asia-Pacific Economic Cooperation forum, showcasing his own country's technological prowess against a backdrop of cold and hot conflicts. The proceedings in the southern tech hub of Shenzhen kicked off with a CEO Summit of business leaders on Tuesday, to be followed by an Economic Leaders' Meeting beginning Wednesday. On the sidelines, Xi and Trump are expected to have their third summit of the year as they seek to manage a fraught superpower rivalry. As the Ukraine war drags on and tensions with Iran simmer, all eyes are on a trilateral summit among Xi, Trump and Putin that the White House has said will happen on Thursday. This prospect has drawn comparisons to the Yalta conference among the U.S., U.K."
+  },
+  {
+   "region": "글로벌",
+   "source": "Financial Times",
+   "title": "Hybrid theory prevailed at the FT Alphaville Pub Quiz in New York City",
+   "summary": "Meanwhile, Jane Street takes a tumble. How would you have fared?",
+   "url": "https://www.ft.com/content/877e946c-606c-4f8c-baa1-ea07b0f67e4c",
+   "published": "2026-11-19T03:43+09:00",
+   "id": "w57"
+  },
+  {
+   "region": "미국",
+   "source": "MarketWatch",
+   "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
+   "summary": "Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves.",
+   "url": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+   "published": "2026-11-19T06:00+09:00",
+   "id": "w58"
+  },
+  {
+   "region": "유럽",
+   "source": "BBC",
+   "title": "Speed camera fault may have allowed drivers to escape fines",
+   "summary": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
+   "url": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-18T05:04+09:00",
+   "id": "w59",
+   "body": "Further problems with the accuracy of speed cameras on English roads have been uncovered which may have allowed drivers to slip through the cracks and escape fines. National Highways discovered issues with speed cameras last year , affecting 154 out of 400 cameras but, following an investigation, said it had found another fault on units monitoring roads including those running between Huntingdon and Cambridge. The Home Office has revoked approval that allows footage from the cameras to be used as evidence in legal proceedings. US firm Verra Mobility operates the cameras but National Highways said it will now end the contract. \"If we're going to prosecute people, we need to be confident the system is working as it should."
+  },
+  {
+   "region": "유럽",
+   "source": "The Guardian",
+   "title": "LeBron James sues sports betting app Bron for using nickname and likeness without permission",
+   "summary": "NBA star’s lawsuit alleges ‘previously unknown app’ acted illegally ‘to gain notoriety’ by seeming affiliated with James LeBron James sued the sports betting research app Bron on Tuesday, accusing it of trademark infringement for using his nickname ⁠and an artificial…",
+   "url": "https://www.theguardian.com/us-news/2026/nov/18/lebron-james-bron-betting-app-lawsuit",
+   "published": "2026-11-18T23:03+09:00",
+   "id": "w60",
+   "body": "LeBron James sued the sports betting research app Bron on Tuesday, accusing it of trademark infringement for using his nickname ⁠and an artificial intelligence-generated ⁠likeness of him in ​a recent ad campaign without permission. In a complaint filed in New York City federal court, the Philadelphia 76ers star, whose nickname is Bron, said he carefully protects his image and chooses who to endorse, reflecting his ⁠status as “one of the most recognizable identities in the world”, and commands tens of millions of dollars for endorsing products or ventures. The complaint asks the court to block the makers from using James’s name, to give up any money they have already made and to award damages – including fair market value for the use of his name as well as punitive damages."
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "Emergency alerts and $75,000 rewards: South Korea fights high-tech exam cheating",
+   "summary": "South Korea moves to crack down on exam cheating with emergency alerts and $75,000 rewards.",
+   "url": "https://www.cnbc.com/2026/11/18/south-korea-exam-cheating-.html",
+   "published": "2026-11-18T16:00+09:00",
+   "id": "w61",
+   "body": "South Korea plans to send emergency alerts to expose concealed phones, while offering rewards of at least $75,000 for reporting cheaters, as it gears for a key college entrance exam. The measures, announced by President Lee Jae Myung in a post on X, come ahead of the country's annual college entrance exam, known as the Suneung, on Thursday which is expected to draw about 550,000 students, according to local media reports. Emergency alerts are to be sent to mobile phones of all South Korean residents before the exam begins, aimed at identifying mobile phones that students fail to surrender, Prime Minister Han Seong-sook said Tuesday."
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "US midterms: Democrats seal 56-44 Senate majority with Alaska win",
+   "summary": "",
+   "url": "https://asia.nikkei.com/politics/u.s.-midterm-elections/us-midterms-democrats-seal-56-44-senate-majority-with-alaska-win",
+   "published": null,
+   "id": "w62",
+   "body": "WASHINGTON/NEW YORK -- The opposition Democratic Party will hold a 56-44 majority in the U.S. Senate after winning the final unresolved race in Alaska, completing a sweeping midterm victory that also gave the party control of the House of Representatives. Democrat Mary Peltola defeated two-term Republican Sen. Dan Sullivan in Alaska, according to The Associated Press, capping a nine-seat Democratic pickup that stretched into traditionally conservative states including Texas, Kansas, Mississippi and South Carolina. The result completes an election in which Democrats capitalized on widespread voter discontent over Republican President Donald Trump's policies on inflation, tariffs, AI data centers and the Iran war. In the weeks leading up to the Nov."
+  },
+  {
+   "region": "글로벌",
+   "source": "Financial Times",
+   "title": "BAE set to cut more than 1,000 jobs",
+   "summary": "UK’s largest defence contractor responds to government demand for ‘greater speed and efficiency’",
+   "url": "https://www.ft.com/content/21e2a744-8e9d-4470-9978-f7d88c10c0fb?syn-25a6b1a6=1",
+   "published": "2026-11-19T03:43+09:00",
+   "id": "w63"
+  },
+  {
+   "region": "미국",
+   "source": "MarketWatch",
+   "title": "Fed minutes show growing unease about the outlook for inflation",
+   "summary": "The minutes of the Federal Reserve’s October policy meeting showed growing unease among officials about the outlook for inflation, even as they decided to hold interest rates steady.",
+   "url": "https://www.marketwatch.com/story/fed-minutes-show-growing-unease-about-the-outlook-for-inflation-59e3c13d?mod=mw_rss_topstories",
+   "published": "2026-11-19T05:51+09:00",
+   "id": "w64"
+  },
+  {
+   "region": "유럽",
+   "source": "BBC",
+   "title": "Security flaw found in Java, world's third-largest programming language",
+   "summary": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
+   "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-18T17:47+09:00",
+   "id": "w65",
+   "body": "A cyber-security firm has used artificial intelligence (AI) to uncover a critical flaw in the hugely popular computer programming language Java. Tech start-up Calif - which recently identified a cyber-security flaw in another language, PHP - found the bug in Java's memory functions. Java is a popular programming language used by nearly all of the world's top companies such as Apple and Amazon, as well as many banks, hospitals and governments. It is meant to make the IT world more secure by managing your memory online, said computer scientist Professor Toby Walsh, which is why \"this is such an unlikely and serious flaw\". The discovery comes after a string of serious technology issues, including a massive Microsoft outage . On Tuesday, the US National Security Agency said its internal communications went offline on Tuesday due to a \"scheduled routine maintenance\"."
+  },
+  {
+   "region": "유럽",
+   "source": "The Guardian",
+   "title": "More gas storage is at risk. What’s the government plan for secure supplies?",
+   "summary": "SSE’s threat to close a big storage facility in Yorkshire highlights successive governments’ failures to build a strategy and safeguard supplies Labour faces double blow over UK fossil fuel projects For those who followed the many months of government dithering over whether to…",
+   "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/18/more-gas-storage-is-at-risk-whats-the-government-plan-for-secure-supplies",
+   "published": "2026-11-19T03:17+09:00",
+   "id": "w66",
+   "body": "F or those who followed the many months of government dithering over whether to approve production at the Jackdaw gasfield off the coast of Aberdeen, Scotland, there was a treat on social media this week. It was the sight of Michael Shanks, energy minister, almost dancing a jig of delight as the first output from Jackdaw flowed into the national gas network. “It will increase domestic production and further boost our energy security during the transition to electrification and decarbonisation,” he declared . To which the only possible response is: if the security benefit of using domestic gas during transition is so clear (and it is, as argued here from time to time ) why did it take a year of ministerial agonising before the inevitable thumbs up arrived? Still, you might think, at least the government now has a joined-up approach to gas."
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "Zelenskyy says Starshield speed curbs still in place over parts of Ukraine",
+   "summary": "Ukraine's charge d'affaires to the U.S., Denys Sienik, said that Starshield had been speed-limited for seven days already in Ukraine.",
+   "url": "https://www.cnbc.com/2026/11/18/ukraine-starshield-starlink-musk-spacex.html",
+   "published": "2026-11-18T20:58+09:00",
+   "id": "w67",
+   "body": "SpaceX's military-grade satellite internet service is still operating under speed limits in parts of Ukraine, compromising the country's ability to defend itself against Russia, Ukrainian President Volodymyr Zelenskyy said in an X post on Tuesday. \"The speed limit on Starshield in the temporarily occupied territories remains in place. We are discussing this with the American side,\" Zelenskyy wrote. He last week said Kyiv was investigating fresh restrictions on Starshield — developed by SpaceX for government use — over Ukraine, especially the front line and temporarily occupied territories."
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "Japan automakers to standardize parts, materials for efficiency",
+   "summary": "",
+   "url": "https://asia.nikkei.com/business/automobiles/japan-automakers-to-standardize-parts-materials-for-efficiency",
+   "published": null,
+   "id": "w68",
+   "body": "TOKYO -- The Japan Automobile Manufacturers Association (JAMA) is moving to create industrywide standards for components and materials, aiming to enable more efficient procurement to counter other carmakers including rapidly growing Chinese rivals."
+  },
+  {
+   "region": "글로벌",
+   "source": "Financial Times",
+   "title": "Russian oligarch offers ex-wife 1% of her £2.2bn divorce demand",
+   "summary": "Vladimir Potanin accused of hiding some of his fortune as Britain’s biggest divorce trial opens in London",
+   "url": "https://www.ft.com/content/88e0019a-b49b-4c20-bef2-3f504b94e313?syn-25a6b1a6=1",
+   "published": "2026-11-19T03:40+09:00",
+   "id": "w69"
+  },
+  {
+   "region": "유럽",
+   "source": "BBC",
+   "title": "Waymo pulls driverless taxis from all US freeways",
+   "summary": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
+   "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-18T12:07+09:00",
+   "id": "w70",
+   "body": "Waymo has temporarily suspended its driverless vehicles from operating on all US freeways, the company has said. The decision comes after California banned Waymo's driverless taxis from state freeways following a series of recent traffic incidents. California's Department of Motor Vehicles (DMV) cited an \"imminent hazard to public safety\" for the ban, noting an incident this month in which several driverless Waymo vehicles entered an active construction zone on US Route 101. Waymo said it was working with state officials \"diligently and responsibly to resume freeway operations\", adding that no injuries or collisions were reported following the incident on US Route 101 south of San Francisco."
+  },
+  {
+   "region": "유럽",
+   "source": "The Guardian",
+   "title": "Energy price cap rise: how to switch providers",
+   "summary": "It is possible to switch to a better tariff and save money despite the forecast rise next year Average energy bill in Great Britain predicted to rise to £2,166 The energy price cap in Great Britain looks likely to go up by 26% in January . But your bills might not have to rise…",
+   "url": "https://www.theguardian.com/money/2026/nov/18/energy-price-cap-rise-how-to-beat-the-january-hike",
+   "published": "2026-11-18T21:52+09:00",
+   "id": "w71",
+   "body": "The energy price cap in Great Britain looks likely to go up by 26% in January . But your bills might not have to rise by the same amount. If you are paying a tariff that matches the price cap you could save by switching to something lower. And if you do it now, you could make a substantial saving. Providers are offering fixed tariffs that work out up to £407 below the estimated price cap, according to price comparison website uSwitch. It’s worth noting that it’s the price of the energy you use that is fixed, not your bill – so you will still be charged according to what you use. The easiest way is to use a price comparison website such as Uswitch , GoCompare and The Energy Shop . They typically obtain a lot of information from suppliers so you need to provide very little to get a quote (you might be alarmed by how much data is on there)."
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "Nvidia’s Kress faces a divided workforce as some employees push for Huang’s return",
+   "summary": "Nvidia's interim CEO Colette Kress calmed investors. Now she has to calm employees.",
+   "url": "https://www.cnbc.com/2026/11/18/nvidia-kress-jensen-huang-return.html",
+   "published": "2026-11-19T03:11+09:00",
+   "id": "w72",
+   "body": "The day before Colette Kress led her first earnings call as Nvidia's interim CEO, she did not want to talk about her predecessor, Jensen Huang . \"This is a new era for Nvidia,\" she told employees in an internal meeting on Monday, according to a person present, who spoke on the condition of anonymity. When someone brought up Huang, Kress quickly changed the subject, according to the person. On Wednesday, Kress addressed the whole company at the first Nvidia all-hands meeting since the public chaos over Huang's affair with an alleged Chinese spy and other reported relationships. And while Kress will be tasked with filling the leadership vacuum created by Huang's departure, she is also tamping down public calls to bring him back. Huang himself weighed in with his first public statement Tuesday saying he would be \"honored\" to return to Nvidia."
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "Japan outlines foreign agent registry for lobbyists",
+   "summary": "",
+   "url": "https://asia.nikkei.com/politics/japan-outlines-foreign-agent-registry-for-lobbyists",
+   "published": null,
+   "id": "w73",
+   "body": "TOKYO -- The Japanese government outlined Wednesday a legislative framework that will require people who lobby on behalf of other countries to register as foreign agents."
+  },
+  {
+   "region": "글로벌",
+   "source": "Financial Times",
+   "title": "Putin’s delusions of a ‘new Yalta’",
+   "summary": "Russia’s leader cannot be rewarded for aggression with another carve-up of Europe",
+   "url": "https://www.ft.com/content/e4198781-9e89-4195-b20e-c21b1dd6aaf1?syn-25a6b1a6=1",
+   "published": "2026-11-19T02:50+09:00",
+   "id": "w74"
+  },
+  {
+   "region": "유럽",
+   "source": "BBC",
+   "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+   "summary": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
+   "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-18T08:02+09:00",
+   "id": "w75",
+   "body": "Jensen Huang is out but his shadow looms over the upcoming meeting between US President Donald Trump and his Chinese counterpart Xi Jinping this week. For Beijing, the former Nvidia CEO's dramatic fall is a major challenge - and not just because of claims that a Chinese spy may have honey-trapped Huang, one of the artificial intelligence industry's most influential figures. Rather, the allegations surrounding Huang and his affair with Chinese businesswoman Alice Huang are turning into a new flashpoint in an already fragile US-China relationship. US intelligence reports claim she had ties to Beijing's intelligence apparatus - in particular the Ministry of State Security, China's main civilian spy agency."
+  },
+  {
+   "region": "유럽",
+   "source": "The Guardian",
+   "title": "The reboot of poor Jensen Huang almost worked. But who can explain away 30 leather jackets? | Emma Brockes",
+   "summary": "He seemed like the thinking person’s tech titan. But then came the affairs, the share collapse – and of course, the sorry items in his wardrobe A few years ago, I attended a small dinner at a friend’s house in the US at which a tech billionaire was the guest of honour. He wasn’t…",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/18/jensen-huang-leather-jacket-tech-titan-share-collapse",
+   "published": "2026-11-19T00:28+09:00",
+   "id": "w76",
+   "body": "A few years ago, I attended a small dinner at a friend’s house in the US at which a tech billionaire was the guest of honour. He wasn’t one of the most famous tech billionaires – I’d never heard of him, although I used his communications platform every day. Nonetheless, it was exciting to get up close to someone that staggeringly rich to see if he was different from the rest of us. And he was different, sort of. Leaning back in his chair, he seemed to suggest, in a bored kind of way, that in the event of a US standoff with Russia, Putin nuking London would be the sort of collateral damage Washington could tolerate. A bit of an odd thing to say to a stranger. He didn’t observe the usual rules of conversation but rather, like a Roman emperor waiting to be entertained, remained belligerently aloof."
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren't linked",
+   "summary": "Recent disruptions include a nationwide ground stop, Microsoft Outlook outage and a reported blackout of the National Security Agency's communications network.",
+   "url": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
+   "published": "2026-11-19T04:17+09:00",
+   "id": "w77",
+   "body": "Vice President JD Vance on Wednesday abruptly canceled his scheduled appearance at The New York Times DealBook Summit to instead attend meetings on a recent wave of high-profile technology outages . The cancellation was announced shortly after a senior Trump administration official insisted that the outages, which have affected a wide range of industries and have been felt across the country and around the world, are not the result of a cyberattack or any form of coordinated action. \"We have a great deal of confidence in our assessment that these incidents are the result of upgrades of the systems, systems being patched, hardware being applied\" or other \"disparate\" events, the official said on condition of anonymity to discuss the government's intelligence assessments."
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "Toyota, Suzuki rely on weak yen to keep profits growing",
+   "summary": "",
+   "url": "https://asia.nikkei.com/business/automobiles/toyota-suzuki-rely-on-weak-yen-to-keep-profits-growing",
+   "published": null,
+   "id": "w78",
+   "body": "TOKYO -- Overall operating profits at seven major Japanese automakers for the six months through September would have declined on the year without a boost from the yen's depreciation that accounted for about a third of the total."
+  },
+  {
+   "region": "글로벌",
+   "source": "Financial Times",
+   "title": "Israeli attorney-general freezes key West Bank settlement project",
+   "summary": "E1 scheme, seen as barrier to viable Palestinian state, is halted until new government sworn in",
+   "url": "https://www.ft.com/content/22b7656c-5cce-4711-b3d9-e1939a68bb56?syn-25a6b1a6=1",
+   "published": "2026-11-19T02:28+09:00",
+   "id": "w79"
+  },
+  {
+   "region": "유럽",
+   "source": "BBC",
+   "title": "How high is UK inflation and how will you be affected?",
+   "summary": "Prices rose 3.6% in the year to October, mainly because of higher petrol and diesel prices, official figures show.",
+   "url": "https://www.bbc.co.uk/news/videos/cxp80q5pv4q5o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-19T04:37+09:00",
+   "id": "w80",
+   "body": ""
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
+   "summary": "Shoppers are spending more at Costco as tech outages turn into a race to get emergency goods.",
+   "url": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html",
+   "published": "2026-11-19T01:33+09:00",
+   "id": "w81",
+   "body": "In the final week of October, Mizuho estimates, Costco's U.S. comparable sales, excluding gasoline, rose 11% to 12%, up from the normal 6% to 7% the first three weeks in October. Costco reported an 8.1% increase for the month. The firm said the stronger pace is continuing through November, as 21 of the 26 high-ticket generators it tracked on Costco's website sold out as of Sunday night. Shares of Costco were roughly flat-to-lower in Wednesday morning trading at around $1,107 apiece. \"Consumer anxiety following the Microsoft Outlook outage, the ground stoppage for all U.S. airline flights, and apocalyptic concerns flaring up across social media have all contributed to increased emergency prep sales at COST,\" Mizuho analyst David Bellinger said in a research note Monday. Bellinger will appear on CNBC's \"The Exchange\" during the 1 p.m. hour."
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "'All Chinese players' will rely on domestic chips eventually: Tencent",
+   "summary": "",
+   "url": "https://asia.nikkei.com/business/china-tech/all-chinese-players-will-rely-on-domestic-chips-eventually-tencent",
+   "published": null,
+   "id": "w82",
+   "body": "HONG KONG -- Tencent Holdings President Martin Lau said the latest U.S. curb on China's access to advanced AI chips will only accelerate the development of Chinese chipmakers, adding that all Chinese tech companies ultimately will rely on domestic chips and supply chains."
+  },
+  {
+   "region": "글로벌",
+   "source": "Financial Times",
+   "title": "The economics of the Milburn report",
+   "summary": "Labour is gambling that the state will succeed where money failed",
+   "url": "https://www.ft.com/content/42fff936-c901-4d5e-974d-21ba400e7ab9?syn-25a6b1a6=1",
+   "published": "2026-11-19T02:14+09:00",
+   "id": "w83"
+  },
+  {
+   "region": "유럽",
+   "source": "BBC",
+   "title": "Cathedral's staff review 'difficult but necessary'",
+   "summary": "Gloucester Cathedral has been going through a restructure due to \"significant financial pressure\".",
+   "url": "https://www.bbc.co.uk/news/articles/c6kgr03jlv4ro?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-19T00:14+09:00",
+   "id": "w84",
+   "body": "There will be no compulsory redundancies at a cathedral despite a restructure of staff, leaders have said. Gloucester Cathedral, which costs about £10,500 a day to open, has been undergoing an organisational restructure due to rising costs as some staff have opted for voluntary redundancies. It comes after cathedral bosses across the West of England said they had also been feeling the pinch, forcing them to find creative ways to raise money. Dean of Gloucester Reverend Andrew Zihni said the decision to reshape the cathedral's money was \"difficult but necessary\" to ensure its future. Cathedral chiefs said the restructure involved a review of staff roles and responsibilities, as well as how the organisation is run. A small number of staff had been made voluntarily redundant as a result of the changes."
+  },
+  {
+   "region": "유럽",
+   "source": "The Guardian",
+   "title": "Will the Milburn review come good or go south? Either way, we’ll always have Eurovision",
+   "summary": "The announcement of state plans to engage with young people told us nothing we hadn’t already heard, but it still felt momentous It’s one of the country’s worst kept secrets. There can’t be anyone left who hasn’t heard of Alan Milburn’s Neets review, let alone read most of it…",
+   "url": "https://www.theguardian.com/society/2026/nov/17/will-the-milburn-review-come-good-or-go-south-either-way-well-always-have-eurovision",
+   "published": "2026-11-18T03:28+09:00",
+   "id": "w85",
+   "body": "I t’s one of the country’s worst kept secrets. There can’t be anyone left who hasn’t heard of Alan Milburn’s Neets review, let alone read most of it too. It feels as if it’s become part of the fabric of our society for the past six months. There will be a Neets-shaped hole in our lives when it’s over. Not a day has gone by without some part of it being leaked to the media. Seldom has a pitch been so icomprehensively rolled. Milburn has been out and about giving interviews to everyone – regardless of whether they wanted one or not. I rather suspect the reason Royal Mail lied about calling to collect my parcel return yesterday was because the driver found himself cornered by Milburn for a couple of hours and was unable to complete his round. Either that, or Royal Mail has a fleet of vans crisscrossing the country whose sole purpose is to make sure they never deliver anything. Ghost vans."
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "Jeffries wins Democratic House speaker race, on track to make history in January",
+   "summary": "Jeffries will still need to win a floor vote in January to officially become House speaker.",
+   "url": "https://www.cnbc.com/2026/11/18/jeffries-house-speaker-congress.html",
+   "published": "2026-11-19T03:32+09:00",
+   "id": "w86",
+   "body": "House Minority Leader Hakeem Jeffries won the nod from his caucus to become the next speaker of the House of Representatives. Jeffries, D-N.Y., still needs to be officially elected when the new Congress convenes in January. But he appears to be on a glide path to winning the gavel after Democrats voted 251-11 to nominate him, according to a person familiar with the vote who asked not to be named because the meeting was private. The win for Jeffries comes after months of debate over whether Democrats would stand by their existing leadership or oust them amid a progressive tide. Democrats trounced Republicans in the midterm elections and are poised to hold at least 257 House seats. Jeffries would make history as the first Black speaker of the House if he is elected in January."
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "Xi urges freer trade as APEC leaders maneuver ahead of Trump talks",
+   "summary": "",
+   "url": "https://asia.nikkei.com/politics/international-relations/apec/xi-urges-freer-trade-as-apec-leaders-maneuver-ahead-of-trump-talks",
+   "published": null,
+   "id": "w87",
+   "body": "SHENZHEN -- Chinese President Xi Jinping called for defending free trade and investment and eliminating barriers, as he and other leaders laid out their visions for the region at the Asia-Pacific Economic Cooperation (APEC) forum in Shenzhen on Wednesday."
+  },
+  {
+   "region": "글로벌",
+   "source": "Financial Times",
+   "title": "UK inflation rose to one-year high of 3.6% in October",
+   "summary": "Figure underscores pressure on Bank of England to raise interest rates further",
+   "url": "https://www.ft.com/content/829844ba-849f-4d9c-a667-d65d2786ad2c?syn-25a6b1a6=1",
+   "published": "2026-11-19T02:12+09:00",
+   "id": "w88"
+  },
+  {
+   "region": "유럽",
+   "source": "The Guardian",
+   "title": "David Beckham's perfume, Poundland – and a mighty, mighty stink | Arwa Mahdawi",
+   "summary": "The Beckhams have made an art of monetising their every move. But apparently there are limits to where they’re prepared to sell their wares Thoughts and half-price prayers with Poundland, please. The discount chain has been on the verge of collapse for a while , and its future…",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/18/david-beckhams-perfume-poundland-and-a-mighty-mighty-stink",
+   "published": "2026-11-18T20:00+09:00",
+   "id": "w89",
+   "body": "T houghts and half-price prayers with Poundland, please. The discount chain has been on the verge of collapse for a while , and its future looks bleak. Now, to add to the ignominy, David Beckham is kicking it while it’s down. Not literally, by the way: I suppose I should spell that out since we’re dealing with a litigious billionaire . I did not mean to imply or cause a reasonable person to infer that Sir David is standing on Brixton high street kicking a Poundland. Rather, DB Ventures, the licensor of the David Beckham brand, is causing a bit of a stink about the fact that the football legend’s fragrance range was found on sale in the discount store as well as at other purveyors of budget goods. It is now suing the perfume company , Coty, which it further accuses of under reporting sales, for $41m (£31m)."
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "Target shares rise 7% as retailer posts best sales growth in five years, hikes guidance",
+   "summary": "Target beat third-quarter sales expectations and raised its guidance as it continues a turnaround effort.",
+   "url": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
+   "published": "2026-11-19T02:56+09:00",
+   "id": "w90",
+   "body": "Target on Wednesday reported its best sales growth in more than five years and beat Wall Street's revenue expectations, the latest signs of its turnaround strategy taking hold. The retailer said its net sales grew 7.1% during the fiscal third quarter. Comparable sales rose 5.6%, compared with StreetAccount estimates of up 3.8%. That growth was boosted by a 5% increase in comparable traffic, Target added. \"[It's] a healthy sign that guests are responding to our changes and choosing Target more often,\" CEO Michael Fiddelke told reporters. Encouraged by the growth, Target raised its full-year guidance, upping its net sales growth guidance by 1 percentage point to around 6%. It's also expecting full-year operating income margin rate to be around 6.2%, which includes roughly 1.1 percentage points of benefit from tariff refunds."
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "China shows vision of future in Shenzhen with plenty of red tape",
+   "summary": "",
+   "url": "https://asia.nikkei.com/politics/international-relations/apec/china-shows-vision-of-future-in-shenzhen-with-plenty-of-red-tape",
+   "published": null,
+   "id": "w91",
+   "body": "SHENZHEN -- China is showcasing AI-powered humanoid robots, electric vehicles and other cutting-edge technologies during the Asia-Pacific Economic Cooperation forum in Shenzhen. But heightened security measures are disrupting some of the innovations that the southern tech hub is known for."
+  },
+  {
+   "region": "글로벌",
+   "source": "Financial Times",
+   "title": "Democrats nominate Hakeem Jeffries as US House Speaker",
+   "summary": "56-year-old on track to become first Black lawmaker to lead lower chamber of Congress",
+   "url": "https://www.ft.com/content/9d0998cf-ffb8-4fe4-9f85-0c403b1966f9?syn-25a6b1a6=1",
+   "published": "2026-11-19T02:05+09:00",
+   "id": "w92"
+  },
+  {
+   "region": "유럽",
+   "source": "The Guardian",
+   "title": "We made GTA 6, the world’s biggest video game – we should have working conditions to match | Nestor Uriarte",
+   "summary": "After the release of Grand Theft Auto VI this week, Rockstar employees like me can make history again. We need union recognition to safeguard our jobs When I first got the call offering me a job at Rockstar, I was thrilled. I thought back to being a child and sneaking into my…",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/18/gta-6-grand-theft-auto-vi-rockstar-employees-union-recognition",
+   "published": "2026-11-18T20:50+09:00",
+   "id": "w93",
+   "body": "W hen I first got the call offering me a job at Rockstar, I was thrilled. I thought back to being a child and sneaking into my brother’s room to grab the PlayStation Portable so I could secretly play Grand Theft Auto: Vice City Stories. The same kid who fell in love with Rockstar’s games back then now gets to spend every day helping to create those worlds as an animation programmer at the studio in Edinburgh. This week, we will celebrate the culmination of more than a decade of effort: the release of the most anticipated game of all time, Grand Theft Auto VI . But our team has the opportunity to make history a second time this month. Right now, the ballot is open for Rockstar employees to decide whether we want the union we have built with our colleagues to get recognition."
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "Nvidia sinks after earnings, dragging down neoclouds CoreWeave, Iren",
+   "summary": "Nvidia's earnings come at a tumultuous time for the company.",
+   "url": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html",
+   "published": "2026-11-19T06:06+09:00",
+   "id": "w94",
+   "body": "Nvidia shares declined another 2.89% Wednesday after the company issued its first earnings report since the departure of former CEO Jensen Huang . The stock is down more than 13% over the past week. Trading in the neocloud companies was volatile throughout the day, as CoreWeave closed down 4.13%, Iren sank 3.61% and Nebius whipsawed, ending the trading day up 0.87%. Nvidia's third-quarter revenue came in at $115.84 billion, more than $6 billion above analysts' expectations of $109.10 billion, while fourth-quarter guidance of $130 billion topped the $125.1 billion consensus, according to LSEG. The semiconductor giant continues to navigate the fallout from Huang's resignation last week."
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "Indonesia raises key interest rate as rupiah hits record low",
+   "summary": "",
+   "url": "https://asia.nikkei.com/business/markets/currencies/indonesia-raises-key-interest-rate-as-rupiah-hits-record-low",
+   "published": null,
+   "id": "w95",
+   "body": "JAKARTA -- Indonesia's central bank lifted its benchmark interest rate by 25 basis points to 6% on Wednesday, after the rupiah hit a record low against the U.S. dollar."
+  },
+  {
+   "region": "글로벌",
+   "source": "Financial Times",
+   "title": "JPMorgan seeks to revive stalled software debt sale with steep price cuts",
+   "summary": "Banks turn to high-yield bond market to clear $2bn in ‘hung’ debt at double-digit yield",
+   "url": "https://www.ft.com/content/16a99ff4-6060-4c81-8c4f-7e43503e4a11?syn-25a6b1a6=1",
+   "published": "2026-11-19T01:30+09:00",
+   "id": "w96"
+  },
+  {
+   "region": "유럽",
+   "source": "BBC",
+   "title": "MP urges council to speed up heating oil payments",
+   "summary": "About 23,000 households use heating oil in Northumberland and face increasing bills this winter.",
+   "url": "https://www.bbc.co.uk/news/articles/cm792dqz4qvyo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-18T17:48+09:00",
+   "id": "w97",
+   "body": "An MP has urged a council to speed up the process of heating oil support payments as energy prices soar. About 23,000 Northumberland homes use oil systems as they are not connected to the mains gas supply. Labour's North Northumberland MP David Smith said a freedom of information request from 21 September showed just over a third of households who applied for help with heating oil costs had received funding from Northumberland County Council. However, the Conservative-led local authority said its latest figures showed significantly more applications had now been approved almost two months on. Unlike gas, oil prices are not protected by the Ofgem Energy Price Cap, and households have experienced huge increases in the cost of filling tanks."
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "Hims & Hers launches new peptide treatments — while admitting there's more to learn about efficacy",
+   "summary": "The telehealth company will now offer compounded forms of sermorelin, glutathione, NAD+, vitamin B-12 and L-carnitine, none of which are approved by the FDA.",
+   "url": "https://www.cnbc.com/2026/11/18/hims-hers-peptides-plus-treatments.html",
+   "published": "2026-11-18T23:02+09:00",
+   "id": "w98",
+   "body": "Hims & Hers Health on Wednesday said it will offer five formulations of peptides and longevity treatments compounded in the U.S. as part of the initial rollout of its Peptides+ platform, all of which are not approved by regulators. Even as it announced the new products, Hims & Hers acknowledged it has more to learn about how best to use the peptides and how effective they are — underscoring the uncertainty surrounding the growing space. The new offerings come after the federal government eased restrictions on compounding certain unapproved peptides, which are short chains of amino ​acids. Those products have exploded in popularity among fitness and longevity enthusiasts who attest that they help with muscle growth, rapid injury recovery and anti-aging, even though most lack evidence from robust human trials."
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "How will ASEAN fare under Singapore's leadership? 5 key topics",
+   "summary": "",
+   "url": "https://asia.nikkei.com/politics/international-relations/how-will-asean-fare-under-singapore-s-leadership-5-key-topics",
+   "published": null,
+   "id": "w99",
+   "body": "MANILA -- The three-day ASEAN and related summits in Manila concluded Tuesday, marked by a ceremony where Philippine President Ferdinand Marcos Jr. symbolically handed over the chair of the 11-member bloc to Singaporean Prime Minister Lawrence Wong."
+  },
+  {
+   "region": "글로벌",
+   "source": "Financial Times",
+   "title": "Why giving 16-year-olds the vote is misguided",
+   "summary": "The decision goes against the grain of raising the age of consent for everything from scratch cards to tanning booths",
+   "url": "https://www.ft.com/content/b039bdd4-8d01-48d4-bd40-c4dfd5ec2767",
+   "published": "2026-11-19T00:14+09:00",
+   "id": "w100"
+  },
+  {
+   "region": "유럽",
+   "source": "The Guardian",
+   "title": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
+   "summary": "Company issues first earnings report after ouster of CEO over allegations of affair with suspected Chinese spy Nvidia “does not intend to reinstate Jensen as CEO”, the chairman of the company’s board said Tuesday. Harvey Jones made the remark during Nvidia’s first quarterly…",
+   "url": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang",
+   "published": "2026-11-18T08:32+09:00",
+   "id": "w101",
+   "body": "Nvidia “does not intend to reinstate Jensen as CEO”, the chairman of the company’s board said Tuesday. Harvey Jones made the remark during Nvidia’s first quarterly earnings report since Jensen Huang’s ouster. Nvidia announced the same day that its quarterly revenue beat expectations, coming in at $115.84bn, doubling from the same time period a year ago. The third-quarter earnings report comes just days after the world’s most valuable chip company saw the ouster of Huang over allegations of several extramarital affairs, including one with a suspected Chinese spy and two with his own employees. Following the tumult, Nvidia’s stock tumbled more than 10%, shedding hundreds of billions in value and dropping its valuation to $3.7tn. In October, the company had hit an all-time-high valuation of nearly $6tn, but its share price has steadily fallen since then amid a broader AI slowdown."
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "With Jensen Huang gone, Colette Kress shows Nvidia is still at the center of AI",
+   "summary": "In her first earnings report as interim CEO, Nvidia's Colette Kress calmed investors' nerves, at least for the moment.",
+   "url": "https://www.cnbc.com/2026/11/17/jensen-huang-may-be-gone-nvidia-shows-its-still-at-the-center-of-ai-.html",
+   "published": "2026-11-18T12:15+09:00",
+   "id": "w102",
+   "body": "Five days after Nvidia 's Jensen Huang resigned from the company he co-founded 33 years ago under a cloud of scandal, a nervous base of shareholders eagerly awaited Colette Kress' first public appearance as interim CEO. Following Nvidia's better-than-expected earnings report on Tuesday, Kress offered some relief to Wall Street, at least temporarily, by proclaiming on the call with analysts that customers are still fully onboard and that there's no slippage in demand. She said leadership from Nvidia's most important supplier, Taiwan Semiconductor Manufacturing Company , visited company offices this week. \"We've engaged with our customers, we've engaged with our suppliers, our partners, they're all 100% behind us,\" Kress said on the call."
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "Xi, Putin vow to lead multipolar world, slam protectionism",
+   "summary": "",
+   "url": "https://asia.nikkei.com/politics/international-relations/apec/xi-putin-vow-to-lead-multipolar-world-slam-protectionism",
+   "published": null,
+   "id": "w103",
+   "body": "SHENZHEN -- Russia and China on Wednesday committed to working together to build and lead a multipolar world order, amid what their leaders described as a \"difficult geopolitical climate.\""
+  },
+  {
+   "region": "글로벌",
+   "source": "Financial Times",
+   "title": "British energy price cap set to rise to over £2,000 in January",
+   "summary": "Lower levels of government support will see households paying more for energy in real terms than during Ukraine inflation shock",
+   "url": "https://www.ft.com/content/c22b7eeb-96ce-4d4a-87ed-2b17901255be?syn-25a6b1a6=1",
+   "published": "2026-11-19T00:10+09:00",
+   "id": "w104"
+  },
+  {
+   "region": "유럽",
+   "source": "The Guardian",
+   "title": "Brexit work travel rules need urgent improvement, say UK business leaders",
+   "summary": "CBI says restrictions on cross-Channel work trips are hindering investment and trade between UK and Europe Business chiefs have called on the UK government and the European Commission to urgently ease Brexit restrictions on business travel for cross-Channel work trips. A group…",
+   "url": "https://www.theguardian.com/world/2026/nov/18/brexit-work-travel-rules-urgent-improvement-cbi",
+   "published": "2026-11-18T09:01+09:00",
+   "id": "w105",
+   "body": "Business chiefs have called on the UK government and the European Commission to urgently ease Brexit restrictions on business travel for cross-Channel work trips. A group representing industry bosses said it wants commitments from Andy Burnham and European political leaders that the restrictions will be one of the priorities in 2027 for furthering ties between the two sides, after a summit in Brussels this week. The Confederation of British Industry (CBI), which represents some of Britain’s largest companies, welcomed the prime minister’s recent calls for a reset with Europe, designed to reverse some of the damage to Britain’s economy caused by Brexit. But it said Brexit restrictions, which include making employees obtain work permits for travel, are deterring cross-border investors and hampering trade at the very time both sides are trying to build resilience against China."
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "Jensen Huang has agreed to appear before Senate banking committee, Chairman Scott says",
+   "summary": "Jensen Huang will appear before the Senate banking committee, its Chair Tim Scott said. That adds to an already announced appearance before House panels.",
+   "url": "https://www.cnbc.com/2026/11/18/jensen-huang-nvidia-tim-scott-congress.html",
+   "published": "2026-11-19T02:50+09:00",
+   "id": "w106",
+   "body": "Former Nvidia CEO Jensen Huang has agreed to appear before the Senate Banking Committee, panel Chair Tim Scott , R-S.C., said on CNBC's \"Squawk Box\" on Wednesday. Commerce Secretary Howard Lutnick has also agreed to testify, Scott said. The agreements to appear voluntarily come as pressure builds on Capitol Hill to investigate Huang's affair with a suspected Chinese spy, which led to his ouster at the chipmaker he founded. \"They both have agreed,\" Scott said. \"We will hopefully have this done before Christmas.\" Huang reached an agreement on Tuesday with the chairmen of three House committees for a closed-door transcribed interview on Dec. 1 jointly before the three panels. Scott had asked Huang to appear publicly in the Senate. A spokesperson for the banking committee did not immediately respond to questions about when Huang and Lutnick would testify."
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "Takaichi's diplomatic chops to be tested at China's APEC",
+   "summary": "",
+   "url": "https://asia.nikkei.com/politics/international-relations/apec/takaichi-s-diplomatic-chops-to-be-tested-at-china-s-apec",
+   "published": null,
+   "id": "w107",
+   "body": "SHENZHEN -- Japanese Prime Minister Sanae Takaichi arrived in China on Wednesday for the first time since she took office in October 2025, with the neighbors' frosty ties posing a major test of her diplomatic skills."
+  },
+  {
+   "region": "글로벌",
+   "source": "Financial Times",
+   "title": "Ukraine’s ‘flying modems’ helped take down Putin’s bridge",
+   "summary": "Kyiv starts using its own communication system for drone strikes after repeated disruptions in the use of Starlink",
+   "url": "https://www.ft.com/content/65c5684a-f532-4601-9878-8fa2efe8d8f8?syn-25a6b1a6=1",
+   "published": "2026-11-18T23:12+09:00",
+   "id": "w108"
+  },
+  {
+   "region": "아시아",
+   "source": "CNBC",
+   "title": "Ukraine allies reject U.S. criticism of deep strikes inside Russia ahead of Trump-Putin-Xi summit",
+   "summary": "The dispute comes ahead of a planned meeting between Donald Trump, Vladimir Putin and Xi Jinping.",
+   "url": "https://www.cnbc.com/2026/11/18/ukraine-russia-war-trump-putin-deep-strikes.html",
+   "published": "2026-11-18T19:49+09:00",
+   "id": "w109",
+   "body": "Germany and the U.K. have pushed back against U.S. criticism of Ukraine's deep strike campaign inside Russia, underscoring tensions between Washington and European allies over Kyiv's war strategy. The clash comes ahead of a highly anticipated trilateral meeting on Thursday between U.S. President Donald Trump , Russian President Vladimir Putin and Chinese President Xi Jinping on the sidelines of the Asia-Pacific Economic Cooperation forum in Shenzhen, China. Geopolitical flashpoints such as trade, artificial intelligence and nuclear weapons are expected to be a major focus of Trump, Putin and Xi's meeting, with external observers closely monitoring any discussion of Russia's full-scale invasion of Ukraine. Speaking at NATO's headquarters in Belgium on Tuesday, U.S."
+  },
+  {
+   "region": "아시아",
+   "source": "Nikkei Asia",
+   "title": "Gamers 'become' New Zealanders for first access to new 'Grand Theft Auto'",
+   "summary": "",
+   "url": "https://asia.nikkei.com/business/media-entertainment/gamers-become-new-zealanders-for-first-access-to-new-grand-theft-auto",
+   "published": null,
+   "id": "w110",
+   "body": "CANBERRA -- The launch of \"Grand Theft Auto VI,\" the latest title in the blockbuster video game series, as the clock ticks past midnight later Wednesday, is shaping up to be the largest entertainment product release on record and, for several hours, New Zealand will be the place to be -- or at least pretend to be."
+  }
+ ],
+ "errors": [
+  "body w7 SCMP: HTTP Error 403: Forbidden",
+  "body w15 SCMP: HTTP Error 403: Forbidden",
+  "body w23 SCMP: HTTP Error 403: Forbidden",
+  "body w29 SCMP: HTTP Error 403: Forbidden",
+  "body w36 SCMP: HTTP Error 403: Forbidden",
+  "body w43 SCMP: HTTP Error 403: Forbidden"
+ ]
+}

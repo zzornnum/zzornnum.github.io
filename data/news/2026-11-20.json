@@ -11,23 +11,27 @@
       "headlines": [
         {
           "title": "[2027 투자전략] ② 실적 고공행진에도 주춤한 韓 반도체, 내년 열쇠는",
-          "source": "뉴스",
-          "date": "2026-11-20"
+          "source": "뉴스핌",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aMy0xY3dKMElaQ3J4NDJIc0R6X0tLSVlSTXM1R2ZqV0JoMGNTNWNSVllWQjlwNVg2MHlzV2syQ2R6cXRSYzVlcGR3VlRPS0Y4SEpqcnd0N05mM25V?oc=5"
         },
         {
           "title": "AI는 '완판' PC·스마트폰은 '찬바람'…낸드·구형 D램 가격 꺾였다",
-          "source": "뉴스",
-          "date": "2026-11-19"
+          "source": "머니투데이",
+          "date": "2026-11-19",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kbkthXzVHVldJMlFHUnBYd0pGVVJuUzc0N3FSUXduZldvdm96TmxhNkdTZWhxcnFxa284Sm85S0tuOHJLMk1rNzEzUl9LWDl6UkpBaFpEVTU3N2cwdnRSYmxZcnF2TWFIbWw4ZXhxcTBid9IBckFVX3lxTE5kbkthXzVHVldJMlFHUnBYd0pGVVJuUzc0N3FSUXduZldvdm96TmxhNkdTZWhxcnFxa284Sm85S0tuOHJLMk1rNzEzUl9LWDl6UkpBaFpEVTU3N2cwdnRSYmxZcnF2TWFIbWw4ZXhxcTBidw?oc=5"
         },
         {
           "title": "앤트로픽 드디어 나스닥 데뷔…외인 K증시 돌아올까 [분석+]",
-          "source": "뉴스",
-          "date": "2026-11-19"
+          "source": "한국경제",
+          "date": "2026-11-19",
+          "url": "https://n.news.naver.com/mnews/article/015/0005356122"
         },
         {
           "title": "상장사 10곳 중 7곳, 4분기 실적 하향…삼전닉스 맑음, 석화·배터리 먹구름",
           "source": "뉴스",
-          "date": "2026-11-20"
+          "date": "2026-11-20",
+          "urlChecked": true
         }
       ]
     },
@@ -40,17 +44,20 @@
         {
           "title": "삼성전자·TSMC, 중국행 일부 칩 '출하 중단'…美 수출통제 의무화 파장",
           "source": "뉴스",
-          "date": "2026-11-20"
+          "date": "2026-11-20",
+          "urlChecked": true
         },
         {
           "title": "FT\"삼성전자·TSMC, 중국 고객사에 반도체 출하 중단 통보\"",
-          "source": "뉴스",
-          "date": "2026-11-19"
+          "source": "머니투데이",
+          "date": "2026-11-19",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KTkpOdDJiT1hBY09BMkJPV2NEdnNZOS1kUlJIamROTnhjUTNrdTg1bmEzOGVZdFlndlZSRldwUk8ybGg3Tk5ZV3kyQ1p3ZFhMNEJrQkhuSV80cUJMTEdEUGgzNC03ZEp20gFuQVVfeXFMT2VfSU1Wc1labXVrbTZVT2gyNnRHbUxlamRNSXIyZHV3RFMycDVPWnVyeExhWmFlanJJRlFQNENkUnJfal90VlhEWmVBOGJMZkFhZWFRRXlDWnpwb01wWmIxcXBIdXJ0aFotZm5aVWc?oc=5"
         },
         {
           "title": "상장사 10곳 중 7곳, 4분기 실적 하향…삼전닉스 맑음, 석화·배터리 먹구름",
           "source": "뉴스",
-          "date": "2026-11-20"
+          "date": "2026-11-20",
+          "urlChecked": true
         }
       ]
     },
@@ -62,18 +69,21 @@
       "headlines": [
         {
           "title": "1.6조 과징금 부과한 공정위도 부담…국고채 줄소송, 패소 땐 이자만 연 500억",
-          "source": "뉴스",
-          "date": "2026-11-20"
+          "source": "인베스트조선",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQT2tPM29oRzg0ei1WN2RIbmZEcnczMmU1X3BnblZ6bWJaVnFMc2lCRHZKeWIzSmVXemJkSk9TeWlpSEtDUWtGVXNyemlvZnRQeDlvSnlNRTlZMmxPVXhoVlpSYmVTcnNzU2xuLVFubGVQaWJCZTJqUjVXUkI3ckk2RExobw?oc=5"
         },
         {
           "title": "[장중수급포착] 메리츠금융지주, 외국인/기관 동시 순매수… 주가 +1.70%",
-          "source": "뉴스",
-          "date": "2026-11-19"
+          "source": "뉴스핌",
+          "date": "2026-11-19",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBueGtfRFNqa2N5TFlaUzlwaUFjdU41NnZfZHlFbjBKX0V2cHpnUmhmZXpSdmIyU0JvX0dsamRPUkpxTzc3UFJpaFdyNi1wdTcxM1lrdXN5a21fdzZD?oc=5"
         },
         {
           "title": "[라이벌 열전] DB손보, 순익서 메리츠 앞질러…'확장 vs 정리' 해외사업 변수",
-          "source": "뉴스",
-          "date": "2026-11-18"
+          "source": "톱데일리",
+          "date": "2026-11-18",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5LbktqOG9UbkNEWnZCQUs3RXJ3VGVLSHNCYVZYQ2JxM3Y4ZU1fdG9tWm9BVGxkQ2FsSXpOa0FGTVV6SHN3NEc2Q0NYbHdTWWh2?oc=5"
         }
       ]
     },
@@ -85,13 +95,15 @@
       "headlines": [
         {
           "title": "[특징주] 국제유가 3% 급락에 정유株 '줄하락'",
-          "source": "뉴스",
-          "date": "2026-11-19"
+          "source": "뉴스핌",
+          "date": "2026-11-19",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9iOWFoT0RKb0tDb2M5bl9aeG9BV0E2U3dKZlBzVWNwV1E3QXJOaVFYRW1mVFJ0V2c4bzBuWkpxenVaMXVUaWZsV2h6Vzk0MUxzc1ZWQnpmNlI5dTVa?oc=5"
         },
         {
           "title": "석유협회 “최고가격제로 정유사들 주주소송 위험…출구전략 마련해야”",
-          "source": "뉴스",
-          "date": "2026-11-19"
+          "source": "헤럴드경제",
+          "date": "2026-11-19",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVVW9WTFZNa1VkVXd6MjJuMVkzSm1IeHdYZnFzREMyQ0FBd0YtSTZiN293dlRkaVE0V3hsWm1kLWw2d1ZnNE9qWmU1ckM0b081cm1LbmFR?oc=5"
         }
       ]
     },
@@ -104,17 +116,20 @@
         {
           "title": "한화, ‘포레나 천안아산역’ 공사미수금 6배…회수 부담 커져",
           "source": "뉴스",
-          "date": "2026-11-20"
+          "date": "2026-11-20",
+          "urlChecked": true
         },
         {
           "title": "한화 건설 부문, 하안 주공5단지 재건축 시공사 선정",
           "source": "뉴스",
-          "date": "2026-11-19"
+          "date": "2026-11-19",
+          "urlChecked": true
         },
         {
           "title": "김동관 한화 수석부회장, 3분기 RSU 35만주 증가",
-          "source": "뉴스",
-          "date": "2026-11-19"
+          "source": "연합인포맥스",
+          "date": "2026-11-19",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nbzZwZmtRaTVOYnRlRFJxbHNNbU9idGtMVU9ibml2b3BfTFpIUGpwRmpBNGRwWkRrUENWck5sTHFnZWxpR1FSYlJTdXNjWnlCaGNOT2JnUnRDMFJRUlg5X2ZqbWtVZ3Ata2w1aVhKOFE?oc=5"
         }
       ]
     },
@@ -127,12 +142,14 @@
         {
           "title": "김동선, 한화M&S 지분 모으기 박차…홀로서기 본격 시험대",
           "source": "뉴스",
-          "date": "2026-11-20"
+          "date": "2026-11-20",
+          "urlChecked": true
         },
         {
           "title": "한화M&S 최대주주 김동선, '갤러리아 부동산·아워홈 확장' 첫 숙제",
-          "source": "뉴스",
-          "date": "2026-11-16"
+          "source": "연합인포맥스",
+          "date": "2026-11-16",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05T0ZMLVhKRjJBdVhLMHhtWUZld2lBUy1GdVl6dlFRVUpQVHcycVJQTnZTV1NSb2tpdXZWdjAwTm5BZS1fQmd5NjFUbE8xaGkwQnQ4Tk1sY3BXMHJrSk83aFM4NENfVkp3V1VsU0dYZDQ?oc=5"
         }
       ]
     },
@@ -145,12 +162,14 @@
         {
           "title": "서부T&D +8.05%, 호텔신라 +8.01%, GS피앤엘 +7.44%, 제이에스코퍼레이션 +2.62%, 강원랜드 +1.00%",
           "source": "뉴스",
-          "date": "2026-11-19"
+          "date": "2026-11-19",
+          "urlChecked": true
         },
         {
           "title": "[리포트 브리핑]제이에스코퍼레이션, '관세 영향의 정상화' 목표가 19,000원 - 신한투자증권",
-          "source": "뉴스",
-          "date": "2026-11-17"
+          "source": "뉴스핌",
+          "date": "2026-11-17",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54ZlJyV09ocVNKbjVOQnBIZjE1RHNCc2JiWWE2TjFtekJDcXpGUTJtSUtwZFhmN0JsZlFxYkZtU0wxaFdsTVRyUlhRbVZ6cVlVcEhwbjdfUFBZMkp3?oc=5"
         }
       ]
     },
@@ -162,13 +181,15 @@
       "headlines": [
         {
           "title": "[장중수급포착] DN오토모티브, 외국인 9일 연속 순매수행진... 주가 +6.49%",
-          "source": "뉴스",
-          "date": "2026-11-18"
+          "source": "뉴스핌",
+          "date": "2026-11-18",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE04R1FOejk4WDRLVDFWdEs0Y2h0aWZXOWJXenZvU01SREhtaW9XZF9Ed0V2TTRlbS1QcXNTcjMwNGw3THlyQmNvQm5SNDJrb1ZnakRGOU1qcl9LeHFU?oc=5"
         },
         {
           "title": "DN오토모티브, 2026년 3분기 실적",
           "source": "DART 공시",
-          "date": "2026-11-17"
+          "date": "2026-11-17",
+          "urlChecked": true
         }
       ]
     },
@@ -181,17 +202,20 @@
         {
           "title": "[리포트 브리핑]DL이앤씨, '최고의 수비수도 좋지만 괜찮은 공격수가 되어도 좋다' 목표가 80,000원 - KB증권",
           "source": "뉴스",
-          "date": "2026-11-18"
+          "date": "2026-11-18",
+          "urlChecked": true
         },
         {
           "title": "공사비 상승에...10대 건설사 공사손실충당부채 1조 넘어",
-          "source": "뉴스",
-          "date": "2026-11-18"
+          "source": "서울경제",
+          "date": "2026-11-18",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FRkRKbjExN0JnaXAySHdqeERhQ3laQUhrb1BUWTF1NlpLLXNaUDRxMWNTU05OSWc0OFh0UUdWZGxqTkJ2bUQ1WEFNdkg0UDJ6blHSAVNBVV95cUxQT084NVlfYTVYWXhPblNRTFpKYUdOZnlGQ2hVcjgzdW03cjduZm53SGNPcGVER1FEYTRQclZLQnExdzFYdjVjREdRa2hvajYtWVlWNA?oc=5"
         },
         {
           "title": "국토부, 사망사고 난 대형건설사 12곳 안전점검…하도급 업체도 따로 소집",
-          "source": "뉴스",
-          "date": "2026-11-18"
+          "source": "아시아경제",
+          "date": "2026-11-18",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMFh0cjhWZjJxMmlmdmI4dEc1TWJFakhTZ1oyNFJsbjlLMmIwaktWMEFhNmhVOHlhSXdXUHhnWHdzdDdUZ0lQNEJmYk1MQnl6TFF2VHpGRThDZzlhd2hCMVVucmQya1ZPX01sTGFFQVFtSW45MVBLTnJNYUtMOTh3UUNn?oc=5"
         }
       ]
     },
@@ -204,12 +228,14 @@
         {
           "title": "에프엔에스테크(083500) 소폭 상승세 +3.15%",
           "source": "뉴스",
-          "date": "2026-11-19"
+          "date": "2026-11-19",
+          "urlChecked": true
         },
         {
           "title": "[리포트 브리핑]에프엔에스테크, '3Q26 Review: 소재/부품 기업으로의 성공적인 전환 중' 목표가 19,500원 - 현대차증권",
           "source": "뉴스",
-          "date": "2026-11-13"
+          "date": "2026-11-13",
+          "urlChecked": true
         }
       ]
     },
@@ -221,13 +247,15 @@
       "headlines": [
         {
           "title": "휴메딕스, 서스틴베스트 ESG 평가 3회 연속 A등급",
-          "source": "뉴스",
-          "date": "2026-11-19"
+          "source": "뉴스1",
+          "date": "2026-11-19",
+          "url": "https://n.news.naver.com/mnews/article/421/0009298200"
         },
         {
           "title": "휴메딕스, GLP-1 비만치료 확산에 에스테필 활용법 소개",
-          "source": "뉴스",
-          "date": "2026-11-18"
+          "source": "파이낸셜뉴스",
+          "date": "2026-11-18",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kakFNakxNam9ZMUhKU2ZqbEZna2w4X2dUSFNURWJrNDQzakJUMF9mRkVhXzBLSnpsQU9yRjBCVmhBV25zd3QxOEtNaGFqSk5oYTFaWFJiRXVtdw?oc=5"
         }
       ]
     },
@@ -240,7 +268,8 @@
         {
           "title": "휴젤(145020) 소폭 상승세 +5.03%, 4거래일 연속 상승",
           "source": "뉴스",
-          "date": "2026-11-19"
+          "date": "2026-11-19",
+          "urlChecked": true
         }
       ]
     },
@@ -252,13 +281,15 @@
       "headlines": [
         {
           "title": "[리포트 브리핑]바텍, '선진시장 중심 성장 지속' 목표가 23,000원 - DB증권",
-          "source": "뉴스",
-          "date": "2026-11-19"
+          "source": "뉴스핌",
+          "date": "2026-11-19",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxS2ptMWRkUkg1SHg1STlGcEZyYndLUHcybnFscW9ZbHVEY0Q0YnhsMnVhRk50UlktQnVvS0dkTzI5XzJIbmRYWkw1SkZoNVRWMElVQVQ4akJKck92?oc=5"
         },
         {
           "title": "바텍, 3분기 영업익 156억…전년比 25.5%↑",
-          "source": "뉴스",
-          "date": "2026-11-11"
+          "source": "이데일리",
+          "date": "2026-11-11",
+          "url": "https://n.news.naver.com/mnews/article/018/0006408348"
         }
       ]
     },
@@ -271,7 +302,8 @@
         {
           "title": "예선테크 상한가, 원익머트리얼즈 +8.93%, 한켐 +8.61%, 뉴파워프라즈마 +6.14%, 인베니아 +5.98%",
           "source": "뉴스",
-          "date": "2026-11-18"
+          "date": "2026-11-18",
+          "urlChecked": true
         }
       ]
     }

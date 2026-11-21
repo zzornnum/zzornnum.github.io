@@ -11,23 +11,27 @@
       "headlines": [
         {
           "title": "[1120마감체크] 코스피, 5% 넘게 급락하며 4800선 추락…10개월 만 최저",
-          "source": "한국투자증권(KIS) 뉴스",
-          "date": "2026-11-20"
+          "source": "인포스탁데일리",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41ZnZLUXpJNEgxX0huVlVKZy1Oak5SS0Y4a2Z3VjEwZGY5LWRZdmZUQnIxRjlmNkdudHBGQkpfZXc5V3kwTkJWU0otQ3Q2V0xDTDNTQ1NlNk5CR044ekJ6VUljOGRpeDhmZ1VUa0hrTHBac3hBa0E?oc=5"
         },
         {
           "title": "SK하이닉스, 키옥시아 전환사채 주식 전환…지분 14.1% 확보",
           "source": "한국투자증권(KIS) 뉴스",
-          "date": "2026-11-20"
+          "date": "2026-11-20",
+          "urlChecked": true
         },
         {
           "title": "[ETF 시황] 폭락장에 인버스 2조 거래…반도체 ETF 19% 급락",
-          "source": "한국투자증권(KIS) 뉴스",
-          "date": "2026-11-20"
+          "source": "뉴스핌",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpbEpZX0xRVGJKbDBYcUJEcnIzWUY1dWFwQ19UTFZwVWpLTFBUU1RSTXVIYzRjdlk5eU9ldm5iWkpMTDN5dXNsdlQwVEl1cnhyemtHZzFsWFgzak9E?oc=5"
         },
         {
           "title": "[분석] 월가 첫 리포트 '매수' 행렬…앤트로픽 적정가 150달러",
-          "source": "한국투자증권(KIS) 뉴스",
-          "date": "2026-11-20"
+          "source": "파이낸셜포스트",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HdlFBblhvVUlpWWtUb1U2bVdFUkQzYnJCelZFdUpGMWFBclVQTGduakROandCYV9DcFo4cXJtU1lzQTN2QmNUZE4tSkVtaG1td2pDaS1lYWFRN3c4MXd3X3VXa2FtMmttbGd3OU9tSm9Wa2dh?oc=5"
         }
       ]
     },
@@ -39,18 +43,21 @@
       "headlines": [
         {
           "title": "\"좋은 뉴스에도 매도\"…앤스로픽 상장 이틀째 글로벌 AI주 투매",
-          "source": "한국투자증권(KIS) 뉴스",
-          "date": "2026-11-20"
+          "source": "이데일리",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSWVuWk9xNWZDQ2NmcE5FYVlOYnE3TklRNVV4dlA2anhQcWVxTTNIV19aN3Y4WHc5RGthaXBqZlNkVklHSlpaOHlYSTU5X2ZYOHF1U0g4djdQUkRHeE8ybU03SUNlN01lVUw4eXMydlJCOW9PZFFDUzR0dC1Zd1lrQQ?oc=5"
         },
         {
           "title": "삼성 메모리·모바일 새 사령탑…황상준·최원준 전면에",
-          "source": "한국투자증권(KIS) 뉴스",
-          "date": "2026-11-20"
+          "source": "서울경제",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xbXVKQVVRZ09QazFFaEhFM3RLb1BNUmRNdzBzcnQ1anRLdUlZdGtBcU1FTXhjWkZPRTVFQTd3S1ZJUnRSOXFxdnJmU08ybFpqd2fSAVNBVV95cUxPUkVhWV9ua2RfWE9KUWFIekdiSHNrbWhTajZPRXFXNlBXZjhNWjVhWmpnUzdTeGNKRmlub2FnMnEzYmJCUWZXdWNhVFhfNmFnT3pHOA?oc=5"
         },
         {
           "title": "삼성 베트남, 9개월 누적 매출 83조·순익 5조 돌파",
-          "source": "한국투자증권(KIS) 뉴스",
-          "date": "2026-11-20"
+          "source": "파이낸셜뉴스",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XRDFWYmpoaXJCRnk1Y2ctNTNrZWUxc2ZBU04xV0wwbFRQMGhDWDJlbzdkRW9FbGxxanlpVGo0YWhJMXZaTnhyUTJTeHZZYzVkemVFR2NhT0l5dw?oc=5"
         }
       ]
     },
@@ -63,17 +70,20 @@
         {
           "title": "(주)한화 공매도 과열종목 지정(공매도 거래 금지 적용)(한화3우B)",
           "source": "한국투자증권(KIS) 뉴스",
-          "date": "2026-11-20"
+          "date": "2026-11-20",
+          "urlChecked": true
         },
         {
           "title": "공정위, 태양광 패널 담합 의혹 조사…한화솔루션 등 대상",
           "source": "한국투자증권(KIS) 뉴스",
-          "date": "2026-11-20"
+          "date": "2026-11-20",
+          "urlChecked": true
         },
         {
           "title": "한화 건설 부문, 하안 주공5단지 재건축 시공사 선정",
           "source": "한국투자증권(KIS) 뉴스",
-          "date": "2026-11-19"
+          "date": "2026-11-19",
+          "urlChecked": true
         }
       ]
     },
@@ -86,17 +96,20 @@
         {
           "title": "메리츠금융지주(138040) 소폭 상승세 +2.07%, 3거래일 연속 상승",
           "source": "한국투자증권(KIS) 뉴스",
-          "date": "2026-11-20"
+          "date": "2026-11-20",
+          "urlChecked": true
         },
         {
           "title": "[장중수급포착] 메리츠금융지주, 외국인/기관 동시 순매수… 주가 +1.70%",
-          "source": "한국투자증권(KIS) 뉴스",
-          "date": "2026-11-19"
+          "source": "뉴스핌",
+          "date": "2026-11-19",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBueGtfRFNqa2N5TFlaUzlwaUFjdU41NnZfZHlFbjBKX0V2cHpnUmhmZXpSdmIyU0JvX0dsamRPUkpxTzc3UFJpaFdyNi1wdTcxM1lrdXN5a21fdzZD?oc=5"
         },
         {
           "title": "1.6조 과징금 부과한 공정위도 부담…국고채 줄소송, 패소 땐 이자만 연 500억",
-          "source": "한국투자증권(KIS) 뉴스",
-          "date": "2026-11-20"
+          "source": "인베스트조선",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQT2tPM29oRzg0ei1WN2RIbmZEcnczMmU1X3BnblZ6bWJaVnFMc2lCRHZKeWIzSmVXemJkSk9TeWlpSEtDUWtGVXNyemlvZnRQeDlvSnlNRTlZMmxPVXhoVlpSYmVTcnNzU2xuLVFubGVQaWJCZTJqUjVXUkI3ckk2RExobw?oc=5"
         }
       ]
     },
@@ -108,13 +121,15 @@
       "headlines": [
         {
           "title": "[리포트 브리핑]바텍, '선진시장 중심 성장 지속' 목표가 23,000원 - DB증권",
-          "source": "한국투자증권(KIS) 뉴스",
-          "date": "2026-11-19"
+          "source": "뉴스핌",
+          "date": "2026-11-19",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxS2ptMWRkUkg1SHg1STlGcEZyYndLUHcybnFscW9ZbHVEY0Q0YnhsMnVhRk50UlktQnVvS0dkTzI5XzJIbmRYWkw1SkZoNVRWMElVQVQ4akJKck92?oc=5"
         },
         {
           "title": "바텍, 3분기 영업익 156억…전년比 25.5%↑",
-          "source": "한국투자증권(KIS) 뉴스",
-          "date": "2026-11-11"
+          "source": "이데일리",
+          "date": "2026-11-11",
+          "url": "https://n.news.naver.com/mnews/article/018/0006408348"
         }
       ]
     },
@@ -127,12 +142,14 @@
         {
           "title": "한솔아이원스, 2026년 3분기 경영실적",
           "source": "한국투자증권(KIS) 뉴스",
-          "date": "2026-11-19"
+          "date": "2026-11-19",
+          "urlChecked": true
         },
         {
           "title": "반도체 호황에 증설 나섰는데… 피크아웃 우려에 자금 조달 ‘발목’",
-          "source": "한국투자증권(KIS) 뉴스",
-          "date": "2026-11-09"
+          "source": "조선비즈",
+          "date": "2026-11-09",
+          "url": "https://n.news.naver.com/mnews/article/366/0001203560"
         }
       ]
     }

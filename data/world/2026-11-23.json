@@ -1,0 +1,469 @@
+{
+  "date": "2026-11-23",
+  "generatedAt": "2026-11-23T07:53+09:00",
+  "items": [
+    {
+      "id": "w9",
+      "region": "미국",
+      "title": "나스닥 급락 속 VIX 40 근처…아마존 옵션 기회는?",
+      "summary": "지난 금요일 나스닥이 크게 흔들리며 공포지수 VIX가 한때 40까지 올랐다. 기사는 VIX가 높을수록 옵션 프리미엄이 커진다고 설명하며, 공포가 커진 시장에서도 프리미엄이 높은 종목을 팔 기회가 생긴다고 본다. 그 예로 꼽힌 아마존은 클라우드 사업 AWS의 성장 속도가 거의 5년 만에 가장 빠르다는 점이 근거로 제시된다. 저자는 공황 매도 대신 기회를 찾으라는 조언을 인용하며 이를 유용하다고 평가했다.",
+      "original": "The Nasdaq is in freefall. Here's one stock to look at",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/22/the-nasdaq-is-in-freefall-heres-one-stock-to-look-at.html",
+      "published": "2026-11-22T21:10+09:00"
+    },
+    {
+      "id": "w1",
+      "region": "미국",
+      "title": "월가 애널리스트가 꼽은 고배당주 3선",
+      "summary": "투자자들은 정기적인 현금 흐름과 주가 상승 가능성 때문에 배당주를 선호한다. 하지만 수많은 기업 가운데 적합한 배당주를 고르기는 쉽지 않다. 이 기사는 월가 애널리스트들의 추천이 기업 재무에 대한 철저한 분석에 근거한다는 점을 짚는다. 기사는 TipRanks가 집계한 추천을 바탕으로 강한 수익이 기대되는 배당주 3개를 골라 소개한다. 애널리스트 추천을 참고하면 배당주 후보를 추리는 데 도움이 될 수 있다는 것이 기사의 취지다.",
+      "original": "Top Wall Street analysts favor these 3 dividend stocks for strong returns",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/22/top-wall-street-analysts-favor-these-stocks-for-strong-returns.html",
+      "published": "2026-11-22T21:13+09:00"
+    },
+    {
+      "id": "w39",
+      "region": "미국",
+      "title": "‘엔비디아 급락에 불안’…주식 팔고 부동산·예금으로 옮길까?",
+      "summary": "엔비디아의 주가 급락에 놀란 투자자들이 주식을 팔고 부동산이나 양도성예금증서(CD)로 옮길지 고민하고 있다. 기사는 급하게 움직이기 전에 신중하라고 조언한다.",
+      "original": "‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks and buy real estate?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+      "published": "2026-11-23T02:00+09:00"
+    },
+    {
+      "id": "w35",
+      "region": "미국",
+      "title": "사모펀드가 사들인 호스피스…의료비 증가·입원 기간 연장",
+      "summary": "사모펀드가 소유한 호스피스 업체에서는 메디케어 비용이 더 높고 환자들이 더 오래 머무른다는 새 연구 결과가 나왔다. 사모펀드의 호스피스 시설 인수가 늘고 있는 가운데 나온 결과다.",
+      "original": "Private equity has been buying up hospice centers — with striking consequences",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/private-equity-has-been-buying-up-hospice-centers-with-striking-consequences-63642545?mod=mw_rss_topstories",
+      "published": "2026-11-23T02:22+09:00"
+    },
+    {
+      "id": "w30",
+      "region": "미국",
+      "title": "시장 폭락이 온다면…폐쇄형 펀드에 저평가 투자처 있을까",
+      "summary": "주식시장 혼란이 본격적인 폭락으로 이어진다면 폐쇄형 펀드(closed-end fund) 중에서 저위험 투자 기회를 찾을 수 있다는 칼럼이다. 시장 불안이 커질 때 저평가된 펀드가 나올 수 있다고 짚는다.",
+      "original": "These little-known investments could be among the best bargains in a crash",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/these-little-known-investments-could-be-among-the-best-bargains-in-a-crash-78a379b4?mod=mw_rss_topstories",
+      "published": "2026-11-23T03:23+09:00"
+    },
+    {
+      "id": "w24",
+      "region": "미국",
+      "title": "메디케어 수급자, 요양시설 대신 재가 돌봄 선택 가능해질 듯",
+      "summary": "새 법안이 추진되면 메디케어 수급자가 요양시설 대신 집에서 더 저렴하게 돌봄을 받을 수 있게 된다. 이 방안은 병원과 요양시설의 병상을 확보하고 비용을 낮추려는 것이다.",
+      "original": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/medicare-beneficiaries-could-skip-the-nursing-home-for-cheaper-care-at-home-under-new-bill-e289c8d0?mod=mw_rss_topstories",
+      "published": "2026-11-23T04:24+09:00"
+    },
+    {
+      "id": "w17",
+      "region": "미국",
+      "title": "“사회보장제도 폐지해야”…공화당 상원의원 발언 파문",
+      "summary": "공화당 소속 상원의원이 사회보장제도(Social Security)를 폐지해야 한다고 주장했다. 사회보장제도의 신탁기금은 앞으로 6년 안에 고갈될 것으로 전망된다.",
+      "original": "Social Security should be shut down, this Republican senator says",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
+      "published": "2026-11-23T05:26+09:00",
+      "also": [
+        {
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/ron-johnsons-social-security-gaffe-buried-important-news-b96e0ce8?mod=mw_rss_topstories",
+          "original": "Ron Johnson’s Social Security gaffe buried important news"
+        }
+      ]
+    },
+    {
+      "id": "w2",
+      "region": "미국",
+      "title": "기업들, AI·트레이딩카드·LA 공항서 '세대에 한 번' 성장 찾기",
+      "summary": "실적 발표 콘퍼런스콜에서 경영진들이 '세대에 한 번뿐인' 트렌드를 자주 언급하고 있다는 분석이다. 기사는 AI, 트레이딩카드, 로스앤젤레스 공항 사업 등을 대표 사례로 든다.",
+      "original": "Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/corporate-america-hunts-for-generational-growth-in-ai-trading-cards-and-the-l-a-airport-3072eb1a?mod=mw_rss_topstories",
+      "published": "2026-11-23T06:51+09:00"
+    },
+    {
+      "id": "w44",
+      "region": "유럽",
+      "title": "기후 협상 교착…화석연료 감축 놓고 사우디와 대치 기로",
+      "summary": "COP31 기후 정상회의의 협상이 토요일 밤 교착 상태에 빠졌다. 일부 국가는 화석연료 단계적 폐지를 두고 사우디아라비아와 그 동맹국들에 맞설지를 고민하고 있다. 전력화와 개도국 재원 문제에 합의하지 못한 채 새 초안이 나왔다. 공동 의장인 호주의 크리스 보언과 튀르키예의 무라트 쿠룸은 수십 개 국가와 협의를 이어갔지만 회의는 예정 기간을 넘겨 결론 없이 끝났다.",
+      "original": "Climate talks stall as countries mull showdown with Saudi Arabia over fossil fuel phaseout",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/nov/21/climate-talks-stall-countries-mull-showdown-saudi-arabia-over-fossil-fuels",
+      "published": "2026-11-22T04:43+09:00",
+      "also": [
+        {
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/1b6089f6-2201-43b4-8ed4-0c689a916afa?syn-25a6b1a6=1",
+          "original": "COP31 climate talks fail after stand-off over fossil fuels"
+        },
+        {
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/b3ba64e9-9482-4525-acc7-49825f3daace?syn-25a6b1a6=1",
+          "original": "Climate talks on the brink as EU rejects deal that ‘green washes fossil fuels’"
+        }
+      ]
+    },
+    {
+      "id": "w18",
+      "region": "유럽",
+      "title": "불가리 창업가 파올로 불가리 별세…향년 89세",
+      "summary": "가족 가업인 불가리를 세계적인 명품 브랜드로 키운 이탈리아 주얼리 사업가 파올로 불가리가 로마에서 89세로 숨졌다. 가족은 이탈리아 언론을 통해 그를 “우리 시대 최고의 주얼리 장인”으로 기억한다고 밝혔다. 그는 1984년부터 불가리 그룹 회장을 맡았으며, 그의 주얼리는 다이애나 왕세자빈 등 할리우드 스타와 왕실 인사들이 착용해 알려졌다. 회사는 그를 “진정한 창작자”로 기리는 추모 글을 올리며 그의 작품이 계속 영감을 줄 것이라고 밝혔다.",
+      "original": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-22T16:12+09:00"
+    },
+    {
+      "id": "w25",
+      "region": "유럽",
+      "title": "건지·저지 섬 기업 실소유주 공개 계획에 영국 의원 “미흡”",
+      "summary": "영국 건지와 저지 섬이 금융범죄 수사 목적으로 승인된 신청자에게 기업의 실소유주·지배 정보를 열람하게 하겠다는 계획을 내놓았다. 앤드루 미첼 의원은 이 계획이 “충분히 멀리 나아가지 않았다”고 비판했다. 그는 기업 소유 정보에 대한 접근이 더 쉬워져야 한다고 주장하며, 금융범죄를 추적하는 이들에게 필요한 정보라고 강조했다. 기업 소유의 투명성을 둘러싼 논란이 이어지고 있다는 내용이다.",
+      "original": "MP criticises Guernsey and Jersey company ownership register plans",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-22T16:22+09:00"
+    },
+    {
+      "id": "w4",
+      "region": "유럽",
+      "title": "영국-EU 식품 협정에 기업들 환영…“이미 대체로 맞춰져 있다”",
+      "summary": "영국 생산자들은 영국과 EU가 맺은 위생 협정(SPS 협정)을 대체로 환영했다. 이 협정은 식품, 식물, 동물성 제품에 대한 물리적 검역 대부분을 없애는 것이 목표다. 영국의 식품 수출업체와 소규모 소매점이 유럽산 치즈와 와인을 다시 수입하기 쉬워질 것으로 기대된다. 다만 협정은 2028년 3월 1일부터 시행되며, 이행까지 기간이 길다는 불만도 나온다.",
+      "original": "UK-EU food deal hailed by British firms: ‘We’re pretty aligned anyway’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/22/uk-eu-food-sps-deal-brexit-checks",
+      "published": "2026-11-22T20:00+09:00"
+    },
+    {
+      "id": "w48",
+      "region": "유럽",
+      "title": "러트닉 상무장관, 엔비디아 연루 논란으로 사퇴 압박",
+      "summary": "하워드 러트닉 미국 상무장관은 엔비디아 관련 스캔들과 중국에 대한 반도체 판매에서 맡은 역할을 두고 초당적 비판을 받고 있다. 그는 사임 요구를 거부하고 있으며, 트럼프 대통령은 금요일 그에게 신임을 표명했다. 민주당은 1월 의회를 장악하면 그를 핵심 표적으로 삼을 것으로 보인다. 기사는 중국이 AI 패권 경쟁에서 미국의 가장 큰 지정학적 경쟁자라는 점을 짚으며 반도체 판매 논란의 무게를 강조한다.",
+      "original": "Howard Lutnick has been Trump’s ally for decades. His ties to Nvidia may spell his downfall",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/22/howard-lutnick-nvidia-china",
+      "published": "2026-11-22T20:00+09:00"
+    },
+    {
+      "id": "w26",
+      "region": "유럽",
+      "title": "영국 겨울, 앤디 버넘 총리에게 이중고…지역 격차와 에너지 요금",
+      "summary": "앤디 버넘 총리는 “모든 우편번호 지역에서 성장을 끌어올리겠다”고 강조해 왔지만 영국의 지역 간 격차는 깊다. 영국은 물가 상승률이 오르는 가운데 가장 추운 겨울철에 접어들고 있다. 에너지 요금 상승이 겨울철 생활비 부담을 키운다는 점도 큰 쟁점이다. 중동 전쟁이 격화되면서 번영을 고르게 퍼뜨리는 과제는 더 어려워졌다는 분석이다. 기사는 이 두 문제가 서로 얽혀 있다고 본다.",
+      "original": "The looming UK winter may spawn a double headache for Andy Burnham | Richard Partington",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/22/looming-uk-winter-spawns-double-headache-for-andy-burnham",
+      "published": "2026-11-22T20:24+09:00"
+    },
+    {
+      "id": "w61",
+      "region": "유럽",
+      "title": "영국 연구재원 기관장, 노조에 “신뢰 잃었다”는 비판",
+      "summary": "영국 과학·공학 노조 Prospect의 마이크 클란시 사무총장은 UK 연구혁신기구(UKRI)의 이안 채프먼 CEO에게 보낸 서한에서 지도력에 대한 신뢰를 잃었다고 밝혔다. 노조는 UKRI가 추진하는 대규모 예산 삭감 계획을 문제 삼고 있다. 이번 논란은 연구 과제와 연구 시설에 대한 재원 변경을 둘러싼 것이다. 연구 현장의 과학자와 엔지니어를 대변하는 노조의 공개 비판이라는 점에서 파장이 주목된다.",
+      "original": "CEO of funding agency for UK science and research criticised by union over cuts",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/education/2026/nov/22/prospect-union-leader-uk-funding-agency-science-research-ukri",
+      "published": "2026-11-22T21:00+09:00"
+    },
+    {
+      "id": "w3",
+      "region": "유럽",
+      "title": "센트리카 CEO “내년 1월 에너지 요금 인상에 크게 우려”",
+      "summary": "영국 British Gas의 모기업 센트리카의 크리스 오쉐이 CEO는 BBC와의 인터뷰에서 1월 에너지 요금 인상이 소비자에게 미칠 영향을 크게 우려한다고 밝혔다. 요금을 내지 못하거나 내지 않으려는 사람이 늘어날 것으로 본다고 말했다. 컨설팅사 Cornwall Insight는 1월 적용될 에너지 요금 상한이 일반 가구 기준 연 443파운드 오를 것으로 전망했다. 새 요금 상한은 수요일에 발표될 예정이다.",
+      "original": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-22T22:50+09:00"
+    },
+    {
+      "id": "w12",
+      "region": "유럽",
+      "title": "법원, 중국 BYD의 ‘디펜더 복제’ SUV EU 판매 금지",
+      "summary": "네덜란드 헤이그 지방법원은 중국 BYD가 7인승 SUV Ti7을 EU에서 판매하지 못하도록 판결했다. 재규어랜드로버(JLR)는 이 차량이 자사 디펜더의 지식재산권을 침해했다며 소송을 냈다. BYD가 영국 고객 대상 주문을 받기 시작하자 JLR이 법적 대응에 나섰다. 이달 초에는 JLR의 집행관이 BYD 사무실에서 디지털 기록을 압수했다는 보도도 나왔다.",
+      "original": "Court bans China’s BYD from selling ‘Defender clone’ SUV in EU",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/22/court-bans-china-byd-selling-defender-clone-suv-in-eu",
+      "published": "2026-11-23T00:43+09:00"
+    },
+    {
+      "id": "w19",
+      "region": "유럽",
+      "title": "영국 납세자, 역외 조세피난처에 1조 파운드 이상 보유",
+      "summary": "영국 HMRC 자료에 따르면 영국 납세자들이 조세피난처 계좌에 둔 잔액이 처음으로 1조 파운드를 넘었다. 싱크탱크 TaxWatch가 정보공개청구로 입수한 자료로, 2022년부터 2024년까지 잔액이 10% 늘었다. 저지(Jersey)와 파나마 등 금융 중심지가 주요 대상이다. 이 자산이 공공 재정에 손실을 줄 수 있다는 우려가 제기된다. 자료는 확보 가능한 가장 최근 수치다.",
+      "original": "UK taxpayers held more than £1tn in offshore tax havens, latest HMRC data shows",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/22/uk-taxpayer-funds-held-in-offshore-tax-havens-top-1tn-latest-hmrc-data-shows",
+      "published": "2026-11-23T00:43+09:00"
+    },
+    {
+      "id": "w20",
+      "region": "중국",
+      "title": "중국 부동산 침체 언제 끝나나…전문가 전망 엇갈려",
+      "summary": "중국 본토의 부동산 침체가 얼마나 이어질지는 여전히 불길한 질문이다. 지방정부 재정 수입이 토지 매각에 크게 기대고 있어 침체가 길어질수록 부담이 커진다. 경제학자들은 집값 하락이 이른바 “내부의 적(enemy within)”이라는 데 대체로 동의한다. 하지만 회복 시점에 대해서는 의견이 나뉜다.",
+      "original": "Recovery at last? Analysts divided on China’s home market outlook",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/business/china-business/article/3375239/recovery-last-analysts-divided-chinas-home-market-outlook",
+      "published": "2026-11-22T12:00+09:00"
+    },
+    {
+      "id": "w13",
+      "region": "중국",
+      "title": "중국, 해외 신탁에 이어 상속세까지 노린다",
+      "summary": "중국은 7월 도입한 해외 신탁 과세로 하루 평균 14억 위안(약 2억 1000만 달러)의 추가 세수를 거두고 있다. 이 세금으로 지금까지 걷힌 금액은 1600억 위안(약 240억 달러)이다. 이제 재정 수입을 더 늘리기 위해 상속세 도입을 노린다는 분석이다.",
+      "original": "After tapping offshore trusts, China eyes a bigger fiscal prize: an estate tax",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/china-economy/article/3375261/after-tapping-offshore-trusts-china-eyes-bigger-fiscal-prize-estate-tax",
+      "published": "2026-11-22T16:00+09:00"
+    },
+    {
+      "id": "w5",
+      "region": "중국",
+      "title": "ASEAN은 미·중 경쟁 속에서 어떤 노선을 택할까",
+      "summary": "싱가포르국립대 리콴유공공정책대학원의 Danny Quah 교수가 미·중 경쟁이 치열한 상황에서 ASEAN이 독자적인 진로를 어떻게 설정할지 분석한 칼럼이다. 원문 요약만으로는 구체적인 정책 제안이나 수치는 확인되지 않는다.",
+      "original": "Danny Quah on how Asean charts its own course amid fierce US-China rivalry",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/global-economy/article/3375234/danny-quah-how-asean-charts-its-own-course-amid-fierce-us-china-rivalry",
+      "published": "2026-11-23T07:00+09:00"
+    },
+    {
+      "id": "w7",
+      "region": "아시아",
+      "title": "일본 탈탄소 기관, 미국 금속 재활용 스타트업에 투자",
+      "summary": "일본 정부 지원을 받는 탈탄소 기관이 미국 스타트업 Sun Metalon에 투자했다고 닛케이가 보도했다. 이 투자는 회사가 금속 재활용 장비를 대량 생산하도록 돕기 위한 것이다.",
+      "original": "Japan decarbonization agency invests in US metal recycling startup",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/environment/japan-decarbonization-agency-invests-in-us-metal-recycling-startup",
+      "published": null
+    },
+    {
+      "id": "w15",
+      "region": "아시아",
+      "title": "가상자산 거래소 붕괴에 고수익 찾던 중국 투자자 타격",
+      "summary": "항저우의 한 투자자는 7월 11일 해외 가상자산 거래소 BitMart의 고수익 예금 상품에 달러에 1대1로 연동된 스테이블코인 USDG 10만 개를 넣었다. 이 상품은 14일 동안 연 18.8%의 수익률을 약속했는데, 저금리 기조의 중국 예금보다 훨씬 높았다. 그는 2주 동안 현명한 투자라고 믿었지만 거래소가 무너지면서 자금이 묶였다. 기사는 고수익을 좇던 중국 투자자들의 피해가 커지고 있다고 전한다.",
+      "original": "Crypto exchange's collapse hits Chinese investors hunting for yield",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/trading-asia/crypto-exchange-s-collapse-hits-chinese-investors-hunting-for-yield",
+      "published": null
+    },
+    {
+      "id": "w28",
+      "region": "아시아",
+      "title": "중국 자동차, 39개국에서 일본 경쟁사 앞질러…전기차가 견인",
+      "summary": "중국 자동차 업체들이 39개국에서 신차 판매 점유율 면에서 일본 경쟁사를 앞서고 있다. 올해에만 14개국에서 선두에 올랐으며, 전기차 판매 호조가 주요 원인이다. 유가가 급등한 상황에서 거둔 성과라는 점도 눈에 띈다.",
+      "original": "Chinese automakers lead Japanese rivals in 39 markets, aided by EVs",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/automobiles/chinese-automakers-lead-japanese-rivals-in-39-markets-aided-by-evs",
+      "published": null
+    },
+    {
+      "id": "w33",
+      "region": "아시아",
+      "title": "일본 기업들, 중국 수출 규제에 희토류 공급망 재건 나서",
+      "summary": "중국의 희토류 수출 규제에 대응해 일본 기업들이 독자적인 공급망 구축에 나서고 있다. 일본의 희토류 산업은 1990년대 이후 쇠퇴했지만, 이번 움직임으로 부활의 계기를 맞고 있다는 평가다.",
+      "original": "Corporate Japan races to revive rare-earth supply chain amid China curbs",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/materials/corporate-japan-races-to-revive-rare-earth-supply-chain-amid-china-curbs",
+      "published": null
+    },
+    {
+      "id": "w37",
+      "region": "아시아",
+      "title": "라오스, 최빈국 졸업 앞둬…새 시대 경제 과제는",
+      "summary": "라오스는 수년간의 준비 끝에 최빈개발도상국(LDC) 지위에서 졸업할 예정이다. 경제 회복력 강화와 생산성 향상이 새 시대의 주요 과제로 꼽힌다. 네팔과 방글라데시도 졸업 예정이었으나 최근 3년 연장을 받았다. 무역 등 졸업에 따르는 영향에 적응하는 것이 이들 국가의 과제다.",
+      "original": "Laos 'least-developed' status shift, Tata meeting, Taiwan local elections",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/your-week-in-asia/laos-least-developed-status-shift-tata-meeting-taiwan-local-elections",
+      "published": null
+    },
+    {
+      "id": "w41",
+      "region": "아시아",
+      "title": "세계은행의 인도 빈곤 추정치 놓고 논란…개선 폭 과대 우려",
+      "summary": "세계은행이 최근 발표한 인도의 빈곤 추정치는 생활 수준이 크게 개선됐다고 보여준다. 그러나 일부 경제학자들은 실제 상황을 반영하지 못할 수 있다고 지적한다. 추정의 바탕이 된 정부 통계의 조사 방법이 바뀌었기 때문이라는 설명이다.",
+      "original": "World Bank's India poverty estimates questioned over scale of gains",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/demography/world-bank-s-india-poverty-estimates-questioned-over-scale-of-gains",
+      "published": null
+    },
+    {
+      "id": "w45",
+      "region": "아시아",
+      "title": "라멘 강좌 개설…일본 외식 기업의 새로운 확장 전략",
+      "summary": "나고야의 일본 외식 체인 운영사가 외국인을 대상으로 라멘 가게 창업 과정을 개설한다. 과정에는 라멘 제조 기술부터 매장 경영까지 포함된다. 회사는 이를 새로운 확장 전략으로 내세우고 있다.",
+      "original": "The ramen lectures: Japan company tries new expansion strategy",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/food-beverage/the-ramen-lectures-japan-company-tries-new-expansion-strategy",
+      "published": null
+    },
+    {
+      "id": "w49",
+      "region": "아시아",
+      "title": "헬로키티 소유사 산리오, 게임으로 세계 시장 확대 노린다",
+      "summary": "헬로키티를 보유한 산리오가 게임 사업에 힘을 실어 글로벌 입지를 넓히려 하고 있다는 보도다. 원문 요약만으로는 구체적인 수치나 계획은 확인되지 않는다.",
+      "original": "Hello Kitty owner Sanrio bets on games to expand global reach",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/media-entertainment/hello-kitty-owner-sanrio-bets-on-games-to-expand-global-reach",
+      "published": null
+    },
+    {
+      "id": "w68",
+      "region": "아시아",
+      "title": "도장 제조사, 영상 진위 판별 서비스로 AI 시장 진출",
+      "summary": "일본 도장(한코) 제조사가 이번 달 말 X에서 변조된 영상을 가려내는 서비스를 내놓는다. 전통 도장 시장이 줄어들고 있어 새로운 성장 동력을 찾으려는 시도다.",
+      "original": "Japan stamp maker stomps into AI realm by authenticating videos on X",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/companies/japan-stamp-maker-stomps-into-ai-realm-by-authenticating-videos-on-x",
+      "published": null
+    },
+    {
+      "id": "w72",
+      "region": "아시아",
+      "title": "미·일이 차세대 교통을 이끌어야…차오 전 미 교통장관",
+      "summary": "일본과 미국은 자율주행차 등 교통 혁신에서 협력을 심화해야 업계 주도권을 유지할 수 있다는 주장이다. 트럼프 1기 행정부에서 교통장관을 지낸 일레인 차오가 도쿄에서 한 발언이다.",
+      "original": "US, Japan should lead next-gen transportation: Trump's ex-transport chief",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/editor-s-picks/interview/us-japan-should-lead-next-gen-transportation-trump-s-ex-transport-chief",
+      "published": null
+    },
+    {
+      "id": "w14",
+      "region": "아시아",
+      "title": "양자컴퓨터, 신약보다 에너지 분야에서 먼저 쓰임새 찾나",
+      "summary": "양자컴퓨팅 기업들은 신약 개발보다 에너지 분야에서 먼저 실용화될 가능성이 있다고 보고 있다. 기업들은 전력망 최적화, 태양광 소재, 수소 촉매 등을 시험하고 있다. 양자 소프트웨어는 복잡한 문제를 기존 컴퓨터보다 빠르게 푸는 알고리즘을 활용하며, 전력망 안정화 등 에너지 전환 과제에 먼저 적용되고 있다. 다만 신약 개발 같은 가장 큰 목표는 여전히 수년에서 수십 년 남아 있다.",
+      "original": "Quantum computing’s first real-world payoff may come in energy, not drug discovery",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/22/quantum-computing-energy-applications.html",
+      "published": "2026-11-22T15:00+09:00"
+    },
+    {
+      "id": "w27",
+      "region": "아시아",
+      "title": "피자 체인 위기…GLP-1 약물은 여러 원인 중 하나",
+      "summary": "도미노피자, 파파존스, 피자헛 등 대형 피자 체인들의 수요가 약해지고 있다. 소비 위축, 다양해진 외식 선택지, 배달 경쟁 심화, 식습관 변화 등이 원인으로 꼽힌다. GLP-1 계열 치료제 사용도 그중 한 요인이다.",
+      "original": "Pizza chains are under pressure. GLP-1 use is only one part of the problem",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/22/pizza-chains-sales-glp-1-demand.html",
+      "published": "2026-11-22T22:00+09:00"
+    },
+    {
+      "id": "w21",
+      "region": "아시아",
+      "title": "에릭 트럼프 지원 로봇 스타트업, 현금난에 직원 건강보험 중단",
+      "summary": "에릭 트럼프가 자문과 지원에 나선 휴머노이드 로봇 스타트업 Foundation Future Industries에서 직원들의 건강보험 혜택이 끊겼다는 메모가 CNBC에 입수됐다. 회사는 긴급 브리지론을 추진하고 있으며, 한국의 Base Group으로부터 1억 5000만 달러 투자를 기다리는 중이다. 회사는 직원들에게 연방 건강보험 승계제도인 COBRA 적용을 안내했다.",
+      "original": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+      "published": "2026-11-23T03:55+09:00"
+    },
+    {
+      "id": "w71",
+      "region": "글로벌",
+      "title": "밀레이 지지율 하락에 아르헨티나 차입 비용 급등",
+      "summary": "아르헨티나의 차입 비용이 급등했다. 밀레이 대통령의 지지율 하락과 재원 조달 계획에 대한 우려가 투자자 심리를 흔들고 있다. 재선 도전을 앞두고 정치적 불확실성도 커지고 있다.",
+      "original": "Argentina’s borrowing costs jump as Milei’s falling popularity rattles investors",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/f3ecede4-74a3-431a-89c5-a06fcd30812a?syn-25a6b1a6=1",
+      "published": "2026-11-22T14:00+09:00"
+    },
+    {
+      "id": "w75",
+      "region": "글로벌",
+      "title": "NEET 청년 취업, 재정 비용을 감수할 만한 가치 있다",
+      "summary": "청년 실업 해결책을 평가할 때 국고가 얻는 직접적인 편익만 따져서는 안 된다는 주장이다. 영국 NEET(교육·고용·훈련 어느 것도 하지 않는 청년) 문제에 대한 대책은 그 비용을 들일 만하다는 것이다.",
+      "original": "Getting the UK’s Neets into work is worth the cost",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/937a6804-e8b8-428d-bb8f-67f83fe874c5?syn-25a6b1a6=1",
+      "published": "2026-11-22T14:00+09:00",
+      "also": [
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/22/work-respect-pay-crisis-neets-milburn-review",
+          "original": "A truism for our political leaders: until work again involves respect and decent levels of pay, this crisis will continue | John Harris"
+        }
+      ]
+    },
+    {
+      "id": "w76",
+      "region": "글로벌",
+      "title": "저가 중국 해외직구 소포, 영국 시장에 밀려들어",
+      "summary": "영국에 들어오는 소액 수입 소포의 가치가 최근 2년 사이 4배로 늘었다. 아시아 온라인 유통 그룹과 플랫폼에서 구매가 급증한 것이 원인으로 꼽힌다.",
+      "original": "Cheap Chinese ecommerce parcels flood the UK",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/2b2824e2-16b9-4621-85a0-7dad220644d5?syn-25a6b1a6=1",
+      "published": "2026-11-22T14:00+09:00"
+    },
+    {
+      "id": "w63",
+      "region": "글로벌",
+      "title": "내 집 마련 꿈 멀어져…모기지 금리 7% 넘어 급등",
+      "summary": "트럼프 대통령은 주택 대출 금리를 3%로 낮추겠다고 약속했지만 기준 모기지 금리는 7%를 넘어 급등했다. 미국인의 내 집 마련 꿈이 점점 멀어지고 있다는 내용이다.",
+      "original": "The American dream of home ownership recedes as mortgage rates surge",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/168a7d3f-6e70-44da-9860-623bcf4fc023?syn-25a6b1a6=1",
+      "published": "2026-11-22T20:00+09:00"
+    },
+    {
+      "id": "w65",
+      "region": "글로벌",
+      "title": "민주당, 트럼프의 세금·관세 정책 되돌리기 추진",
+      "summary": "민주당 하원 세입위원회 상위 의원인 리처드 닐은 트럼프 대통령의 핵심 경제 정책인 세금과 관세에 대한 청문회를 열겠다고 밝혔다. 정책을 되돌리는 방안을 본격적으로 검토하겠다는 뜻이다.",
+      "original": "Democrats will seek to unwind Trump’s tax and tariff policies",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/8af97161-2ae0-4655-9f8b-a560f9227359?syn-25a6b1a6=1",
+      "published": "2026-11-22T20:00+09:00"
+    },
+    {
+      "id": "w54",
+      "region": "글로벌",
+      "title": "미국 항만, 하루 수천 건 해킹 시도…무역로 사이버 공격 표적",
+      "summary": "미국 최대 원유 수출 거점은 하루 수천 건의 해킹 시도를 보고하고 있다. 해운사들도 침해 사고와 싸우고 있다. 무역 항로가 사이버 공격의 핵심 표적이 되고 있다는 내용이다.",
+      "original": "US ports face cyber attack onslaught as hackers target vital trade routes",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/c269cf3e-2275-4244-9a86-f412c8521b4f?syn-25a6b1a6=1",
+      "published": "2026-11-22T21:00+09:00"
+    },
+    {
+      "id": "w50",
+      "region": "글로벌",
+      "title": "영국을 뒤처지게 하는 것은 혁신이 아니라 도입",
+      "summary": "한때 세계에서 가장 혁신적인 나라였던 영국이 이제 새로운 기술을 받아들이는 데 어려움을 겪고 있다는 칼럼이다. 발명 능력보다 도입 속도가 영국의 경쟁력을 떨어뜨린다고 주장한다.",
+      "original": "Adoption, not innovation, holds Britain back",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/b89dbb74-af6c-492e-8d18-c0e83c64efd8?syn-25a6b1a6=1",
+      "published": "2026-11-22T21:02+09:00"
+    },
+    {
+      "id": "w42",
+      "region": "글로벌",
+      "title": "시진핑에게 트럼프가 그 어느 때보다 필요한 이유",
+      "summary": "선전 정상회담은 베이징에게 큰 판돈이 걸린 자리였다는 분석이다. 워싱턴 일각에서는 중국에 더 강경한 조치를 요구하고 있다. 시진핑 주석이 트럼프 대통령과의 관계를 그 어느 때보다 필요로 한다는 것이 기사의 핵심이다.",
+      "original": "Xi needs Trump more than ever",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/4dbdecf6-396d-4629-8600-8a55034a9827",
+      "published": "2026-11-22T22:00+09:00",
+      "also": [
+        {
+          "source": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/opinion/bro-hugs-no-deals-why-shenzhen-was-a-win-for-beijing",
+          "original": "Bro hugs, no deals: Why Shenzhen was a win for Beijing"
+        }
+      ]
+    },
+    {
+      "id": "w8",
+      "region": "글로벌",
+      "title": "베선트 재무장관, 젠슨 황의 엔비디아 복귀 배제 안 해",
+      "summary": "베선트 재무장관은 젠슨 황 전 CEO의 엔비디아 복귀 여부가 “책임이 어디서 끝나는지(where the buck stops)”에 달려 있다고 말했다. 트럼프 대통령이 황 전 CEO의 복귀를 촉구한 데 따른 발언이다. 재무장관은 복귀 가능성을 명확히 부정하지 않았다.",
+      "original": "Bessent refuses to rule out Huang’s return to Nvidia",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/91b7a3a6-8ac5-4327-ad03-6d951f287346?syn-25a6b1a6=1",
+      "published": "2026-11-23T04:08+09:00"
+    }
+  ]
+}

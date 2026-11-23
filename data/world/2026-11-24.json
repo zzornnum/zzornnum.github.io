@@ -1,0 +1,706 @@
+{
+  "date": "2026-11-24",
+  "generatedAt": "2026-11-24T07:55+09:00",
+  "items": [
+    {
+      "id": "w11",
+      "region": "미국",
+      "title": "정유주 랠리 끝나가나…다음 투자처는",
+      "summary": "정유 관련 주식의 대폭 상승세가 풀리고 있다는 CNBC 칼럼의 진단이다. 지난 1년간 일부 정유주 상승은 마진·이익·현금흐름이 크게 늘어난 데서 나왔고, 그 배경에는 ‘크랙 스프레드’의 급등이 있었다. 칼럼은 데이터센터·AI 전력 관련 기업들도 최근 크게 떨어졌다고 덧붙였다.",
+      "original": "The biggest money-making energy trade looks over. What to buy instead",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/refinery-stocks-crack-spreads.html",
+      "published": "2026-11-23T21:00+09:00"
+    },
+    {
+      "id": "w41",
+      "region": "미국",
+      "title": "HPE, 역대 최고 성장에도 주가는 주춤",
+      "summary": "휴렛 팩커드 엔터프라이즈(HPE)가 월요일 재무 전망을 상향했다. 강한 AI 수요 덕분에 회사 역사상 가장 강한 성장세를 기록했다. 그러나 주가는 흔들리고 있다.",
+      "original": "HPE just posted its strongest growth ever — but its stock is wavering",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
+      "published": "2026-11-24T06:28+09:00"
+    },
+    {
+      "id": "w35",
+      "region": "미국",
+      "title": "아마존, 디카트 AI 기술 75억 달러 거래",
+      "summary": "아마존이 AI 기술 기업 Decart와 맺은 거래의 보도 가격은 75억 달러다. 한 애널리스트는 이 거래가 아마존 자체 칩의 속도와 효율을 높이는 비교적 저렴한 방법일 수 있다고 평가했다.",
+      "original": "Amazon may have just found a ‘cheap’ way to get a lot more out of its chips",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/amazon-may-have-just-found-a-cheap-way-to-get-a-lot-more-out-of-its-chips-bd822bd5?mod=mw_rss_topstories",
+      "published": "2026-11-24T06:33+09:00"
+    },
+    {
+      "id": "w12",
+      "region": "미국",
+      "title": "미국 증시, 1년여 만의 최대 상승…AI 심리 회복",
+      "summary": "젠슨 황의 엔비디아 복귀로 미국 증시가 1년여 만에 가장 강한 반등을 보였다. 엔비디아 주가가 31% 넘게 뛰면서 기술주 전반이 끌어올려졌고, BBC 보도 기준 나스닥은 6.5%, S&P 500은 4.75% 올랐다. 이번 복귀는 흔들리던 AI 거래에 대한 신뢰를 되살린 것으로 평가된다. 다만 전날 금요일에 다우·S&P 500·나스닥이 모두 조정장에 들어선 상태라 반등이 얼마나 이어질지는 불확실하다. 전문가들은 AI 투자 지출과 데이터센터 리스크가 여전히 남아 있다고 지적했다.",
+      "original": "U.S. stocks see best day in more than a year, as return of Jensen Huang revives AI enthusiasm",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/u-s-stocks-see-best-day-in-more-than-a-year-as-return-of-jensen-huang-revives-ai-enthusiasm-c3b9d274?mod=mw_rss_topstories",
+      "published": "2026-11-24T06:51+09:00",
+      "also": [
+        {
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1",
+          "original": "Nasdaq jumps 7% as Nvidia shares soar"
+        },
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+          "original": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns"
+        },
+        {
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/20d2ebe3-e945-4659-a122-31bf85a4e4e5?syn-25a6b1a6=1",
+          "original": "Nvidia gains nearly $1tn in value after Jensen Huang reinstated"
+        },
+        {
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/these-stocks-are-the-biggest-gainers-after-jensen-huangs-return-to-nvidia-bb886140?mod=mw_rss_topstories",
+          "original": "These stocks are the biggest gainers after Jensen Huang’s return to Nvidia"
+        },
+        {
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/consumer-stocks-seen-as-safe-bet-amid-cracks-in-ai-trade-are-among-the-s-p-500s-biggest-losers-monday-80cf8f81?mod=mw_rss_topstories",
+          "original": "Consumer stocks, seen as safe bet amid cracks in AI trade, were among the S&P 500’s biggest losers Monday"
+        },
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html",
+          "original": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now"
+        },
+        {
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/oracle-and-coreweave-stocks-stage-big-gains-as-investors-bet-the-ai-cash-will-keep-flowing-eeb1aa85?mod=mw_rss_topstories",
+          "original": "Oracle and CoreWeave stocks stage big gains as investors bet the AI cash will keep flowing"
+        },
+        {
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/short-sellers-get-smoked-as-nvidia-tallies-biggest-one-day-gain-in-stock-market-history-e9dc6e9c?mod=mw_rss_topstories",
+          "original": "Short sellers get smoked as Nvidia tallies biggest one-day gain in stock-market history"
+        }
+      ]
+    },
+    {
+      "id": "w2",
+      "region": "미국",
+      "title": "젠슨 황 복귀에 엔비디아 급등…투자자는 신중",
+      "summary": "엔비디아 주가가 장 초반 30% 넘게 치솟아 월요일 기준 23년 만의 최대 일일 상승률을 향하고 있다. 투자자들은 반등 여력이 남아 있다고 보면서도 신중해야 한다고 입을 모았다. 중국 간첩 의혹과 관련된 조사가 계속되고 있다는 점이 부담으로 꼽힌다. 민주당이 내년 1월 의회와 주요 주지사직을 장악하면 데이터센터 건설이 유예될 수 있다는 우려도 있다.",
+      "original": "Nvidia surge: What investors should do with the stock and the AI trade now",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-stock-jensen-huang-ai-trade.html",
+      "published": "2026-11-24T07:43+09:00",
+      "also": [
+        {
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/nvidias-stock-is-surging-again-what-to-know-before-chasing-the-ai-rally-226688d7?mod=mw_rss_topstories",
+          "original": "Nvidia’s stock is surging again. What to know before chasing the AI rally."
+        },
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+          "original": "How important are Nvidia and Jensen Huang to the US economy?"
+        },
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/business/2026/nov/23/falling-markets-will-i-lose-money-shares-tech-ai-investments",
+          "original": "Wild stock market swings: will I lose money, and is there anything I can do?"
+        }
+      ]
+    },
+    {
+      "id": "w36",
+      "region": "유럽",
+      "title": "샌프란시스코 AI 붐…‘과열’ 우려도 커져",
+      "summary": "샌프란시스코는 AI 산업 호황 덕에 다시 활기를 찾고 있다. 강아지 산책 업체처럼 주변 업종도 AI 스타트업 수요에 힘입어 직원을 뽑고 차량에 투자하고 있다. 오픈AI와 앤스로픽이 고액 연봉으로 최고급 엔지니어를 빨아들이며 도시 경기를 이끈다. 그러나 현지 AI 종사자들 사이에서는 업계가 과열돼 있어 급락할 수 있다는 걱정이 커지고 있다.",
+      "original": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T09:08+09:00",
+      "also": [
+        {
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/aa71d6bc-bbca-4e95-81b1-20895ac0cb59?syn-25a6b1a6=1",
+          "original": "What happens when bubbles burst"
+        }
+      ]
+    },
+    {
+      "id": "w57",
+      "region": "유럽",
+      "title": "영국 에너지 요금 1월 26% 인상 예고",
+      "summary": "영국 수백만 가구의 에너지 요금이 1월에 26% 오를 것으로 예상된다. 규제 기관 오프젬(Ofgem)의 가격 상한제와 공급사 고정 요금은 단가에 상한을 둘 뿐 총액을 정하지는 않는다. 전문가들은 에너지 사용 습관을 점검하면 부담을 줄일 수 있다고 조언했다. 특히 천연가스 단가가 크게 오를 예정이라 사용량 관리가 중요하다.",
+      "original": "Energy bills will soar - here's how you can ease the pain",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T10:05+09:00"
+    },
+    {
+      "id": "w58",
+      "region": "유럽",
+      "title": "영국 임대료, 집값보다 두 배 빨리 오른다",
+      "summary": "영국에서 임대료가 주택 가격보다 약 두 배 빠르게 오를 것이라는 전망이다. 부동산 중개업체 햄프턴스(Hamptons)는 2026~2029년 신규 임대료가 14.2% 오르고 집값은 7.2% 오를 것으로 예측했다. 공급 부족이 임차인의 부담을 키운다는 분석이다. 임대료 상승률은 2027년 4.5%로 정점을 찍은 뒤 2028년 3.5%, 2029년 2.5%로 둔화할 것으로 보인다.",
+      "original": "Cost of renting in Britain to rise twice as fast as buying amid shortage of properties",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/nov/23/cost-of-renting-in-britain-to-rise-twice-as-fast-as-buying-amid-shortage-of-properties",
+      "published": "2026-11-23T15:00+09:00"
+    },
+    {
+      "id": "w54",
+      "region": "유럽",
+      "title": "유럽 가스 가격 급등…한파 예보에 공급 부족 우려",
+      "summary": "네덜란드 1개월물 가스 가격은 한때 8.6% 오른 96.08유로까지 뛰었다가 4% 상승한 92.50유로로 마감했다. 유럽 기준 가격이 급등한 것은 한파 예보로 겨울철 공급 부족 우려가 커졌기 때문이다. 중동 전쟁으로 카타르 수출이 둔화한 데다 여름 폭염으로 저장량이 줄어든 것이 배경이다. 북서유럽은 난방 수요가 가장 높은 겨울을 앞두고 있다.",
+      "original": "Gas prices in Europe surge as forecast cold snap feeds supply shortage fears",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/23/gas-prices-in-europe-surge-as-forecast-cold-snap-feeds-supply-shortage-fears",
+      "published": "2026-11-23T17:45+09:00"
+    },
+    {
+      "id": "w24",
+      "region": "유럽",
+      "title": "독일 ‘얼리 스타트 연금’, 아동 투자계좌에 월 10유로",
+      "summary": "독일은 아동 투자계좌에 매월 10유로를 넣어 장기 노후 저축을 유도할 계획이다. 연금 체계는 인구 변화로 부담이 커졌다. 1960년대에는 노동자 6명이 연금 수급자 1명을 떠받쳤지만 지금은 2명뿐이다. 독일의 합계출산율은 1.32명이다. 경제학자들은 이 제도가 자산 형성에는 도움이 될 수 있지만 연금 재원 문제를 해결하지는 못한다고 평가했다.",
+      "original": "Germany's Early Start Pension: Can child investment accounts help?",
+      "source": "DW",
+      "url": "https://www.dw.com/en/germany-s-early-start-pension-can-child-investment-accounts-help/a-79852185?maca=en-rss-en-bus-2091-rdf",
+      "published": "2026-11-23T18:26+09:00"
+    },
+    {
+      "id": "w16",
+      "region": "유럽",
+      "title": "ECB, DLT 기반 자산 담보 인정 확대",
+      "summary": "유럽중앙은행(ECB) 정책이사회가 EU DLT 파일럿 규정에 따라 허가받은 플랫폼에서 발행된 유통 자산을 유로시스템 담보로 인정하기로 승인했다. 토큰화 자산을 유럽 금융 시장 체계에 맞추는 로드맵의 새 이정표다. ECB는 혁신을 추진하되 기준을 낮추지 않겠다고 밝혔다. 다만 유로시스템의 특정 요건을 충족해야 한다.",
+      "original": "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
+      "source": "ECB",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html",
+      "published": "2026-11-23T19:00+09:00"
+    },
+    {
+      "id": "w37",
+      "region": "유럽",
+      "title": "캐피타 CEO 사임, 주가 70% 폭락",
+      "summary": "문제가 된 아웃소싱 기업 캐피타의 아돌포 에르난데스 최고경영자가 ‘즉시 효력’으로 물러났다. 회사는 퇴직 공무원 연금 지급 문제에서 ‘성과를 내지 못했다’고 인정했다. 후임에는 최고재무책임자(CFO) 파블로 안드레스가 임명됐다. 주가는 한때 70% 떨어진 72펜스로 1991년 10월 이후 최저가를 기록했다. 회사는 이익 전망을 낮추고 1억 9000만 파운드의 추가 자본 조달을 제안했다.",
+      "original": "Capita boss exits and shares crash after civil service pensions failures",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/23/capita-boss-exits-shares-crash-civil-service-pensions-failures",
+      "published": "2026-11-23T19:01+09:00",
+      "also": [
+        {
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/e99cf35e-7d96-4eff-8c50-cb66f7d55b48?syn-25a6b1a6=1",
+          "original": "Capita’s pesky civil service pension mandate may be its saving grace"
+        }
+      ]
+    },
+    {
+      "id": "w63",
+      "region": "유럽",
+      "title": "포운드랜드 파산 위기…매각 시한 며칠",
+      "summary": "저가 잡화점 포운드랜드(Poundland)가 며칠 안에 인수자를 찾지 못하면 관리(administration) 절차에 들어갈 위기다. 소유주인 미국 투자사 고든 브라더스는 9월에 매각에 나섰지만 제시된 인수 제안을 거절해 왔다. 영국·아일랜드에 600개 매장이 있고 직원 1만 1000명의 일자리가 위태롭다. 이 회사는 지난해 Pepco로부터 1파운드에 넘어왔다.",
+      "original": "Poundland is facing collapse - what's gone wrong?",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T19:09+09:00"
+    },
+    {
+      "id": "w73",
+      "region": "유럽",
+      "title": "사우스이스트 워터, 공급 차질로 반기 적자",
+      "summary": "영국 남동부 상수도 기업 사우스이스트 워터가 9월 30일까지 반기 세전 손실 2290만 파운드를 기록했다. 여름철 수도 공급 차질에 따른 벌금과 2900만 파운드의 비용이 원인이다. 규제 당국 오프워트(Ofwat)는 7월 공급 차질에 대한 개선 투자로 3050만 파운드를 지출하라고 명령했다. 회사는 240만 고객에게 서비스를 제공한다.",
+      "original": "South East Water reports loss after supply issues",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6n90j1qxel8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T19:19+09:00"
+    },
+    {
+      "id": "w48",
+      "region": "유럽",
+      "title": "컴퍼스 그룹, 상장지를 런던에서 뉴욕으로 이전 추진",
+      "summary": "FTSE 100 기업이자 급식업체인 컴퍼스 그룹이 주된 상장지를 런던에서 미국으로 옮기려 한다. 규모는 436억 파운드(570억 달러)에 이른다. 1988년부터 런던에 상장돼 있던 회사라 상징성이 크다. 회사는 연간 실적을 발표하는 화요일에 뉴욕 상장 계획을 공식화할 수 있다. 영국 증시가 부진한 가운데 대형 기업이 떠나는 또 하나의 사례가 된다.",
+      "original": "NHS caterer Compass ‘plans stock market switch’ in blow to London",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/23/nhs-caterer-compass-plans-stock-market-switch-in-blow-to-london",
+      "published": "2026-11-23T19:51+09:00",
+      "also": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckz74098jq5po?at_medium=RSS&at_campaign=rss",
+          "original": "Catering giant to switch main share listing to US in further blow to UK"
+        }
+      ]
+    },
+    {
+      "id": "w69",
+      "region": "유럽",
+      "title": "앤스로픽 상장은 엘리트만의 잔치?",
+      "summary": "앤스로픽이 810억 달러를 조달한 기업공개(IPO)는 역사상 최대 규모다. 회사 가치는 1조 5000억 달러로 평가됐다. 공동창업자 7명은 각각 약 200억 달러 상당의 지분을 얻게 됐다. 칼럼니스트 스티븐 그린하우스는 이 상장이 직원 다수에게는 꿈 같은 일이 아니었다고 지적한다. 일자리를 위협받는 미국인과 주식 거품을 걱정하는 사람들에게는 혜택이 없다는 것이 그의 주장이다.",
+      "original": "Anthropic’s IPO was great for the tech elite – and not so great for the rest of us | Steven Greenhouse",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/23/anthropic-ipo-tech-elite-stock-bubble",
+      "published": "2026-11-23T20:00+09:00"
+    },
+    {
+      "id": "w42",
+      "region": "유럽",
+      "title": "인판티노의 200억 달러 피파 매각안 문건 공개",
+      "summary": "인판티노 피파 회장이 추진했다가 무산된 ‘피파 포워드 엔터프라이즈’ 계획은 최대 96년 동안 축구의 수익 구조를 묶어둘 수 있었던 것으로 드러났다. 문건에 따르면 경영진은 사업 가치의 최대 5%를 받게 돼 있었다. 주요 투자자는 Thrive Capital이다. 피파는 인판티노 회장이 이 계획으로 이익을 얻었을 것이라는 점을 부인했다. 문건은 2026년 월드컵 결승 직전에 작성됐다.",
+      "original": "Infantino’s $20bn World Cup sell-off plan was to run for up to 96 years, documents show",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/football/2026/nov/23/gianni-infantino-world-cup-sell-off-plan-96-years-documents-payouts",
+      "published": "2026-11-23T20:34+09:00"
+    },
+    {
+      "id": "w31",
+      "region": "유럽",
+      "title": "영국 52억 파운드 배터리 공장, 시공사 또 이탈",
+      "summary": "타타 그룹 소유 Agratas가 짓는 영국 서머셋 브리지워터의 52억 파운드 규모 배터리 공장에서 두 번째 시공사가 5개월 만에 손을 뗐다. 이 공장은 자매사인 재규어 랜드로버에 전기차 배터리를 공급할 예정이다. 영국 정부는 이 공장에 3억 8000만 파운드를 지원하겠다고 약속했다. 영국 자동차 산업의 장기 경쟁력에 중요한 사업이라 차질이 우려된다. 재규어 랜드로버 차량에 영국산 배터리가 언제 탑재될지도 불투명해졌다.",
+      "original": "Flagship UK gigafactory plan in turmoil after it loses second builder in five months",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/23/flagship-uk-gigafactory-turmoil-loses-second-builder",
+      "published": "2026-11-23T21:26+09:00"
+    },
+    {
+      "id": "w87",
+      "region": "유럽",
+      "title": "벨기에 긴축 반대 파업, 브뤼셀 공항 운항 중단",
+      "summary": "벨기에에서 긴축 예산에 반대하는 파업으로 수백 편의 항공편이 취소됐다. 브뤼셀 공항의 모든 항공 운항이 멈췄고, 저가항공이 많이 쓰는 샤를루아 공항도 멈췄다. 브뤼셀 지하철도 중단됐다. 바르트 더 베버 총리는 차입 비용을 줄이기 위한 예산안을 두고 연립 파트너들과 협상을 이어가고 있다.",
+      "original": "Flights cancelled in Belgium due to cost-of-living strike",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T22:34+09:00"
+    },
+    {
+      "id": "w82",
+      "region": "유럽",
+      "title": "장애급여 PIP 전면 개편 권고…복지 삭감 논란",
+      "summary": "장애인 독립수당(PIP) 심사 과정을 ‘근본적으로 개편’해야 한다는 검토 결과가 나왔다. 팀스 장관은 현행 제도가 ‘더 이상 목적에 맞지 않는다’고 평가했다. 이번 검토는 정부가 앞서 복지 삭감안을 완화한 뒤 지시됐다. PIP는 잉글랜드와 웨일스에서 370만 명이 받고 있다.",
+      "original": "Welfare cuts: What's been happening with Pip and universal credit?",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cj924xvzrr2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T22:52+09:00",
+      "also": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
+          "original": "Pip assessments need 'fundamental overhaul', report to say"
+        }
+      ]
+    },
+    {
+      "id": "w7",
+      "region": "유럽",
+      "title": "레인 ECB 이사, 기후변화와 통화정책 발표",
+      "summary": "ECB 이사 필립 R. 레인이 기후변화와 통화정책을 주제로 발표했다. 수집된 원문에 발표 내용이 없어 구체적인 주장은 담지 않았다.",
+      "original": "Philip R. Lane: Climate change and monetary policy",
+      "source": "ECB",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261123~b5816801a0.en.pdf",
+      "published": "2026-11-23T23:30+09:00"
+    },
+    {
+      "id": "w14",
+      "region": "유럽",
+      "title": "영국 넥스트, 협력사 해킹으로 데이터 접근 피해",
+      "summary": "영국 의류·생활용품 유통업체 넥스트(Next)는 기술 협력사가 사이버 공격을 받아 회사 데이터에 무단 접근이 있었다고 밝혔다. 회사는 사기에 악용될 수 있는 개인정보는 접근되지 않은 것으로 보인다고 설명했다. 협력사로부터 ‘사이버 사고’ 통보를 받았다는 것이 회사의 설명이다. 영국·아일랜드에 800곳 넘는 매장을 둔 소매 체인이다.",
+      "original": "Next issues cyber-attack warning after ‘benign’ data accessed by hackers",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/23/next-issues-cyber-attack-warning-after-benign-data-accessed-by-hackers",
+      "published": "2026-11-23T23:50+09:00",
+      "also": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqj3kjr7ez3vo?at_medium=RSS&at_campaign=rss",
+          "original": "Next data accessed in cyber breach"
+        }
+      ]
+    },
+    {
+      "id": "w5",
+      "region": "유럽",
+      "title": "젠슨 황, 트럼프 개입으로 엔비디아 CEO 복귀",
+      "summary": "엔비디아가 젠슨 황을 최고경영자(CEO)로 다시 앉혔다. 그는 사임한 지 2주도 안 돼 복귀했다. 이사회가 사임 결정을 뒤집는 데에는 트럼프 대통령의 직접 개입이 있었다. 트럼프는 이사회를 설득했다며 CNBC에 ‘내가 그 거래를 성사시켰다(I made the deal)’고 말했다. 황은 혼외 관계 보도 이후 물러났으며, 그 보도에는 중국 간첩 혐의가 제기된 여성과의 관계와 엔비디아 직원 두 명과의 관계가 포함됐다. 복귀 발표 직후 엔비디아 주가는 급등했다.",
+      "original": "Jensen Huang reinstated as Nvidia CEO after Trump intervenes",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
+      "published": "2026-11-24T07:23+09:00",
+      "also": [
+        {
+          "source": "DW",
+          "url": "https://www.dw.com/en/nvidia-reinstates-former-ceo-jensen-huang-despite-china-espionage-scandal/a-80021926?maca=en-rss-en-bus-2091-rdf",
+          "original": "Nvidia reinstates former CEO Jensen Huang despite China espionage scandal"
+        },
+        {
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/08914b05-bbfa-478d-b38a-549acfc1aae6?syn-25a6b1a6=1",
+          "original": "Nvidia reinstates Jensen Huang as chief executive"
+        },
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss",
+          "original": "Faisal Islam: Why Jensen Huang proved too big to fire"
+        },
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html",
+          "original": "Trump tells CNBC ‘I made the deal’ to reinstate Nvidia’s Jensen Huang"
+        },
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+          "original": "The rise and fall and rise again of Jensen Huang"
+        },
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/videos/ckp80d5nl586o?at_medium=RSS&at_campaign=rss",
+          "original": "A comeback for the ages: Trump's influence on Huang's return to Nvidia"
+        },
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/videos/cq8r7e35mkzlo?at_medium=RSS&at_campaign=rss",
+          "original": "'Biggest U-turn in economic history': Experts react to Jensen Huang's return to Nvidia"
+        },
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/23/nvidia-board-jensen-huang-return",
+          "original": "Nvidia’s humiliated board should resign out of embarrassment | Nils Pratley"
+        }
+      ]
+    },
+    {
+      "id": "w38",
+      "region": "중국",
+      "title": "파인아트 아시아, 홍콩 20년 만에 선전으로 이전",
+      "summary": "홍콩에서 가장 오래된 미술·골동품 박람회 파인아트 아시아(FAA)가 2026년 행사를 선전에서 연다. 행사는 11월 26일부터 29일까지다. 창립자는 고향인 홍콩 시장의 급격한 침체를 이전 이유 중 하나로 꼽았다.",
+      "original": "Why Hong Kong’s Fine Art Asia fair has moved to Shenzhen after 20 years",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/lifestyle/arts/article/3375426/why-hong-kongs-fine-art-asia-fair-has-moved-shenzhen-after-20-years",
+      "published": "2026-11-23T14:17+09:00"
+    },
+    {
+      "id": "w32",
+      "region": "중국",
+      "title": "중국 관영 매체, ‘디플레이션 함정’ 우려 반박",
+      "summary": "중국 인민일보는 서방의 ‘디플레이션 함정’과 ‘차이나 쇼크 2.0’ 주장을 반박하며 경제 성과를 방어했다. 신문은 이런 비판이 중국에 대한 신뢰를 흔들고 무역 제한을 정당화하려는 의도라고 주장했다. 중국 경제 평가를 둘러싼 논쟁이 무역 갈등과 맞물려 있다.",
+      "original": "Chinese state media hits out at ‘deflation trap’ warnings, defends economic performance",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/china-economy/article/3375459/chinese-state-media-hits-out-deflation-trap-warnings-defends-economic-performance",
+      "published": "2026-11-23T17:06+09:00"
+    },
+    {
+      "id": "w25",
+      "region": "중국",
+      "title": "중국 증시, 정부 지원에 AI발 매도 진정",
+      "summary": "AI발 글로벌 매도세 속에서 중국 증시는 정부 지원에 힘입어 안정을 찾았다. CSI300 지수는 한때 1.3% 가까이 떨어졌지만 거의 변동 없이 마감했다.",
+      "original": "China stock support steadies market after AI-fuelled selling",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/plus/business/markets/article/3375485/china-stock-support-steadies-market-after-ai-fuelled-selling",
+      "published": "2026-11-23T18:24+09:00"
+    },
+    {
+      "id": "w17",
+      "region": "중국",
+      "title": "중국 조선사, 부실·유휴 조선소 인수로 몸집 키워",
+      "summary": "호황 속 치열한 경쟁에서 중국 조선사들이 시장 점유율을 빨리 키우려고 파산했거나 오래 놀고 있던 조선소를 인수하고 있다. 전문가 Zhong Zhechao는 처음부터 짓는 것보다 유휴·부실 자산을 되살리는 편이 훨씬 빠르다고 말했다.",
+      "original": "China’s shipbuilders turn to bankrupt, idle yards for rapid expansion amid booming market",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/china-economy/article/3375470/chinas-shipbuilders-turn-bankrupt-idle-yards-rapid-expansion-amid-booming-market",
+      "published": "2026-11-23T20:00+09:00"
+    },
+    {
+      "id": "w8",
+      "region": "중국",
+      "title": "중국 AI 공장, 중공업 넘어 패션까지 확산",
+      "summary": "장쑤성 기업 HLA그룹 공장에서는 AI 시스템이 소비자 선호를 분석하고 디자인 아이디어를 내는 데 쓰인다. 중국의 ‘플래그십’ AI 공장이 철강 같은 중공업을 넘어 소비재 분야로 넓어지고 있다는 SCMP 보도다. 셔츠 한 벌이 매장에 나오기 전부터 AI가 제조 과정에 개입할 수 있을 만큼 이 흐름이 깊어졌다.",
+      "original": "From steel to style: China’s ‘flagship’ AI factories move beyond heavy industry",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/china-economy/article/3375495/steel-style-chinas-flagship-ai-factories-move-beyond-heavy-industry",
+      "published": "2026-11-23T21:00+09:00"
+    },
+    {
+      "id": "w76",
+      "region": "아시아",
+      "title": "일본 기업의 Claude 사용, 1년 새 10배 증가",
+      "summary": "일본 기업과 기관의 앤스로픽 AI 모델 Claude 사용량이 지난 1년간 10배로 늘었다. 닛케이는 Claude의 성능에 대한 인식이 높아진 데다, 앤스로픽이 기업 고객 영업에 집중한 것이 배경이라고 전했다.",
+      "original": "Anthropic Claude use by Japanese companies up 10-fold in 1 year",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/anthropic-claude-use-by-japanese-companies-up-10-fold-in-1-year",
+      "published": null
+    },
+    {
+      "id": "w102",
+      "region": "아시아",
+      "title": "리코, 젊은 층 겨냥 간결한 컴팩트 카메라 강화",
+      "summary": "AI로 이미지를 손쉽게 만들 수 있는 시대에 일본 전자업체 리코는 오히려 기능을 단순화한 소형 카메라 같은 전통 제품에 집중하고 있다. 젊은 구매층을 노린 전략이다.",
+      "original": "Japan's Ricoh shoots for younger buyers with stripped-down cameras",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/consumer/japan-s-ricoh-shoots-for-younger-buyers-with-stripped-down-cameras",
+      "published": null
+    },
+    {
+      "id": "w71",
+      "region": "아시아",
+      "title": "스미토모, 중소기업 AI 도입 돕는 펀드 조성",
+      "summary": "일본 종합상사 스미토모는 포트폴리오 기업과 함께 중소·중견기업의 기업 가치를 높이기 위한 신규 투자펀드를 만들었다. 상사가 보유한 AI 전문성을 접목하는 것이 목표다.",
+      "original": "Japan's Sumitomo creates fund to bring AI to smaller businesses",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/finance/japan-s-sumitomo-creates-fund-to-bring-ai-to-smaller-businesses",
+      "published": null
+    },
+    {
+      "id": "w39",
+      "region": "아시아",
+      "title": "일본 정부, 가와사키중공업 해저 드론 기지 실증 지원",
+      "summary": "일본 내각부가 가와사키중공업의 해저 드론 실증 사업에 자금을 댄다. 해저 기지를 만들어 해상풍력 발전소와 해저 케이블 같은 해양 인프라를 점검하는 드론을 지원하는 사업이다.",
+      "original": "Japan backs Kawasaki Heavy's sea drone trial for offshore wind inspections",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/technology/japan-backs-kawasaki-heavy-s-sea-drone-trial-for-offshore-wind-inspections",
+      "published": null
+    },
+    {
+      "id": "w50",
+      "region": "아시아",
+      "title": "일본 종합상사, 노후 항공기 부품 시장 공략",
+      "summary": "일본 종합상사들이 항공 공급망에서 영향력을 넓히고 있다. 신형 항공기 인도가 장기간 지연되면서 항공사들이 기존 기체를 더 오래 운항하고 있어 부품 수요가 커졌다. 상사들은 글로벌 네트워크를 활용해 이 수요를 잡으려 한다.",
+      "original": "Japan trading houses grow aircraft-part ties as airlines rely on aging jets",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/transportation/japan-trading-houses-grow-aircraft-part-ties-as-airlines-rely-on-aging-jets",
+      "published": null
+    },
+    {
+      "id": "w66",
+      "region": "아시아",
+      "title": "일본정책투자은행, 임상 후기 신약 투자 회사 설립",
+      "summary": "일본정책투자은행(DBJ)이 제약사가 아니라 특정 신약 개발 프로젝트에 투자하는 전문 회사를 세웠다. 개발 비용이 오르는 상황에서 자금이 부족한 소규모 기업을 돕기 위한 것이다.",
+      "original": "Japanese state-backed lender to invest in late-stage drug trials",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/pharmaceuticals/japanese-state-backed-lender-to-invest-in-late-stage-drug-trials",
+      "published": null
+    },
+    {
+      "id": "w33",
+      "region": "아시아",
+      "title": "일본, 소비세 인하와 국방비 증액 재정 줄다리기",
+      "summary": "일본은 연말 예산 협상에서 소비세 인하와 국방비 증액 사이의 어려운 선택에 직면했다. 소비세를 내릴지, 당초 계획만큼 국방비를 늘릴지가 쟁점이다.",
+      "original": "Japan's defense spending pitted against sales tax cut in budget tug-of-war",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/japan-s-defense-spending-pitted-against-sales-tax-cut-in-budget-tug-of-war",
+      "published": null
+    },
+    {
+      "id": "w85",
+      "region": "아시아",
+      "title": "인도, 네팔 홍수 복구에 16억 달러 지원",
+      "summary": "모디 총리는 여름 대홍수에서 회복하는 네팔을 돕기 위해 2400억 네팔 루피(16억 달러) 규모의 경제 지원 패키지를 발표했다. 뉴델리에서 네팔의 발렌드라 샤 총리와 회담한 뒤 나온 발표다.",
+      "original": "India announces $1.6bn flood-recovery package for Nepal",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/international-relations/india-announces-1.6bn-flood-recovery-package-for-nepal",
+      "published": null
+    },
+    {
+      "id": "w106",
+      "region": "아시아",
+      "title": "미·인도 에너지 협력 강화, 인도 베네수엘라산 원유 급증",
+      "summary": "인도의 베네수엘라산 원유와 미국산 액화석유가스(LPG) 수입이 크게 늘었다. 트럼프 대통령이 러시아산 원유 구매를 두고 인도와 갈등을 빚은 지 1년이 넘었지만 양국 에너지 관계는 오히려 긴밀해지고 있다. 양국은 논란이 많고 지연된 무역 협정을 계속 협상 중이다.",
+      "original": "US-India energy ties tighten as New Delhi snaps up Venezuelan oil",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/energy/us-india-energy-ties-tighten-as-new-delhi-snaps-up-venezuelan-oil",
+      "published": null
+    },
+    {
+      "id": "w105",
+      "region": "아시아",
+      "title": "후티, 사우디 정유소 공격 주장…트럼프 ‘내년 타격’ 경고",
+      "summary": "예멘 후티 반군은 사우디아라비아 라비그 정유소를 공격했다고 주장했다. 피해 규모는 아직 분명하지 않다. 사우디 주도 연합군은 서부 지역으로 향한 드론을 요격해 파괴했다고 밝혔다. 외교적 노력으로 전쟁을 끝내기는 쉽지 않은 상황이다. 정유 설비가 공격받으면 유가와 공급 우려가 커질 수 있다.",
+      "original": "Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/trump-iran-war-hormuz-saudi-.html",
+      "published": "2026-11-23T12:52+09:00",
+      "also": [
+        {
+          "source": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/opinion/us-democrats-sweep-narrows-trump-s-iran-options-oil-markets-murky",
+          "original": "US Democrats' sweep narrows Trump's Iran options; oil markets murky"
+        }
+      ]
+    },
+    {
+      "id": "w109",
+      "region": "아시아",
+      "title": "블루라군 IPO, 유럽 상장 열기 이끌다",
+      "summary": "아이슬란드의 유명 지열 온천 블루라군이 기업공개(IPO)로 143억 아이슬란드 크로나(1억 1000만 달러)를 조달했다. 발행 가치는 약 7억 8700만 달러로 평가됐다. 투자자들이 앤스로픽 상장에 쏠린 사이 유럽에서는 관광과 웰니스 산업에 대한 관심을 보여주는 상장으로 주목받고 있다. 블루라군은 온천수를 연구하려고 1992년 설립된 회사에서 출발했다.",
+      "original": "Forget Anthropic: In Europe, the IPO hype is about a blue lagoon",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-iceland-blue-lagoon.html",
+      "published": "2026-11-23T17:48+09:00"
+    },
+    {
+      "id": "w97",
+      "region": "아시아",
+      "title": "아비백스, 공매도 공격 반박…주가 17% 급락 뒤 일부 회복",
+      "summary": "프랑스 바이오기업 아비백스(Abivax)의 주가는 공매도 업체 스콜피언 캐피털이 신약 오베파지모드의 과학적·안전성 문제를 지적하면서 17% 떨어졌다. 스콜피언은 회사 자체 실험 결과가 표적 기전이 아니라 세포에 대한 비특이적 독성을 시사한다고 주장했다. 회사는 보고서에 사실과 다른 내용이 많다고 반박했다. 이후 주가는 일부 회복됐다.",
+      "original": "French biotech rejects short seller’s cancer-risk claims after shares plunge 17%",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/abivax-scorpion-capital-obefazimod.html",
+      "published": "2026-11-23T18:45+09:00"
+    },
+    {
+      "id": "w93",
+      "region": "아시아",
+      "title": "COP31 기후 협상 결렬…화석연료 빠진 초안 거부",
+      "summary": "튀르키예 안탈리아에서 열린 유엔 기후회의 COP31의 협상이 일요일 결렬됐다. 11월 9일 시작된 회의에서 나온 ‘결정문’ 초안에 화석연료 내용이 빠지자 영국과 EU 등이 이를 거부했다. 안토니우 구테흐스 유엔 사무총장은 합의가 이뤄지지 않은 데 깊이 실망했다고 말했다.",
+      "original": "‘Worst COP ever’: Climate talks collapse after draft deal fails to include fossil fuels",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/cop31-climate-summit-fossil-fuels.html",
+      "published": "2026-11-23T22:16+09:00"
+    },
+    {
+      "id": "w49",
+      "region": "아시아",
+      "title": "트럼프 밈코인 1달러 아래로…비트코인은 반등",
+      "summary": "트럼프 대통령이 일요일 밈코인 $TRUMP의 최대 보유자들을 위한 세 번째 가상자산 만찬을 열었다. 이 코인은 2025년 1월 취임 직전 75달러까지 올랐지만 지금은 1달러 아래로 떨어졌다. 일부 민주당 의원은 대통령의 이해 충돌 여부를 조사하겠다고 나섰다. 트럼프는 가상자산 지지가 미국의 경제 경쟁력을 높이기 위한 것이라고 주장했다. 한편 비트코인은 2024년 9월 이후 최저 수준으로 떨어졌다가 반등했다.",
+      "original": "Trump hosts crypto gala as his meme coin falls below $1",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/trump-meme-coin-gala.html",
+      "published": "2026-11-23T23:15+09:00"
+    },
+    {
+      "id": "w75",
+      "region": "아시아",
+      "title": "미 정부, 메가스피드·앨리스 황 조사…엔비디아 칩 사건 확대",
+      "summary": "미국 국가정보국장(DNI) 제이 클레이턴은 싱가포르 기업 메가스피드(Megaspeed)와 앨리스 황을 조사 중이라고 밝혔다. 그는 일요일에 조사가 ‘진행 중’이라고 말했다. 한 보도는 앨리스 황의 전직 측근이 이 회사의 핵심 의사결정자였다고 지목했다. 메가스피드는 동남아 곳곳에서 데이터센터를 운영하는 클라우드 기업이다. 젠슨 황이 사임한 데에는 앨리스 황과의 관계도 일부 작용했다는 것이 보도의 내용이다.",
+      "original": "U.S. probes Megaspeed, Alice Huang as new figure emerges in Nvidia chip case",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-megaspeed-chipmaker-us.html",
+      "published": "2026-11-23T23:40+09:00",
+      "also": [
+        {
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/6b4e5bfb-d566-4a61-a12c-057881a261b8?syn-25a6b1a6=1",
+          "original": "US lawmakers vow to sharpen Huang probes as he returns to Nvidia"
+        },
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-trump-bessent-china.html",
+          "original": "Peterson: Here’s what Bessent’s about-face on Jensen Huang reveals about Trump and China"
+        },
+        {
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/28cb9178-ac22-44b9-99f5-d5f25a86d366?syn-25a6b1a6=1",
+          "original": "What Nvidia tells us about America and China"
+        }
+      ]
+    },
+    {
+      "id": "w101",
+      "region": "아시아",
+      "title": "모기지 금리 급등에 미국 주택 시장 꽁꽁",
+      "summary": "9월 모기지 금리가 급격히 오르면서 미국 주택 시장이 깊게 얼어붙었다. 30년 고정 모기지 평균 금리는 7월 약 6.60%에서 10월 초 7.61%로 1%포인트 가까이 뛰었다. 매수자와 매도자 모두 관망하면서 거래가 줄었고 부동산 업계도 타격을 받고 있다. 한 전문가는 3개월 만에 1%포인트 오른 것이 수십 년 사이 가장 빠른 상승 중 하나라고 말했다.",
+      "original": "Stuck: How a frozen housing market is hitting buyers, sellers and the economy",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/housing-market-real-estate-economy.html",
+      "published": "2026-11-24T00:22+09:00"
+    },
+    {
+      "id": "w79",
+      "region": "아시아",
+      "title": "토큰화 주식 거래소 OKXICE 출범…발행사 반발",
+      "summary": "ICE와 OKX가 함께 운영하는 토큰화 증권 거래 플랫폼 OKXICE가 월요일 문을 연다. 처음 거래 대상으로 제시된 62개 기업 중 56곳이 자사 주식을 토큰화해 거래하는 데 반대했다. 이 수치는 10월 4일부터 11월 5일까지 공고된 내용을 기준으로 집계됐으며, 그 뒤에는 반대 기업이 더 늘었다. 반대율이 높은 것은 기업들이 제도를 충분히 이해하지 못한 탓일 수 있다는 분석이 나온다.",
+      "original": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/tokenized-stocks-face-pushback-as-nyse-nasdaq-pivot-for-a-new-market-.html",
+      "published": "2026-11-24T00:30+09:00"
+    },
+    {
+      "id": "w65",
+      "region": "아시아",
+      "title": "크라우드스트라이크, 지스케일러 439억 달러 인수",
+      "summary": "크라우드스트라이크가 지스케일러(Zscaler)를 439억 달러 규모의 전량 주식 교환 방식으로 인수한다. 지스케일러 주주는 주식 1주당 크라우드스트라이크 주식 1.135주를 받는다. 거래는 크라우드스트라이크 회계연도 2028년 하반기에 마무리될 예정이다. 이번 인수로 크라우드스트라이크는 네트워크 보안 시장에 진출하게 된다. AI가 사이버 공격을 키우면서 보안 업계의 대형 M&A가 이어지고 있다.",
+      "original": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html",
+      "published": "2026-11-24T06:04+09:00"
+    },
+    {
+      "id": "w89",
+      "region": "아시아",
+      "title": "2년물 금리 급등…윌리엄스 뉴욕 연준 총재 발언 주목",
+      "summary": "주식이 강하게 반등하면서 미국 단기 국채 금리가 올랐다. 연준 금리 결정에 가장 민감한 2년물 국채 금리는 0.07%포인트 넘게 올라 4.69%를 기록했다. 10년물 금리는 4.932%로 소폭 올랐다. 투자자들은 존 윌리엄스 뉴욕 연준 총재의 발언을 기다리고 있었다.",
+      "original": "2-year Treasury yield jumps as stocks rebound, investors await New York Fed President Williams speech",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/treasury-yields-bonds-fed.html",
+      "published": "2026-11-24T06:05+09:00"
+    },
+    {
+      "id": "w110",
+      "region": "글로벌",
+      "title": "Arm 르네 하스, 엔비디아 접촉 뒤 장기 헌신 재확인",
+      "summary": "영국 반도체 설계사 Arm의 최고경영자 르네 하스가 새 계약에 서명하며 회사에 대한 장기 헌신을 재확인했다. 그는 젠슨 황의 후임 후보로 거론되며 접촉을 받았던 것으로 전해졌다. 이번 계약은 그가 Arm에 남기로 한 결정을 보여준다.",
+      "original": "Rene Haas affirms his ‘long-term commitment’ to Arm after Nvidia approach",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/6f3e2cbe-9ce4-47e7-be69-a2e765da8f9c",
+      "published": "2026-11-23T21:28+09:00"
+    },
+    {
+      "id": "w107",
+      "region": "글로벌",
+      "title": "EU 재가입만으로는 영국 경제 못 살린다",
+      "summary": "FT 칼럼은 버넘 총리가 단기 정치에는 능하지만 장기 경제 전략이 필요하다고 지적한다. EU에 다시 가입한다고 영국 경제가 저절로 살아나지는 않는다는 주장이다.",
+      "original": "Joining the EU won’t save the UK economy by itself",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/e5a85fb7-d980-4c34-9857-c57eff52c3c7?syn-25a6b1a6=1",
+      "published": "2026-11-23T21:31+09:00"
+    },
+    {
+      "id": "w103",
+      "region": "글로벌",
+      "title": "EU, 코카콜라 병입사 시장지배력 남용 조사 착수",
+      "summary": "유럽연합(EU) 집행위원회가 코카콜라 유럽 병입사(Coca-Cola Europacific Partners)가 시장지배적 지위를 남용했는지 조사에 나섰다.",
+      "original": "EU launches antitrust probe into Coca-Cola bottler",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/a9686a35-ba71-4f5c-8fe8-ca3bc34a67b1?syn-25a6b1a6=1",
+      "published": "2026-11-23T21:32+09:00"
+    },
+    {
+      "id": "w99",
+      "region": "글로벌",
+      "title": "마크롱, 프랑스 재정 ‘황금률’ 제안",
+      "summary": "마크롱 대통령이 정부 지출에 상한을 두고 향후 재정적자를 억제하기 위해 헌법을 개정하자고 제안했다. 야당이 내놓은 안과 비슷한 구상이다.",
+      "original": "Macron proposes French budget ‘golden rule’",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/23e88085-9259-472d-8831-b3d88e1c4698?syn-25a6b1a6=1",
+      "published": "2026-11-23T22:22+09:00"
+    },
+    {
+      "id": "w95",
+      "region": "글로벌",
+      "title": "유럽 자율주행 경쟁, 메르세데스가 테슬라 앞서",
+      "summary": "유럽이 지능형 자동차와 로보택시의 새 격전지로 떠올랐다. FT는 이 경쟁에서 메르세데스가 테슬라보다 한발 앞서 있다고 전했다.",
+      "original": "Mercedes gets edge over Tesla in race for self-driving success in Europe",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/d69b4757-1fd0-40f6-b131-63832fc8e4d0?syn-25a6b1a6=1",
+      "published": "2026-11-23T22:40+09:00"
+    },
+    {
+      "id": "w81",
+      "region": "글로벌",
+      "title": "인도가 스타링크를 받아들이지 않는 이유",
+      "summary": "일론 머스크가 인도 재벌 암바니를 공개적으로 비난하고 나섰다. 이런 설전은 안보와 주권을 중시하는 인도 정부를 설득하는 데 도움이 되지 않는다는 것이 기사의 분석이다.",
+      "original": "Why India isn’t embracing Starlink",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/56e2a4a7-f604-4e32-afba-32016d5c8cd1",
+      "published": "2026-11-24T00:15+09:00"
+    },
+    {
+      "id": "w72",
+      "region": "글로벌",
+      "title": "콩고민주공화국, 코발트 수출 금지 재도입",
+      "summary": "세계 최대 코발트 생산국인 콩고민주공화국이 코발트 수출을 다시 금지했다. 2년 사이 두 번째로 공급을 끊어 시장에서 지렛대를 확보하고 가격을 떠받치려는 조치다.",
+      "original": "DR Congo reimposes cobalt export ban to shore up prices",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/7421ec30-dde5-409a-971c-64359c21ea3d?syn-25a6b1a6=1",
+      "published": "2026-11-24T01:13+09:00"
+    }
+  ]
+}

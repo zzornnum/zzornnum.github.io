@@ -11,23 +11,27 @@
       "headlines": [
         {
           "title": "'젠슨 황 돌아왔는데 이게 뭐냐'…삼전닉스 개미들 부글부글 [종목+]",
-          "source": "네이버 금융",
-          "date": "2026-11-25"
+          "source": "한국경제",
+          "date": "2026-11-25",
+          "url": "https://n.news.naver.com/mnews/article/015/0005357835"
         },
         {
           "title": "\"SK하이닉스 Y1 발주 시작…반도체 소부장 '새 성장 사이클'\"-한화",
-          "source": "네이버 금융",
-          "date": "2026-11-25"
+          "source": "한국경제",
+          "date": "2026-11-25",
+          "url": "https://n.news.naver.com/mnews/article/015/0005357850"
         },
         {
           "title": "젠슨 황 CEO 복귀로 한숨 돌린 K반도체…미국 의회 조사는 남은 변수",
-          "source": "네이버 금융",
-          "date": "2026-11-24"
+          "source": "마켓잉크",
+          "date": "2026-11-24",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5LR3drRldqSG5fYlI3ZlRNYjJqNXhJeFB6YURJcXhYcjhZRXBCLTJMR2tDbm0xVFRoTTJobDk2aFQwdXVocUNTMHg1MXp5NzZqLWlBRm9wM3JjVW5qbGxaeHVneU5JcGtxNm84SHZ3NA?oc=5"
         },
         {
           "title": "\"400만닉스는 커녕 100만닉스도 위태\"…폭락 맞춘 BNK의 경고 [종목+]",
-          "source": "네이버 금융",
-          "date": "2026-11-24"
+          "source": "한국경제",
+          "date": "2026-11-24",
+          "url": "https://n.news.naver.com/mnews/article/015/0005357795"
         }
       ]
     },
@@ -39,18 +43,21 @@
       "headlines": [
         {
           "title": "삼성 준감위 “삼성전자 주주환원 결정 시점, 이해상충 해당 안돼”",
-          "source": "네이버 금융",
-          "date": "2026-11-24"
+          "source": "헤럴드경제",
+          "date": "2026-11-24",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VSk1YcmdlcmZ3SUxLUGJsMUMyUTJKV0RqOERzUjFSUS1mVmNXaGRDdFVqbnBadU5rTGdISjYtb3hHajl2cDZfQmVrOEhQZml6OGNvRjJ3?oc=5"
         },
         {
           "title": "삼성전자, 中 시안 V9 낸드 생산 5배 확대…AI 수요 대응",
-          "source": "네이버 금융",
-          "date": "2026-11-24"
+          "source": "서울경제",
+          "date": "2026-11-24",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rNmxlTVI1MEd1NlFCbGl5dmV3ZDBDblR5bmhoRzAyelN4UzFWMjZqby01V2dyWlNWZmFnSl9kVG43a2tsSzh1TWg4SUdVUEZ3V3fSAVNBVV95cUxOMHZYbkcxZGhOellEMXRlSklOOHM2Tm1ZNGtwek43MDJjdDEySlFsTUlMLUxGcVR2Z2hsd0hZcFh3bG1DQzJjVjNfeWJYMlNoUzFWVQ?oc=5"
         },
         {
           "title": "“내년 eSSD 수요 55% 늘어난다”…삼성, 中 시안팹 고도화",
-          "source": "네이버 금융",
-          "date": "2026-11-24"
+          "source": "서울경제",
+          "date": "2026-11-24",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxQWdid2wwRGdiWWJZT2NMTm1adUViSGJiYTQ3ZEtBQnVBN1ZMMG5MYVBwbEl4UEI1MHdnaExsT1RfTGRLR2dqS2FUYS1LaEZGWnfSAVNBVV95cUxPTWpXNlo3MVNFclJJOWdpbE9MX3pTY3RGeFZSWjllNjJKbkZKSHh4Vkp6enVOc0VVemxzZjVQa2tINmpXRmtWRHJoSHFVeDhURExNSQ?oc=5"
         }
       ]
     },
@@ -62,18 +69,21 @@
       "headlines": [
         {
           "title": "아바코, 자사주 68만5135주 소각 결정",
-          "source": "네이버 금융",
-          "date": "2026-11-23"
+          "source": "뉴스핌",
+          "date": "2026-11-23",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fck9WUGFGVm5GNDlDTTBjUkZUUE9qbkV2MEJHSU56MVpoalBLQ0JoLWd0M3E4M3V0OTlSZUlwdm5YamkzeFhkNjBaMjZfbFZWZ3JLYmF0c0Jpd2FV?oc=5"
         },
         {
           "title": "(주)아바코 주식소각 결정",
           "source": "DART 공시",
-          "date": "2026-11-23"
+          "date": "2026-11-23",
+          "urlChecked": true
         },
         {
           "title": "(주)아바코 자기주식취득 신탁계약 해지 결정",
           "source": "DART 공시",
-          "date": "2026-11-23"
+          "date": "2026-11-23",
+          "urlChecked": true
         }
       ]
     },
@@ -86,12 +96,14 @@
         {
           "title": "DL이앤씨, 성수2지구 시공사 선정…'아크로 성수' 2조137억원 수주",
           "source": "네이버 금융",
-          "date": "2026-11-23"
+          "date": "2026-11-23",
+          "urlChecked": true
         },
         {
           "title": "건설주, 트럼프 '해외 데이터센터 과세' 경고에 '우수수' [종목+]",
-          "source": "네이버 금융",
-          "date": "2026-11-24"
+          "source": "한국경제",
+          "date": "2026-11-24",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Wc2dudUlwMTA1MmJXTHA2cFNqQ0dZcFoydF9EU0tmZUZOM29jb1ozSjFjUFlIRVdYT0NyRmJhLTFZUmZSZXRYSElNdS03Mk55dG9qSFlUYndTQQ?oc=5"
         }
       ]
     },
@@ -103,18 +115,21 @@
       "headlines": [
         {
           "title": "한화, 10조 들여 국방 AIDC 짓는다",
-          "source": "네이버 금융",
-          "date": "2026-11-24"
+          "source": "파이낸셜뉴스",
+          "date": "2026-11-24",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YVWQ2R21YQUQ1eU5SVjlYeExTLWFtNE9NTFBScE5qV3pXcl9wQk0tbngtRjUtUUF5S2x2bGR5enNFTEx2Nmh3bkt5N3FXcUxDaWludnVSTHpHZw?oc=5"
         },
         {
           "title": "한화에어로, 창원에 국방 AI 데이터센터 구축…2028년 첫 가동",
-          "source": "네이버 금융",
-          "date": "2026-11-24"
+          "source": "부산경남대표방송 KNN 뉴스",
+          "date": "2026-11-24",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83dzNhMHZ2cXk2NDktQmVkcGRUemFQTXBPYjlHU3MxdkVOVEFxUm1qOFFkVHdUQTIwY2YyWU8wMkZTek9oaEZtRHd4ZXFJUklsd3V0SQ?oc=5"
         },
         {
           "title": "6000억 몸값 놓고 이견…한화, 라이온로보틱스 투자 철회",
           "source": "네이버 금융",
-          "date": "2026-11-25"
+          "date": "2026-11-25",
+          "urlChecked": true
         }
       ]
     },
@@ -127,12 +142,14 @@
         {
           "title": "한화머시너리앤서비스홀딩스 주식회사 소송등의제기ㆍ신청(일정금액 이상의 청구)(자회사의 주요경영사항)",
           "source": "DART 공시",
-          "date": "2026-11-23"
+          "date": "2026-11-23",
+          "urlChecked": true
         },
         {
           "title": "[단독] 아워홈, 한화리조트에 새 뷔페 ‘다이브’…식음사업 협력 본격화",
-          "source": "네이버 금융",
-          "date": "2026-11-23"
+          "source": "헤럴드경제",
+          "date": "2026-11-23",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2bGVLeGlYUDQ2Q3huLU9uX0JFY1gtZzg3T1FXV3VsMG95UEhkS3hhR2N5VTVDcEhsWVhQWVlKVDMwUEs2QmJZTUNJYnVpZ0VYMzFJNWhwMA?oc=5"
         }
       ]
     },
@@ -144,8 +161,9 @@
       "headlines": [
         {
           "title": "앱 재단장 메리츠證, 연 5.9% 특판 발행어음 출시…최소 가입액은?",
-          "source": "네이버 금융",
-          "date": "2026-11-23"
+          "source": "지디넷코리아",
+          "date": "2026-11-23",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sUWxMQzBJZTlueUtyekVfU21CY2pNdmxBWHotSzVuOU9lMFlXTEp4R0g2cV9hZV9LZk9FYnZ2V0RNTWJhd2p6ZXYwT0tFeW9ieFVycERn?oc=5"
         }
       ]
     },
@@ -158,12 +176,14 @@
         {
           "title": "세방전지(주) 기업설명회(IR) 개최(안내공시)",
           "source": "DART 공시",
-          "date": "2026-11-23"
+          "date": "2026-11-23",
+          "urlChecked": true
         },
         {
           "title": "[오늘의 IR] 대한항공ㆍ감성코퍼레이션ㆍ덕산넵코어스 등",
-          "source": "네이버 금융",
-          "date": "2026-11-25"
+          "source": "이투데이",
+          "date": "2026-11-25",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXbEltODhXc20zZWl1UGlPR0ZTWExpNjVKRXB5b00yWlZMLUl6V2ZBX0xITDFhdU5TenlzOUtGam9GUGdXcVFWLTZ4bmNIZmo0QlV0SA?oc=5"
         }
       ]
     },
@@ -175,8 +195,9 @@
       "headlines": [
         {
           "title": "[장중수급포착] 한솔아이원스, 외국인 6일 연속 순매수행진... 주가 +7.00%",
-          "source": "네이버 금융",
-          "date": "2026-11-24"
+          "source": "뉴스핌",
+          "date": "2026-11-24",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IQ0hNUF9hejRiOUNkN0l5eEg1TnUwOEwzVzI1akxoWVltMkJBZjRwRU9zWmEzNGZwVUM1NjZZb3BKbVdGMlJzajU0Ykxnc0lfcTB4RUZXajBPTWZS?oc=5"
         }
       ]
     },
@@ -189,12 +210,14 @@
         {
           "title": "JW중외제약(주) 유동성공급계약의 체결",
           "source": "DART 공시",
-          "date": "2026-11-24"
+          "date": "2026-11-24",
+          "urlChecked": true
         },
         {
           "title": "다음 달부터 희귀·중증난치질환 본인부담률 10%→7% 인하",
-          "source": "네이버 금융",
-          "date": "2026-11-24"
+          "source": "이투데이",
+          "date": "2026-11-24",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSZEUwcTMyZmV6YkVsOTYwRDFLakdGSjBsVjlvLS13ZERnOHJBVEp4ZFhWdlJsWTFkbjZndUJUd0x3aUpGS1ctMEFKY2QteFlPWll1eA?oc=5"
         }
       ]
     },
@@ -206,13 +229,15 @@
       "headlines": [
         {
           "title": "[리포트 브리핑]휴젤, '2027년, 미국 직판 효과를 숫자로 증명할 때' 목표가 290,000원 - KB증권",
-          "source": "네이버 금융",
-          "date": "2026-11-24"
+          "source": "뉴스핌",
+          "date": "2026-11-24",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE01Y1dTdDZ1aEh0ZVFvUXJpLVVPVjBwejdSNnB1aENNSmtXdGs2aG5jUVMtWTRaTzVpdUxkY0dfNjdNZnZ5Y3ZiSV9LVEQzcGJvRDZBbG4wVVMyb0hC?oc=5"
         },
         {
           "title": "휴젤, 창립 25주년 맞아 글로벌 의료진 400명 초청…생산 현장 공개",
-          "source": "네이버 금융",
-          "date": "2026-11-24"
+          "source": "조선비즈",
+          "date": "2026-11-24",
+          "url": "https://n.news.naver.com/mnews/article/366/0001206966"
         }
       ]
     }

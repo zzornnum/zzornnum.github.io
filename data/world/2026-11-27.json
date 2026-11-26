@@ -1,0 +1,668 @@
+{
+  "date": "2026-11-27",
+  "generatedAt": "2026-11-27T07:54+09:00",
+  "items": [
+    {
+      "id": "w104",
+      "region": "미국",
+      "title": "밴스 '젠슨 황, 수사 대상 아니다'…법무부 확인 주장",
+      "summary": "JD 밴스 부통령은 토드 블랜치 법무장관으로부터 젠슨 황 엔비디아 CEO가 수사 대상이 아니라는 말을 들었다고 밝혔다. 법무부와 국가안보 당국의 여러 관계자가 황 CEO가 어떤 수사도 받지 않는다고 말했다는 것이다. 이 발언은 트럼프 대통령이 CNBC 인터뷰를 한 지 이틀 뒤에 나왔다. 엔비디아 경영진을 둘러싼 불확실성에 대한 시장의 질문은 이어지고 있다.",
+      "original": "Vance says he was assured Jensen Huang was not under DOJ investigation",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html",
+      "published": "2026-11-26T06:00+09:00"
+    },
+    {
+      "id": "w83",
+      "region": "미국",
+      "title": "S&P, 엔비디아 신용등급 하향 가능성 경고",
+      "summary": "S&P글로벌레이팅스가 엔비디아의 신용등급이 한 단계 낮아질 수 있다고 경고했다. 향후 90일 안에 경영·지배구조 체계의 결함이 계속되면 하향될 수 있다는 것이다. 젠슨 황 CEO의 축출과 복귀 이후 불거진 경영 불확실성과 수출 통제 위반 의혹이 배경으로 꼽혔다. S&P는 특히 이사회의 구조와 구성, 효율성을 취약점으로 지목했다. 엔비디아의 자금 조달 비용과 투자 심리에 영향을 줄 수 있는 신호다.",
+      "original": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
+      "published": "2026-11-26T12:19+09:00"
+    },
+    {
+      "id": "w45",
+      "region": "미국",
+      "title": "스페이스X·머스크, 트럼프 계좌 활성 가입자에 주식 기부",
+      "summary": "스페이스X가 활성 상태인 모든 '트럼프 계좌(Trump Accounts)'에 클래스 A 주식 1주씩을 기부한다고 발표했다. 일론 머스크 CEO도 개인적으로 같은 규모를 추가로 기부한다. 백악관은 10월 기준 약 7천만 개의 계좌가 만들어졌고, 그중 6천만 개 넘게 자동 등록됐다고 밝혔다. 회사는 미래 시스템을 만드는 기업의 소유권을 다음 세대 미국인에게도 넓히겠다는 취지를 밝혔다. 기업이 개인 계좌에 지분을 나누는 독특한 사례다.",
+      "original": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html",
+      "published": "2026-11-26T15:39+09:00"
+    },
+    {
+      "id": "w77",
+      "region": "미국",
+      "title": "스페이스X '스타마인드' 위성 100만 기 발사 승인",
+      "summary": "미국 연방통신위원회(FCC)가 스페이스X에 우주 데이터센터 구축을 위해 위성 100만 기를 지구 궤도에 쏘아 올리는 것을 승인했다. 프로젝트명은 '스타마인드(Starmind)'다. 태양광으로 전력을 얻는 위성이 AI용 데이터를 처리해 지구로 결과를 보내는 구조다. FCC는 이번 사업이 미국의 '초지능 경제'를 뒷받침할 것이라고 밝혔다. 경쟁사 아마존은 이를 '현실과 거리가 먼 야심'이라고 비판했다. 우주 기반 AI 인프라 경쟁이 본격화되는 신호다.",
+      "original": "Musk's plan to send a million SpaceX data satellites into space approved",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T18:27+09:00"
+    },
+    {
+      "id": "w12",
+      "region": "미국",
+      "title": "미국 신규 관세 압박…무역협정 서두르는 교역국들",
+      "summary": "미국 행정부가 14개 교역 상대국에 대한 새로운 관세안을 내놓으며 무역협정 체결 압박을 높이고 있다. 과잉 산업 생산 능력을 명분으로 한 이번 관세안은 EU, 한국, 스위스, 대만에 15%부터 시작해 베트남에는 최대 35%까지 부과될 수 있다. 무역대표부는 무역협정을 체결했거나 협상 중인 국가에는 상한을 더 낮추겠다고 밝혔다. 중국, 베트남, 인도 등이 특히 강한 압박을 받고 있다. 한국 수출 기업에게는 협상 결과에 따라 달라질 중요한 변수다.",
+      "original": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
+      "published": "2026-11-26T21:46+09:00",
+      "also": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/economy/china-economy/article/3375960/china-slams-us-tariff-proposals-analysts-say-trade-talks-remain-track",
+          "original": "China slams US tariff proposals, but analysts say trade talks remain on track"
+        },
+        {
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/17a849f1-7e64-4f56-b756-ccf12662ebff?syn-25a6b1a6=1",
+          "original": "Trump doubles down on his tariff agenda"
+        },
+        {
+          "source": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/asia-rejects-basis-of-new-trump-tariffs-as-us-gathers-china-ammunition",
+          "original": "Asia rejects basis of new Trump tariffs as US gathers China ammunition"
+        },
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/26/trump-us-tariff-india-trade.html",
+          "original": "How Trump’s latest tariff moves hand India an edge over rival Asian exporters"
+        }
+      ]
+    },
+    {
+      "id": "w59",
+      "region": "미국",
+      "title": "엔비디아·AI 랠리 아직 안심 못 해…악재 산적",
+      "summary": "엔비디아와 AI 관련 투자 흐름이 여전히 위험하다는 분석이 나왔다. 'AI 은행'으로 불리는 이 흐름에는 여러 문제가 남아 있다는 지적이다. 단기 반등에 과도하게 기대하기는 어렵다는 평가다.",
+      "original": "Nvidia and the whole AI trade aren’t out of the woods — not by a long shot",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidia-and-the-whole-ai-trade-arent-out-of-the-woods-not-by-a-long-shot-bccc0025?mod=mw_rss_topstories",
+      "published": "2026-11-26T23:00+09:00"
+    },
+    {
+      "id": "w85",
+      "region": "미국",
+      "title": "매파적 연준, 증시 급락에도 금리 인상 임박",
+      "summary": "미국 중앙은행 관계자들은 증시 혼란과 기술주 매도에도 물가를 가장 큰 걱정거리로 보고 있다. 금리 인상 쪽으로 기울고 있다는 평가다. 기술주 중심 매도로 경기 우려가 커지고 있지만 인플레이션 대응이 우선이라는 메시지다.",
+      "original": "Hawkish Fed poised to raise rates despite stock market turmoil",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/3890f725-66dd-4613-8a60-d9e3ea38d25a?syn-25a6b1a6=1",
+      "published": "2026-11-26T23:58+09:00"
+    },
+    {
+      "id": "w81",
+      "region": "미국",
+      "title": "미국 식품 가격 위기 실재?…추수감사절 물가 데이터 점검",
+      "summary": "미국이 실제로 식품 감당 부담(affordability) 위기에 직면했는지를 데이터로 따져 본 FT 기사다. 추수감사절을 앞두고 식료품 물가를 둘러싼 논쟁을 데이터로 살펴보는 내용이다.",
+      "original": "Bringing data to the Thanksgiving table",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/1c91974e-8b52-4bd6-a9c3-fb42c1d02cf4?syn-25a6b1a6=1",
+      "published": "2026-11-27T00:26+09:00"
+    },
+    {
+      "id": "w2",
+      "region": "미국",
+      "title": "반도체, 2026년 원유·가스 제치고 최대 수출품으로",
+      "summary": "AI 붐에 힘입어 반도체가 2026년 처음으로 전 세계 수출액에서 원유·천연가스를 앞질렀다. 도이체방크가 국제무역센터(ITC) 데이터를 분석한 결과다. 그러나 이 이정표는 투자자들이 AI 지출 전망을 다시 따지며 반도체주가 크게 흔들린 시점과 겹쳤다. 필라델피아 반도체지수(SOX)는 지난 금요일 하루에만 11% 가까이 떨어졌고, 그 전 주에는 25년 만의 최악 주간 손실을 기록했다. 반도체의 수출 위상과 주가 변동성이 함께 커지고 있어 한국 반도체 업황을 볼 때도 참고할 신호다.",
+      "original": "Semiconductor chips are the new oil. Here's why",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
+      "published": "2026-11-27T02:52+09:00"
+    },
+    {
+      "id": "w4",
+      "region": "미국",
+      "title": "트럼프 신규 관세, 첫 충격보다 약해…협상 여지",
+      "summary": "이번 트럼프 행정부의 관세 발표는 지난해 4월 '해방의 날' 때처럼 요란하지 않았고, 추가 협상을 거론하는 등 잠정적인 성격이 강하다고 BBC의 파이살 이슬람이 분석했다. 미국 무역대표부(USTR)의 그리어 대표는 과잉 생산 능력을 다루는 다자간 협상을 기대한다고 CNBC에 말했다. 세계 각국은 첫 관세 충격에 대응해 교역 경로를 바꿔 왔고, 이제는 트럼프 임기 이후를 내다보고 있다는 평가다. 이번 조치는 관세의 국내 법적 기반을 보강하려는 성격이 크다는 시각도 많다. 한국 수출 기업에는 위협의 강도가 한풀 꺾였다는 신호로 읽히지만, 협상 결과에 따라 변동성은 남아 있다.",
+      "original": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T04:55+09:00"
+    },
+    {
+      "id": "w78",
+      "region": "유럽",
+      "title": "영국 에너지비 급등…가스 외 비용 줄이는 정책 필요",
+      "summary": "영국 에너지 요금 상한이 가스 가격 상승으로 이번에 443파운드 올랐다. 2027년 요금 상한이 분기마다 2,000파운드를 넘을 수 있다는 예측도 나온다. 칼럼니스트는 가스 가격은 정부가 통제할 수 없지만 다른 에너지 비용은 더 강하게 줄일 수 있다고 주장했다. 가스 가격은 호르무즈 해협 상황이 안정되면 떨어질 수 있다는 전망도 있다. 에너지 비용은 가계 소비와 물가에 직결되는 변수다.",
+      "original": "Ministers can’t control gas prices, but they can attack other energy costs more ruthlessly",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/25/energy-bills-gas-prices-electricity-costs",
+      "published": "2026-11-26T04:21+09:00",
+      "also": [
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/25/the-guardian-view-on-rising-energy-prices-only-bold-action-can-win-public-confidence",
+          "original": "The Guardian view on rising energy prices: only bold action can win public confidence | Editorial"
+        }
+      ]
+    },
+    {
+      "id": "w39",
+      "region": "유럽",
+      "title": "펜더 스트라토캐스터 복제품 두고 독일과 법적 분쟁",
+      "summary": "미국 기타 회사 펜더가 자사의 대표 모델 스트라토캐스터를 본뜬 저가 제품을 만드는 독일 업체와 분쟁을 벌이고 있다. 독일의 온라인 악기 유통업체 Thomann의 매장 현장도 이 싸움의 무대로 소개된다. 대서양 양쪽에서 벌어지는 이 다툼은 상표와 디자인 보호를 둘러싼 것이다. 악기 시장의 복제품 경쟁을 보여주는 사례다.",
+      "original": "Guitar wars - the transatlantic battle over the Stratocaster",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T09:01+09:00"
+    },
+    {
+      "id": "w74",
+      "region": "유럽",
+      "title": "유럽 부유층, AI 매도 속 주식 대신 대체투자로",
+      "summary": "골드만삭스 얼터너티브 운용부문이 처음 실시한 고자산가 설문에서 유럽 응답자의 47%가 AI와 미래 기술 성장에 노출되는 가장 좋은 방법으로 대체투자를 꼽았다. 미국 투자자는 24%에 그쳤다. 사모펀드 등 대체자산에 대한 이해도도 미국과 유럽 간 차이가 크다는 결과다. 공개 시장이 흔들리는 가운데 자산 배분이 바뀌고 있다는 신호다.",
+      "original": "Wealthy Europeans look beyond stocks amid AI selloff. Here’s where they’re investing",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/wealthy-europeans-alternative-investments-ai.html",
+      "published": "2026-11-26T16:23+09:00"
+    },
+    {
+      "id": "w79",
+      "region": "유럽",
+      "title": "유럽 최대 위성 공장 개소…스타링크 견제 나서",
+      "summary": "벨기에 위성 기업 에어로스페이스랩이 유럽 최대 규모의 위성 공장을 열었다. 2만 제곱미터 규모로 연간 최대 500기의 위성을 생산할 수 있어 세계에서 세 번째로 큰 생산 시설이 된다. 회사는 지난 9월 EU의 위성 인터넷 사업 IRIS²에 쓰일 위성 264기를 만드는 24억 유로 규모 계약을 따냈다. 유럽이 미국 스페이스X의 스타링크에 맞서 우주 인프라의 자립도를 높이려는 흐름이다.",
+      "original": "Taking on Starlink: Europe’s largest satellite factory opens in push to rival Musk",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/starlink-satellites-aerospacelab-factory-belgium.html",
+      "published": "2026-11-26T16:45+09:00"
+    },
+    {
+      "id": "w103",
+      "region": "유럽",
+      "title": "英 경쟁청, 민간 치과 시장 개편 촉구",
+      "summary": "영국 경쟁시장청(CMA)이 80억 파운드 규모의 민간 치과 시장을 개편해야 한다고 촉구했다. 조사 결과 물가 상승률을 웃도는 연간 가격 인상, 고가 치료를 더 팔도록 하는 실적 목표 등 '여러 우려 사항'이 확인됐다. 지역에 따라 가격 차이가 크고, 환자 이익에 맞지 않을 수 있는 영업 관행도 발견됐다. 시장 경쟁을 촉진해야 한다는 결론이다.",
+      "original": "UK watchdog calls for shake-up of private dentistry market amid ‘catalogue of concerns’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/nov/26/uk-watchdog-calls-for-shake-up-of-private-dentistry-market",
+      "published": "2026-11-26T17:13+09:00"
+    },
+    {
+      "id": "w99",
+      "region": "유럽",
+      "title": "FCA, 자동차금융 보상금 계산 오류 인정…바클레이즈 합의 중단",
+      "summary": "영국 금융감독청(FCA)이 자동차 금융 사태 피해자 보상안 일부를 잘못 계산했다고 인정했다. 소액 대출 계약 일부를 잘못 분류해 평균 보상액에 영향을 준다는 것이다. FCA는 이 문제를 해결할 때까지 바클레이즈에 합의금 제시를 중단하라고 지시했다. 보상안 규모는 91억 파운드이며, 이에 대한 법적 도전도 진행 중이다. 금융사의 보상 비용 부담이 커질 수 있다는 점에서 영국 금융주에 관련 이슈다.",
+      "original": "UK regulator admits error in calculating car finance compensation payments",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/26/uk-regulator-admits-error-in-calculating-car-finance-compensation-payments",
+      "published": "2026-11-26T18:18+09:00",
+      "also": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
+          "original": "Car finance compensation payments explained"
+        }
+      ]
+    },
+    {
+      "id": "w41",
+      "region": "유럽",
+      "title": "UBS 위기 대응 계획 '실행 가능'…자본 확충 법안과 충돌",
+      "summary": "스위스 금융감독청(FINMA)이 UBS의 위기 대응 계획을 원칙적으로 실행 가능하다고 평가했다. 그러나 스위스 최대 은행 UBS는 외국 자회사에 더 많은 자본을 쌓도록 하는 방안을 두고 의회와 또 한 차례 격전을 앞두고 있다. FINMA는 크레디트스위스를 인수한 뒤 UBS의 '안전한 실패' 능력이 나아졌다고 밝혔다. 자본 규제 강화 논쟁이 은행 수익성에 영향을 줄 수 있다는 점에서 금융권이 주목할 사안이다.",
+      "original": "Switzerland’s biggest bank set for showdown with lawmakers as capital fight intensifies amid crisis planning",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/ubs-swiss-capital-rules-finma-crisis-plan.html",
+      "published": "2026-11-26T20:17+09:00"
+    },
+    {
+      "id": "w27",
+      "region": "유럽",
+      "title": "트래블로지, 전 투이 임원 피터 크루거 신임 CEO 선임",
+      "summary": "영국 저가 호텔 체인 트래블로지가 12월부터 이끌 새 최고경영자로 전 투이(Tui) 임원 피터 크루거를 선임했다. 전임 CEO 조 보이들은 여러 지점에서 안전 문제가 제기된 뒤 올여름 사임했다. 크루거는 임시 CEO였던 레이 레이디의 뒤를 잇는다. 경영진 교체를 통해 안전 관리 체계를 다시 세우려는 흐름으로 보인다.",
+      "original": "New boss appointed to lead Travelodge",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wx89kg0eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T21:03+09:00"
+    },
+    {
+      "id": "w5",
+      "region": "유럽",
+      "title": "영국 주담대 차주 43만 명, 월 500파운드 넘게 부담 증가",
+      "summary": "영국 중앙은행은 향후 3년 안에 고정금리 계약이 끝나는 주택담보대출 차주 40만 명 이상이 월 상환액을 500파운드 넘게 더 내야 할 것이라고 밝혔다. 금융정책위원회는 2029년 12월 이전에 고정금리가 끝나는 700만 명 가운데 약 650만 명이 추가 자금을 내야 한다고 봤다. 이 중 340만 명은 월 100파운드 미만, 270만 명은 100~500파운드 늘어난다. 금리 상승이 직접적인 원인이며 가계 압박이 전반적으로 커질 전망이다. 영국 금리 경로와 소비 둔화 우려를 점검할 만한 대목이다.",
+      "original": "430,000 UK homeowners face £500-plus jump in monthly mortgage payments",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/nov/26/430000-uk-homeowners-500-jump-monthly-mortgage-payments-bank-of-england-interest-rates",
+      "published": "2026-11-26T21:44+09:00",
+      "also": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss",
+          "original": "Millions of people to see average monthly mortgage payments rise by £100"
+        }
+      ]
+    },
+    {
+      "id": "w20",
+      "region": "유럽",
+      "title": "포운드랜드 파산…미국 소유주 고든 브라더스 책임론",
+      "summary": "영국 할인점 포운드랜드가 파산 절차에 들어가자 경영진과 의원들이 미국 소유주 고든 브라더스에 책임을 돌리고 있다. 고든 브라더스는 1파운드에 체인을 인수한 뒤 이미 약 2,000만 파운드를 빼갔다는 지적을 받는다. 매각 대금에서 우선 상환될 대출 가운데 그들의 몫은 2,250만 파운드로 알려졌다. 경영진은 소유주가 회사 자금 접근을 제한해 재고 확보가 어려웠다고 주장했다. 미국 측은 소유주가 없었다면 지난해 이미 무너졌을 것이라고 반박했다. 영국 소매업과 연말 고용 불안에 주목할 사안이다.",
+      "original": "Simon Jack: Is Poundland's US owner to blame for its collapse?",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c62klzxvyzyqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T22:40+09:00",
+      "also": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
+          "original": "When will Poundland shops close? Five key questions answered"
+        },
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/26/poundland-staff-christmas-workers-future-high-streets-taxpayer",
+          "original": "Poundland staff fear they’ll be left out in the cold for Christmas. When will workers have a say in their future? | Polly Toynbee"
+        }
+      ]
+    },
+    {
+      "id": "w6",
+      "region": "유럽",
+      "title": "EU·인도네시아 무역협정 서명…시장 확대 기대",
+      "summary": "유럽연합(EU)과 인도네시아가 브뤼셀에서 무역협정에 서명했다. 폰데어라이엔 집행위원장은 이 협정을 EU가 아시아에서 맺은 가장 야심 찬 거래 가운데 하나라고 평가했다. 양측 시장을 합치면 7억 3천만 명 규모이며, 거의 10년간의 협상 끝에 마무리됐다. EU는 무역 상대를 다변화하고 핵심 원자재를 확보하며 중국 의존을 줄이려는 목적이 크다. 다만 인도네시아가 유럽의 관심과 핵심 광물 수요를 지속 가능한 이익으로 바꿀 수 있을지는 아직 과제로 남아 있다.",
+      "original": "EU-Indonesia trade deal opens new markets, but challenges remain",
+      "source": "DW",
+      "url": "https://www.dw.com/en/eu-indonesia-trade-deal-opens-new-markets-but-challenges-remain/a-80059568?maca=en-rss-en-bus-2091-rdf",
+      "published": "2026-11-26T22:41+09:00"
+    },
+    {
+      "id": "w28",
+      "region": "유럽",
+      "title": "히스로 3번째 활주로, 의회 '정책 근거 부족' 지적",
+      "summary": "영국 하원 교통위원회가 히스로 공항 3번째 활주로 계획에 대해 정부가 설득력 있는 근거를 제시하지 못했다고 보고서에서 지적했다. 정부 정책 문서로도 공항 확장이 경제·기후 공약에 못 미친다고 판단했다. 공항 운영사는 약 330억 파운드를 들여 활주로를 짓고 터미널을 확장할 계획이다. 위원회 위원장은 계획을 다시 검토해야 한다고 말했다. 대형 인프라 투자의 정책 불확실성이 커졌다는 의미다.",
+      "original": "Ministers have ‘failed to make the case’ for Heathrow third runway, MPs say",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/nov/26/ministers-fail-to-make-case-for-heathrow-third-runway-mps-report-says",
+      "published": "2026-11-26T22:43+09:00"
+    },
+    {
+      "id": "w101",
+      "region": "유럽",
+      "title": "새 ECB 경영진, 긴축 막바지와 프랑스 선거 여파에 시험대",
+      "summary": "새로 구성되는 유럽중앙은행(ECB) 경영진은 긴축 사이클 막바지라는 부담을 안고 출발한다. 프랑스 총선 결과가 가져온 여파도 이른 시험대가 될 것으로 보인다. 취임 초기부터 어려운 판단을 내려야 하는 상황이다.",
+      "original": "The new ECB team is set for a baptism of fire",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/441dbda3-38be-48b9-9603-3b68f1ed3a48",
+      "published": "2026-11-26T23:11+09:00"
+    },
+    {
+      "id": "w43",
+      "region": "유럽",
+      "title": "노르스 아틀랜틱 전 노선 운항 중단…파산 위기",
+      "summary": "노르웨이 저비용 장거리 항공사 노르스 아틀랜틱이 전 노선 운항을 중단했다. 회사는 재무 상황이 '위급하다'고 경고했고, 주가는 폭락했다. 단기 자금을 긴급히 확보하지 못하면 파산 신청을 할 수 있다고 밝혔다. 보잉 787 기종 12대를 운용하며 런던 개트윅, 로마, 오슬로 등을 오가던 회사다. 이사회는 단기 자금 조달 방안을 계속 검토 중이지만 해결책이 확실하지 않다고 밝혔다. 항공 업황 부진과 소형 항공사의 재무 리스크가 겹친 사례다.",
+      "original": "Norse Atlantic suspends all flights as it faces potential collapse",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T23:28+09:00",
+      "also": [
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html",
+          "original": "Norse Atlantic suspends all flights, warns it may file for bankruptcy after share price collapse"
+        }
+      ]
+    },
+    {
+      "id": "w93",
+      "region": "유럽",
+      "title": "바브콕, 영국 잠수함 유지보수 사상 최대 87억 파운드 계약",
+      "summary": "방산업체 바브콕(Babcock)이 영국 왕립해군 잠수함을 유지보수하는 87억 파운드 규모의 계약을 따냈다. 5년짜리 계약으로, 함대 준비 태세에 대한 우려와 북대서양의 러시아 활동 증가가 배경이다. 웨스 스트리팅 국방장관은 잠수함을 '더 빨리 독(dock)에서 바다로 내보내겠다'고 말했다. 방위산업 수주가 커지고 있다는 신호다.",
+      "original": "Babcock secures record £8.7bn contract to support Royal Navy submarines",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/b6db41b9-5af1-4105-a063-7dbf40e7fb2c?syn-25a6b1a6=1",
+      "published": "2026-11-26T23:57+09:00",
+      "also": [
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/nov/26/ministry-of-defence-deal-babcock-maintain-submarines",
+          "original": "Ministry of Defence signs £8.7bn deal with Babcock to maintain submarines"
+        }
+      ]
+    },
+    {
+      "id": "w1",
+      "region": "유럽",
+      "title": "데 코스, 차기 ECB 총재로 유력…라가르드 후임",
+      "summary": "스페인 출신 파블로 에르난데스 데 코스가 내년 크리스틴 라가르드의 뒤를 이어 유럽중앙은행(ECB) 총재를 맡을 전망이다. 유로존 지도자들이 유럽이사회 정상회의에서 그의 지지를 확인했다고 여러 매체가 목요일 보도했다. 다만 공식 임명에는 유럽의회와 ECB 정책이사회와의 협의가 필요하며, 두 기관 모두 거부권은 없다. 8년 임기를 두고 이어진 정치적 줄다리기 끝에 나온 합의다. 정치적 불확실성 속에서 완만한 성장 흐름을 관리해야 하는 과제가 주어졌다는 평가가 나온다. 유로화와 유럽 금리 전망을 점검할 만한 사안이다.",
+      "original": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
+      "published": "2026-11-27T00:28+09:00",
+      "also": [
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president",
+          "original": "Spain’s Pablo Hernández de Cos wins race to be next ECB president"
+        },
+        {
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/1fda901a-222a-4b3e-8e20-ea80c3fbf1d2?syn-25a6b1a6=1",
+          "original": "Pablo Hernández de Cos: the ‘consensus-builder’ taking over the ECB"
+        }
+      ]
+    },
+    {
+      "id": "w35",
+      "region": "유럽",
+      "title": "노동당 내분…로즈뱅크 유전 승인 두고 100명 가까이 반대",
+      "summary": "영국 노동당 내부에서 로즈뱅크 유전 개발을 둘러싼 갈등이 공개적으로 드러났다. 백벤치 의원 92명과 프런트벤치 의원 최소 4명이 앤디 버넘 총리에게 장관들의 승인을 막아 달라는 서한에 서명했다. 로즈뱅크는 영국 해역에서 가장 큰 미개발 유전이다. 존 힐리 재무장관과 스코틀랜드 의원 다수는 개발을 추진하고 있다. 에너지 공급과 기후 정책의 충돌이 정책 결정을 흔드는 모습이다. 북해 에너지 투자 전망에 영향을 줄 수 있는 정치 리스크다.",
+      "original": "Labour’s split over Rosebank oilfield exposed by letter from nearly 100 MPs",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/nov/26/labour-split-over-rosebank-oilfield-exposed-by-letter-from-nearly-100-mps",
+      "published": "2026-11-27T01:13+09:00",
+      "also": [
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/26/labour-mp-letter-andy-burnham-rosebank-oil-climate-crisis",
+          "original": "I helped organise the letter from Labour MPs urging Andy Burnham to reject Rosebank. This is why | Catherine Fookes"
+        }
+      ]
+    },
+    {
+      "id": "w64",
+      "region": "유럽",
+      "title": "영국 공공기관 정리 '악순환' 우려…국가 개혁 과제",
+      "summary": "노동당 정부가 뒤늦게 낡은 공공기관(쿼고, quango)을 폐지하기로 한 결정은 필요하지만, 반복적으로 같은 작업이 이뤄지는 악순환이 우려된다는 칼럼이다. 공공기관 정리는 국가 효율을 높이는 중요한 수단이라고 강조한다.",
+      "original": "We’re stuck in a bonfire of the quangos doom loop",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/ab820f61-b8d4-4aa5-92bc-a51d6c04d0f7?syn-25a6b1a6=1",
+      "published": "2026-11-27T01:39+09:00"
+    },
+    {
+      "id": "w44",
+      "region": "유럽",
+      "title": "Ofcom, 스마트TV 메뉴 상단에 공영방송 스트리밍 배치 권고",
+      "summary": "영국 방송 규제기관 Ofcom은 스마트TV 앱 메뉴에서 BBC 아이플레이어 같은 공영방송 스트리밍 서비스를 먼저 보여줘야 한다고 밝혔다. 음성·문자 검색에서도 공영방송 프로그램이 상위에 나와야 한다는 내용이다. 2024년 미디어법에 따른 실천 강령의 일부다. 스트리밍 플랫폼이 콘텐츠 접근의 관문 역할을 하는 현실을 반영한 조치다. 플랫폼의 노출 정책이 바뀔 수 있어 미디어·플랫폼 업계가 주목할 규제 흐름이다.",
+      "original": "Public service broadcaster services should be top of TV app menus – Ofcom",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/26/public-service-broadcaster-services-top-of-tv-app-menus-ofcom",
+      "published": "2026-11-27T02:09+09:00"
+    },
+    {
+      "id": "w15",
+      "region": "유럽",
+      "title": "알트리아, 영국 임페리얼 브랜즈 인수 검토",
+      "summary": "말보로를 만드는 미국 담배기업 알트리아가 영국 담배회사 임페리얼 브랜즈 인수를 검토 중이라고 밝혔다. 인수가 이뤄진다면 현금 전액으로 이뤄질 가능성이 높다고 알트리아는 전했다. 알트리아는 임페리얼 브랜즈 사업의 일부를 인수하는 방안도 제3자와 논의 중이어서 회사가 쪼개질 수 있다는 관측도 나온다. 영국 인수 규칙상 알트리아는 12월 24일 오후 5시까지 인수 확정 여부를 밝혀야 한다. 이 소식에 임페리얼 브랜즈 주가는 14% 넘게 뛰었다. 영국 기업이 잇따라 해외 인수 대상이 되는 흐름의 한 사례다.",
+      "original": "Marlboro maker Altria considering takeover bid for Imperial Brands",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/26/marlboro-maker-altria-considering-takeover-bid-for-imperial-brands",
+      "published": "2026-11-27T02:44+09:00"
+    },
+    {
+      "id": "w61",
+      "region": "유럽",
+      "title": "버넘에게 조언…성장하려면 경쟁을 촉진하라",
+      "summary": "영국 경제 칼럼니스트 닐스 프래틀리는 앤디 버넘 정부가 성장을 원한다면 경쟁과 혁신을 촉진해야 한다고 주장했다. 두 명의 전직 재무부 관료는 경쟁과 파괴적 혁신의 가치가 영국 경제정책의 '맹점'이 되고 있다고 말했다. 2025년 초 경쟁시장청(CMA) 위원장이 성장 기조와 맞지 않는다는 이유로 물러난 사건을 상기시키며, 규제 기관의 독립성도 짚었다. 시장 경쟁 강화가 영국 성장 전략의 핵심 과제라는 주장이다.",
+      "original": "Some old-school advice for Burnham: boost competition if you want growth | Nils Pratley",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/26/old-school-advice-burnham-boost-competition-if-you-want-growth",
+      "published": "2026-11-27T03:19+09:00"
+    },
+    {
+      "id": "w25",
+      "region": "유럽",
+      "title": "영국 전력망 운영사, 추가 전력 확보 요청 역대 최다",
+      "summary": "영국 전력망 운영사가 추가 전력을 확보하기 위해 요청한 횟수가 역대 최다를 기록했다. 추운 날씨와 스코틀랜드 풍력단지에서 잉글랜드 소비처로 전기를 보내는 데 생기는 병목이 원인으로 꼽힌다. 에너지 공급 제약이 겨울철 전력 비용 부담으로 이어질 수 있다는 점에서 주목할 만하다.",
+      "original": "Britain’s electricity grid operator makes record number of calls for extra power",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/21a1331c-c201-4333-b312-ab87b7fd994f?syn-25a6b1a6=1",
+      "published": "2026-11-27T03:36+09:00"
+    },
+    {
+      "id": "w49",
+      "region": "유럽",
+      "title": "영국 NEET 청년 95만 9천 명…3개월 새 2만 2천 명 감소",
+      "summary": "교육·고용·훈련 어디에도 속하지 않는 영국 청년(NEET)이 9월까지 3개월 사이 2만 2천 명 줄어 95만 9천 명을 기록했다고 ONS가 밝혔다. 다만 1년 전과 비교하면 1만 7천 명 많아 청년 고용 위기가 여전하다는 뜻이다. 정점인 100만 명 조금 넘던 때보다는 낮아졌다. 정부는 앨런 밀번의 보고서를 바탕으로 대대적인 개편을 준비 중이다. 청년 노동시장 약세가 소비와 임금에 어떤 영향을 줄지 지켜볼 필요가 있다.",
+      "original": "Number of Neets in UK falls below a million as Burnham pushes to tackle crisis",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/nov/26/neets-uk-young-people-education-employment-training-andy-burnham",
+      "published": "2026-11-27T03:43+09:00"
+    },
+    {
+      "id": "w40",
+      "region": "유럽",
+      "title": "동부 미들랜즈 도로 사업 2건 취소…국방비로 4억 파운드 전용",
+      "summary": "정부가 영국 중동부 미들랜즈의 대형 도로 사업 두 건을 취소하고 4억 파운드 넘는 예산을 국방비로 돌린다고 확인했다. 더비의 A38 교차로 개선과 뉴어크 우회도로(A46) 사업이 보류된다. 환경단체는 환영했지만, 지역 정치인들은 병목 해소를 기대했던 만큼 실망감을 드러냈다. 이미 승인되고 도로 투자 전략에 포함됐던 사업이라는 점에서 국방 우선 재정 배분의 영향을 보여준다.",
+      "original": "Major East Midlands road projects shelved to divert funding to defence",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/26/major-east-midlands-road-projects-shelved-to-divert-funding-to-defence",
+      "published": "2026-11-27T03:47+09:00"
+    },
+    {
+      "id": "w18",
+      "region": "유럽",
+      "title": "영국, EU 관계 재설정 대가로 '참여료' 지불",
+      "summary": "영국이 브뤼셀과 지난주 서명한 합의에는 EU 외교관들이 '대가 지불(pay-to-play)' 방식의 재정 정산이라고 부르는 추가 '참여료'가 포함됐다. 브렉시트 이후 EU와의 관계를 다시 짜는 합의의 핵심 대가다. 다만 기사에는 참여료의 세부 금액이 명시되지 않았다. 영국 재정 부담과 협정 이행 과정에 대한 관심이 커질 것으로 보인다.",
+      "original": "UK to pay additional ‘participation fee’ as price of EU reset deal",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/00e41702-b11f-4a28-9233-16ce4cff99c7?syn-25a6b1a6=1",
+      "published": "2026-11-27T03:57+09:00",
+      "also": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+          "original": "New UK-EU treaty has 10-year termination clause"
+        }
+      ]
+    },
+    {
+      "id": "w24",
+      "region": "중국",
+      "title": "트럼프-시진핑 정상회담, 희토류 허가 문제 해결 난망",
+      "summary": "트럼프 대통령과 시진핑 주석의 정상회담이 열려도 중국의 희토류 수출 허가 체계를 풀기는 어렵다는 분석이 나왔다. 아시아소사이어티 정책연구소의 연구원과 상하이 컨설팅사 파트너가 함께 쓴 기고문이다. 복잡한 허가 절차가 공급망의 불확실성을 키운다는 지적이다. 희토류를 쓰는 전기차·반도체 업종은 단기 해결을 기대하기보다 공급처를 다변화하는 쪽에 대비할 필요가 있다.",
+      "original": "Trump-Xi summits unlikely to solve China's rare-earth licensing maze",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/opinion/trump-xi-summits-unlikely-to-solve-china-s-rare-earth-licensing-maze",
+      "published": null
+    },
+    {
+      "id": "w29",
+      "region": "중국",
+      "title": "중국 컨소시엄, 인도네시아 스마트시티 10곳 개발 합의",
+      "summary": "중국 컨소시엄이 인도네시아 국부펀드와 스마트시티 10곳을 개발하는 초기 합의에 도달했다. 두 나라가 맺은 양방향 거래 패키지의 일부로, 전체 규모는 500억 달러에 이른다. 대규모 인프라 투자를 통해 중국의 동남아 진출이 넓어지는 사례다.",
+      "original": "Chinese group to develop 10 smart city sites in Indonesia under US$50 billion deal",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/global-economy/article/3375762/chinese-group-develop-10-smart-city-sites-indonesia-under-us50-billion-deal",
+      "published": "2026-11-26T09:30+09:00"
+    },
+    {
+      "id": "w22",
+      "region": "중국",
+      "title": "중·몽골·러시아 철도 6년 만에 재개…교역·관광 기대",
+      "summary": "6년의 공백 끝에 중국·몽골·러시아를 잇는 직통 여객열차 운행이 이번 주 재개됐다. 세 나라 사이의 교역과 관광을 활성화할 것으로 기대된다.",
+      "original": "Reopened China-Mongolia-Russia railway expected to boost cross-border trade and tourism",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/china-economy/article/3375880/reopened-china-mongolia-russia-railway-expected-boost-cross-border-trade-and-tourism",
+      "published": "2026-11-26T16:00+09:00"
+    },
+    {
+      "id": "w96",
+      "region": "중국",
+      "title": "샤오펑 '1~2년 내 가정용 로봇' 전망…휴머노이드 경쟁",
+      "summary": "중국 전기차 업체 샤오펑의 공동 대표 브라이언 구는 상업 현장 배치가 성공한 뒤 1~2년 안에 가정용 로봇 배치를 검토할 수 있다고 CNBC에 말했다. 샤오펑은 최근 범용 휴머노이드 로봇 'Iron'을 공개했고, 자사 자동차 매장에서 점원 역할을 하도록 훈련할 계획이다. 기술 발전 속도가 매우 빠르다는 점을 강조했다. 중국 전기차 업체들의 휴머노이드 사업 확장이 가속하고 있다는 신호다.",
+      "original": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html",
+      "published": "2026-11-26T16:30+09:00"
+    },
+    {
+      "id": "w16",
+      "region": "중국",
+      "title": "광저우 모터쇼, 중국 전기차 주도권 과시 무대",
+      "summary": "국내 판매 부진에 직면한 중국 자동차 업체들이 광저우 모터쇼에서 전기차 경쟁력을 과시할 예정이다. 이들은 글로벌 자동차 산업의 친환경 전환을 주도할 방안을 보여주려 한다.",
+      "original": "Carmakers look to strengthen China’s electric mobility lead at Guangzhou auto show",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/business/china-business/article/3375841/carmakers-look-strengthen-chinas-electric-mobility-lead-guangzhou-auto-show",
+      "published": "2026-11-26T17:00+09:00"
+    },
+    {
+      "id": "w9",
+      "region": "중국",
+      "title": "엔비디아 칩 구매자에 중국 기업 임대 배제 요구",
+      "summary": "미국 정부가 11월 16일 발표한 원격 접근 제한 규칙 이후, 칩 판매업체들이 네오클라우드 업체들에게 중국 기업에 컴퓨팅 자원을 빌려주지 않겠다는 확약을 요구하고 있다고 CNBC가 전했다. 해외 데이터센터의 최첨단 엔비디아 칩을 중국 기업이 임차해 쓰는 수출 규제 허점을 막겠다는 취지다. 그리어 USTR 대표는 CNBC에 이번 규칙이 허점을 막기 위한 것이라고 말했다. 중국 기업의 AI 연산 확보가 어려워질 수 있고, 엔비디아의 대중 사업 전망에도 영향을 줄 수 있다. 반도체 공급망과 대중 수출 규제 흐름을 함께 볼 필요가 있다.",
+      "original": "Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html",
+      "published": "2026-11-27T02:04+09:00",
+      "also": [
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html",
+          "original": "Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sources tell CNBC"
+        }
+      ]
+    },
+    {
+      "id": "w10",
+      "region": "아시아",
+      "title": "JERA, 앤스로픽·메타 데이터센터 발전소 옆에 추진",
+      "summary": "일본 최대 발전사 JERA가 앤스로픽, 메타 등 미국 빅테크 기업들과 도쿄권 발전소 인근에 데이터센터를 짓는 방안을 협의 중이다. JERA 최고경영자가 닛케이와의 인터뷰에서 밝혔다. 발전소 옆 입지는 안정적인 전력 공급을 원하는 AI 데이터센터 수요를 반영한 것이다. 일본 전력·인프라 기업에게 AI 전력 수요가 새로운 성장 동력이 될 수 있다는 의미다.",
+      "original": "Japan's JERA aims to build Anthropic, Meta data centers near power plants",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-jera-aims-to-build-anthropic-meta-data-centers-near-power-plants",
+      "published": null
+    },
+    {
+      "id": "w17",
+      "region": "아시아",
+      "title": "인도네시아, 연료 보조금으로 가격 묶어두는 비용 급증",
+      "summary": "인도네시아 프라보워 대통령의 포괄적 연료 보조금 덕분에 주유소 휘발유 가격은 낮게 유지되고 있다. 그러나 그 대가로 정부 재정 부담이 커지고 있다는 보도다. 보조금을 받는 소비자가 일상적으로 연료를 넣는 구조가 재정 압박의 핵심이다. 재정 건전성과 물가 관리가 맞물린 사안으로 아시아 신흥국 재정 리스크를 볼 때 참고할 만하다.",
+      "original": "Indonesia pays high price to keep fuel cheap under Prabowo's blanket subsidy",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/policy-asia/indonesia-pays-high-price-to-keep-fuel-cheap-under-prabowo-s-blanket-subsidy",
+      "published": null
+    },
+    {
+      "id": "w36",
+      "region": "아시아",
+      "title": "닛산, 중국 합작사 생산 하이브리드 일본 수입 추진",
+      "summary": "닛산 자동차가 중국 합작법인에서 만든 플러그인 하이브리드 차량을 일본에서 판매하기 위해 준비 중이라고 닛케이가 보도했다. 중국의 빠른 개발 속도와 낮은 생산 비용을 활용하려는 것이다. 일본 완성차 업체가 중국산 차를 들여오는 것은 처음이라는 점에서 의미가 있다. 중국 생산 거점이 일본 시장 공급망까지 넓어진다는 점에서 일본 자동차 업계 구조 변화의 신호다.",
+      "original": "Nissan poised to import cars from China to Japan for first time",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/automobiles/nissan-poised-to-import-cars-from-china-to-japan-for-first-time",
+      "published": null
+    },
+    {
+      "id": "w42",
+      "region": "아시아",
+      "title": "키옥시아·엔비디아, AI 서버 메모리 공동 개발",
+      "summary": "일본 반도체 기업 키옥시아가 엔비디아와 AI 서버용 메모리 개발에서 협력하고 있다. 한국 공급업체들이 지배하는 시장에 대안을 내놓겠다는 전략이다. 메모리 공급처를 다변화하려는 움직임은 한국 반도체 기업에 경쟁 압력으로 작용할 수 있다.",
+      "original": "Nvidia, Kioxia team on AI server memory as alternative to South Korean chips",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/tech/semiconductors/nvidia-kioxia-team-on-ai-server-memory-as-alternative-to-south-korean-chips",
+      "published": null
+    },
+    {
+      "id": "w46",
+      "region": "아시아",
+      "title": "일본, 안전 조치 미흡한 AI 기업에 현장 점검 추진",
+      "summary": "일본 정부가 마련 중인 법안 초안에 따르면, 안전 조치가 부실한 AI 기업은 현장 점검을 받을 수 있다. AI 개발사의 안전 관리 책임을 강화하려는 취지다. 규제가 본격화되면 기업의 컴플라이언스 비용이 늘어날 수 있다.",
+      "original": "AI firms with poor safeguards face inspections under Japan draft law",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/ai-firms-with-poor-safeguards-face-inspections-under-japan-draft-law",
+      "published": null
+    },
+    {
+      "id": "w51",
+      "region": "아시아",
+      "title": "스즈키, 희소금속 없는 배터리 개발…중국 공급 리스크 대응",
+      "summary": "스즈키가 희소금속을 쓰지 않는 배터리를 생산해 경형차에 적용할 계획이다. 경형차에 쓸 저렴한 배터리를 확보하기 어려운 상황에서 나온 조치다. 배터리 광물의 중국 의존도 우려가 커진 것도 배경이다. 전기차·소형차 업계 전반에 공급망 다변화 압력이 커지고 있다는 신호다.",
+      "original": "Suzuki turns to rare metal-free batteries amid China supply risks",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/suzuki-turns-to-rare-metal-free-batteries-amid-china-supply-risks",
+      "published": null
+    },
+    {
+      "id": "w67",
+      "region": "아시아",
+      "title": "방글라데시 의류 노동자 최저임금 36% 인상",
+      "summary": "방글라데시가 의류 산업 노동자의 월 최저임금을 36% 올리기로 했다. 여러 주에 걸친 시위 끝에 나온 조치다. 저임금에 의존해 온 의류 산업의 원가 구조에 큰 변화를 가져올 것으로 보인다. 주요 고용·수출 산업인 만큼 저가 봉제 모델의 경쟁력이 시험대에 올랐다는 평가다. 글로벌 바이어와의 가격 협상에도 영향을 줄 수 있다.",
+      "original": "36% minimum wage hike tests Bangladesh garment sector's low-cost model",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/work/36-minimum-wage-hike-tests-bangladesh-garment-sector-s-low-cost-model",
+      "published": null
+    },
+    {
+      "id": "w75",
+      "region": "아시아",
+      "title": "휴머노이드 로봇, 도요타 텃밭서 공장 현실과 부딪혀",
+      "summary": "일본 아이치현 도요타의 본거지에서 휴머노이드 로봇 실험이 현실의 벽과 마주하고 있다. 자동차·로봇 기업들은 휴머노이드와 물리적 AI를 실제 생산 현장에 적용하는 과제에 직면했다. 자동차 산업에서 로봇이 상용화되기까지는 시간이 더 필요하다는 평가다.",
+      "original": "Humanoid robots meet factory reality on Toyota's home turf",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/automobiles/humanoid-robots-meet-factory-reality-on-toyota-s-home-turf",
+      "published": null
+    },
+    {
+      "id": "w80",
+      "region": "아시아",
+      "title": "미·파키스탄 경제 협력 확대…이번 관세에서는 제외",
+      "summary": "트럼프 2기 출범 이후 미국과 파키스탄의 경제 관계가 크게 깊어지고 양국 교역도 빠르게 늘었다. 이번 미국의 관세 조치는 EU, 중국, 인도 등 14개 경제권을 겨냥했지만 파키스탄은 제외됐다. 암호화폐 분야만 협력이 제한적인 예외로 꼽혔다. 미국 관세 대상에서 빠진 점은 파키스탄 수출 기업에 상대적 이점이 될 수 있다.",
+      "original": "Pakistan-US economic ties to grow further, with exception of crypto",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/trade/pakistan-us-economic-ties-to-grow-further-with-exception-of-crypto2",
+      "published": null
+    },
+    {
+      "id": "w92",
+      "region": "아시아",
+      "title": "한국은행, 기준금리 3.25%로 인상…성장 전망 상향 속",
+      "summary": "한국은행이 기준금리를 0.25%포인트 올려 연 3.25%로 인상했다. 물가를 잡기 위한 조치이며, 성장 전망이 소폭 올라가는 가운데 나온 결정이다. 경제가 탄탄하다는 판단이 금리 인상의 배경이 됐다. 금리 인상은 주택담보대출 등 가계 이자 부담과 금리 경로에 영향을 줄 수 있다.",
+      "original": "Bank of Korea hikes rate to 3.25% against backdrop of strong economy",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/central-banks/bank-of-korea-hikes-rate-to-3.25-against-backdrop-of-strong-economy",
+      "published": null
+    },
+    {
+      "id": "w50",
+      "region": "아시아",
+      "title": "인도 자동차 판매 사상 최고 전망…3천만 대 돌파 기대",
+      "summary": "인도 자동차 업계가 사상 최고 판매 기록을 세울 것으로 보인다. 2027년 3월 끝나는 회계연도에 차량 3천만 대 이상을 팔 것이라는 전망이다. 인도 경제는 높은 글로벌 에너지 가격과 공급망 차질 속에서도 예상보다 잘 버티고 있다. 외국인 투자자들도 돌아오고 있다. 세계에서 가장 빠르게 성장하는 대형 소비 시장의 흐름을 보여준다.",
+      "original": "Inside India newsletter: Roaring economy, foreign investors’ return and now record auto sales",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/india-auto-slaes-economy-suzuki-hyundai-toyota.html",
+      "published": "2026-11-26T09:12+09:00"
+    },
+    {
+      "id": "w100",
+      "region": "아시아",
+      "title": "블랙프라이데이 앞두고 K뷰티 주가 강세",
+      "summary": "한국 화장품 주가가 목요일 일제히 올랐다. 아마존 스킨케어 순위에서 K뷰티 브랜드들이 상위권을 차지한 데 따른 것이다. 대표 종목 APR은 3.77% 올랐고, 이번 주 들어 28% 급등했다. 같은 기간 코스피가 2.65% 하락한 것과 대조적이다. 화장품 ODM 기업 콜마코리아와 코스맥스도 함께 올랐다. 블랙프라이데이를 앞둔 해외 판매 호조가 실적 기대를 키우고 있다.",
+      "original": "K-beauty stocks rally as Korean brands top Amazon bestseller lists globally ahead of Black Friday",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/k-beauty-firms-amazon-sales-black-friday.html",
+      "published": "2026-11-26T12:09+09:00"
+    },
+    {
+      "id": "w84",
+      "region": "글로벌",
+      "title": "FSB, 국채시장 레버리지 리스크 경고…공공부채 증가",
+      "summary": "금융안정위원회(FSB) 사무총장이 국채 시장의 높은 레버리지를 면밀히 감시해야 한다고 경고했다. 투자자 기반이 바뀌고 있는 만큼 시장 리스크를 억제하려는 노력의 일환이다. 공공부채가 늘어나면서 국채 시장의 취약성이 커진다는 지적이다. 금리 변동기에는 국채 기반 자금 조달의 충격이 커질 수 있어 국내 금융시장도 참고할 만하다.",
+      "original": "FSB flags leverage risks in sovereign bond markets amid public debt rise",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/fsb-flags-leverage-risks-in-sovereign-bond-markets-amid-public-debt-rise",
+      "published": null
+    },
+    {
+      "id": "w70",
+      "region": "글로벌",
+      "title": "남미, AI 인프라 붐의 구리·에너지 공급처로 부상",
+      "summary": "남미의 구리, 석유·가스, 희토류가 AI 데이터센터와 전기화 수요를 채울 핵심 자원으로 주목받고 있다. 골드만삭스의 미켈레 델라 비냐는 에너지 수요가 빠르게 늘고 있어 가능한 모든 에너지원이 필요하다고 CNBC에 말했다. 다만 투자자 입장에서는 자원 보유보다 정부가 이를 실제 사업으로 만들 수 있는지가 관건이다. 인프라와 재정 정책이 투자 유치 여부를 좌우한다는 분석이다.",
+      "original": "Latin America has the copper and energy the AI build-out needs. Infrastructure is the test",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/latin-america-copper-energy-ai-investment.html",
+      "published": "2026-11-26T17:59+09:00"
+    },
+    {
+      "id": "w58",
+      "region": "글로벌",
+      "title": "미국 증시 널뛰기 속 세계 증시 반등",
+      "summary": "미국 증시가 AI 위험을 둘러싼 우려로 급등락을 보인 뒤, 세계 주식시장은 상승세를 되찾았다. 이달 들어 기술주가 AI 붐이 지속될 수 있는지에 대한 불안으로 크게 하락했던 만큼 반등 폭이 주목받는다. 시장의 변동성이 여전히 큰 상황이다.",
+      "original": "Global stocks climb after volatile US trading over AI risks",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/6e217409-9fbb-456c-b405-2eb15bb69679?syn-25a6b1a6=1",
+      "published": "2026-11-27T01:49+09:00"
+    }
+  ]
+}

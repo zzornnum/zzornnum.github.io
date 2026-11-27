@@ -1,0 +1,657 @@
+{
+  "date": "2026-11-28",
+  "generatedAt": "2026-11-28T07:54+09:00",
+  "items": [
+    {
+      "id": "w1",
+      "region": "중국",
+      "title": "중국 10월 산업이익 20.1% 급증…AI 전자 호황 견인",
+      "summary": "중국의 10월 규모 이상 공업기업 이익은 전년 대비 20.1% 급증해 5월 이후 가장 빠른 증가세를 보였다. AI 관련 전자 산업 호황과 높은 에너지 가격이 이익을 끌어올렸다. 반면 약한 수요에 시달리는 소비 관련 산업은 계속 부진했다. 올해 1~10월 누적 이익은 16% 늘어 9월까지의 15.5%보다 확대됐다. 지난해 0.6% 성장에 그쳤던 이익이 올해 반등하며 2021년 이후 최대 연간 증가율을 기록할 전망이다. 중국 경제가 AI 제조·수출과 소비·부동산 투자 사이에서 두 개의 속도로 움직인다는 평가다.",
+      "original": "China’s factories are growing profits again, but the AI boom is picking the winners",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
+      "published": "2026-11-27T15:09+09:00"
+    },
+    {
+      "id": "w67",
+      "region": "미국",
+      "title": "AI 사용은 폭증하는데 지출은 정체…경제 원칙 깨지나",
+      "summary": "AI 토큰 소비량은 빠르게 늘고 있다. 토큰은 AI 개발사가 컴퓨팅 자원에 대한 대가로 받는 수단이어서 소비 증가는 긍정적 신호다. 그러나 개발사들은 이 소비를 같은 속도로 매출로 바꾸지 못하고 있다. 이 현상이 경제학의 기본 원리가 깨지는 신호인지 짚은 기사다.",
+      "original": "Artificial intelligence usage is exploding, yet spending is stalling. Why a foundational rule of economics is breaking.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/artificial-intelligence-usage-is-exploding-yet-spending-is-stalling-why-a-foundational-rule-of-economics-is-breaking-9c7ad4b3?mod=mw_rss_topstories",
+      "published": "2026-11-28T00:01+09:00"
+    },
+    {
+      "id": "w10",
+      "region": "미국",
+      "title": "내년 메디케어 어드밴티지, 약값 보장 없는 상품 확대",
+      "summary": "내년부터 약제비 보장이 빠진 메디케어 어드밴티지 플랜에 거의 64만 명이 해당될 전망이라고 MarketWatch가 전했다. 나머지 가입자는 선택지가 줄어든다. 메디케어 어드밴티지가 '올인원' 혜택을 잃어가고 있다는 신호다.",
+      "original": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
+      "published": "2026-11-28T04:55+09:00"
+    },
+    {
+      "id": "w19",
+      "region": "미국",
+      "title": "추수감사절 장보기·선물비 부담…미국 연말 지출 축소",
+      "summary": "미국 소비자들은 2026년 식품·여행·선물 비용 상승과 이란 전쟁발 에너지 충격으로 연휴 지출을 줄이고 있다. 한 가정은 휘발유 가격이 높아 차로 미시간 주 친척 집을 찾지 않기로 했고, 식품비 부담 때문에 칠면조도 통째가 아닌 가슴살로 대신하기로 했다. 인플레이션이 가속되면서 연말 쇼핑 전반에서 가격 상승이 체감되고 있다. 장난감 가격까지 오르며 소비자들은 선물과 여행 계획을 줄이고 있다.",
+      "original": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
+      "published": "2026-11-28T06:45+09:00"
+    },
+    {
+      "id": "w21",
+      "region": "유럽",
+      "title": "영국, EU 협정 운영비 명목 '참여료' 지불",
+      "summary": "영국이 버넘 총리가 합의한 대EU 협정의 일부로 EU에 '참여료'를 낸다는 내용이 법률 문서에서 드러났다. 이 분담금은 협정 이행에 필요한 EU 기관·시스템의 운영비에 쓰이며, 기존 예산 분담금과 별도로 부과된다. 정부는 연간 비용이 수천만 파운드 수준(low tens of millions)일 것으로 보고 있다. 정부는 협정으로 인한 무역 증가 효과가 연간 수십억 파운드에 이른다며 이 비용을 크게 웃돈다고 설명했다.",
+      "original": "UK to pay 'participation' fee to deliver EU deals",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T08:17+09:00"
+    },
+    {
+      "id": "w42",
+      "region": "유럽",
+      "title": "엘리베이터 정비기사 부족 심화…미국 인력난",
+      "summary": "미국에서 엘리베이터·에스컬레이터 정비 기술자 부족이 갈수록 심해지고 있다. 급여는 좋고 일감도 많지만 인력이 따라가지 못해 고장 수리가 지연되는 악순환이 이어진다. 이는 미국뿐 아니라 여러 나라에서 공통으로 나타나는 문제다.",
+      "original": "Why is there a shortage of 'wizard' elevator mechanics?",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T09:02+09:00"
+    },
+    {
+      "id": "w63",
+      "region": "유럽",
+      "title": "제로아워 계약 금지 약화 우려…노조 '140만 명 위험'",
+      "summary": "노조는 제로아워 계약 금지 법안이 약화되면 최대 140만 명이 불안정한 일자리에 머물 수 있다고 경고했다. 버넘 총리는 경영계로부터 2025년 고용권리법(Employment Rights Act) 축소 압박을 받고 있다. 이 법은 2026~2027년 단계적으로 시행된다. 노조 대표는 정부가 선거 공약을 이행할 때라고 촉구했고, 경영계는 고용권 개편이 일자리와 성장을 해칠 수 있다고 맞서고 있다.",
+      "original": "Up to 1.4m UK workers risk missing out on zero-hours shake-up, say unions",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/27/up-to-1point4-million-uk-workers-risk-missing-out-zero-hours-shake-up",
+      "published": "2026-11-27T15:00+09:00"
+    },
+    {
+      "id": "w49",
+      "region": "유럽",
+      "title": "메타 AI 쇼핑 비서 '뮤즈' 영국 출시…책임 공방",
+      "summary": "메타가 AI 비서 '뮤즈(Muse)'를 영국에 출시하며 블랙프라이데이 쇼핑 경쟁에 불을 붙였다. M&S·세인즈버리·JD스포츠·커리스 등 대형 유통사와 손잡았다. 최저가 검색, 선물 구매, 식재료 주문까지 대신해 준다는 것이 메타의 설명이다. 그러나 AI 에이전트가 잘못 처리하면 누가 책임지는지가 쟁점이다. 유통업체들은 기회와 위험을 함께 따지며 신중한 입장이다.",
+      "original": "‘If the bot gets it wrong, who’s liable?’ Retailers enter the unknown with AI shopping assistants on Black Friday",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/27/retailers-ai-shopping-assistants-black-friday-brands-meta-muse",
+      "published": "2026-11-27T16:00+09:00"
+    },
+    {
+      "id": "w14",
+      "region": "유럽",
+      "title": "10월 소비자 물가 인식 4.1%…2024년 7월 이후 최고",
+      "summary": "ECB 소비자기대 조사에 따르면 과거 12개월 물가 상승 인식(중위값)은 9월 3.6%에서 10월 4.1%로 올라 2024년 7월 이후 최고치를 기록했다. 향후 12개월 물가 기대는 3.1%에서 3.5%로 높아졌지만 올해 3월 분쟁 시작 당시의 4.0%보다는 낮다. 3년 뒤 기대는 3.0%로 올랐고, 5년 뒤 기대는 2.5%로 3개월 연속 유지됐다. 5년 뒤 기대는 2022년 8월 조사 시작 이후 최고 수준이다. 중동 분쟁 이후 12개월 물가 기대의 불확실성도 두 달 연속 커졌다.",
+      "original": "ECB Consumer Expectations Survey results – October 2026",
+      "source": "ECB",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261127~2e53af695e.en.html",
+      "published": "2026-11-27T18:00+09:00"
+    },
+    {
+      "id": "w79",
+      "region": "유럽",
+      "title": "AI 에이전트 무카드 결제, 영국서 첫 실거래",
+      "summary": "AI 에이전트가 영국에서 처음으로 실제 고객의 주문을 카드 없이 결제했다. 파파존스 마르게리타 미니피자 9개 주문이 FCA 규제 샌드박스 시험의 일환으로 이뤄졌다. 로이즈 은행과 결제업체 트루레이어(TrueLayer)가 참여했다. 계좌번호나 비밀번호를 공유하지 않고 결제했다는 것이 트루레이어 CEO의 설명이다. 쇼핑 방식을 바꿀 기술로 주목받고 있다.",
+      "original": "Pizza history: AI agent’s cardless purchase is a first for UK",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
+      "published": "2026-11-27T18:53+09:00"
+    },
+    {
+      "id": "w36",
+      "region": "유럽",
+      "title": "BoE 총재 '은행이 법인세 인상분 고객에 전가할 수도'",
+      "summary": "앤드루 베일리 잉글랜드은행 총재는 은행들이 노동당 정부의 은행 법인세 할증 인상분 15억 파운드를 고객에게 전가할 수 있다고 우려했다. 할증률은 3%에서 6%로 1월부터 15개월간 임시 인상된다. 은행들이 우려했던 8% 수준보다는 낮다. 베일리 총재는 은행이 '수익을 지키기' 위해 그런 결정을 내릴 수 있다며, 이는 시장경제에서 은행이 내릴 결정이라고 말했다. 세수는 가계 재정 부담을 덜기 위한 재원으로 쓰인다.",
+      "original": "Banks may pass on £1.5bn tax rise to customers, warns Bank of England chief",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/27/bank-tax-rise-customers-bank-of-england-andrew-bailey",
+      "published": "2026-11-27T19:10+09:00"
+    },
+    {
+      "id": "w13",
+      "region": "유럽",
+      "title": "독일 노동 공백 메우는 인도 인력…사기·착취 위험도",
+      "summary": "독일에서 일하는 인도인 수가 최근 몇 년간 빠르게 늘었다. 직업교육(아우스빌둥)을 거쳐 정규직으로 일하는 사례도 많다. 그러나 노동시장에서 여러 어려움에 직면하고, 일부는 채용 사기 피해로 착취에 노출된다. 독일의 인력 부족을 메우는 외국 인력 흐름의 이면을 짚은 기사다.",
+      "original": "Indian workers fill Germany's labor gaps but face hurdles and risks",
+      "source": "DW",
+      "url": "https://www.dw.com/en/indian-workers-fill-germany-s-labor-gaps-but-face-hurdles-and-risks/a-80072882?maca=en-rss-en-bus-2091-rdf",
+      "published": "2026-11-27T20:06+09:00"
+    },
+    {
+      "id": "w43",
+      "region": "유럽",
+      "title": "영국 우유 소비 사상 최저…식물성 음료로 이동",
+      "summary": "영국인의 우유 구매량이 기록 이래 가장 낮은 수준으로 떨어졌다. 가디언이 정부 가계식품조사를 분석한 결과, 2024~25년 한 사람이 주당 구입한 우유는 1.8파인트(1,024ml)로 52년 기록 중 최저다. 1974년의 절반에도 못 미친다. 식물성 음료를 구하기 쉬워지고 맛 차이도 줄면서 소비 습관이 바뀌었고, 환경·동물복지 우려도 영향을 주고 있다.",
+      "original": "UK’s taste for cow’s milk sours as sales hit record low",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/food/2026/nov/27/britain-cows-milk-sales-record-low-oat-almond",
+      "published": "2026-11-27T22:32+09:00"
+    },
+    {
+      "id": "w5",
+      "region": "유럽",
+      "title": "스웨덴, ECB 실시간 결제시스템 T2 참여 합의",
+      "summary": "ECB는 스웨덴 중앙은행(Riksbank)과 스웨덴이 유로시스템의 실시간 총액결제시스템 T2에 참여하기로 합의했다고 11월 25일 발표했다. 라가르드 총재와 리크스방크 총재 에릭 테덴이 참여 협정에 서명했다. 같은 달 19일에는 EU DLT 파일럿 제도에 따라 발행된 시장성 자산을 유로시스템 신용 운용의 적격 담보로 인정하기로 했다. 블록체인(DLT) 네트워크에서 발행·결제되는 자산의 담보 자격을 넓히는 로드맵의 일부다.",
+      "original": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+      "source": "ECB",
+      "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261127~13ecadc0f2.en.html",
+      "published": "2026-11-27T23:00+09:00"
+    },
+    {
+      "id": "w29",
+      "region": "유럽",
+      "title": "파운드랜드 법정관리 돌입…직원 1만여 명 불안",
+      "summary": "영국 저가 잡화점 파운드랜드가 법정관리에 들어갔다. 미국 기반 소유주가 최소 두 차례 지급능력이 있는 인수 제안을 거절했다는 보도다. 관리인 AlixPartners가 그룹 전체 인수 제안을 검토 중이며, 영국·아일랜드 매장 600곳(Dealz 체인 포함)이 영향권에 있다. 직원 1만여 명과 공급업체 수천 곳이 불확실성에 직면했다. 매장과 본사, 물류센터 전반에서 감원 우려가 커지고 있다.",
+      "original": "‘Punched in the guts’: Poundland staff left reeling as it goes into administration",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/27/poundland-staff-administration-closures-job-losses-suppliers",
+      "published": "2026-11-28T00:00+09:00"
+    },
+    {
+      "id": "w93",
+      "region": "유럽",
+      "title": "키덜트 열풍에 젤리캣 인기…해러즈 카페 주목",
+      "summary": "영국 봉제인형 브랜드 젤리캣에 성인 구매자의 관심이 늘고 있다. 레고나 포켓몬 카드처럼 어린이용으로 여겨지던 상품을 어른이 사는 키덜트 흐름의 일부다. Circana 조사에 따르면 영국의 키덜트 장난감 매출은 2026년 상반기 22% 늘었다. 해러즈는 젤리캣 카페를 열어 브런치를 판매하기 시작했다.",
+      "original": "Too old for soft toys? Tell that to kidults booking up the Harrods Jellycat cafe",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/27/jellycat-soft-toys-kidults-harrods-cafe-galerie-lafayette",
+      "published": "2026-11-28T00:12+09:00"
+    },
+    {
+      "id": "w12",
+      "region": "유럽",
+      "title": "노르스 아틀랜틱 파산 신청…향후 항공편 전부 취소",
+      "summary": "노르웨이 저가 장거리 항공사 노르스 아틀랜틱이 파산을 신청하고 향후 모든 항공편을 취소했다. 이란 전쟁으로 항공유 가격이 급등하면서 재무 상황이 무너졌다는 설명이다. 회사는 전날 운항을 중단하며 재무 상황이 '위급하다'고 경고했고, 긴급 자금을 구했지만 확보하지 못했다. 런던 개트윅과 미국·유럽·아시아를 잇던 노선이 모두 사라졌고, 다음 달 태국행 항공편도 취소됐다. 설립된 지 몇 년밖에 안 된 이 항공사는 줄곧 흑자 전환에 어려움을 겪어 왔다.",
+      "original": "Norse Atlantic Airways files for bankruptcy and cancels all future flights",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/27/norse-atlantic-airways-files-for-bankruptcy-cancels-all-future-flights",
+      "published": "2026-11-28T00:40+09:00",
+      "also": [
+        {
+          "source": "DW",
+          "url": "https://www.dw.com/en/airline-norse-atlantic-files-for-bankruptcy-succumbing-to-aviation-fuel-costs/a-80076728?maca=en-rss-en-bus-2091-rdf",
+          "original": "Airline Norse Atlantic files for bankruptcy, succumbing to aviation fuel costs"
+        },
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
+          "original": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding"
+        }
+      ]
+    },
+    {
+      "id": "w22",
+      "region": "유럽",
+      "title": "센트리카, 최대 가스저장소 존속 위해 정부와 긴급 협의",
+      "summary": "영국 가스기업 센트리카 최고경영자 크리스 오셰이가 최대 가스저장소 직원들에게 정부와 긴급 협의를 추진하고 있다는 메모를 보냈다. 요크셔 해상의 Rough 가스저장소는 약 400명이 일하는 시설이다. 정부는 겨울 동안 저장소를 운영할 단기 지원 요청을 거절했다. 오셰이는 장기 지원에 대한 정부의 결정이 늦어진 데 실망을 표했다. 회사는 일자리를 지키기 위해 할 수 있는 모든 노력을 하겠다고 밝혔다.",
+      "original": "British Gas owner seeks urgent government talks over future of storage facility",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/27/british-gas-owner-seeks-urgent-government-talks-gas-storage-faciity-future",
+      "published": "2026-11-28T00:56+09:00"
+    },
+    {
+      "id": "w55",
+      "region": "유럽",
+      "title": "1월 영국 에너지 요금 26% 급등…이란 전쟁발 가스값 탓",
+      "summary": "이란 전쟁으로 가스 가격이 급등하면서 1월부터 영국 수백만 가구의 에너지 요금이 26% 오른다. 추운 겨울을 앞두고 난방을 켜기 두려워하는 가구들의 사연도 전해졌다. 정부가 내놓은 새 에너지 대책이 1월 비용을 더 높일지도 관심사다.",
+      "original": "Will new energy fixes cost more in January?",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/videos/cwjd7y4jk581o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-28T01:05+09:00",
+      "also": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/videos/c6jd7yj4ve9xo?at_medium=RSS&at_campaign=rss",
+          "original": "'We're scared to turn our heating on'"
+        }
+      ]
+    },
+    {
+      "id": "w56",
+      "region": "유럽",
+      "title": "벨기에, 구글 데이터센터 공사 중단 명령…허가 미비",
+      "summary": "벨기에 당국이 남부 지역 구글 대형 데이터센터의 공사 중단을 명령했다. 구글이 기존 허가 조건 변경을 요청했지만 승인되지 않은 상태에서 공사가 이어졌다는 이유다. 검사관은 구조 공사가 거의 끝난 상태였다고 밝혔다. 구글은 지역 당국과 열린 대화를 이어 가겠다고 밝혔다. 구글의 2025년 계획 변경안(공랭식에서 수랭식 전환)은 초기 승인 뒤 항의로 철회됐다.",
+      "original": "Google told to halt Belgium datacentre construction over lack of planning permit",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits",
+      "published": "2026-11-28T02:21+09:00"
+    },
+    {
+      "id": "w3",
+      "region": "유럽",
+      "title": "로즈뱅크 유전 승인 두고 노동당 내분 격화",
+      "summary": "노동당 하원의원 수십 명이 북해 로즈뱅크 유전 개발을 막지 말라고 총리에게 압박하고 있다. 이들은 이를 막으면 ‘스코틀랜드에서 노동당의 불이 꺼진다’고 경고했다. 약 100명의 동료 의원이 승인 중단을 촉구한 데 맞서, 최대 80명의 찬성파 의원이 별도 서한을 준비 중이다. 스코틀랜드 노동당 대표 마라는 북해 유전 쇠퇴가 노동자 일자리를 위협한다며 지지를 재확인했다. 버넘 총리는 당내 두 진영 중 하나를 택해야 하는 가장 민감한 결정에 직면했다. 반대파는 기후 영향을 우려하고 있다.",
+      "original": "Labour row over Rosebank deepens as dozens of MPs warn PM not to block oilfield",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/nov/27/rosebank-supporting-mps-warn-pm-blocking-the-oilfield-would-mean-lights-out-for-labour-in-scotland",
+      "published": "2026-11-28T02:39+09:00"
+    },
+    {
+      "id": "w57",
+      "region": "중국",
+      "title": "소비 둔화 속 뷰티는 성장…중국 브랜드 해외 확장",
+      "summary": "블랙프라이데이를 맞아 소비가 전반적으로 둔화된 가운데, 뷰티 제품과 서비스는 소비 예산에서 더 큰 몫을 차지하고 있다. 많은 소매 부문이 힘을 잃는 반면 뷰티는 지속 성장을 유지한 몇 안 되는 분야로 꼽힌다. 중국 뷰티 브랜드들도 해외 확장에 나서고 있다.",
+      "original": "Beauty defies consumers’ spending slowdown as China’s brands look to expand globally",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/business/china-business/article/3375887/beauty-defies-consumers-spending-slowdown-chinas-brands-look-expand-globally",
+      "published": "2026-11-27T10:00+09:00"
+    },
+    {
+      "id": "w50",
+      "region": "중국",
+      "title": "중국 스키 장비, 국산 제조사가 가격 낮춰 시장 재편",
+      "summary": "중국에서 스키는 비싼 스포츠로 여겨져 왔고 리조트 장비도 수입품에 크게 의존했다. 이제 국내 제조사들이 저렴한 대안을 내놓으며 시장을 바꾸고 있다. 원가를 낮춘 국산 장비가 수입품의 자리를 넘보고 있다는 평가다.",
+      "original": "Skiing in China was once a luxury. Local manufacturers are slashing costs",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/china-economy/article/3375908/skiing-china-was-once-luxury-local-manufacturers-are-slashing-costs",
+      "published": "2026-11-27T11:00+09:00"
+    },
+    {
+      "id": "w37",
+      "region": "중국",
+      "title": "코맥, C919 인도 중단 끝내…'느리지만 진전'",
+      "summary": "중국 국산 협동체 여객기 C919를 만드는 코맥이 두 달간 이어진 인도 중단을 끝냈다고 소식통이 전했다. 소식통은 회사가 손을 놓고 있지 않으며 느리지만 진전을 이루고 있다고 말했다.",
+      "original": "Comac ends C919 delivery drought with ‘slow progress’, sources say",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/china-economy/article/3375986/comac-ends-c919-delivery-drought-slow-progress-sources-say",
+      "published": "2026-11-27T13:59+09:00"
+    },
+    {
+      "id": "w30",
+      "region": "중국",
+      "title": "중국 관영매체 '소비 격하' 반박…독자 반발",
+      "summary": "중국 관영매체들이 내수 소비 둔화를 두고 확산된 '소비 격하(consumption downgrade)' 서사를 잘못된 전제라며 반박하고 나섰다. 소비 패턴이 바뀌고 있다는 점을 강조하는 논평이다. 그러나 일부 논평은 오히려 역풍을 맞아 독자들의 반발을 샀다.",
+      "original": "Chinese state media call ‘consumption downgrade’ a ‘false premise’ – but readers hit back",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/china-economy/article/3376006/chinese-state-media-call-consumption-downgrade-false-premise-readers-hit-back",
+      "published": "2026-11-27T16:00+09:00"
+    },
+    {
+      "id": "w23",
+      "region": "중국",
+      "title": "미국 관세 인상안에 중국 반발…'필요 조치' 권리 보유",
+      "summary": "미국이 중국 수출품에 대한 관세를 20%, 경우에 따라 40%까지 올리는 방안을 제시하자 중국이 강하게 반발했다. 중국은 자국의 권익을 지키기 위해 필요한 조치를 취할 권리를 보유한다고 밝혔다. 트럼프 대통령이 글로벌 무역전쟁을 다시 일으키고 있다는 평가가 나온다.",
+      "original": "China assails US tariff, Shanghai chief falls, Nvidia’s Huang testifies",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/plus/economy/china-economy/article/3376038/china-assails-us-tariff-shanghai-chief-falls-nvidias-huang-testifies",
+      "published": "2026-11-27T18:00+09:00"
+    },
+    {
+      "id": "w15",
+      "region": "중국",
+      "title": "중국, 내몽골에 활주로 2본 대형 공항 개항",
+      "summary": "중국이 내몽골자치구 후허하오터에 활주로 2개를 갖춘 대형 공항을 열었다. 악천후 때 베이징의 항공망 부담을 줄이고 지역의 무역 연계를 지원하는 것이 목표다. 공항은 목요일부터 운영을 시작했다.",
+      "original": "‘Building for the future’: China opens giant airport outside major economic hubs",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/china-economy/article/3376051/building-future-china-opens-giant-airport-outside-major-economic-hubs",
+      "published": "2026-11-27T20:00+09:00"
+    },
+    {
+      "id": "w6",
+      "region": "중국",
+      "title": "유럽 CEO 다수, '유럽산' 보호보다 무역 다변화 선호",
+      "summary": "유럽 CEO 대다수는 '유럽산(Made in Europe)' 보호무역 조치보다 개방적 무역과 대체 파트너와의 교역 확대를 원한다는 보고서가 나왔다. 무역 다변화를 위해 인도 등 해외 투자를 늘리는 데도 높은 의지를 보였다. 보호무역보다 협력 확대를 택하려는 기업 성향이 드러난 조사다.",
+      "original": "European CEOs prefer supply chain diversity to ‘Made in Europe’ restrictions: report",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/china-economy/article/3376054/european-ceos-prefer-supply-chain-diversity-made-europe-restrictions-report",
+      "published": "2026-11-27T21:00+09:00"
+    },
+    {
+      "id": "w8",
+      "region": "아시아",
+      "title": "히타치 주가 정체…성장 서사 힘 잃어",
+      "summary": "히타치 주가는 2025년 강세를 보인 뒤 상승세가 둔화됐다. 투자자들은 사업 구조조정과 IT 사업 확장 중심의 기존 성장 서사가 새로움을 잃었다고 본다. 더 신선한 성장 스토리를 찾는 분위기가 주가에 반영되고 있다.",
+      "original": "Hitachi shares stagnate as investors seek fresher growth story",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/equities/hitachi-shares-stagnate-as-investors-seek-fresher-growth-story",
+      "published": null
+    },
+    {
+      "id": "w17",
+      "region": "아시아",
+      "title": "도쿄 오피스 임대료·가격 상승률, 주요 도시 중 최고",
+      "summary": "도쿄는 주요 글로벌 도시 가운데 오피스 임대료와 가격 상승 속도가 모두 가장 빨랐다는 조사 결과가 나왔다. 우량 사무공간을 두고 기업 간 경쟁이 치열해진 영향이다.",
+      "original": "Tokyo leads world in office rent, price growth as employers vie for prime space",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/property/tokyo-leads-world-in-office-rent-price-growth-as-employers-vie-for-prime-space",
+      "published": null
+    },
+    {
+      "id": "w25",
+      "region": "아시아",
+      "title": "일본 외국인 트럭 운전사 모집, 목표의 4% 수준",
+      "summary": "일본에 합류한 외국인 트럭 운전사는 800명을 조금 넘는 수준으로, 업계가 기대한 규모의 극히 일부에 그쳤다. 까다로운 요건이 모집 속도를 늦추고 있다.",
+      "original": "Japan's recruitment of foreign truck drivers at just 4% of goal",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/japan-immigration/japan-s-recruitment-of-foreign-truck-drivers-at-just-4-of-goal",
+      "published": null
+    },
+    {
+      "id": "w39",
+      "region": "아시아",
+      "title": "이토추, 말레이시아 클라우드 업체 인수…동남아 공략",
+      "summary": "일본 종합상사 이토추가 말레이시아 클라우드 서비스 업체 G-AsiaPacific을 9,400만 링깃(약 2,280만 달러)에 인수했다. 하이퍼스케일러들이 동남아 데이터센터 투자를 다변화하는 흐름에 맞춘 행보다.",
+      "original": "Itochu poised for Southeast Asian cloud services growth with Malaysia deal",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/business-deals/itochu-poised-for-southeast-asian-cloud-services-growth-with-malaysia-deal",
+      "published": null
+    },
+    {
+      "id": "w46",
+      "region": "아시아",
+      "title": "일본 땅콩버터 업체, 미국 매장 100곳 이상 입점",
+      "summary": "일본 소형 땅콩버터 생산업체 해피넛츠데이가 미국 판매망을 넓히고 있다. 2년도 안 돼 100곳 넘는 매장에 입점했는데, 사장이 직접 현지를 뛰며 영업한 덕분이다. 미국 소비자의 프리미엄 땅콩버터 수요를 겨냥한 전략이다.",
+      "original": "Japan's Happy Nuts Day bets on US taste for premium peanut butter",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/food-beverage/japan-s-happy-nuts-day-bets-on-us-taste-for-premium-peanut-butter",
+      "published": null
+    },
+    {
+      "id": "w52",
+      "region": "아시아",
+      "title": "일본 자동차 부품사, 세계 점유율 선두 독일에 내줘",
+      "summary": "일본 자동차 부품 제조사들이 시장 점유율 1위 자리를 독일 공급업체에 넘기며 뒤처지고 있다. 중국 기업들이 전기차 전환을 타고 점유율을 넓히고 있기 때문이다.",
+      "original": "Japan auto parts makers lose global lead as China drives EV transition",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/automobiles/japan-auto-parts-makers-lose-global-lead-as-china-drives-ev-transition",
+      "published": null
+    },
+    {
+      "id": "w59",
+      "region": "아시아",
+      "title": "도요타, 중국 EV 재도전…발전기 탑재 신형 출시",
+      "summary": "도요타가 중국에서 발전기를 탑재한 새 형태의 전기차를 출시한다고 현지 합작사가 토요일 밝혔다. 신에너지차 부문에서 현지 업체에 밀린 입지를 되찾기 위한 조치다.",
+      "original": "Toyota starts China comeback bid with extended-range EV",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/electric-cars-in-china/toyota-starts-china-comeback-bid-with-extended-range-ev",
+      "published": null
+    },
+    {
+      "id": "w65",
+      "region": "아시아",
+      "title": "중국 자동차 수출 2026년 50% 급증 전망",
+      "summary": "중국 자동차 수출이 2025년 대비 2026년 50% 급증할 것으로 예상된다. 자동차 업체들이 치열한 국내 경쟁에서 벗어나 해외로 눈을 돌리고 있다. 첨단 기술을 바탕으로 브랜드 역량을 키우려는 전략이다.",
+      "original": "China's auto exports to rise 50% amid intensifying competition at home",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/automobiles/china-s-auto-exports-to-rise-50-amid-intensifying-competition-at-home",
+      "published": null
+    },
+    {
+      "id": "w71",
+      "region": "아시아",
+      "title": "중국, 외국인 관광객 소비 겨냥 면세·숙박 규정 완화",
+      "summary": "중국이 외국인 관광객의 씀씀이를 늘리기 위해 면세 쇼핑 규정 개정과 숙박 규정 완화 등 여러 조치를 내놓았다. 다롄에서 나온 소식이다.",
+      "original": "China targets overseas tourist dollars with relaxed duty-free, lodging rules",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/travel-leisure/china-targets-overseas-tourist-dollars-with-relaxed-duty-free-lodging-rules",
+      "published": null
+    },
+    {
+      "id": "w74",
+      "region": "아시아",
+      "title": "일본, 데이터센터 보조금 심사에 지역 영향 반영",
+      "summary": "일본 정부가 데이터센터 사업 보조금 심사 기준에 지역사회 영향 항목을 추가할 계획이다. 시설 운영사와 인근 주민 간 마찰이 커지는 데 따른 조치다. 정부는 이를 통해 갈등을 완화하려 한다.",
+      "original": "Japan's data center subsidies to weigh local impact as backlash grows",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/technology/japan-s-data-center-subsidies-to-weigh-local-impact-as-backlash-grows",
+      "published": null
+    },
+    {
+      "id": "w77",
+      "region": "아시아",
+      "title": "스위스 명품 시계 브랜드, 부유한 태국 젊은층 공략",
+      "summary": "브레게 등 스위스 고급 시계 브랜드들이 태국의 높아진 부에 주목하고 있다. 방콕발 보도에 따르면 젊고 부유한 태국인이 새로운 고객층으로 떠오르고 있다.",
+      "original": "Breguet, other Swiss watch brands make time for young, wealthy Thais",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/business-trends/breguet-other-swiss-watch-brands-make-time-for-young-wealthy-thais",
+      "published": null
+    },
+    {
+      "id": "w80",
+      "region": "아시아",
+      "title": "인도네시아·필리핀·UAE, CPTPP 가입 협상 착수",
+      "summary": "인도네시아, 필리핀, 아랍에미리트가 환태평양경제동반자협정(CPTPP) 가입 협상을 공식 시작한다. 세계 무역의 불확실성이 커지는 가운데 협정의 외연을 넓히려는 움직임이다.",
+      "original": "Indonesia, Philippines and UAE to begin talks on joining CPTPP trade pact",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/indonesia-philippines-and-uae-to-begin-talks-on-joining-cptpp-trade-pact",
+      "published": null
+    },
+    {
+      "id": "w88",
+      "region": "아시아",
+      "title": "몰디브 등 도서국, COP31 기후재원 보장에 불만",
+      "summary": "방금 끝난 제31차 유엔기후변화협약 총회(COP31)에서 몰디브 등 군소도서국들은 기후재원 보장이 부족했다고 불만을 나타냈다. 이들은 재생에너지 사업에 대출이 아닌 무상 지원이 필요하다고 요구해 왔지만 현금 지원 장치가 부족했다는 것이다. 몰디브 기후 책임자는 재생에너지가 경제와 국가안보에 중요하다고 강조했다.",
+      "original": "Renewables key for 'economic, national security': Maldives climate chief",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/editor-s-picks/interview/renewables-key-for-economic-national-security-maldives-climate-chief",
+      "published": null
+    },
+    {
+      "id": "w91",
+      "region": "아시아",
+      "title": "인도 GDP 견조하지만 끈질긴 물가가 소비 압박",
+      "summary": "인도의 GDP 성장세는 강하지만, 엘니뇨 기후 현상과 이란 전쟁에 따른 에너지 충격으로 물가가 높은 수준을 유지하고 있다. 이 물가 상승이 소비에 영향을 주기 시작했다는 신호가 나온다.",
+      "original": "India's resilient GDP growth story rubs up against sticky inflation",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/india-s-resilient-gdp-growth-story-rubs-up-against-sticky-inflation",
+      "published": null
+    },
+    {
+      "id": "w94",
+      "region": "아시아",
+      "title": "중국 산이중공업, AI 자율 광산장비로 코마쓰·캐터필러 도전",
+      "summary": "중국 기계기업 산이중공업이 자율운행 광산 장비와 여러 장비를 조율하는 AI 에이전트를 내놓을 계획이다. 자동화가 확산되는 시장에서 코마쓰와 캐터필러를 상대하려는 전략이다. 해외 매출도 늘고 있다.",
+      "original": "China's Sany pushes AI into heavy machinery as overseas sales grow",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/technology/china-s-sany-pushes-ai-into-heavy-machinery-as-overseas-sales-grow",
+      "published": null
+    },
+    {
+      "id": "w100",
+      "region": "아시아",
+      "title": "호주, LNG 수출분 20% 국내 공급 의무화…2028년부터",
+      "summary": "호주 의회가 통과시킨 새 법에 따라 2028년부터 LNG 수출업체는 수출량의 20%에 해당하는 물량을 국내 시장에 공급해야 한다. 국내 가격을 낮추기 위해 예상 수요보다 10% 많은 공급 과잉을 만들겠다는 취지다. 제조업계는 환영했지만 LNG업계는 강하게 반발했다. 수출 계약 이행이나 인프라 제약이 있으면 의무를 줄일 수 있다.",
+      "original": "Australian LNG exporters must reserve some supply to lower domestic prices",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/energy/australian-lng-exporters-must-reserve-some-supply-to-lower-domestic-prices",
+      "published": null
+    },
+    {
+      "id": "w70",
+      "region": "아시아",
+      "title": "국부펀드, 사모펀드처럼 직접 딜 주도…위험도 떠안아",
+      "summary": "국부펀드가 사모펀드에 자금을 맡기던 데서 벗어나 직접 거래를 발굴하고 지배 지분을 인수하며 자체 투자 플랫폼을 만들고 있다. 글로벌 SWF의 디에고 로페스는 LP와 GP의 경계가 흐려지고 있다고 말했다. 장기적으로 업계에 근본적 변화를 가져올 수 있다는 평가다. 사모펀드식 투자 방식은 그 위험도 함께 떠안는다는 지적이다.",
+      "original": "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/27/swf-private-equity-risks.html",
+      "published": "2026-11-27T09:22+09:00"
+    },
+    {
+      "id": "w45",
+      "region": "아시아",
+      "title": "F1 스폰서 시장 급팽창…나이키·아디다스·푸마 경쟁",
+      "summary": "나이키·아디다스·푸마 등 스포츠웨어 브랜드가 F1 스폰서십 경쟁에 뛰어들고 있다. 스포츠웨어 스폰서 지출은 2년 새 75% 늘었고 2026년에는 2억 달러를 넘었다(앰페어 애널리틱스). 젊고 부유한 팬층을 잡으려는 목적이다. 나이키는 2027년부터 F1 스태프 유니폼을 공급하고 F1 브랜드 신발과 의류도 판매한다. 푸마는 2024년부터 이 역할을 맡아 왔다.",
+      "original": "Fast cars, big money: Why sportswear races into Formula 1 as sponsorship spending soars 75%",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/27/nike-formula-1-sportswear-brands-sponsorship-adidas-puma.html",
+      "published": "2026-11-27T14:46+09:00"
+    },
+    {
+      "id": "w64",
+      "region": "아시아",
+      "title": "사모시장 개인 투자 확대…환매 제한 교육은 부족",
+      "summary": "개인투자자들이 사모펀드에 몰리고 있지만, 환매 조건이 까다롭다는 교육은 따라가지 못하고 있다. PwC 조사에서 펀드 판매사의 77%가 사모시장 접근성이 중요해졌다고 답했지만, 자산운용사의 15%만 개인 투자자 교육을 충분히 제공한다고 답했다. 일부 사모 상품은 환매 시점을 제한하고 요청액 일부만 돌려주기도 한다.",
+      "original": "Private markets are more accessible than ever for investors. Getting out is another matter",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/27/private-markets-retail-investors-liquidity.html",
+      "published": "2026-11-27T17:05+09:00"
+    },
+    {
+      "id": "w38",
+      "region": "미국",
+      "title": "젠슨 황 복귀에 엔비디아 반등…AI 증시 불안 가라앉을까",
+      "summary": "엔비디아 공동창업자 젠슨 황은 아내에게 부정을 저질렀다고 인정한 뒤 이사회 조사와 국가안보 우려 속에 사임했지만, 2주도 안 돼 CEO로 복귀했다. 닛케이 아시아는 트럼프 대통령의 개입 뒤 이사회가 11일 만에 입장을 뒤집었다고 평가했다. 이 기간 엔비디아 주가는 1조 달러 넘게 떨어졌다가 거의 1조 달러를 되찾았다. 이번 주 주가는 크게 올랐지만 11월 들어서는 약 28%, 올해는 21% 낮은 상태다. AI 투자의 지속성에 의문이 커지며 네오클라우드 주가가 급락했고, 아시아 증시도 엔비디아 주가에 따라 출렁였다. 한국 반도체·AI 관련주의 변동성도 이어질 수 있다.",
+      "original": "The Tech Download: Will Jensen Huang’s return be the spark the shaky AI market needs?",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/27/tech-download-jensen-huang-ai-market.html",
+      "published": "2026-11-27T21:00+09:00",
+      "also": [
+        {
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
+          "original": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia"
+        },
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+          "original": "Asia made a big AI bet on Nvidia. What happens now?"
+        },
+        {
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/3318a827-bf20-4826-947d-9327381c3c10?syn-25a6b1a6=1",
+          "original": "Trump’s Nvidia intervention has a cost for US stocks"
+        },
+        {
+          "source": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-how-will-the-global-chip-game-unfold-in-2027",
+          "original": "Editor's Choice: How will the global chip game unfold in 2027?"
+        }
+      ]
+    },
+    {
+      "id": "w76",
+      "region": "아시아",
+      "title": "라인메탈, 성장 목표 하향…F126 호위함 계약 상실 여파",
+      "summary": "독일 무기 제조사 라인메탈이 F126 호위함 건조 계약을 잃은 뒤 성장 목표를 낮췄다. 이 계약은 전후 최대 수주가 될 뻔했다. 2030년 매출 목표는 330억~370억 유로로, 기존 약 450억 유로 전망에서 낮아졌다. CEO 파페르거는 차량 부문 목표를 20억 유로 줄인 것이 추가 계약 상실이나 수요 약화가 아니라 지연과 공급망 차질에 대비한 '완충'이라고 설명했다.",
+      "original": "Rheinmetall reins in growth ambitions as Europe's rearmament boom hits hurdles",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/27/rheinmetall-stock-cmd-guidance-sales.html",
+      "published": "2026-11-27T22:08+09:00"
+    },
+    {
+      "id": "w31",
+      "region": "유럽",
+      "title": "EU 장기예산 협상 교착…1조 7천억 달러대 합의 불발",
+      "summary": "EU 정상들이 차기 장기예산(2028~2034년) 협상의 교착을 깨지 못했다. 협상은 12월에 재개되며 연말 목표 시한이 다가오고 있다. 코스타 EU 상임의장이 제시한 지출안은 1조 5,800억 유로(약 1조 7,300억 달러)로, 당초 제안보다 약 10% 낮아졌다. 예산 승인에는 27개 회원국 전원 찬성과 유럽의회 과반 찬성이 필요하다. 2027년 선거 일정까지 겹쳐 정치적 압박이 커지고 있다.",
+      "original": "EU leaders fail to break $1.7 trillion budget deadlock as political pressure mounts",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/27/eu-budget-2028-2034-deadlock.html",
+      "published": "2026-11-27T23:12+09:00"
+    },
+    {
+      "id": "w58",
+      "region": "아시아",
+      "title": "SAP, AI 전환 속 최소 1만 명 감원 검토",
+      "summary": "블룸버그는 독일 소프트웨어 기업 SAP가 AI 시대에 맞춰 사업을 재편하면서 최소 1만 명을 줄이는 계획을 준비 중이라고 보도했다. SAP는 AI로 사업 환경이 빠르게 바뀌고 있다며 조직과 인력 구조를 계속 검토하고 있다고 밝혔다. 다만 추가 조치는 아직 결정되지 않았다고 선을 그었다.",
+      "original": "German software firm SAP is reportedly cutting at least 10,000 jobs in AI push",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
+      "published": "2026-11-27T23:52+09:00"
+    },
+    {
+      "id": "w83",
+      "region": "미국",
+      "title": "트럼프, 3분기 GDP 상향 수정에 '기록적 오류' 조사 요구",
+      "summary": "미 상무부가 발표한 3분기 실질 GDP 성장률은 연율 4.3%로, 속보치 3.4%보다 크게 올라갔다. 트럼프 대통령은 이를 '기록적인 오류'라며 즉각 조사해야 한다고 주장했다. 초기 발표가 2026년 중간선거 결과에 영향을 줬을 수 있다는 취지도 밝혔다. CNBC는 이 주장이 사실과 다르다고 짚었다.",
+      "original": "Trump demands probe into 'record setting error' after third-quarter GDP data gets massive revision higher",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+      "published": "2026-11-28T00:52+09:00"
+    },
+    {
+      "id": "w51",
+      "region": "미국",
+      "title": "스페이스X 주가 4.8% 급등…머스크 매년 주식 기부 발표",
+      "summary": "스페이스X 주가가 금요일 단축 거래에서 4.83% 올랐다. 일론 머스크가 매년 미국 아이들 모두에게 스페이스X 주식을 기부하겠다고 밝힌 데 따른 것이다. 나스닥 상승과 기술주 반등도 함께 작용했다. 마이크론·퀄컴·테슬라 등은 5% 넘게 올랐고, 산디스크는 AI 관련주로 자금이 몰리며 15.96% 급등했다. 미국 증시는 추수감사절 휴장 뒤 금요일 오후 1시에 조기 마감됐다.",
+      "original": "SpaceX shares jump over 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
+      "published": "2026-11-28T03:24+09:00"
+    },
+    {
+      "id": "w101",
+      "region": "글로벌",
+      "title": "프랑스 3분기 GDP 0.2% 역성장…속보치보다 악화",
+      "summary": "프랑스 경제가 3분기 GDP 0.2% 축소됐다. 분기 GDP 감소 폭은 당초 추정치보다 나빴다는 FT 보도다.",
+      "original": "French economy shrinks 0.2% in third quarter",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/5325ace3-d69a-4686-acb6-2f06de6afd11?syn-25a6b1a6=1",
+      "published": "2026-11-27T20:38+09:00"
+    },
+    {
+      "id": "w98",
+      "region": "글로벌",
+      "title": "런던 초고가 펜트하우스 매물 쏟아져…개발사 총력전",
+      "summary": "런던에 역대급 규모의 초고가 펜트하우스 매물이 쏟아지고 있다. 까다로운 구매자와 어려운 시장 속에서 개발사들이 가능한 모든 수단을 동원하고 있다는 FT 보도다.",
+      "original": "London is playing a game of penthouse one-upmanship",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/55d25c66-4405-4698-8fc9-9516010bd7fb",
+      "published": "2026-11-27T21:00+09:00"
+    },
+    {
+      "id": "w87",
+      "region": "글로벌",
+      "title": "EU, 배터리 폐기물의 중국 유출 막는 수출 통제 검토",
+      "summary": "EU가 배터리 폐기물이 중국으로 흘러가는 것을 막기 위해 수출 통제를 강화하는 방안을 검토하고 있다. 핵심 광물을 담은 '블랙매스'는 흔히 해외에서 처리되고, 추출된 금속이 다시 유럽으로 재수출된다.",
+      "original": "EU weighs tighter export controls to prevent battery waste going to China",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/a8ecccda-f986-4ae9-9f45-9470d2be8c65?syn-25a6b1a6=1",
+      "published": "2026-11-27T22:26+09:00"
+    },
+    {
+      "id": "w72",
+      "region": "글로벌",
+      "title": "미 기술주 약세장 가능성…실물경제 영향 대비해야",
+      "summary": "FT 칼럼은 미국 기술주 약세장이 실물경제에 어떤 영향을 줄지 생각해 볼 때라고 주장했다. AI 랠리가 꺾이면 금융시장을 넘어 경제 전반으로 파급될 수 있다는 우려다.",
+      "original": "AI caramba",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/9c54e827-3786-4bad-ae06-f9a3f31fcab5",
+      "published": "2026-11-28T01:30+09:00"
+    },
+    {
+      "id": "w53",
+      "region": "글로벌",
+      "title": "버라이즌, 팔리디움 인수 60억 달러 협상…광대역 확장",
+      "summary": "미 통신사 버라이즌이 광대역 인터넷 사업자 Fidium 인수를 위해 60억 달러 규모 거래를 협의 중이다. Fidium은 서치라이트 캐피털과 캐나다 BCI가 보유한 회사다. 버라이즌은 뉴잉글랜드 지역에서 입지를 넓히려는 것으로 보인다.",
+      "original": "Verizon in talks over $6bn deal for Fidium to boost broadband footprint",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/19c8508b-0dc6-492c-9f68-497da516a398?syn-25a6b1a6=1",
+      "published": "2026-11-28T02:29+09:00"
+    },
+    {
+      "id": "w40",
+      "region": "글로벌",
+      "title": "오픈AI, 애플 상대로 맞소송…영업비밀 탈취 주장",
+      "summary": "챗GPT 개발사 오픈AI가 애플이 영업비밀을 훔쳤다며 맞소송을 제기했다. 오픈AI는 애플이 양사와 모두 거래하는 공급업체를 '강압하고 위협'했다고도 주장했다. 법적 공방이 격화되고 있다.",
+      "original": "OpenAI countersues Apple for stealing trade secrets",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4?syn-25a6b1a6=1",
+      "published": "2026-11-28T03:20+09:00"
+    },
+    {
+      "id": "w18",
+      "region": "글로벌",
+      "title": "미 기술주 요동 속 상승…AI 랠리 흔들",
+      "summary": "미국 기술주가 시장의 큰 등락 속에 상승했다. 한때 시장을 지배하던 AI 랠리는 미래 실적을 가늠하기 어려운 시장의 거친 움직임에 가려졌다는 평가다.",
+      "original": "US tech stocks rise in latest market swing",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1",
+      "published": "2026-11-28T05:08+09:00"
+    },
+    {
+      "id": "w9",
+      "region": "글로벌",
+      "title": "S&P, 프랑스 신용등급 전망 '부정적'으로 낮춰",
+      "summary": "S&P가 프랑스의 신용등급 전망을 부정적으로 낮췄다. 정치 불안정으로 공공 재정적자를 줄이기 더 어려워졌다는 판단이다.",
+      "original": "S&P cuts France outlook to negative",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/4e16110a-9604-4455-8557-4edece5df01a?syn-25a6b1a6=1",
+      "published": "2026-11-28T07:45+09:00"
+    }
+  ]
+}
